@@ -1,0 +1,68 @@
+{
+  "schema_version": "inventory_v1",
+  "prompt_version": "2.4",
+  "run_id": "20260906_234129",
+  "shop_domain": "jeminise.com",
+  "scope": "collections/all",
+  "market": "United States",
+  "seo_language": "English",
+  "inventory_ref": "seo_runs\\jeminise.com\\20260906_234129\\inventory.csv",
+  "inventory_json_ref": "seo_runs\\jeminise.com\\20260906_234129\\inventory.json",
+  "raw_products_ref": "seo_runs\\jeminise.com\\20260906_234129\\products_all_raw.json",
+  "product_count_discovered": 338,
+  "expected_collection_count_observed": 338,
+  "count_match_observed_collection": true,
+  "product_type_counts": [
+    {
+      "product_type": "Quilt Sets",
+      "count": 89
+    },
+    {
+      "product_type": "Comforter Sets",
+      "count": 78
+    },
+    {
+      "product_type": "Blanket",
+      "count": 73
+    },
+    {
+      "product_type": "Comforter",
+      "count": 56
+    },
+    {
+      "product_type": "Quilt",
+      "count": 42
+    }
+  ],
+  "batch_size": 10,
+  "batch_id": "batch_034",
+  "batch_product_keys": [
+    "jeminise.com+softball-themed-bedding-for-girls-and-women-bright-teal-yellow",
+    "jeminise.com+sports-theme-softball-bedding-premium-teal-yellow-comforter-set-for",
+    "jeminise.com+teal-yellow-softball-comforter-set-vibrant-sports-bedroom-decor",
+    "jeminise.com+teal-yellow-softball-bedding-set-stylish-sports-bedroom-decor",
+    "jeminise.com+tree-of-life-with-celtic-knot-roots-quilt-set-and-celtic-knot-borders-9482d2b2f5-9482d2b2f5",
+    "jeminise.com+winter-cardinal-on-berry-branch-patchwork-christmas-quilt-43ecda62b6-43ecda62b6",
+    "jeminise.com+winter-cardinals-on-heart-shaped-berry-branches-patchwork-christmas-quilt-de1c648f60-de1c648f60",
+    "jeminise.com+winter-cat-and-cardinal-sitting-on-snowy-patchwork-christmas-quilt-82f86611f4-82f86611f4"
+  ],
+  "batch_status": "BATCH_WORKBOOK_SAVED",
+  "awaiting_confirmation": false,
+  "continuation_confirmation_ref": "",
+  "current_product_key": "",
+  "current_stage": "ALL_INVENTORY_DRAFTED_AWAITING_FINAL_QA",
+  "images_completed": [],
+  "last_saved_at": "2026-09-07T03:00:40.171005+07:00",
+  "results_dir": "resutls\\jeminise.com\\20260906_234129",
+  "artifact_paths": {
+    "inventory_csv": "seo_runs\\jeminise.com\\20260906_234129\\inventory.csv",
+    "inventory_json": "seo_runs\\jeminise.com\\20260906_234129\\inventory.json",
+    "raw_products_json": "seo_runs\\jeminise.com\\20260906_234129\\products_all_raw.json",
+    "progress_json": "seo_runs\\jeminise.com\\20260906_234129\\progress.json",
+    "batch_results_dir": "resutls\\jeminise.com\\20260906_234129\\batches",
+    "batch_evidence_summary": "seo_runs\\jeminise.com\\20260906_234129\\batch_034_evidence_summary.json",
+    "latest_batch_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx"
+  },
+  "next_batch_id": "",
+  "next_batch_product_keys": []
+}

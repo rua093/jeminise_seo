@@ -1,0 +1,191 @@
+{
+  "reviewed_at": "2026-09-06T18:47:14.171705+00:00",
+  "inventory_row": {
+    "inventory_position": "211",
+    "shop_domain": "jeminise.com",
+    "product_key": "jeminise.com+personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef",
+    "product_id": "8834374402247",
+    "product_gid": "",
+    "Handle": "personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef",
+    "product_url": "https://jeminise.com/products/personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef",
+    "collection_url": "https://jeminise.com/collections/all/products/personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef",
+    "canonical_url": "",
+    "title_current": "Personalized Basketball Close Up with Number Blanket with Name and Number",
+    "vendor": "Jeminise",
+    "product_type": "Blanket",
+    "tags": "amazon-import, amazon-parent-b0bty8y9v2, Blanket, Custom Blanket, Personalized Blanket, Sports Blankets",
+    "published_at": "2026-07-26T13:50:54-05:00",
+    "created_at": "2026-07-26T13:37:54-05:00",
+    "updated_at": "2026-09-06T11:40:41-05:00",
+    "variant_count": "1",
+    "image_count": "9",
+    "first_image_url": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/493c47531c92c894148db941dc2def6351acb5d929c8eb565563040e9978fb4d.jpg?v=1785091077",
+    "min_price": "24.90",
+    "max_price": "24.90",
+    "available": "TRUE",
+    "source": "collections/all/products.json",
+    "discovery_status": "DISCOVERED",
+    "processing_status": "DISCOVERED",
+    "notes": "",
+    "discovered_at": "2026-09-06T23:41:32.4166246+07:00"
+  },
+  "html": {
+    "url": "https://jeminise.com/products/personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef",
+    "status_code": 200,
+    "html_sha256": "b886213af1d6969546e58ae7eb5a5ae8a107455d8dc7ce537888e60e33f5dd03",
+    "rendered_title_current": "Personalized Basketball Close Up Blanket with Name and Number\r – Jeminise",
+    "h1_current": "Personalized Basketball Close Up with Number Blanket with Name and Number",
+    "meta_description_current": "Custom name and number on a basketball close up blanket. Choose from super soft fleece or cozy sherpa in four sizes for the ultimate sports fan gift.",
+    "canonical_url": "https://jeminise.com/products/personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef",
+    "og_title": "Personalized Basketball Close Up Blanket with Name and Number",
+    "og_description": "Custom name and number on a basketball close up blanket. Choose from super soft fleece or cozy sherpa in four sizes for the ultimate sports fan gift.",
+    "html_file": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\products\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\page.html"
+  },
+  "product_json_ref": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\products\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\product.json",
+  "body_html": "<p>Wrap yourself in your passion for the game with this personalized basketball blanket from Jeminise. Perfect for basketball lovers, this cozy blanket features a striking close-up design of a basketball and can be customized with your own name and jersey number, making it a unique and thoughtful gift or a standout addition to your sports-themed decor.</p>\n<h3>Key Features</h3>\n<ul>\n<li>\n<strong>Personalized Design:</strong> Customize this blanket with your own name and jersey number for a truly unique and personal touch.</li>\n<li>\n<strong>Soft &amp; Cozy Feel:</strong> Crafted with two layers of polyester fabric, available in ultra-soft fleece or plush sherpa options for maximum warmth and comfort.</li>\n<li>\n<strong>Available Sizes:</strong> Choose from four convenient sizes to suit your needs: Small (40x30 inches), Medium (50x40 inches), Large (60x50 inches), and X-Large (80x60 inches).</li>\n<li>\n<strong>Versatile Use:</strong> Perfect for curling up on the sofa or couch, adding an extra layer to your bed, or taking along on travels, camping trips, and picnics.</li>\n<li>\n<strong>Easy Care:</strong> Machine washable in cold water; dries quickly on a low air-dry cycle to keep its fluffy texture and vibrant colors.</li>\n</ul>\n<h3>Product Specifications</h3>\n<table>\n<tbody>\n<tr>\n<th>Brand</th>\n<td>Jeminise</td>\n</tr>\n<tr>\n<th>Product Type</th>\n<td>Blanket</td>\n</tr>\n<tr>\n<th>Material</th>\n<td>Polyester</td>\n</tr>\n<th>Fabric Type</th>\n<td>Fleece/Sherpa</td>\n<tr>\n<th>Pattern</th>\n<td>Basketball</td>\n</tr>\n<tr>\n<th>Style</th>\n<td>Sports</td>\n</tr>\n<th>Blanket Form</th>\n<td>Throw Blanket</td>\n<tr>\n<th>Seasons</th>\n<td>Winter</td>\n</tr>\n<tr>\n<th>Care Instructions</th>\n<td>Machine Wash</td>\n</tr>\n</tbody>\n</table>",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 46905021366471,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "AMZ-B0B58QMDVW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 47539026854087,
+        "product_id": 8834374402247,
+        "position": 1,
+        "created_at": "2026-07-26T13:37:54-05:00",
+        "updated_at": "2026-07-26T13:37:57-05:00",
+        "alt": "Personalized Basketball Close Up with Number Blanket with Name and Number",
+        "width": 1000,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/493c47531c92c894148db941dc2def6351acb5d929c8eb565563040e9978fb4d.jpg?v=1785091077",
+        "variant_ids": [
+          46905021366471
+        ]
+      },
+      "available": true,
+      "price": "24.90",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8834374402247,
+      "created_at": "2026-07-26T13:37:55-05:00",
+      "updated_at": "2026-09-06T11:40:41-05:00"
+    }
+  ],
+  "images": [
+    {
+      "image_id": "47539026854087",
+      "position": 1,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/493c47531c92c894148db941dc2def6351acb5d929c8eb565563040e9978fb4d.jpg?v=1785091077",
+      "width": 1000,
+      "height": 1000,
+      "variant_ids": "46905021366471",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\image_01_47539026854087.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "30c12ad164731346c072deea9dbcac3a4c0e2410ac418d00971818b100ae92f7"
+    },
+    {
+      "image_id": "47539026886855",
+      "position": 2,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/218b39c499d24effdf217d531cab8769ab23e83ca6003f5382f2155465a7d005.jpg?v=1785091076",
+      "width": 1000,
+      "height": 1000,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\image_02_47539026886855.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "56e09e297edbe3a7f9177e0474f4718606556c4052a3ac01bd53f98291f66a3d"
+    },
+    {
+      "image_id": "47539026919623",
+      "position": 3,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/27c562a87487e8d7025e0a3cfede747442e97feecd7f1282018d4d9a6ed60276.jpg?v=1785091077",
+      "width": 1000,
+      "height": 1000,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\image_03_47539026919623.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "c5be62b5c032d09ff1954e9b3a5229498cf610195405cf2ebad916a2eb8f9a05"
+    },
+    {
+      "image_id": "47539026952391",
+      "position": 4,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/fde60e47d7999ac38c9b3fa0e7356d03cf375314b4e07e54abb990571428097e.jpg?v=1785091077",
+      "width": 1000,
+      "height": 1000,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\image_04_47539026952391.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "3b4a47efc6c1d4fa07d14eb94c173f1d3b45ba94ab9988b953e08f538ffab83b"
+    },
+    {
+      "image_id": "47539026985159",
+      "position": 5,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/303e496a921029b387bb3b499e2c292a040931377d7477430b2e40d3ac5e974b.jpg?v=1785091077",
+      "width": 1000,
+      "height": 1000,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\image_05_47539026985159.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "9f598a43e013af9280af466e2373eceb9820c7c58090c6cd43202720492b3bdd"
+    },
+    {
+      "image_id": "47539027017927",
+      "position": 6,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/84f7a71576dfaac3ff03ce2ff898fee2d12da23eb223d4585f097765af5c2dd1.jpg?v=1785091076",
+      "width": 1500,
+      "height": 1500,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\image_06_47539027017927.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "92035f2820c4d078ecab9854cfcc923c35fed9669d0baceca05aa9e5b6fe242c"
+    },
+    {
+      "image_id": "47539027050695",
+      "position": 7,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/c54e54c3dbfe2457f034b3fca5054b8bb9bc8e4d6fd79afcc77826b25dc6770e.jpg?v=1785091077",
+      "width": 1500,
+      "height": 1500,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\image_07_47539027050695.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "a05e571a8da724895967792759071f1a32c540ce4f0de8fbc6485bf31bde5606"
+    },
+    {
+      "image_id": "47539027083463",
+      "position": 8,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ad99cb9e5079b85e55b42dd6ea5ed09a9fb8977514750251ab5e0ab98fdf6957.jpg?v=1785091077",
+      "width": 1000,
+      "height": 1000,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\image_08_47539027083463.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "2342b186461aee17144053df9b89005e5452bfd1f9aeef37560a5ad4cd19c852"
+    },
+    {
+      "image_id": "47539027116231",
+      "position": 9,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/a3753d6287bc2e4a865d3aaebe97ccd3cb4a4f488eff90125abd9a1627c63bc0.jpg?v=1785091077",
+      "width": 1500,
+      "height": 1482,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef\\image_09_47539027116231.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "3fe7f0b658470a59d8b2aefd85df3f8713a39c96ab514df90db3dc6e8d395ec3"
+    }
+  ],
+  "contact_sheet": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\contact_sheets\\211_personalized-basketball-close-up-with-number-blanket-with-name-and-number-f16f46abef-f16f46abef.jpg"
+}

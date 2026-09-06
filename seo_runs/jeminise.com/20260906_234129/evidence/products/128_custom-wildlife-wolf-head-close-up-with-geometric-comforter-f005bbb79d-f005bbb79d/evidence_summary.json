@@ -1,0 +1,147 @@
+{
+  "reviewed_at": "2026-09-06T17:57:17.845692+00:00",
+  "inventory_row": {
+    "inventory_position": "128",
+    "shop_domain": "jeminise.com",
+    "product_key": "jeminise.com+custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d",
+    "product_id": "8837129535687",
+    "product_gid": "",
+    "Handle": "custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d",
+    "product_url": "https://jeminise.com/products/custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d",
+    "collection_url": "https://jeminise.com/collections/all/products/custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d",
+    "canonical_url": "",
+    "title_current": "Custom Wildlife Wolf Head Close Up with Geometric Quilt",
+    "vendor": "Jeminise",
+    "product_type": "Quilt",
+    "tags": "amazon-import, amazon-parent-b0d6txgk88, Custom Blanket, Family Blanket, Personalized Blanket, Quilt Set, Wildlife Quilt",
+    "published_at": "2026-07-27T14:50:47-05:00",
+    "created_at": "2026-07-27T14:43:11-05:00",
+    "updated_at": "2026-09-06T11:40:41-05:00",
+    "variant_count": "1",
+    "image_count": "5",
+    "first_image_url": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/fb99d33be77ccc490c5313b387c1b9a092e5691e9d9e6ec2620bba5259c62ca7.jpg?v=1785181393",
+    "min_price": "49.90",
+    "max_price": "49.90",
+    "available": "TRUE",
+    "source": "collections/all/products.json",
+    "discovery_status": "DISCOVERED",
+    "processing_status": "DISCOVERED",
+    "notes": "",
+    "discovered_at": "2026-09-06T23:41:32.4166246+07:00"
+  },
+  "html": {
+    "url": "https://jeminise.com/products/custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d",
+    "status_code": 200,
+    "html_sha256": "249d95f33a64a73f7d7fd4cfb11c45172f34ee1d0c125f10dac55267ab6d3267",
+    "rendered_title_current": "Custom Native Bedding Wolf Head Quilt\r – Jeminise",
+    "h1_current": "Custom Wildlife Wolf Head Close Up with Geometric Quilt",
+    "meta_description_current": "Bring rustic style home with this custom native-themed wolf head quilt set. Soft, lightweight, and perfect for cozy bedrooms or thoughtful gifts.",
+    "canonical_url": "https://jeminise.com/products/custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d",
+    "og_title": "Custom Native Bedding Wolf Head Quilt",
+    "og_description": "Bring rustic style home with this custom native-themed wolf head quilt set. Soft, lightweight, and perfect for cozy bedrooms or thoughtful gifts.",
+    "html_file": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\products\\128_custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d\\page.html"
+  },
+  "product_json_ref": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\products\\128_custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d\\product.json",
+  "body_html": "<p>Wrap yourself in warmth and stunning wildlife artistry with this custom wolf bedding set from Jeminise. Featuring a unique native-inspired wolf design, this versatile quilt brings both comfort and rustic charm to your bedroom decor, making it a perfect cozy addition for relaxing on the sofa, lounging in bed, or taking along on outdoor family adventures.</p><h3>Key Features</h3><ul>\n<li>\n<strong>Customizable Design:</strong> Personalize this quilt with your own custom name or text to create a truly unique bedding piece or a thoughtful gift.</li>\n<li>\n<strong>Factual Product Form:</strong> A beautifully crafted native-print quilt set, perfect for adding a country western style to any bedroom.</li>\n<li>\n<strong>Soft &amp; Comfortable Material:</strong> Made from a soft, lightweight, and breathable polyester-cotton blend designed to keep you warm in the winter and cool in the summer.</li>\n<li>\n<strong>Versatile Use:</strong> Ideal for indoor use on your bed or couch, as well as outdoor activities like camping and picnics.</li>\n<li>\n<strong>Easy Care:</strong> Conveniently machine washable in cold water; dries quickly and fluffs up beautifully without heat.</li>\n<li>\n<strong>Optional Accessories:</strong> Bedding set options include the main quilt with the choice to add matching pillow covers to complete the look.</li>\n</ul><h3>Product Specifications</h3><table><tbody>\n<tr>\n<th>Brand</th>\n<td>Jeminise</td>\n</tr>\n<tr>\n<th>Product Type</th>\n<td>Quilt Set</td>\n</tr>\n<tr>\n<th>Material</th>\n<td>Cotton, Polyester</td>\n</tr>\n<tr>\n<th>Fabric Type</th>\n<td>Polyester, Cotton</td>\n</tr>\n<tr>\n<th>Selected Design</th>\n<td>Wolf Native</td>\n</tr>\n<tr>\n<th>Style</th>\n<td>Wolf Themed</td>\n</tr>\n<tr>\n<th>Pattern</th>\n<td>Native</td>\n</tr>\n<tr>\n<th>Seasons</th>\n<td>All</td>\n</tr>\n<tr>\n<th>Care Instructions</th>\n<td>Machine Wash</td>\n</tr>\n<tr>\n<th>Included Components</th>\n<td>2 pillow covers (optional), Quilt</td>\n</tr>\n</tbody></table>",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 46910235934919,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "AMZ-B0CCJMLNYD",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 47560077738183,
+        "product_id": 8837129535687,
+        "position": 1,
+        "created_at": "2026-07-27T14:43:11-05:00",
+        "updated_at": "2026-07-27T14:43:13-05:00",
+        "alt": "Custom Wildlife Wolf Head Close Up with Geometric Comforter",
+        "width": 1200,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/fb99d33be77ccc490c5313b387c1b9a092e5691e9d9e6ec2620bba5259c62ca7.jpg?v=1785181393",
+        "variant_ids": [
+          46910235934919
+        ]
+      },
+      "available": true,
+      "price": "49.90",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8837129535687,
+      "created_at": "2026-07-27T14:43:11-05:00",
+      "updated_at": "2026-09-06T11:40:41-05:00"
+    }
+  ],
+  "images": [
+    {
+      "image_id": "47560077738183",
+      "position": 1,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/fb99d33be77ccc490c5313b387c1b9a092e5691e9d9e6ec2620bba5259c62ca7.jpg?v=1785181393",
+      "width": 1200,
+      "height": 1200,
+      "variant_ids": "46910235934919",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\128_custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d\\image_01_47560077738183.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "aad534c867db807168b497a9ba67ec4a51bebe5497a5c2aa5a0391df6bcfc201"
+    },
+    {
+      "image_id": "47560077770951",
+      "position": 2,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/e2ace212c9c382ad5fd89ef08f8e0f553ab8c19afed18d86b27b5c3ba73d139b.jpg?v=1785181393",
+      "width": 1200,
+      "height": 1200,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\128_custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d\\image_02_47560077770951.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "956af6dea78cd94e578dff4c2ec6d7c87ead2274131b04743bffdab32daea8bf"
+    },
+    {
+      "image_id": "47560077803719",
+      "position": 3,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ecef674ec02d2f501ba1ca24f63d76a59886600b070e7cf84ce106c8563dee5e.jpg?v=1785181393",
+      "width": 1200,
+      "height": 1200,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\128_custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d\\image_03_47560077803719.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "3fe6c18606783fa9da59d76a67d3a149fa51036075e328e4f35d082aa4861d15"
+    },
+    {
+      "image_id": "47560077836487",
+      "position": 4,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/56fd8b810c302c8bc32b9136dbd1e0ff71e7ad1f16c4cc2bc8b7746a3ff61db6.jpg?v=1785181393",
+      "width": 1200,
+      "height": 1200,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\128_custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d\\image_04_47560077836487.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "7665fae8f0d9bda7e7394f80ea6db2bf49fb9079908d7ff93418337388810d58"
+    },
+    {
+      "image_id": "47560077869255",
+      "position": 5,
+      "src": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/666e402de87a36865f25b35367771908b8619bf86bc6e37660461d48ce76f12b.jpg?v=1785181393",
+      "width": 1200,
+      "height": 1200,
+      "variant_ids": "",
+      "local_path": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\images\\128_custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d\\image_05_47560077869255.jpg",
+      "download_status": "DOWNLOADED",
+      "sha256": "eabad6b15e1612fcba7804d70d43482ed45b142c91417fac88afa50ad251e2b6"
+    }
+  ],
+  "contact_sheet": "seo_runs\\jeminise.com\\20260906_234129\\evidence\\contact_sheets\\128_custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d.jpg"
+}
