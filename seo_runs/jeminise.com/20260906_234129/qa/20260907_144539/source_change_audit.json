@@ -1,0 +1,152 @@
+[
+  {
+    "product_key": "jeminise.com+christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935",
+    "snapshot_checked_at": "2026-09-06T17:05:26.878164+00:00",
+    "live_checked_at": "2026-09-07T14:48:12.316724+07:00",
+    "snapshot_html_sha256": "9fe47d779c9d4885f39545709a8cfd5107c6d2b74c9d8caf5450a4201cb9e801",
+    "live_html_sha256": "0f553e1315867a661d8053669803bbecdb32f999ffef54b38df31ad0923ac509",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed",
+    "snapshot_checked_at": "2026-09-06T17:05:26.878164+00:00",
+    "live_checked_at": "2026-09-07T14:48:13.314748+07:00",
+    "snapshot_html_sha256": "22e8c72e18324e3be52e129ef90f4785a37955d918e4f1aac766cbcd7aa84414",
+    "live_html_sha256": "ca1949191ff4fd6b7317d9f0bde35f7d39bf9452c65c230ff93bb65138885369",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set",
+    "snapshot_checked_at": "2026-09-06T17:05:26.878164+00:00",
+    "live_checked_at": "2026-09-07T14:48:14.475118+07:00",
+    "snapshot_html_sha256": "850f24080c673a3cc470d63eae8fabebd9df3dd16d9961a34e5375b5e477b581",
+    "live_html_sha256": "f3a84807ec07fc6cf6515452d87ee8708f4476cb86c3dfa4041f840fd4f90fcf",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+crocodile-patchwork-printed-quilts-animal-patchwork-bedding",
+    "snapshot_checked_at": "2026-09-06T17:05:26.878164+00:00",
+    "live_checked_at": "2026-09-07T14:48:15.481435+07:00",
+    "snapshot_html_sha256": "1a50833d0aa72c2ffa0c9631a0e5cffcf04a2c3841b07b57281ccd88a60b8b64",
+    "live_html_sha256": "0268e0bb4cc6966e59d203b9b85365b2d4fcd8e784279f6b7cca782ebbe1c20c",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+custom-retro-football-art-bedding-set-c66211cf75-c66211cf75",
+    "snapshot_checked_at": "2026-09-06T17:05:26.878164+00:00",
+    "live_checked_at": "2026-09-07T14:48:17.046205+07:00",
+    "snapshot_html_sha256": "211ab7d65d845c7667c06ae32d54e855e30c987a720d0ea345c7a193dc6d84fc",
+    "live_html_sha256": "9ffce98561848f54a4eaf364d2883851c6075a264ba79062323cb70cd6afe589",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264",
+    "snapshot_checked_at": "2026-09-06T17:05:26.878164+00:00",
+    "live_checked_at": "2026-09-07T14:48:18.169144+07:00",
+    "snapshot_html_sha256": "e4ecd97a55819942492c91c50ca4285204ede500431e7c0b94b925dbff36c4f7",
+    "live_html_sha256": "ba73f9635c37195ac24cb2ec275c3bc2bfcc835651efaf0a5055d5988a40bf5f",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621",
+    "snapshot_checked_at": "2026-09-06T17:05:26.878164+00:00",
+    "live_checked_at": "2026-09-07T14:48:19.394634+07:00",
+    "snapshot_html_sha256": "1fc17cd11bf98b6729276a5aa1a084e51e4432f3c726adae5603fb2c94f4c576",
+    "live_html_sha256": "af3ec99dc6892f4fceeb9d664ceb796e6ac69ab502d31c411c6e28ff46645558",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82",
+    "snapshot_checked_at": "2026-09-06T17:05:26.878164+00:00",
+    "live_checked_at": "2026-09-07T14:48:20.516330+07:00",
+    "snapshot_html_sha256": "b14bc551c67a27cb1009000134c7a6a46574ac010ac42e76c5ad706378846d0e",
+    "live_html_sha256": "36e139fec5b33d2f0456b36f7dd8a507591fe283d0eca694369c2fd868a4c271",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1",
+    "snapshot_checked_at": "2026-09-06T17:05:26.878164+00:00",
+    "live_checked_at": "2026-09-07T14:48:21.634611+07:00",
+    "snapshot_html_sha256": "5ffc9d4c83140dfb875d95ebd56ba1b02e667e838e2ed45b3deb20a916e0f650",
+    "live_html_sha256": "904ae66cde01353545159d44a52abae95925ea60a180406011501eb1b0e55754",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9",
+    "snapshot_checked_at": "2026-09-06T17:05:26.878164+00:00",
+    "live_checked_at": "2026-09-07T14:48:22.835738+07:00",
+    "snapshot_html_sha256": "7cb7a7463cc1568c39ba3742468bf8ef877b701db31a1e0ca47956b562dd3e58",
+    "live_html_sha256": "430f4d65263a34847bbaf4457f32f570c746ad7b66046df1ed485ab3d759bee6",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  }
+]

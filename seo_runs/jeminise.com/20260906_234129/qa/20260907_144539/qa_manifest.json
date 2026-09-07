@@ -1,0 +1,48 @@
+{
+  "rubric_version": "1.0",
+  "prompt_version": "2.4",
+  "qa_run_id": "20260907_144539",
+  "started_at": "2026-09-07T14:45:39+07:00",
+  "shop_domain": "jeminise.com",
+  "research_run_id": "20260906_234129",
+  "market": "United States",
+  "seo_language": "English",
+  "batch_id": "qa_batch_004_r2",
+  "source_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_004_r2\\SEO_Product_Optimization_qa_batch_004_r2.xlsx",
+  "source_workbook_sha256": "EAD02B9EBC6899A9750E8BB1F36C2BC176335A951EFCF5B6844D6566A00730B3",
+  "source_snapshot": "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_144539\\source_snapshot\\SEO_Product_Optimization_qa_batch_004_r2.xlsx",
+  "batch_product_keys": [
+    "jeminise.com+christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935",
+    "jeminise.com+christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed",
+    "jeminise.com+cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set",
+    "jeminise.com+crocodile-patchwork-printed-quilts-animal-patchwork-bedding",
+    "jeminise.com+custom-retro-football-art-bedding-set-c66211cf75-c66211cf75",
+    "jeminise.com+custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264",
+    "jeminise.com+custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621",
+    "jeminise.com+custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82",
+    "jeminise.com+custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1",
+    "jeminise.com+custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9"
+  ],
+  "revision": "r2",
+  "expected_products": 10,
+  "expected_images": 62,
+  "source_admin_export_available": false,
+  "status": "COMPLETE",
+  "completed_at": "2026-09-07T15:21:43.677000+07:00",
+  "source_sha256_at_handoff": "EAD02B9EBC6899A9750E8BB1F36C2BC176335A951EFCF5B6844D6566A00730B3",
+  "counts": {
+    "products": 10,
+    "images": 62
+  },
+  "output_markdown": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260907_144539\\SEO_QA_qa_batch_004_r2.md",
+  "output_xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260907_144539\\SEO_QA_qa_batch_004_r2.xlsx",
+  "xlsx_blocker": null,
+  "qa_dataset": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_144539\\qa_dataset.json",
+  "qa_workbook_payload": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_144539\\qa_workbook_payload.json",
+  "source_snapshot_sha256": "EAD02B9EBC6899A9750E8BB1F36C2BC176335A951EFCF5B6844D6566A00730B3",
+  "prompt_files_sha256": {
+    "prompt_qa.md": "C2C1DEFDB72362291F7DA656FA7FEA9283A02782FC8CA66D2E4637F2511500DD",
+    "prompt.md": "251B850518A5FAEE459088AED08C7D68F2D7C607CBB360662EC9EFEC6FEBEE33"
+  },
+  "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+}

@@ -19,6 +19,10 @@ SNAPSHOT = QA_DIR / "source_snapshot" / SOURCE.name
 RATING = common.RATING
 PRODUCT_WEIGHTS = common.PRODUCT_WEIGHTS
 IMAGE_WEIGHTS = common.IMAGE_WEIGHTS
+R2_MODE = False
+R2_IMAGE_ASSESS = {}
+R2_IMAGE_FIXES = {}
+R2_IMAGE_REASONS = {}
 
 
 ACTUAL = {
@@ -154,16 +158,22 @@ def main() -> None:
         for idx, im in enumerate(submitted):
             n = idx + 1
             qkey = common.stable_image_key(p["product_key"], im["image_url"], n)
-            wrong = (pos, n) in SWAPPED
-            assessments = {"IM1":"FULL", "IM2":"FAIL" if wrong else "FULL", "IM3":"FAIL" if wrong else "FULL", "IM4":"FULL"}
+            if R2_MODE:
+                im2, im3 = R2_IMAGE_ASSESS.get((pos, n), ("FULL", "FULL"))
+                wrong = im2 != "FULL" or im3 != "FULL"
+                assessments = {"IM1":"FULL", "IM2":im2, "IM3":im3, "IM4":"FULL"}
+            else:
+                wrong = (pos, n) in SWAPPED
+                assessments = {"IM1":"FULL", "IM2":"FAIL" if wrong else "FULL", "IM3":"FAIL" if wrong else "FULL", "IM4":"FULL"}
             points = sum(IMAGE_WEIGHTS[k] * RATING[v] for k, v in assessments.items())
             refs = [im["evidence_file_or_reference"], p["product_url"], live_media[idx]["src"]]
             issue_refs = []
             if wrong:
-                iid = f"ISS-{pos:03d}-IMG-{n:02d}"
+                iid = f"{'R2-' if R2_MODE else ''}ISS-{pos:03d}-IMG-{n:02d}"
                 add_issue(issues, iid, p["product_key"], "MAJOR", "image_observation/alt_effective",
                           f"{im['observed_visual_details']} | {im['alt_proposed']}", ACTUAL[pos][idx],
-                          "Observation và alt được gán theo vị trí mẫu nhưng không phản ánh ảnh gốc.", ALT_FIXES[(pos,n)],
+                          R2_IMAGE_REASONS.get((pos,n), "Observation và alt được gán theo vị trí mẫu nhưng không phản ánh ảnh gốc.") if R2_MODE else "Observation và alt được gán theo vị trí mẫu nhưng không phản ánh ảnh gốc.",
+                          R2_IMAGE_FIXES.get((pos,n), ALT_FIXES.get((pos,n), "Rewrite the alt text from the directly viewed image.")) if R2_MODE else ALT_FIXES[(pos,n)],
                           "; ".join(refs), "Mở lại ảnh gốc và xác nhận observation/alt mới mô tả đúng ảnh.", qkey)
                 issue_refs.append(iid)
             qa_images.append({
@@ -182,11 +192,18 @@ def main() -> None:
 
     for p in products:
         pos, pk = pk_to_pos[p["product_key"]], p["product_key"]
-        add_issue(issues, f"ISS-{pos:03d}-DESC", pk, "MAJOR", "description_proposed_html",
-                  "It requires QA and approval before import.", "HTML kết thúc bằng lời nhắc QA/import nội bộ.",
-                  "Nội dung quy trình nội bộ không được xuất hiện trên storefront.",
-                  "Rewrite as customer-facing English HTML and remove the internal review sentence.",
-                  p["evidence_id"], "Render full HTML and confirm no drafting/QA/import instruction remains.")
+        if R2_MODE:
+            add_issue(issues, f"R2-ISS-{pos:03d}-DESC", pk, "MAJOR", "description_proposed_html",
+                      p["description_proposed_html"], "R2 đã bỏ câu nội bộ nhưng nội dung vẫn là template chung và bỏ qua nhiều dữ kiện mua hàng đã xác minh.",
+                      "Description chưa đủ cụ thể để xuất bản và không giải thích đầy đủ cấu hình quilt/sham hoặc personalization khi có.",
+                      "Rewrite as product-specific English HTML using verified design, dimensions, included/optional shams and the actual Customizer behavior.",
+                      p["evidence_id"] + "; " + p["product_url"], "Render the full HTML and verify every claim against live/gallery evidence.")
+        else:
+            add_issue(issues, f"ISS-{pos:03d}-DESC", pk, "MAJOR", "description_proposed_html",
+                      "It requires QA and approval before import.", "HTML kết thúc bằng lời nhắc QA/import nội bộ.",
+                      "Nội dung quy trình nội bộ không được xuất hiện trên storefront.",
+                      "Rewrite as customer-facing English HTML and remove the internal review sentence.",
+                      p["evidence_id"], "Render full HTML and confirm no drafting/QA/import instruction remains.")
         if pos <= 28:
             add_issue(issues, f"ISS-{pos:03d}-ENC", pk, "MINOR", "title_current/H1_current",
                       p["title_current"], live[pos-21]["live"]["h1"],
@@ -194,7 +211,7 @@ def main() -> None:
                       p["title_proposed"], p["product_url"],
                       "Rendered title and H1 no longer contain U+FFFD or truncated words.")
 
-    for pos in (21, 29, 30):
+    for pos in (() if R2_MODE else (21, 29, 30)):
         p = products[pos - 21]
         opts = live[pos - 21]["live"]["product_js"]["options"]
         add_issue(issues, f"ISS-{pos:03d}-PERS", p["product_key"], "CRITICAL",
@@ -206,24 +223,47 @@ def main() -> None:
                   "Live purchase flow visibly accepts and preserves the claimed custom text.")
 
     p24 = products[3]
-    add_issue(issues, "ISS-024-DESIGN", p24["product_key"], "CRITICAL",
+    if not R2_MODE:
+        add_issue(issues, "ISS-024-DESIGN", p24["product_key"], "CRITICAL",
               "primary_keyword/title/meta/description", "Snowman Christmas Village Quilt Set",
               ACTUAL[24][0], "Draft identifies the central gingerbread figure as a snowman, changing the design and search intent.",
               "Rewrite around a gingerbread Christmas village quilt set; rerun the primary/comparator SERP decision and update all dependent fields.",
               p24["product_url"] + "; direct images 1-4", "All fields and alt text identify the visible gingerbread design consistently.")
+
+    if R2_MODE:
+        for pos in range(21, 29):
+            p = products[pos - 21]
+            add_issue(issues, f"R2-ISS-{pos:03d}-PERS", p["product_key"], "MAJOR", "personalization/Customizer mapping",
+                      "Personalization omitted from SEO copy", "Live Customizer exposes optional `Custom Your Name` text, 1–200 characters.",
+                      "R2 omits a verified purchase option and gives no condition for leaving the field blank.",
+                      "Add concise English copy explaining that a custom name is optional and verify fulfillment mapping before approval.",
+                      p["product_url"] + "; customizer_audit.json", "Customizer input and revised wording agree on label, optional status and limits.")
+        p30 = products[9]
+        add_issue(issues, "R2-ISS-030-PERS", p30["product_key"], "MAJOR", "description/image personalization wording",
+                  "Christmas quilt with the name Sophia", "Gallery shows sample text Sophia, but live Customizer contains no personalization node.",
+                  "Copy may imply a configurable name although the live purchase flow does not accept one.",
+                  "Describe Sophia explicitly as sample artwork or restore and prove a working name input before using personalized/custom wording.",
+                  p30["product_url"] + "; customizer_audit.json; direct images", "Live purchase flow and all SEO/image wording agree on whether the name is editable.")
+        for pos in (25, 27):
+            p = products[pos - 21]
+            add_issue(issues, f"R2-ISS-{pos:03d}-DESIGN", p["product_key"], "CRITICAL", "primary_keyword/title/meta/alt",
+                      p["primary_keyword"] + " | " + p["title_proposed"], ACTUAL[pos][0],
+                      "R2 identifies visible snowmen as gingerbread figures, changing the motif and search intent.",
+                      "Rewrite the primary keyword, SEO title, H1 and affected alt text around snowman/cardinal Christmas quilt intent.",
+                      p["product_url"] + "; direct images 1-5", "Every dependent field identifies the visible snowman design consistently.")
 
     for pos, note in {
         21:"Primary results skew toward downloadable patterns/kits; the closest finished bedding result validates candy-cane quilt intent but not the full exact phrase.",
         23:"Primary results mix quilt kits/digital designs with finished bedding; birdhouse specificity is visually accurate but commercial product-type evidence is incomplete.",
     }.items():
         p = products[pos - 21]
-        add_issue(issues, f"ISS-{pos:03d}-SERP", p["product_key"], "MAJOR", "keyword/SERP evidence",
+        add_issue(issues, f"{'R2-' if R2_MODE else ''}ISS-{pos:03d}-SERP", p["product_key"], "MAJOR", "keyword/SERP evidence",
                   p["primary_keyword"], note,
                   "SERP supports the motif only partially and does not cleanly validate the selected finished-product phrase.",
                   "Use current US finished-bedding product SERPs or retain SERP_ONLY with narrower claims and explicit limitation.",
                   json.dumps(SERP[pos], ensure_ascii=False), "Two current product SERPs support the exact motif and quilt-set intent.")
 
-    add_issue(issues, "ISS-GLOBAL-ADMIN", "", "LIMITATION", "current admin SEO fields/current admin alt",
+    add_issue(issues, "R2-ISS-GLOBAL-ADMIN" if R2_MODE else "ISS-GLOBAL-ADMIN", "", "LIMITATION", "current admin SEO fields/current admin alt",
               "Not supplied", "Storefront metadata and product.js media alt were readable, but no Shopify admin export was provided.",
               "Storefront values cannot prove current admin fields or future import mapping.",
               "Provide a frozen Shopify admin/export snapshot before approval or import mapping.", str(SOURCE),
@@ -256,7 +296,7 @@ def main() -> None:
         sev = Counter(x["severity"] for x in issue_by_product.get(pk, []))
         status = "QA_FAIL" if sev["CRITICAL"] or verified < 70 else ("QA_REVISE" if verified < 85 or sev["MAJOR"] else "QA_PASS")
         qa_products.append({"inventory_position":pos,"product_key":pk,"url":p["product_url"],"handle":p["Handle"],
-                            "product_id":str(p["product_id"]),"revision":"r1","verified_points":verified,
+                            "product_id":str(p["product_id"]),"revision":"r2" if R2_MODE else "r1","verified_points":verified,
                             "assessed_weight":100,"score_lower_bound":verified,"score_upper_bound":verified,"final_score":verified,
                             "qa_status":status,"keyword_evidence_level":p["keyword_evidence_level"],"images_expected":5,
                             "images_checked":5,"image_inventory_complete":True,"image_coverage":1.0,
@@ -365,7 +405,7 @@ def main() -> None:
     manifest = {"rubric_version":"1.0","prompt_version":"2.4","qa_run_id":QA_RUN_ID,"started_at":"2026-09-07T09:41:27+07:00",
                 "shop_domain":SHOP,"research_run_id":RUN_ID,"market":"United States","seo_language":"English","batch_id":QA_BATCH_ID,
                 "source_workbook":str(SOURCE.relative_to(ROOT)),"source_workbook_sha256":source_hash,"source_snapshot":str(SNAPSHOT.relative_to(ROOT)),
-                "batch_product_keys":keys,"revision":"r1","expected_products":10,"expected_images":50,"source_admin_export_available":False,
+                "batch_product_keys":keys,"revision":"r2" if R2_MODE else "r1","expected_products":10,"expected_images":50,"source_admin_export_available":False,
                 "status":"COMPLETE","completed_at":common.now(),"source_sha256_at_handoff":source_hash,"counts":{"products":10,"images":50},
                 "output_markdown":str(report),"output_xlsx":str(xlsx),"xlsx_blocker":None,"qa_dataset":str(QA_DIR/"qa_dataset.json"),
                 "qa_workbook_payload":str(QA_DIR/"qa_workbook_payload.json"),"source_snapshot_sha256":common.sha256(SNAPSHOT),

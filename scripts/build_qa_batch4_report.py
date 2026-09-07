@@ -14,6 +14,11 @@ OUT_DIR = ROOT / "resutls" / SHOP / RUN_ID / "qa" / QA_RUN_ID
 SOURCE = ROOT / "resutls" / SHOP / RUN_ID / "batches" / "SEO_Product_Optimization_through_batch_034.xlsx"
 SNAPSHOT = QA_DIR / "source_snapshot" / SOURCE.name
 PW, IW, R = common.PRODUCT_WEIGHTS, common.IMAGE_WEIGHTS, common.RATING
+R2_MODE = False
+R2_IMAGE_ASSESS = {}
+R2_IMAGE_FIX = {}
+R2_IMAGE_SEVERITY = {}
+R2_IMAGE_REASON = {}
 
 ACTUAL = {
 31: ["Front bedroom mockup of a cardinal-and-birdhouse Christmas quilt with poinsettias.", "Angled bedroom view with printed-craft feature callouts.", "Matching pillow shams and lightweight, soft, anti-pill and anti-static callouts.", "Fabric-feature panel describing the printed quilt for all-season use.", "Premium quilt-set size chart for Throw, Twin, Full, Queen and King.", "Material-layer and bedspread-features diagram for top, filling and back layers.", "Overhead bedroom mockup of the cardinal-and-birdhouse quilt."],
@@ -79,37 +84,61 @@ def main():
         ims = sorted(by_pk[p["product_key"]], key=lambda x: x["image_number"])
         assert len(ims) == len(media) == len(ACTUAL[pos])
         for j, im in enumerate(ims, 1):
-            bad = (pos,j) in WRONG
-            ass = {"IM1":"FULL","IM2":"FAIL" if bad else "FULL","IM3":"FAIL" if bad else "FULL","IM4":"FULL"}
+            if R2_MODE:
+                im2, im3 = R2_IMAGE_ASSESS.get((pos, j), ("FULL", "FULL"))
+                bad = im2 != "FULL" or im3 != "FULL"
+                ass = {"IM1":"FULL","IM2":im2,"IM3":im3,"IM4":"FULL"}
+            else:
+                bad = (pos,j) in WRONG
+                ass = {"IM1":"FULL","IM2":"FAIL" if bad else "FULL","IM3":"FAIL" if bad else "FULL","IM4":"FULL"}
             pts = sum(IW[k] * R[v] for k,v in ass.items())
             key = common.stable_image_key(p["product_key"], im["image_url"], j)
             refs = [im["evidence_file_or_reference"], p["product_url"], media[j-1]["src"]]
             irefs=[]
             if bad:
-                iid=f"ISS-{pos:03d}-IMG-{j:02d}"; irefs=[iid]
-                add(issues,iid,p["product_key"],"MAJOR","image_observation/alt_effective",f"{im['observed_visual_details']} | {im['alt_proposed']}",ACTUAL[pos][j-1],"Observation/alt theo mẫu vị trí không phản ánh đúng ảnh gốc.",ALT_FIX[(pos,j)],"; ".join(refs),"Mở ảnh gốc và xác nhận alt mới mô tả đúng ảnh.",key)
+                iid=f"{'R2-' if R2_MODE else ''}ISS-{pos:03d}-IMG-{j:02d}"; irefs=[iid]
+                add(issues,iid,p["product_key"],R2_IMAGE_SEVERITY.get((pos,j),"MAJOR") if R2_MODE else "MAJOR","image_observation/alt_effective",f"{im['observed_visual_details']} | {im['alt_proposed']}",ACTUAL[pos][j-1],R2_IMAGE_REASON.get((pos,j),"Observation/alt r2 vẫn dùng nhãn mẫu hoặc sai loại ảnh.") if R2_MODE else "Observation/alt theo mẫu vị trí không phản ánh đúng ảnh gốc.",R2_IMAGE_FIX.get((pos,j),ALT_FIX.get((pos,j),"Rewrite the alt from the directly viewed image.")) if R2_MODE else ALT_FIX[(pos,j)],"; ".join(refs),"Mở ảnh gốc và xác nhận alt mới mô tả đúng ảnh.",key)
             qa_images.append({"product_key":p["product_key"],"qa_image_key":key,"image_url_source":media[j-1]["src"],"image_url_workbook":im["image_url"],"media_id":str(media[j-1]["id"]),"workbook_image_id":str(im["media_id"]),"variant":im["variant"] or "","image_location":im["image_location"],"check_method":"DIRECT_ORIGINAL_IMAGE","checked_at":checked,"qa_observation":ACTUAL[pos][j-1],"submitted_observation":im["observed_visual_details"],"storefront_alt_observed":media[j-1].get("alt") or "","alt_action":im["alt_action"],"alt_effective":im["alt_proposed"],**ass,"image_verified_points":pts,"image_assessed_weight":100,"image_final_score":pts,"image_score_lower_bound":pts,"image_score_upper_bound":pts,"issue_refs":irefs,"evidence_refs":refs})
 
-    for ix,p in enumerate(products):
+    if R2_MODE:
+        for ix,p in enumerate(products):
+            pos=31+ix
+            add(issues,f"R2-ISS-{pos:03d}-DESC",p["product_key"],"MAJOR","description_proposed_html",p.get("description_proposed_html", ""),"Bản r2 đã bỏ câu nội bộ nhưng nội dung vẫn quá chung, dựa vào cụm 'gallery images show' và chưa đưa đủ thông số, thành phần, chăm sóc hoặc quy tắc cá nhân hóa đã xác minh.","Mô tả chưa chuyển đầy đủ evidence thành thông tin mua hàng hữu ích.","Rewrite the description with only verified materials, sizes, included pieces, care guidance, and personalization rules where available.",p["evidence_id"]+"; direct images; live product.js/customizer","Rendered copy is customer-facing and every material purchase fact is traceable to evidence.")
+    for ix,p in enumerate(() if R2_MODE else products):
         pos=31+ix
         add(issues,f"ISS-{pos:03d}-DESC",p["product_key"],"MAJOR","description_proposed_html","It needs QA and approval before import.","HTML chứa heading SEO Use và câu nội bộ về QA/import.","Nội dung quy trình nội bộ không được xuất hiện trên storefront.","Rewrite as customer-facing English HTML and remove the internal SEO/QA/import block.",p["evidence_id"],"Render HTML and confirm no drafting, QA or import instruction remains.")
-    for pos in range(33,41):
+    for pos in (() if R2_MODE else range(33,41)):
         p=products[pos-31]; opts=live[pos-31]["live"]["product_js"]["options"]
         add(issues,f"ISS-{pos:03d}-PERS",p["product_key"],"CRITICAL","personalization/customization claims",p["primary_keyword"]+" | "+p["title_proposed"],"Trang live/product.js chỉ có size, pillowcase và/hoặc flat-sheet options; không có input name/number/text.","Ảnh có tên/số mẫu không chứng minh người mua có thể tùy biến.","Prove a working name/number input and fulfillment mapping, or remove personalized/custom claims from keyword, title, meta and body.",p["product_url"]+"; live options="+json.dumps(opts,ensure_ascii=False),"Purchase flow visibly accepts, persists and fulfills the claimed custom values.")
-    for pos in (33,34):
+    for pos in (() if R2_MODE else (33,34)):
         p=products[pos-31]
         add(issues,f"ISS-{pos:03d}-DRAGONFLY",p["product_key"],"MAJOR","description_proposed_html","Dragonfly source field copied into draft.",ACTUAL[pos][0],"Dragonfly contradicts the visible cow/crocodile artwork.","Remove the Dragonfly color/pattern/design field and replace only with evidenced product facts.",p["evidence_id"]+"; direct images 1-7","No Dragonfly attribute remains unless supported by a matching source revision.")
     p=products[0]
     add(issues,"ISS-031-SERP",p["product_key"],"MAJOR","keyword/SERP evidence",p["primary_keyword"],"Exact birdhouse results skew toward fabric panels and quilt kits; finished-bedding evidence is broader cardinal/poinsettia intent.","The chosen exact phrase is not cleanly validated as finished-product intent.","Retain SERP_ONLY and rerun with US finished-bedding product results before approval.",json.dumps(SERP[31],ensure_ascii=False),"Two current finished-bedding product SERPs support the exact motif and product type.")
     p=products[3]
-    add(issues,"ISS-034-ALLIGATOR",p["product_key"],"MAJOR","secondary_keywords","alligator quilt set",ACTUAL[34][0],"Crocodile and alligator are not interchangeable product attributes without source evidence.","Use crocodile-specific wording, or document why the depicted animal is an alligator.",p["evidence_id"]+"; direct images","Keyword map and copy use a single evidence-supported animal identity.")
-    for pos in (31,32):
+    if not R2_MODE:
+        add(issues,"ISS-034-ALLIGATOR",p["product_key"],"MAJOR","secondary_keywords","alligator quilt set",ACTUAL[34][0],"Crocodile and alligator are not interchangeable product attributes without source evidence.","Use crocodile-specific wording, or document why the depicted animal is an alligator.",p["evidence_id"]+"; direct images","Keyword map and copy use a single evidence-supported animal identity.")
+    for pos in (() if R2_MODE else (31,32)):
         p=products[pos-31]
         add(issues,f"ISS-{pos:03d}-KREASON",p["product_key"],"MAJOR","keyword decision reason","Specific to visible artwork, personalization and product type.","The proposed customer copy does not claim personalization and the live purchase flow exposes no text input.","The evidence chain cites an unsupported personalization signal.","Rewrite the decision reason around visible motif and finished quilt-set intent only.",p["evidence_id"],"Decision reason contains only evidence-backed selection factors.")
-    for pos in (31,32,33,34):
+    for pos in (() if R2_MODE else (31,32,33,34)):
         p=products[pos-31]
         add(issues,f"ISS-{pos:03d}-ALTGEN",p["product_key"],"MINOR","image alt text","Several alts use generic alternatives such as 'care or size' / 'detail or fabric feature'.","Direct inspection identifies a single image purpose.","Ambiguous 'or' phrasing is less precise than the source image.","Replace generic alternatives with the exact image purpose recorded in QA_Images.",p["evidence_id"],"Every SET alt names the observed scene or information panel without alternatives.")
-    add(issues,"ISS-GLOBAL-ADMIN","","LIMITATION","current admin SEO fields/current admin alt","Not supplied","Storefront metadata and product.js media alt were readable, but no Shopify admin export was provided.","Storefront values cannot prove admin fields or future import mapping.","Provide a frozen Shopify admin/export snapshot before deployment approval.",str(SOURCE),"Admin export revision and hash are frozen and compared.")
+    if R2_MODE:
+        for pos in range(35,41):
+            p=products[pos-31]
+            add(issues,f"R2-ISS-{pos:03d}-PERS-OMIT",p["product_key"],"MAJOR","keyword/title/meta/description personalization",p["primary_keyword"]+" | "+p["title_proposed"],"Customizer live có Enter Name bắt buộc (1–25 ký tự) và Enter Number tùy chọn (1–5 ký tự), nhưng r2 bỏ điểm khác biệt cá nhân hóa khỏi copy và diễn giải tên/số mẫu như artwork cố định.","R2 đã sửa quá tay sau lỗi cũ và làm mất thông tin mua hàng được chứng minh trực tiếp.","State that the comforter is personalized with a required name and an optional number; keep examples as samples, not fixed artwork.",p["product_url"]+"; live customizer audit","Purchase flow and English copy agree on required name, optional number, limits, and sample-versus-input behavior.")
+        keyword_notes={
+            34:("crocodile patchwork quilt set","Kết quả exact còn thưa và comparator lệch loài hoặc lệch loại bedding.","Retain a cautious SERP_ONLY label or choose a broader crocodile bedding phrase supported by finished-product results."),
+            36:("football comforter with themed artwork","Cụm primary không tự nhiên và không phản ánh intent personalization đã xác minh.","Use a natural personalized grunge football comforter query and document two relevant finished-product results."),
+            37:("cosmic football comforter","SERP exact bị nhiễu bởi nghĩa ngoài bedding và chưa xác nhận commercial intent sạch.","Test a personalized cosmic football bedding phrase and require relevant finished-product results before selection."),
+            38:("patriotic football comforter","Primary trùng intent với product 40, trong khi artwork và personalization có thể phân tách.","Differentiate around personalized USA flag football comforter and document the intended page boundary."),
+            40:("patriotic football comforter","Primary trùng intent với product 38, tạo nguy cơ cannibalization.","Assign a distinct personalized patriotic football angle and record a non-overlapping keyword boundary."),
+        }
+        for pos,(submitted,reason,fix) in keyword_notes.items():
+            p=products[pos-31]
+            add(issues,f"R2-ISS-{pos:03d}-KEYWORD",p["product_key"],"MAJOR","primary keyword/SERP decision",submitted,"QA SERP đối chiếu không xác nhận sạch lựa chọn hiện tại.",reason,fix,json.dumps(SERP[pos],ensure_ascii=False),"Two relevant US-intent finished-product results support the revised phrase and it does not collide with another page in this batch.")
+    add(issues,("R2-" if R2_MODE else "")+"ISS-GLOBAL-ADMIN","","LIMITATION","current admin SEO fields/current admin alt","Not supplied","Storefront metadata and product.js media alt were readable, but no Shopify admin export was provided.","Storefront values cannot prove admin fields or future import mapping.","Provide a frozen Shopify admin/export snapshot before deployment approval.",str(SOURCE),"Admin export revision and hash are frozen and compared.")
 
     issue_by={}
     for x in issues: issue_by.setdefault(x["product_key"],[]).append(x)

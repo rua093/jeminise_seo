@@ -9,6 +9,7 @@ import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 QA_DIR = ROOT / "seo_runs/jeminise.com/20260906_234129/qa/20260907_104027"
+START_POSITION = 61
 
 
 def fetch(url):
@@ -21,7 +22,7 @@ def main():
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
         pages = list(pool.map(fetch, urls))
     output = []
-    for position, (url, page) in enumerate(zip(urls, pages), 61):
+    for position, (url, page) in enumerate(zip(urls, pages), START_POSITION):
         match = re.search(r'data-amzcustom-root[^>]*data-config="([^"]+)"', page)
         config = json.loads(html.unescape(match.group(1))) if match else {}
         config_text = json.dumps(config, ensure_ascii=False)

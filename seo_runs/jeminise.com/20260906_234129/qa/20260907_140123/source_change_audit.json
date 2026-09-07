@@ -1,0 +1,152 @@
+[
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-05",
+    "snapshot_checked_at": "2026-09-06T17:01:23.933160+00:00",
+    "live_checked_at": "2026-09-07T14:04:15.970149+07:00",
+    "snapshot_html_sha256": "1abf63c1f063345c6e202d0589e09f978b558898be6252791105037462b07576",
+    "live_html_sha256": "640088cad1c660b05f729904282fa5766a544cfa7cdecf8cdf08ce9844501840",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-06",
+    "snapshot_checked_at": "2026-09-06T17:01:23.933160+00:00",
+    "live_checked_at": "2026-09-07T14:04:16.891649+07:00",
+    "snapshot_html_sha256": "7b8507a15d3c2043239bdedfe5ccc22cc65a9824db594bf77af81b7772c17d7c",
+    "live_html_sha256": "ce17e4a4754592964a54e98ccaf0d2e67b741a3447005e5dae81a7951b06a043",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-08",
+    "snapshot_checked_at": "2026-09-06T17:01:23.933160+00:00",
+    "live_checked_at": "2026-09-07T14:04:19.100874+07:00",
+    "snapshot_html_sha256": "fc8efd0e238b4d7dc3322eee3077db5768388ef0fa465763e0cce1cbf87513a0",
+    "live_html_sha256": "d489327711c9926d4fb3a72e10bdbe8cf502e6e4627c352929aa180c32731459",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-09",
+    "snapshot_checked_at": "2026-09-06T17:01:23.933160+00:00",
+    "live_checked_at": "2026-09-07T14:04:20.092819+07:00",
+    "snapshot_html_sha256": "2d48778b4e803dd90f9dbce790b180ea56f74675a112ee0b1d9cce4336156fb6",
+    "live_html_sha256": "87440881208cc3c63ff4e4db0c2f16f3e38dee2a967f79e7c99633969af1f281",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-10",
+    "snapshot_checked_at": "2026-09-06T17:01:23.933160+00:00",
+    "live_checked_at": "2026-09-07T14:04:21.022070+07:00",
+    "snapshot_html_sha256": "a91a02840a782f54705f4a40cb521c73f2382d4419aee77891cea7083879cf49",
+    "live_html_sha256": "ee7cf604a417d422ab767398c8a90be0ef5577ae95c67e9a97f5e4920c547609",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-11",
+    "snapshot_checked_at": "2026-09-06T17:01:23.933160+00:00",
+    "live_checked_at": "2026-09-07T14:04:21.952334+07:00",
+    "snapshot_html_sha256": "e7a73535927372eed9a6a5cc1a0ff93de109bac7db5ee457543f2d6fc85b9b7f",
+    "live_html_sha256": "85490e06f2523204c08d1fdcfe151efcdf554e133ff054f9a53a644ffc561f1d",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-12",
+    "snapshot_checked_at": "2026-09-06T17:01:23.933160+00:00",
+    "live_checked_at": "2026-09-07T14:04:23.259742+07:00",
+    "snapshot_html_sha256": "8f348619ff41be707fd1aeae5d40d6a3e0f2b3d4a3e2c9b8a9c4aa4fb3bdae5c",
+    "live_html_sha256": "0154bb6e0675f66246842877486bee24009473ff37bcb9826433109d46671990",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedspread",
+    "snapshot_checked_at": "2026-09-06T17:01:23.933160+00:00",
+    "live_checked_at": "2026-09-07T14:04:28.211420+07:00",
+    "snapshot_html_sha256": "a377496b26d0f6ae2cfc6c7fa7eb331a9d628d7e810437148532ef3f852bc41f",
+    "live_html_sha256": "28bce8e205a6b9405c332fded5b8df1911fe5c73ec3c92290c08300501ba82d4",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-cardinal-on-branch-within-patchwork-winter-quilt-892d70543a-892d70543a",
+    "snapshot_checked_at": "2026-09-06T17:01:23.933160+00:00",
+    "live_checked_at": "2026-09-07T14:04:30.463354+07:00",
+    "snapshot_html_sha256": "17f42f26f07481ecc5fd8d3263c9c10e417b3ef70301106ed2c46bbaeca46592",
+    "live_html_sha256": "5cd2c35f66701f5432a981da9ca96962fb5f35c8d73447f87c6b1fe84a4b35a9",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-cardinal-perched-on-branch-within-wreath-patchwork-winter-quilt-9e7c0b5896-9e7c0b5896",
+    "snapshot_checked_at": "2026-09-06T17:01:23.933160+00:00",
+    "live_checked_at": "2026-09-07T14:04:31.439750+07:00",
+    "snapshot_html_sha256": "0049595db743cabaa19148db073706b4d1de04e75bcd0c62b39c005a77e8a73e",
+    "live_html_sha256": "a1c493349130a76cd9f545c807efe30f87ed587e30f65b0fc28258ad78245c77",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  }
+]

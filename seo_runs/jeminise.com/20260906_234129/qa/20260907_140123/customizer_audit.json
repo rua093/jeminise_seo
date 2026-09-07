@@ -1,0 +1,292 @@
+[
+  {
+    "inventory_position": 21,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-05",
+    "customizer_root_present": true,
+    "config_bytes": 4317,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 22,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-06",
+    "customizer_root_present": true,
+    "config_bytes": 4317,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 23,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-08",
+    "customizer_root_present": true,
+    "config_bytes": 4317,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 24,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-09",
+    "customizer_root_present": true,
+    "config_bytes": 4317,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 25,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-10",
+    "customizer_root_present": true,
+    "config_bytes": 4318,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 26,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-11",
+    "customizer_root_present": true,
+    "config_bytes": 4318,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 27,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-12",
+    "customizer_root_present": true,
+    "config_bytes": 4318,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 28,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedspread",
+    "customizer_root_present": true,
+    "config_bytes": 4338,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 29,
+    "url": "https://jeminise.com/products/christmas-cardinal-on-branch-within-patchwork-winter-quilt-892d70543a-892d70543a",
+    "customizer_root_present": true,
+    "config_bytes": 2966,
+    "surface_count": 1,
+    "name_mentions": 0,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": []
+  },
+  {
+    "inventory_position": 30,
+    "url": "https://jeminise.com/products/christmas-cardinal-perched-on-branch-within-wreath-patchwork-winter-quilt-9e7c0b5896-9e7c0b5896",
+    "customizer_root_present": true,
+    "config_bytes": 2966,
+    "surface_count": 1,
+    "name_mentions": 0,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": []
+  }
+]

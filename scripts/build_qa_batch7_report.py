@@ -14,6 +14,7 @@ OUT_DIR = ROOT / "resutls" / SHOP / RUN_ID / "qa" / QA_RUN_ID
 SOURCE = ROOT / "resutls" / SHOP / RUN_ID / "batches" / "SEO_Product_Optimization_through_batch_034.xlsx"
 SNAPSHOT = QA_DIR / "source_snapshot" / SOURCE.name
 PW, IW, R = common.PRODUCT_WEIGHTS, common.IMAGE_WEIGHTS, common.RATING
+R2_MODE = False
 
 
 DESIGNS = {
@@ -142,6 +143,20 @@ def main():
             "Câu nội bộ về SEO/QA/import không phải nội dung dành cho khách hàng.",
             "Remove the internal SEO Use block and retain only customer-facing English HTML.",
             product["evidence_id"], "Rendered HTML contains no drafting, QA, approval or import instruction.")
+        if R2_MODE:
+            issues.pop()
+            add(issues, f"ISS-{position:03d}-DESC", product["product_key"], "MAJOR", "description_proposed_html",
+                product["description_proposed_html"], "Product-specific, customer-facing copy with verified material, care, contents and options.",
+                "Bản r2 đã bỏ câu nội bộ nhưng vẫn là mẫu chung, lặp cụm 'Visible artwork', thiếu material/care/exact contents và mô tả pillow/sham theo điều kiện không rõ.",
+                "Rewrite the English description from verified product facts; state exact set contents and avoid template residue.",
+                product["evidence_id"], "Rendered HTML is product-specific, factual and publish-ready without template wording.")
+            add(issues, f"ISS-{position:03d}-CUSTOMIZER", product["product_key"], "MAJOR", "personalization_copy",
+                "Review size and personalization options before checkout.",
+                "Live Customizer: Enter Name is required (1-25 characters); Enter Number is optional (1-5 characters).",
+                "Claim personalization có bằng chứng nhưng copy chưa cho người mua biết trường nào bắt buộc/tùy chọn và giới hạn nhập liệu.",
+                "State in English that the name is required and the number is optional, with the verified character limits and Customize step.",
+                str(QA_DIR / "customizer_audit.json"),
+                "Copy matches the current live Customizer schema and a re-check confirms the same constraints.")
         add(issues, f"ISS-{position:03d}-CANN", product["product_key"], "MAJOR", "keyword_map/intent differentiation",
             product["primary_keyword"], "Ten adjacent pages target near-identical personalized American-football bedding intent.",
             "Modifier hình ảnh có khác nhưng vai trò landing page và internal linking chưa đủ để tránh cạnh tranh lẫn nhau.",
@@ -185,6 +200,10 @@ def main():
     reasons["D2"] = "Facts chính khớp nguồn, nhưng copy chưa publish-ready và chưa nói rõ ràng quy trình Customize."
     reasons["E1"] = "Chuỗi evidence được kiểm tra; thiếu admin export và chưa chạy cart persistence."
 
+    if R2_MODE:
+        reasons["D1"] = "Bản r2 đã bỏ nội dung QA/import nhưng description vẫn là mẫu chung, lặp từ và thiếu dữ kiện cần thiết."
+        reasons["D2"] = "Facts hình ảnh khớp, nhưng copy chưa nêu material/care/contents và quy tắc Name bắt buộc, Number tùy chọn."
+
     criteria, qa_products = [], []
     for index, product in enumerate(products):
         position, product_key = 61 + index, product["product_key"]
@@ -210,7 +229,7 @@ def main():
         status = "QA_FAIL" if severity["CRITICAL"] or score < 70 else ("QA_REVISE" if score < 85 or severity["MAJOR"] else "QA_PASS")
         qa_products.append({
             "inventory_position": position, "product_key": product_key, "url": product["product_url"],
-            "handle": product["Handle"], "product_id": str(product["product_id"]), "revision": "r1",
+            "handle": product["Handle"], "product_id": str(product["product_id"]), "revision": "r2" if R2_MODE else "r1",
             "verified_points": score, "assessed_weight": 100, "score_lower_bound": score,
             "score_upper_bound": score, "final_score": score, "qa_status": status,
             "keyword_evidence_level": product["keyword_evidence_level"], "images_expected": 6,
@@ -351,7 +370,7 @@ def main():
         "market": "United States", "seo_language": "English", "batch_id": BATCH,
         "source_workbook": str(SOURCE.relative_to(ROOT)), "source_workbook_sha256": source_hash,
         "source_snapshot": str(SNAPSHOT.relative_to(ROOT)), "batch_product_keys": product_keys,
-        "revision": "r1", "expected_products": 10, "expected_images": 60,
+        "revision": "r2" if R2_MODE else "r1", "expected_products": 10, "expected_images": 60,
         "source_admin_export_available": False, "status": "COMPLETE", "completed_at": common.now(),
         "source_sha256_at_handoff": source_hash, "counts": {"products": 10, "images": 60},
         "output_markdown": str(report), "output_xlsx": str(xlsx), "xlsx_blocker": None,

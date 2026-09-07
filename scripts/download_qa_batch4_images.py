@@ -9,6 +9,9 @@ import requests
 ROOT = Path(__file__).resolve().parents[1]
 QA_DIR = ROOT / "seo_runs" / "jeminise.com" / "20260906_234129" / "qa" / "20260907_095643"
 IMAGE_DIR = QA_DIR / "images"
+QA_RUN_ID = "20260907_095643"
+BATCH_ID = "qa_batch_004"
+SOURCE_WORKBOOK_NAME = "SEO_Product_Optimization_through_batch_034.xlsx"
 
 
 def main():
@@ -41,9 +44,9 @@ def main():
             })
             progress = {
                 "rubric_version": "1.0",
-                "qa_run_id": "20260907_095643",
-                "source_workbook": str(QA_DIR / "source_snapshot" / "SEO_Product_Optimization_through_batch_034.xlsx"),
-                "batch_id": "qa_batch_004",
+                "qa_run_id": QA_RUN_ID,
+                "source_workbook": str(QA_DIR / "source_snapshot" / SOURCE_WORKBOOK_NAME),
+                "batch_id": BATCH_ID,
                 "batch_product_keys": [x["inventory"]["product_key"] for x in live],
                 "current_product_key": product_key,
                 "current_stage": "IMAGE_DOWNLOADED_PENDING_DIRECT_REVIEW",

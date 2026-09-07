@@ -1,0 +1,545 @@
+[
+  {
+    "inventory_position": 51,
+    "url": "https://jeminise.com/products/custom-christian-scripture-floral-blanket-machine-washable-d10",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 2,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 2,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "2XdIiphb",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "xUR1otKX",
+          "label": "Custom Name",
+          "required": true,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "Sophia",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "xUR1otKX"
+        }
+      },
+      {
+        "path": "root.controlOrder[1]",
+        "fields": {
+          "type": "text",
+          "id": "LE8mvsan"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 52,
+    "url": "https://jeminise.com/products/custom-emily-god-says-i-am-blanket-machine-washable-d9",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 1,
+      "textInputs": 2,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 3,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "2XdIiphb",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.optionGroups[0]",
+        "fields": {
+          "id": "iLWArY-a",
+          "label": "Choose Color",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[0]",
+        "fields": {
+          "id": "zJU_z1sp",
+          "label": "Blue"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[1]",
+        "fields": {
+          "id": "pJtW5Cdk",
+          "label": "Black"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[2]",
+        "fields": {
+          "id": "gJVVohhB",
+          "label": "Green"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[3]",
+        "fields": {
+          "id": "e5P6vrXM",
+          "label": "Yellow"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[4]",
+        "fields": {
+          "id": "DrgEAWTH",
+          "label": "Red"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[5]",
+        "fields": {
+          "id": "SK5Wc7TT",
+          "label": "Purple"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "xUR1otKX",
+          "label": "Custom Name",
+          "required": true,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "Sophia",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[1]",
+        "fields": {
+          "type": "text",
+          "id": "xUR1otKX"
+        }
+      },
+      {
+        "path": "root.controlOrder[2]",
+        "fields": {
+          "type": "text",
+          "id": "LE8mvsan"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 53,
+    "url": "https://jeminise.com/products/custom-exploding-soccer-ball-comforter-set-machine-washable-a10",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 1,
+      "assets": 22,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "FxRu9Cb-",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "NpDHeTim",
+          "label": "Customize Your Item",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "",
+          "instructions": "Please enter your custom text or leave us your requests!"
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "NpDHeTim"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 54,
+    "url": "https://jeminise.com/products/custom-fiery-soccer-ball-custom-name-comforter-set-machin-design-5",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 1,
+      "assets": 22,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "FxRu9Cb-",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "NpDHeTim",
+          "label": "Customize Your Item",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "",
+          "instructions": "Please enter your custom text or leave us your requests!"
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "NpDHeTim"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 55,
+    "url": "https://jeminise.com/products/custom-flaming-soccer-ball-with-custom-name-comforter-set-a12",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 1,
+      "assets": 22,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "FxRu9Cb-",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "NpDHeTim",
+          "label": "Customize Your Item",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "",
+          "instructions": "Please enter your custom text or leave us your requests!"
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "NpDHeTim"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 56,
+    "url": "https://jeminise.com/products/custom-flaming-soccer-ball-with-name-comforter-set-machine-washable",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 1,
+      "assets": 22,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "FxRu9Cb-",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "NpDHeTim",
+          "label": "Customize Your Item",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "",
+          "instructions": "Please enter your custom text or leave us your requests!"
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "NpDHeTim"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 57,
+    "url": "https://jeminise.com/products/custom-floral-butterfly-inspirational-blanket-machine-wash-design-8",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 2,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 2,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "2XdIiphb",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "xUR1otKX",
+          "label": "Custom Name",
+          "required": true,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "Sophia",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "xUR1otKX"
+        }
+      },
+      {
+        "path": "root.controlOrder[1]",
+        "fields": {
+          "type": "text",
+          "id": "LE8mvsan"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 58,
+    "url": "https://jeminise.com/products/custom-floral-butterfly-inspirational-blanket-machine-washable-d3",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 2,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 2,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "2XdIiphb",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "xUR1otKX",
+          "label": "Custom Name",
+          "required": true,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "Sophia",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "xUR1otKX"
+        }
+      },
+      {
+        "path": "root.controlOrder[1]",
+        "fields": {
+          "type": "text",
+          "id": "LE8mvsan"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 59,
+    "url": "https://jeminise.com/products/custom-floral-cross-bible-verse-blanket-machine-washable-d13",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 2,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 2,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "2XdIiphb",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "xUR1otKX",
+          "label": "Custom Name",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "Sophia",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "xUR1otKX"
+        }
+      },
+      {
+        "path": "root.controlOrder[1]",
+        "fields": {
+          "type": "text",
+          "id": "LE8mvsan"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 60,
+    "url": "https://jeminise.com/products/custom-floral-cross-with-butterflies-blanket-machine-washable-d6",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 2,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 2,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "2XdIiphb",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "xUR1otKX",
+          "label": "Custom Name",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "Sophia",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "xUR1otKX"
+        }
+      },
+      {
+        "path": "root.controlOrder[1]",
+        "fields": {
+          "type": "text",
+          "id": "LE8mvsan"
+        }
+      }
+    ]
+  }
+]

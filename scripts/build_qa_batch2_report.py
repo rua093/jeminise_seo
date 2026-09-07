@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 RUN_ID = "20260906_234129"
 QA_RUN_ID = "20260907_091545"
 QA_BATCH_ID = "qa_batch_002"
+R2_MODE = False
 QA_DIR = ROOT / "seo_runs" / "jeminise.com" / RUN_ID / "qa" / QA_RUN_ID
 OUT_DIR = ROOT / "resutls" / "jeminise.com" / RUN_ID / "qa" / QA_RUN_ID
 SOURCE = ROOT / "resutls" / "jeminise.com" / RUN_ID / "batches" / "SEO_Product_Optimization_through_batch_034.xlsx"
@@ -243,11 +244,18 @@ def main() -> None:
     # Findings affecting the product draft.
     for p in products:
         pos, pk = pk_to_pos[p["product_key"]], p["product_key"]
-        add_issue(issues, f"ISS-{pos:03d}-DESC", pk, "MAJOR", "description_proposed_html",
-                  "Review this draft against the live product page and Shopify export before approval.", "HTML kết thúc bằng lời nhắc review nội bộ.",
-                  "Nội dung quy trình nội bộ không được xuất hiện trên storefront.",
-                  "Rewrite as customer-facing English HTML and remove the internal review sentence.",
-                  p["evidence_id"], "Render full HTML and confirm no drafting/QA instruction remains.")
+        if R2_MODE:
+            add_issue(issues, f"R2-ISS-{pos:03d}-BODY", pk, "MAJOR", "description_proposed_html",
+                      p["description_proposed_html"], "Nội dung nội bộ đã được loại bỏ nhưng phần mô tả r2 còn chung chung và bỏ sót chi tiết mua hàng đã xác minh.",
+                      "Mô tả chưa tận dụng dimensions, thành phần, material/care và tùy chọn thực tế.",
+                      "Rewrite concise customer-facing English HTML using only verified product-specific facts and exact option/component wording.",
+                      p["evidence_id"], "Render HTML and confirm product-specific facts are complete and source-backed.")
+        else:
+            add_issue(issues, f"ISS-{pos:03d}-DESC", pk, "MAJOR", "description_proposed_html",
+                      "Review this draft against the live product page and Shopify export before approval.", "HTML kết thúc bằng lời nhắc review nội bộ.",
+                      "Nội dung quy trình nội bộ không được xuất hiện trên storefront.",
+                      "Rewrite as customer-facing English HTML and remove the internal review sentence.",
+                      p["evidence_id"], "Render full HTML and confirm no drafting/QA instruction remains.")
         add_issue(issues, f"ISS-{pos:03d}-ENC", pk, "MINOR", "title_current/H1_current",
                   p["title_current"], live[pos-11]["live"]["h1"], "Title/H1 live chứa ký tự thay thế U+FFFD và từ bị cắt.",
                   p["title_proposed"], p["product_url"], "Rendered title and H1 no longer contain U+FFFD or truncated words.")
@@ -255,6 +263,8 @@ def main() -> None:
     for pos in range(11,17):
         p = products[pos-11]
         opts = live[pos-11]["live"]["product_js"]["options"]
+        if R2_MODE:
+            continue
         add_issue(issues, f"ISS-{pos:03d}-PERS", p["product_key"], "CRITICAL",
                   "title/meta/description personalization claim", "Personalized / Personalize / custom name",
                   "Product.js chỉ có type/size, pillowcases và flat-sheet options; không có input tên, verse hoặc birth flower.",
@@ -276,12 +286,23 @@ def main() -> None:
               "Remove 'Christian Knight Templar' from customer copy unless the admin source mapping is corrected and evidenced.",
               p13["evidence_id"] + "; " + p13["product_url"], "Revised source mapping and HTML agree with the visible design.")
     p19 = products[8]
-    add_issue(issues, "ISS-019-PERS", p19["product_key"], "CRITICAL", "description_proposed_html personalization claim",
+    if R2_MODE:
+        # R2 is audited against the independently captured Customizer audit.
+        for pos in range(11,21):
+            p = products[pos-11]
+            add_issue(issues, f"R2-ISS-{pos:03d}-PERS", p["product_key"], "MAJOR", "personalization wording/Customizer mapping",
+                      p.get("title_proposed", ""), "Live Customizer exposes an Enter Name or Custom Your Name field, but r2 does not map the field accurately in the SEO copy.",
+                      "The copy must describe only the verified input label, required/optional state and character limit.",
+                      "Add accurate English customization wording from the live Customizer audit, including the exact field limit where present.",
+                      p["product_url"] + "; customizer_audit.json", "Open Customize and verify the field label, required state and persistence.")
+        p19 = None
+    if not R2_MODE:
+        add_issue(issues, "ISS-019-PERS", p19["product_key"], "CRITICAL", "description_proposed_html personalization claim",
               "Customization: 1 text input", "Product.js exposes only quilt size and pillowcase quantity; no text input is present.",
               "The draft states an unavailable purchasing feature.",
               "Remove the customization statement or provide a working text input with fulfillment evidence.",
               p19["product_url"] + "; live product.js options", "Live purchase flow accepts and preserves the claimed text value.")
-    add_issue(issues, "ISS-GLOBAL-ADMIN", "", "LIMITATION", "current admin SEO fields/current admin alt",
+    add_issue(issues, "ISS-GLOBAL-ADMIN" if not R2_MODE else "R2-ISS-GLOBAL-ADMIN", "", "LIMITATION", "current admin SEO fields/current admin alt",
               "Not supplied", "Storefront metadata and product.js media alt were readable, but no Shopify admin export was provided.",
               "Storefront values cannot prove current admin fields or future import mapping.",
               "Provide a frozen Shopify admin/export snapshot before approval or import mapping.", str(SOURCE),
@@ -311,7 +332,7 @@ def main() -> None:
         sev = Counter(x["severity"] for x in issue_by_product.get(pk, []))
         status = "QA_FAIL" if sev["CRITICAL"] or verified < 70 else ("QA_REVISE" if verified < 85 or sev["MAJOR"] else "QA_PASS")
         qa_products.append({"inventory_position":pos,"product_key":pk,"url":p["product_url"],"handle":p["Handle"],
-                            "product_id":str(p["product_id"]),"revision":"r1","verified_points":verified,
+                            "product_id":str(p["product_id"]),"revision":"r2" if R2_MODE else "r1","verified_points":verified,
                             "assessed_weight":100,"score_lower_bound":verified,"score_upper_bound":verified,"final_score":verified,
                             "qa_status":status,"keyword_evidence_level":p["keyword_evidence_level"],"images_expected":p["image_count"],
                             "images_checked":len(image_rows),"image_inventory_complete":True,"image_coverage":1.0,

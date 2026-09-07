@@ -1,0 +1,2641 @@
+{
+  "source": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+  "revision": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_007_r2\\SEO_Product_Optimization_qa_batch_007_r2.xlsx",
+  "sheets": {
+    "SEO_Products": {
+      "before_rows": 10,
+      "after_rows": 10,
+      "changed_rows": 10,
+      "changes": [
+        {
+          "row_id": "jeminise.com+custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Buyer is likely shopping for personalized football yard line comforter with David and number 35 as a custom sports bedroom item or personalized football gift.",
+              "after": "Buyer is likely shopping for personalized football yard line comforter with David and number 35 as a custom sports bedroom item or personalized football gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>This Jeminise comforter set features black and gold football field yard-line design with large football graphic, name David and number 35, giving football fans a personalized bedding design for a bedroom or gift.</p><h3>Design Details</h3><ul><li>Visible artwork: black and gold football field yard-line design with large football graphic, name David and number 35.</li><li>Source product details include: Brand: Jeminise; Product Type: Comforter; Material: Polyester; Fabric Type: Polyester; Fill Material: Microfiber; Selected Design: Golden Football; Style: Contemporary; Theme: Football; Seasons: All; Care Instructions: Machine wash with cold water, Tumble dry on low heat, Iron on low/medium heat.</li></ul><h3>SEO Use</h3><p>This draft targets a product-level query tied to the visible artwork, personalization and product type. It needs QA and approval before import.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Visible artwork: black and gold football field yard-line design with large football graphic, name David and number 35. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Visible artwork: black and gold football field yard-line design with large football graphic, name David and number 35.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; stored SEO fields, current alt text and exact admin media mapping should be verified before deployment. Batch contains many closely related football comforters; keyword cannibalization and final title uniqueness need QA.",
+              "after": "R2 revision after qa_batch_007: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-061-IMG-04, ISS-061-DESC, ISS-061-CANN, ISS-061-META."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target the specific football motif: personalized football yard line comforter with David and number 35. Keep broader football bedding terms for collections or only the strongest representative products.",
+              "after": "Target the specific football motif: personalized football yard line comforter with David and number 35. Keep broader football bedding terms for collections or only the strongest representative products"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 189,
+              "after": 188
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Shop a comforter set featuring black and gold football field yard-line design with large football graphic, name David and number 35. Review size and personalization options before checkout.",
+              "after": "Shop a comforter set featuring black and gold football field yard-line design with large football graphic, name David and number 35. Review size and personalization options before checkout"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Buyer is likely shopping for personalized American flag football comforter with John and number 15 as a custom sports bedroom item or personalized football gift.",
+              "after": "Buyer is likely shopping for personalized American flag football comforter with John and number 15 as a custom sports bedroom item or personalized football gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>This Jeminise comforter set features close-up football over a distressed American flag background with vertical John lettering and number 15, giving football fans a personalized bedding design for a bedroom or gift.</p><h3>Design Details</h3><ul><li>Visible artwork: close-up football over a distressed American flag background with vertical John lettering and number 15.</li><li>Source product details include: Brand: Jeminise; Product Type: Comforter; Material: Polyester; Fabric Type: Polyester; Color: Retro Football Art; Theme: Football; Seasons: All; Care Instructions: Machine wash with cold water, Tumble dry on low heat, Iron on low/medium heat.</li></ul><h3>SEO Use</h3><p>This draft targets a product-level query tied to the visible artwork, personalization and product type. It needs QA and approval before import.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Visible artwork: close-up football over a distressed American flag background with vertical John lettering and number 15. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Visible artwork: close-up football over a distressed American flag background with vertical John lettering and number 15.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; stored SEO fields, current alt text and exact admin media mapping should be verified before deployment. Batch contains many closely related football comforters; keyword cannibalization and final title uniqueness need QA.",
+              "after": "R2 revision after qa_batch_007: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-062-IMG-04, ISS-062-DESC, ISS-062-CANN, ISS-062-META."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target the specific football motif: personalized American flag football comforter with John and number 15. Keep broader football bedding terms for collections or only the strongest representative products.",
+              "after": "Target the specific football motif: personalized American flag football comforter with John and number 15. Keep broader football bedding terms for collections or only the strongest representative products"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 192,
+              "after": 191
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Shop a comforter set featuring close-up football over a distressed American flag background with vertical John lettering and number 15. Review size and personalization options before checkout.",
+              "after": "Shop a comforter set featuring close-up football over a distressed American flag background with vertical John lettering and number 15. Review size and personalization options before checkout"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Buyer is likely shopping for personalized flaming lightning football comforter with Andrew and number 33 as a custom sports bedroom item or personalized football gift.",
+              "after": "Buyer is likely shopping for personalized flaming lightning football comforter with Andrew and number 33 as a custom sports bedroom item or personalized football gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>This Jeminise comforter set features large football wrapped in orange flames and blue lightning on a black background with name Andrew and number 33, giving football fans a personalized bedding design for a bedroom or gift.</p><h3>Design Details</h3><ul><li>Visible artwork: large football wrapped in orange flames and blue lightning on a black background with name Andrew and number 33.</li><li>Source product details include: Brand: Jeminise; Product Type: Comforter Set; Material: Polyester; Fabric Type: Polyester; Selected Design: Fire & Thunder Football; Theme: Football; Seasons: All; Included Components: 1 Duvet Cover (or Comforter) + (Optional) Pillowcases; Care Instructions: Machine wash with cold water, Tumble dry on low heat, Iron on low/medium heat.</li></ul><h3>SEO Use</h3><p>This draft targets a product-level query tied to the visible artwork, personalization and product type. It needs QA and approval before import.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Visible artwork: large football wrapped in orange flames and blue lightning on a black background with name Andrew and number 33. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Visible artwork: large football wrapped in orange flames and blue lightning on a black background with name Andrew and number 33.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; stored SEO fields, current alt text and exact admin media mapping should be verified before deployment. Batch contains many closely related football comforters; keyword cannibalization and final title uniqueness need QA.",
+              "after": "R2 revision after qa_batch_007: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-063-IMG-04, ISS-063-DESC, ISS-063-CANN, ISS-063-META."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target the specific football motif: personalized flaming lightning football comforter with Andrew and number 33. Keep broader football bedding terms for collections or only the strongest representative products.",
+              "after": "Target the specific football motif: personalized flaming lightning football comforter with Andrew and number 33. Keep broader football bedding terms for collections or only the strongest representative products"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 200,
+              "after": 199
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Shop a comforter set featuring large football wrapped in orange flames and blue lightning on a black background with name Andrew and number 33. Review size and personalization options before checkout.",
+              "after": "Shop a comforter set featuring large football wrapped in orange flames and blue lightning on a black background with name Andrew and number 33. Review size and personalization options before checkout"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Buyer is likely shopping for personalized football helmet American flag comforter with John and number 8 as a custom sports bedroom item or personalized football gift.",
+              "after": "Buyer is likely shopping for personalized football helmet American flag comforter with John and number 8 as a custom sports bedroom item or personalized football gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>This Jeminise comforter set features red football helmet over a vintage American flag background with the name John and #8, giving football fans a personalized bedding design for a bedroom or gift.</p><h3>Design Details</h3><ul><li>Visible artwork: red football helmet over a vintage American flag background with the name John and #8.</li><li>Source product details include: Brand: Jeminise; Product Type: Comforter Set; Material: Polyester; Fabric Type: Polyester; Fill Material: Microfiber; Selected Design: Vintage Football Helmet; Theme: Football; Pattern: Football Helmet; Seasons: All; Care Instructions: Machine wash with cold water, Tumble dry on low heat, Iron on low/medium heat.</li></ul><h3>SEO Use</h3><p>This draft targets a product-level query tied to the visible artwork, personalization and product type. It needs QA and approval before import.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Visible artwork: red football helmet over a vintage American flag background with the name John and #8. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Visible artwork: red football helmet over a vintage American flag background with the name John and #8.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; stored SEO fields, current alt text and exact admin media mapping should be verified before deployment. Batch contains many closely related football comforters; keyword cannibalization and final title uniqueness need QA.",
+              "after": "R2 revision after qa_batch_007: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-064-IMG-04, ISS-064-DESC, ISS-064-CANN, ISS-064-META."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target the specific football motif: personalized football helmet American flag comforter with John and number 8. Keep broader football bedding terms for collections or only the strongest representative products.",
+              "after": "Target the specific football motif: personalized football helmet American flag comforter with John and number 8. Keep broader football bedding terms for collections or only the strongest representative products"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 174,
+              "after": 173
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Shop a comforter set featuring red football helmet over a vintage American flag background with the name John and #8. Review size and personalization options before checkout.",
+              "after": "Shop a comforter set featuring red football helmet over a vintage American flag background with the name John and #8. Review size and personalization options before checkout"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Buyer is likely shopping for personalized football helmet and flaming ball comforter with Matthew number 06 as a custom sports bedroom item or personalized football gift.",
+              "after": "Buyer is likely shopping for personalized football helmet and flaming ball comforter with Matthew number 06 as a custom sports bedroom item or personalized football gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>This Jeminise comforter set features black football helmet with number 06, flaming football trail, stadium-style dark background and name Matthew, giving football fans a personalized bedding design for a bedroom or gift.</p><h3>Design Details</h3><ul><li>Visible artwork: black football helmet with number 06, flaming football trail, stadium-style dark background and name Matthew.</li><li>Source product details include: Brand: Jeminise; Product Type: Comforter; Material: Polyester with Microfiber Filling; Fabric Type: Polyester; Selected Design: Football & Helmet on Fire; Style: Contemporary; Theme: Football; Pattern: Football & Helmet on Fire; Seasons: All; Care Instructions: Machine wash with cold water, Do not bleach, Tumble dry on low heat, Iron on low/medium heat.</li></ul><h3>SEO Use</h3><p>This draft targets a product-level query tied to the visible artwork, personalization and product type. It needs QA and approval before import.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Visible artwork: black football helmet with number 06, flaming football trail, stadium-style dark background and name Matthew. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Visible artwork: black football helmet with number 06, flaming football trail, stadium-style dark background and name Matthew.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; stored SEO fields, current alt text and exact admin media mapping should be verified before deployment. Batch contains many closely related football comforters; keyword cannibalization and final title uniqueness need QA.",
+              "after": "R2 revision after qa_batch_007: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-065-IMG-04, ISS-065-IMG-05, ISS-065-DESC, ISS-065-CANN, ISS-065-META."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target the specific football motif: personalized football helmet and flaming ball comforter with Matthew number 06. Keep broader football bedding terms for collections or only the strongest representative products.",
+              "after": "Target the specific football motif: personalized football helmet and flaming ball comforter with Matthew number 06. Keep broader football bedding terms for collections or only the strongest representative products"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 197,
+              "after": 196
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Shop a comforter set featuring black football helmet with number 06, flaming football trail, stadium-style dark background and name Matthew. Review size and personalization options before checkout.",
+              "after": "Shop a comforter set featuring black football helmet with number 06, flaming football trail, stadium-style dark background and name Matthew. Review size and personalization options before checkout"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Buyer is likely shopping for personalized football over American flag comforter with Andrew number 45 as a custom sports bedroom item or personalized football gift.",
+              "after": "Buyer is likely shopping for personalized football over American flag comforter with Andrew number 45 as a custom sports bedroom item or personalized football gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>This Jeminise comforter set features large close-up football over a distressed American flag with the name Andrew and number 45, giving football fans a personalized bedding design for a bedroom or gift.</p><h3>Design Details</h3><ul><li>Visible artwork: large close-up football over a distressed American flag with the name Andrew and number 45.</li><li>Source product details include: Brand: Jeminise; Product Type: Comforter; Material: Polyester; Fabric Type: Polyester; Color: Retro Football Flag; Style: Contemporary; Theme: Football; Pattern: American Flag; Seasons: All; Care Instructions: Machine Wash; Customization: 2 text inputs.</li></ul><h3>SEO Use</h3><p>This draft targets a product-level query tied to the visible artwork, personalization and product type. It needs QA and approval before import.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Visible artwork: large close-up football over a distressed American flag with the name Andrew and number 45. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Visible artwork: large close-up football over a distressed American flag with the name Andrew and number 45.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; stored SEO fields, current alt text and exact admin media mapping should be verified before deployment. Batch contains many closely related football comforters; keyword cannibalization and final title uniqueness need QA.",
+              "after": "R2 revision after qa_batch_007: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-066-IMG-04, ISS-066-DESC, ISS-066-CANN, ISS-066-META."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target the specific football motif: personalized football over American flag comforter with Andrew number 45. Keep broader football bedding terms for collections or only the strongest representative products.",
+              "after": "Target the specific football motif: personalized football over American flag comforter with Andrew number 45. Keep broader football bedding terms for collections or only the strongest representative products"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 179,
+              "after": 178
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Shop a comforter set featuring large close-up football over a distressed American flag with the name Andrew and number 45. Review size and personalization options before checkout.",
+              "after": "Shop a comforter set featuring large close-up football over a distressed American flag with the name Andrew and number 45. Review size and personalization options before checkout"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Buyer is likely shopping for personalized black football player comforter with William number 20 as a custom sports bedroom item or personalized football gift.",
+              "after": "Buyer is likely shopping for personalized black football player comforter with William number 20 as a custom sports bedroom item or personalized football gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>This Jeminise comforter set features black football player close-up holding a ball with orange honeycomb pattern, name William and number 20, giving football fans a personalized bedding design for a bedroom or gift.</p><h3>Design Details</h3><ul><li>Visible artwork: black football player close-up holding a ball with orange honeycomb pattern, name William and number 20.</li><li>Source product details include: Brand: Jeminise; Product Type: Comforter Set; Material: Polyester; Fabric Type: Polyester; Fill Material: Microfiber; Selected Design: Footballer Hold the Ball; Theme: Sports: Football; Pattern: Football Player Holding Ball; Style: Contemporary; Seasons: All; Care Instructions: Machine wash with cold water, Tumble dry on low heat, Iron on low/medium heat.</li></ul><h3>SEO Use</h3><p>This draft targets a product-level query tied to the visible artwork, personalization and product type. It needs QA and approval before import.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Visible artwork: black football player close-up holding a ball with orange honeycomb pattern, name William and number 20. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Visible artwork: black football player close-up holding a ball with orange honeycomb pattern, name William and number 20.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; stored SEO fields, current alt text and exact admin media mapping should be verified before deployment. Batch contains many closely related football comforters; keyword cannibalization and final title uniqueness need QA.",
+              "after": "R2 revision after qa_batch_007: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-067-IMG-04, ISS-067-DESC, ISS-067-CANN, ISS-067-META."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target the specific football motif: personalized black football player comforter with William number 20. Keep broader football bedding terms for collections or only the strongest representative products.",
+              "after": "Target the specific football motif: personalized black football player comforter with William number 20. Keep broader football bedding terms for collections or only the strongest representative products"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 192,
+              "after": 191
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Shop a comforter set featuring black football player close-up holding a ball with orange honeycomb pattern, name William and number 20. Review size and personalization options before checkout.",
+              "after": "Shop a comforter set featuring black football player close-up holding a ball with orange honeycomb pattern, name William and number 20. Review size and personalization options before checkout"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Buyer is likely shopping for personalized black and white football player helmet comforter with David number 15 as a custom sports bedroom item or personalized football gift.",
+              "after": "Buyer is likely shopping for personalized black and white football player helmet comforter with David number 15 as a custom sports bedroom item or personalized football gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>This Jeminise comforter set features black and white smoky football player and helmet artwork with name David and #15, giving football fans a personalized bedding design for a bedroom or gift.</p><h3>Design Details</h3><ul><li>Visible artwork: black and white smoky football player and helmet artwork with name David and #15.</li><li>Source product details include: Brand: Jeminise; Product Type: Comforter Set; Material: Microfiber Polyester; Color: Dark Football Art; Theme: Football / Sports; Style: Contemporary; Customization: Name and Number inputs; Available Sizes: Twin, Full, Queen, King; Care Instructions: Machine wash cold, tumble dry low.</li></ul><h3>SEO Use</h3><p>This draft targets a product-level query tied to the visible artwork, personalization and product type. It needs QA and approval before import.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Visible artwork: black and white smoky football player and helmet artwork with name David and #15. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Visible artwork: black and white smoky football player and helmet artwork with name David and #15.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; stored SEO fields, current alt text and exact admin media mapping should be verified before deployment. Batch contains many closely related football comforters; keyword cannibalization and final title uniqueness need QA.",
+              "after": "R2 revision after qa_batch_007: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-068-IMG-04, ISS-068-DESC, ISS-068-CANN, ISS-068-META."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target the specific football motif: personalized black and white football player helmet comforter with David number 15. Keep broader football bedding terms for collections or only the strongest representative products.",
+              "after": "Target the specific football motif: personalized black and white football player helmet comforter with David number 15. Keep broader football bedding terms for collections or only the strongest representative products"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 169,
+              "after": 168
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Shop a comforter set featuring black and white smoky football player and helmet artwork with name David and #15. Review size and personalization options before checkout.",
+              "after": "Shop a comforter set featuring black and white smoky football player and helmet artwork with name David and #15. Review size and personalization options before checkout"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Buyer is likely shopping for personalized football player collage comforter with Michael number 30 as a custom sports bedroom item or personalized football gift.",
+              "after": "Buyer is likely shopping for personalized football player collage comforter with Michael number 30 as a custom sports bedroom item or personalized football gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>This Jeminise comforter set features black football player collage with helmet and ball close-up, large Michael name and number 30 on pillows, giving football fans a personalized bedding design for a bedroom or gift.</p><h3>Design Details</h3><ul><li>Visible artwork: black football player collage with helmet and ball close-up, large Michael name and number 30 on pillows.</li><li>Source product details include: Brand: Jeminise; Product Type: Comforter; Material: Polyester; Fabric Type: Polyester; Color: Amazing Football Squad; Theme: Football; Seasons: All; Care Instructions: Machine wash with cold water, Tumble dry on low heat, Iron on low/medium heat.</li></ul><h3>SEO Use</h3><p>This draft targets a product-level query tied to the visible artwork, personalization and product type. It needs QA and approval before import.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Visible artwork: black football player collage with helmet and ball close-up, large Michael name and number 30 on pillows. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Visible artwork: black football player collage with helmet and ball close-up, large Michael name and number 30 on pillows.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; stored SEO fields, current alt text and exact admin media mapping should be verified before deployment. Batch contains many closely related football comforters; keyword cannibalization and final title uniqueness need QA.",
+              "after": "R2 revision after qa_batch_007: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-069-IMG-04, ISS-069-DESC, ISS-069-CANN, ISS-069-META."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target the specific football motif: personalized football player collage comforter with Michael number 30. Keep broader football bedding terms for collections or only the strongest representative products.",
+              "after": "Target the specific football motif: personalized football player collage comforter with Michael number 30. Keep broader football bedding terms for collections or only the strongest representative products"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 193,
+              "after": 192
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Shop a comforter set featuring black football player collage with helmet and ball close-up, large Michael name and number 30 on pillows. Review size and personalization options before checkout.",
+              "after": "Shop a comforter set featuring black football player collage with helmet and ball close-up, large Michael name and number 30 on pillows. Review size and personalization options before checkout"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Buyer is likely shopping for personalized camouflage football player comforter with Robert number 09 as a custom sports bedroom item or personalized football gift.",
+              "after": "Buyer is likely shopping for personalized camouflage football player comforter with Robert number 09 as a custom sports bedroom item or personalized football gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>This Jeminise comforter set features football player running with the ball over a green camouflage flag-style background, name Robert and number 09, giving football fans a personalized bedding design for a bedroom or gift.</p><h3>Design Details</h3><ul><li>Visible artwork: football player running with the ball over a green camouflage flag-style background, name Robert and number 09.</li><li>Source product details include: Brand: Jeminise; Product Type: Comforter; Material: Polyester; Fabric Type: Polyester; Selected Design: Camo Football Player; Theme: Football; Pattern: Camouflage; Seasons: All; Care Instructions: Machine Wash.</li></ul><h3>SEO Use</h3><p>This draft targets a product-level query tied to the visible artwork, personalization and product type. It needs QA and approval before import.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Visible artwork: football player running with the ball over a green camouflage flag-style background, name Robert and number 09. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Visible artwork: football player running with the ball over a green camouflage flag-style background, name Robert and number 09.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; stored SEO fields, current alt text and exact admin media mapping should be verified before deployment. Batch contains many closely related football comforters; keyword cannibalization and final title uniqueness need QA.",
+              "after": "R2 revision after qa_batch_007: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-070-IMG-04, ISS-070-DESC, ISS-070-CANN, ISS-070-META."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target the specific football motif: personalized camouflage football player comforter with Robert number 09. Keep broader football bedding terms for collections or only the strongest representative products.",
+              "after": "Target the specific football motif: personalized camouflage football player comforter with Robert number 09. Keep broader football bedding terms for collections or only the strongest representative products"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 199,
+              "after": 198
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Shop a comforter set featuring football player running with the ball over a green camouflage flag-style background, name Robert and number 09. Review size and personalization options before checkout.",
+              "after": "Shop a comforter set featuring football player running with the ball over a green camouflage flag-style background, name Robert and number 09. Review size and personalization options before checkout"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        }
+      ]
+    },
+    "Image_Audit": {
+      "before_rows": 60,
+      "after_rows": 60,
+      "changed_rows": 60,
+      "changes": [
+        {
+          "row_id": "('custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8', '47540314603719', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8', '47540314636487', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8', '47540314669255', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8', '47540314702023', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8', '47540314734791', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8', '47540314767559', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4', '47540197982407', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4', '47540198015175', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4', '47540198047943', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4', '47540198080711', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4', '47540198113479', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4', '47540198146247', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4', '47540211056839', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4', '47540211089607', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4', '47540211122375', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4', '47540211155143', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4', '47540211187911', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4', '47540211220679', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d', '47540276756679', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d', '47540276789447', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d', '47540276822215', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d', '47540276854983', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d', '47540276887751', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d', '47540276920519', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe', '47540135526599', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe', '47540135559367', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe', '47540135592135', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe', '47540135624903', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe', '47540135657671', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe', '47540135690439', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f', '47540266270919', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f', '47540266303687', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f', '47540266336455', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f', '47540266369223', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f', '47540266401991', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f', '47540266434759', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0', '47540311589063', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0', '47540311621831', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0', '47540311654599', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0', '47540311687367', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0', '47540311720135', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0', '47540311752903', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722', '47540254802119', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722', '47540254834887', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722', '47540254867655', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722', '47540254900423', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722', '47540254933191', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722', '47540254965959', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b', '47540159316167', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b', '47540159348935', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b', '47540159381703', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b', '47540159414471', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b', '47540159447239', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b', '47540159480007', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23', '47540221247687', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23', '47540221280455', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23', '47540221313223', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23', '47540221345991', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23', '47540221378759', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23', '47540221411527', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_007: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        }
+      ]
+    },
+    "Product_Evidence": {
+      "before_rows": 10,
+      "after_rows": 10,
+      "changed_rows": 10,
+      "changes": [
+        {
+          "row_id": "evidence_batch_007_061",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: storefront HTML, product JSON and contact sheet reviewed; admin export and QA are still required.",
+              "after": "R2 revised from qa_batch_007; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_007_062",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: storefront HTML, product JSON and contact sheet reviewed; admin export and QA are still required.",
+              "after": "R2 revised from qa_batch_007; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_007_063",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: storefront HTML, product JSON and contact sheet reviewed; admin export and QA are still required.",
+              "after": "R2 revised from qa_batch_007; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_007_064",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: storefront HTML, product JSON and contact sheet reviewed; admin export and QA are still required.",
+              "after": "R2 revised from qa_batch_007; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_007_065",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: storefront HTML, product JSON and contact sheet reviewed; admin export and QA are still required.",
+              "after": "R2 revised from qa_batch_007; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_007_066",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: storefront HTML, product JSON and contact sheet reviewed; admin export and QA are still required.",
+              "after": "R2 revised from qa_batch_007; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_007_067",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: storefront HTML, product JSON and contact sheet reviewed; admin export and QA are still required.",
+              "after": "R2 revised from qa_batch_007; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_007_068",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: storefront HTML, product JSON and contact sheet reviewed; admin export and QA are still required.",
+              "after": "R2 revised from qa_batch_007; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_007_069",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: storefront HTML, product JSON and contact sheet reviewed; admin export and QA are still required.",
+              "after": "R2 revised from qa_batch_007; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_007_070",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: storefront HTML, product JSON and contact sheet reviewed; admin export and QA are still required.",
+              "after": "R2 revised from qa_batch_007; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        }
+      ]
+    },
+    "Keyword_Map": {
+      "before_rows": 40,
+      "after_rows": 40,
+      "changed_rows": 40,
+      "changes": [
+        {
+          "row_id": "('jeminise.com+custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8', 'custom football bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8', 'football bedding for boys', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8', 'football comforter with name', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8', 'personalized football comforter', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4', 'American flag football comforter', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4', 'custom football comforter', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4', 'football bedding with name', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4', 'patriotic football bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4', 'custom football bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4', 'flaming football comforter', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4', 'football bedding set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4', 'football comforter with number', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d', 'custom football helmet bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d', 'football bedding with name', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d', 'football helmet comforter', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d', 'patriotic football comforter', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe', 'custom football bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe', 'football helmet bedding set', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe', 'football helmet comforter', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe', 'personalized sports comforter', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f', 'American flag football bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f', 'custom football bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f', 'football comforter with name', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f', 'personalized patriotic football comforter', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0', 'black football comforter', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0', 'custom football player bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0', 'football bedding with name', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0', 'football player comforter', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722', 'custom football player comforter', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722', 'football comforter with name', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722', 'football helmet bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722', 'personalized football bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b', 'custom football comforter', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b', 'football bedding set for boys', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b', 'football player comforter', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b', 'personalized football player bedding', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23', 'camo sports bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23', 'camouflage football comforter', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23', 'custom camouflage football bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23', 'football comforter with name', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to visible football artwork, personalization and product type.",
+              "after": "R2 after qa_batch_007: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        }
+      ]
+    },
+    "Buyer_Search_Research": {
+      "before_rows": 10,
+      "after_rows": 10,
+      "changed_rows": 10,
+      "changes": [
+        {
+          "row_id": "research_batch_007_061_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Create a sports-themed bedroom or give a personal football gift to a player or fan.",
+              "after": "Create a sports-themed bedroom or give a personal football gift to a player or fan"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find the right football design, size, bedding type and personalization details.",
+              "after": "Find the right football design, size, bedding type and personalization details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient.",
+              "after": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume. R2 note: qa_batch_007 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough.",
+              "after": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Shopping for personalized football yard line comforter with David and number 35.",
+              "after": "Shopping for personalized football yard line comforter with David and number 35"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use personalized football comforter as candidate product-page keyword.",
+              "after": "Use personalized football comforter as candidate product-page keyword"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_007_062_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Create a sports-themed bedroom or give a personal football gift to a player or fan.",
+              "after": "Create a sports-themed bedroom or give a personal football gift to a player or fan"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find the right football design, size, bedding type and personalization details.",
+              "after": "Find the right football design, size, bedding type and personalization details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient.",
+              "after": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume. R2 note: qa_batch_007 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough.",
+              "after": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Shopping for personalized American flag football comforter with John and number 15.",
+              "after": "Shopping for personalized American flag football comforter with John and number 15"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use American flag football comforter as candidate product-page keyword.",
+              "after": "Use American flag football comforter as candidate product-page keyword"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_007_063_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Create a sports-themed bedroom or give a personal football gift to a player or fan.",
+              "after": "Create a sports-themed bedroom or give a personal football gift to a player or fan"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find the right football design, size, bedding type and personalization details.",
+              "after": "Find the right football design, size, bedding type and personalization details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient.",
+              "after": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume. R2 note: qa_batch_007 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough.",
+              "after": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Shopping for personalized flaming lightning football comforter with Andrew and number 33.",
+              "after": "Shopping for personalized flaming lightning football comforter with Andrew and number 33"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use flaming football comforter as candidate product-page keyword.",
+              "after": "Use flaming football comforter as candidate product-page keyword"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_007_064_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Create a sports-themed bedroom or give a personal football gift to a player or fan.",
+              "after": "Create a sports-themed bedroom or give a personal football gift to a player or fan"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find the right football design, size, bedding type and personalization details.",
+              "after": "Find the right football design, size, bedding type and personalization details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient.",
+              "after": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume. R2 note: qa_batch_007 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough.",
+              "after": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Shopping for personalized football helmet American flag comforter with John and number 8.",
+              "after": "Shopping for personalized football helmet American flag comforter with John and number 8"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use football helmet comforter as candidate product-page keyword.",
+              "after": "Use football helmet comforter as candidate product-page keyword"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_007_065_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Create a sports-themed bedroom or give a personal football gift to a player or fan.",
+              "after": "Create a sports-themed bedroom or give a personal football gift to a player or fan"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find the right football design, size, bedding type and personalization details.",
+              "after": "Find the right football design, size, bedding type and personalization details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient.",
+              "after": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume. R2 note: qa_batch_007 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough.",
+              "after": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Shopping for personalized football helmet and flaming ball comforter with Matthew number 06.",
+              "after": "Shopping for personalized football helmet and flaming ball comforter with Matthew number 06"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use football helmet bedding set as candidate product-page keyword.",
+              "after": "Use football helmet bedding set as candidate product-page keyword"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_007_066_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Create a sports-themed bedroom or give a personal football gift to a player or fan.",
+              "after": "Create a sports-themed bedroom or give a personal football gift to a player or fan"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find the right football design, size, bedding type and personalization details.",
+              "after": "Find the right football design, size, bedding type and personalization details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient.",
+              "after": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume. R2 note: qa_batch_007 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough.",
+              "after": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Shopping for personalized football over American flag comforter with Andrew number 45.",
+              "after": "Shopping for personalized football over American flag comforter with Andrew number 45"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use personalized patriotic football comforter as candidate product-page keyword.",
+              "after": "Use personalized patriotic football comforter as candidate product-page keyword"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_007_067_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Create a sports-themed bedroom or give a personal football gift to a player or fan.",
+              "after": "Create a sports-themed bedroom or give a personal football gift to a player or fan"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find the right football design, size, bedding type and personalization details.",
+              "after": "Find the right football design, size, bedding type and personalization details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient.",
+              "after": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume. R2 note: qa_batch_007 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough.",
+              "after": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Shopping for personalized black football player comforter with William number 20.",
+              "after": "Shopping for personalized black football player comforter with William number 20"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use football player comforter as candidate product-page keyword.",
+              "after": "Use football player comforter as candidate product-page keyword"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_007_068_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Create a sports-themed bedroom or give a personal football gift to a player or fan.",
+              "after": "Create a sports-themed bedroom or give a personal football gift to a player or fan"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find the right football design, size, bedding type and personalization details.",
+              "after": "Find the right football design, size, bedding type and personalization details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient.",
+              "after": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume. R2 note: qa_batch_007 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough.",
+              "after": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Shopping for personalized black and white football player helmet comforter with David number 15.",
+              "after": "Shopping for personalized black and white football player helmet comforter with David number 15"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use custom football player comforter as candidate product-page keyword.",
+              "after": "Use custom football player comforter as candidate product-page keyword"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_007_069_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Create a sports-themed bedroom or give a personal football gift to a player or fan.",
+              "after": "Create a sports-themed bedroom or give a personal football gift to a player or fan"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find the right football design, size, bedding type and personalization details.",
+              "after": "Find the right football design, size, bedding type and personalization details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient.",
+              "after": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume. R2 note: qa_batch_007 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough.",
+              "after": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Shopping for personalized football player collage comforter with Michael number 30.",
+              "after": "Shopping for personalized football player collage comforter with Michael number 30"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use personalized football player bedding as candidate product-page keyword.",
+              "after": "Use personalized football player bedding as candidate product-page keyword"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_007_070_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Create a sports-themed bedroom or give a personal football gift to a player or fan.",
+              "after": "Create a sports-themed bedroom or give a personal football gift to a player or fan"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find the right football design, size, bedding type and personalization details.",
+              "after": "Find the right football design, size, bedding type and personalization details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient.",
+              "after": "When shopping for personalized football bedding, the buyer wants a coordinated comforter set with a design, name and number that fit the recipient"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; public results are query comparables, not volume. R2 note: qa_batch_007 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough.",
+              "after": "Fit, included components, material/care claims, personalization spelling, jersey number accuracy and whether similar designs are distinct enough"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Shopping for personalized camouflage football player comforter with Robert number 09.",
+              "after": "Shopping for personalized camouflage football player comforter with Robert number 09"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use camouflage football comforter as candidate product-page keyword.",
+              "after": "Use camouflage football comforter as candidate product-page keyword"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

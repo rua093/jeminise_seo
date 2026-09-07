@@ -1,0 +1,172 @@
+[
+  {
+    "product_key": "jeminise.com+custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8",
+    "snapshot_checked_at": "2026-09-06T17:26:49.041607+00:00",
+    "live_checked_at": "2026-09-07T16:46:08.209843+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "00ad7e3d3450443978622ff02b99430e6f0a9053f1c63121a786ce125450d5ca",
+    "live_html_sha256": "8b19ac3c13fc3cf14e2093e030dc21610004c3a6c57d3efc78c8bb4b83683676",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4",
+    "snapshot_checked_at": "2026-09-06T17:26:49.041607+00:00",
+    "live_checked_at": "2026-09-07T16:46:09.386465+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "68aa362fd9a8ce925d004a35d21a1845b5e4cc3b25a12ff06437a7a918415866",
+    "live_html_sha256": "173e87b60b63b7907d946a831199429337309ed96944eec0be13069dc4c118de",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4",
+    "snapshot_checked_at": "2026-09-06T17:26:49.041607+00:00",
+    "live_checked_at": "2026-09-07T16:46:10.663603+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "3e7a8ff38bf0a4d55d61c81eba4ce723bd65fc436c1d1da591d076dc5cbc88b6",
+    "live_html_sha256": "39a01bb490270f1c00342d134b23e129d28434a5b04db50618dc47e1e33c2a57",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d",
+    "snapshot_checked_at": "2026-09-06T17:26:49.041607+00:00",
+    "live_checked_at": "2026-09-07T16:46:12.017634+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "7998546be3cd1beeccd1596483fc16b90fd9aa939d02100377d3466e615640a7",
+    "live_html_sha256": "2be62a9c972760fd58724ea633e4edbe4c3cf5c047bb2fb63e991f9fe4ecf921",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe",
+    "snapshot_checked_at": "2026-09-06T17:26:49.041607+00:00",
+    "live_checked_at": "2026-09-07T16:46:13.135104+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "ec8ec6d95dba4548682672487c1f7ebc5c53f3b4964637fb1741f901f0f1819f",
+    "live_html_sha256": "6694eaef0b404104484a45cd7c6055fa158f79c307d030af4f1b03e007d8f618",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f",
+    "snapshot_checked_at": "2026-09-06T17:26:49.041607+00:00",
+    "live_checked_at": "2026-09-07T16:46:14.235418+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "58ae30bdaabfd25ab0f7c6be83f3b87a8c6b1ed6d3a03bb725c5691533a37cfe",
+    "live_html_sha256": "5b551cc74db0f2c049f63788c56d909107ac54dfb0a74bdfd6238eaf2c76d519",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0",
+    "snapshot_checked_at": "2026-09-06T17:26:49.041607+00:00",
+    "live_checked_at": "2026-09-07T16:46:15.419877+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "7d0fedd755d232d83f2975a42902d3f9f2dfce4050db9f35b8a935af7c5eb754",
+    "live_html_sha256": "53d9107203d5b7fb773ec4e5beb0c088b75db5a54c525668449fe4851cf9a377",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722",
+    "snapshot_checked_at": "2026-09-06T17:26:49.041607+00:00",
+    "live_checked_at": "2026-09-07T16:46:16.499668+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "e8d778ce696fda40c060a86b87ae7a3911481e45dfd077d7a10ca5d95ac431ec",
+    "live_html_sha256": "49fc17d981c66add955b47a2c221f0f9a51324cfe929e2bba3c304f077fee70e",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b",
+    "snapshot_checked_at": "2026-09-06T17:26:49.041607+00:00",
+    "live_checked_at": "2026-09-07T16:46:17.830981+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "182ede31c00e8bb8af2caf7625a4461e7da9810d565dee3f4a2aa48a6d62d82c",
+    "live_html_sha256": "e7b19f9b4f4e5025cf2ddea19630917cc67974a9452968f7bdcddd8e2f2ba741",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23",
+    "snapshot_checked_at": "2026-09-06T17:26:49.041607+00:00",
+    "live_checked_at": "2026-09-07T16:46:18.985064+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "344ece96121aed02d191279b1c7c5393933ff55bb9cd55c41a7945e4cf08a88b",
+    "live_html_sha256": "a65f962cc7b27c0063a43bfb48bb7f6f584f35ff9fde72fb2c939a2a3ce01d68",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  }
+]

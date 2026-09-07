@@ -1,0 +1,3186 @@
+{
+  "source": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+  "revision": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_001_r2\\SEO_Product_Optimization_qa_batch_001_r2.xlsx",
+  "sheets": {
+    "SEO_Products": {
+      "before_rows": 10,
+      "after_rows": 10,
+      "changed_rows": 10,
+      "changes": [
+        {
+          "row_id": "jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Customer may be looking for warm seasonal bedding with cardinal and sunflower artwork for a guest room or gift.",
+              "after": "Customer may be looking for warm seasonal bedding with cardinal and sunflower artwork for a guest room or gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>Bring distinctive red cardinals, large yellow sunflowers, autumn leaves artwork into the bedroom with this Jeminise quilt set. The design is shown across the main bedding piece and matching sham artwork, giving the set a coordinated look.</p><h3>Design Details</h3><ul><li>Quilt set with red cardinal birds and large sunflower artwork on bed mockups, pillow sham, close-up quilting texture, and size information image.</li><li>Available product details from the source include: Brand: Jeminise; Product Type: Quilt Set; Material: Polyester; Fabric Type: Polyester; Color: Xmas Couple Red Bird; Style: Animal; Theme: Bird; Pattern: Patchwork; Seasons: Winter; Care Instructions: Machine Wash; Available Sizes: Throw/Twin/Full/Queen/King; Customization: 1 text input.</li></ul><h3>Why It Works</h3><p>Customer may be looking for warm seasonal bedding with cardinal and sunflower artwork for a guest room or gift. This draft should be reviewed against the live product page and admin export before approval.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise quilt set featuring red cardinals, large yellow sunflowers, autumn leaves. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: red cardinals, large yellow sunflowers, autumn leaves.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; Shopify stored SEO fields, current image alt text and Product ID mapping should be verified before deployment.",
+              "after": "R2 revision after qa_batch_001: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-001-IMG-05, ISS-001-DESC, ISS-001-KW."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target a product-level purchase query tied to red cardinals, large yellow sunflowers, autumn leaves; keep broader category terms for collections.",
+              "after": "Target a product-level purchase query tied to red cardinals, large yellow sunflowers, autumn leaves; keep broader category terms for collections"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 114,
+              "after": 113
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Add warm fall color with a Jeminise quilt set featuring red cardinals, large sunflowers and matching sham artwork.",
+              "after": "Add warm fall color with a Jeminise quilt set featuring red cardinals, large sunflowers and matching sham artwork"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Customer is likely shopping for sports-themed bedding for a softball player, fan, teen bedroom or gift.",
+              "after": "Customer is likely shopping for sports-themed bedding for a softball player, fan, teen bedroom or gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>Bring distinctive softball patchwork in teal, black and white with player silhouettes and text artwork into the bedroom with this Jeminise comforter set. The design is shown across the main bedding piece and matching sham artwork, giving the set a coordinated look.</p><h3>Design Details</h3><ul><li>Teal, black and white softball comforter set with player silhouettes, number 88, the name riley, eat sleep softball text, pillowcases, folded comforter and feature images.</li><li>Available product details from the source include: Brand: Jeminise; Product Type: Comforter Set; Material: Polyester; Fabric Type: 70% Cotton, 30% Polyester; Selected Design: Softball Design 05; Theme: Sport; Available Sizes: Twin, Full, Queen, King; Included Components: Comforter; Special Feature: Fade Resistant; Seasons: Fall, Spring, Summer; Care Instructions: Machine Wash.</li></ul><h3>Why It Works</h3><p>Customer is likely shopping for sports-themed bedding for a softball player, fan, teen bedroom or gift. This draft should be reviewed against the live product page and admin export before approval.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring softball patchwork in teal, black and white with player silhouettes and text. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: softball patchwork in teal, black and white with player silhouettes and text.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; Shopify stored SEO fields, current image alt text and Product ID mapping should be verified before deployment.",
+              "after": "R2 revision after qa_batch_001: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-002-IMG-02, ISS-002-IMG-04, ISS-002-IMG-05, ISS-002-IMG-07, ISS-002-DESC, ISS-002-ENC."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target a product-level purchase query tied to softball patchwork in teal, black and white with player silhouettes and text; keep broader category terms for collections.",
+              "after": "Target a product-level purchase query tied to softball patchwork in teal, black and white with player silhouettes and text; keep broader category terms for collections"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 147,
+              "after": 146
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Refresh a softball fan's room with a teal, black and white comforter set featuring player silhouettes, patchwork graphics and matching pillowcases.",
+              "after": "Refresh a softball fan's room with a teal, black and white comforter set featuring player silhouettes, patchwork graphics and matching pillowcases"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Customer may be seeking a Christmas bedding gift with cardinal remembrance symbolism and comforting memorial text.",
+              "after": "Customer may be seeking a Christmas bedding gift with cardinal remembrance symbolism and comforting memorial text"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>Bring distinctive red cardinals beside a decorated Christmas tree with memorial text artwork into the bedroom with this Jeminise quilt set. The design is shown across the main bedding piece and matching sham artwork, giving the set a coordinated look.</p><h3>Design Details</h3><ul><li>Christmas quilt set showing red cardinals, snowy decorated tree, ornaments, red border, pillow sham and the text i am always with you.</li><li>Available product details from the source include: Brand: Jeminise; Product Type: Quilt Set; Material: Polyester; Fill Material: Silk Floss; Selected Design: Xmas Red Bird-01; Theme: Bird; Pattern: Cardinal Christmas Tree; Seasons: Winter / All Seasons; Care Instructions: Machine Wash.</li></ul><h3>Why It Works</h3><p>Customer may be seeking a Christmas bedding gift with cardinal remembrance symbolism and comforting memorial text. This draft should be reviewed against the live product page and admin export before approval.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise quilt set featuring red cardinals beside a decorated Christmas tree with memorial text. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: red cardinals beside a decorated Christmas tree with memorial text.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; Shopify stored SEO fields, current image alt text and Product ID mapping should be verified before deployment.",
+              "after": "R2 revision after qa_batch_001: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-003-IMG-05, ISS-003-DESC, ISS-003-SERP."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target a product-level purchase query tied to red cardinals beside a decorated Christmas tree with memorial text; keep broader category terms for collections.",
+              "after": "Target a product-level purchase query tied to red cardinals beside a decorated Christmas tree with memorial text; keep broader category terms for collections"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 141,
+              "after": 140
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Create a comforting Christmas bedroom display with a cardinal quilt showing red birds, a snowy tree, ornaments and I Am Always with You text.",
+              "after": "Create a comforting Christmas bedroom display with a cardinal quilt showing red birds, a snowy tree, ornaments and I Am Always with You text"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Customer may want a remembrance gift or sentimental bedroom update featuring cardinal symbolism and roses.",
+              "after": "Customer may want a remembrance gift or sentimental bedroom update featuring cardinal symbolism and roses"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>Bring distinctive male and female cardinal pair on a branch with red roses and memorial text artwork into the bedroom with this Jeminise quilt set. The design is shown across the main bedding piece and matching sham artwork, giving the set a coordinated look.</p><h3>Design Details</h3><ul><li>White and red quilt set with cardinal pair on a branch, red roses, falling petals, pillow sham and the text i am always with you.</li><li>Available product details from the source include: Brand: Jeminise; Product Type: Quilt Set; Material: Polyester; Color: Xmas Red Bird-10; Style: Animal; Theme: Bird; Pattern: Floral with Animal theme; Seasons: Winter; Customization: 1 text input; Care Instructions: Machine Wash.</li></ul><h3>Why It Works</h3><p>Customer may want a remembrance gift or sentimental bedroom update featuring cardinal symbolism and roses. This draft should be reviewed against the live product page and admin export before approval.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise quilt set featuring male and female cardinal pair on a branch with red roses and memorial text. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: male and female cardinal pair on a branch with red roses and memorial text.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; Shopify stored SEO fields, current image alt text and Product ID mapping should be verified before deployment.",
+              "after": "R2 revision after qa_batch_001: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-004-IMG-05, ISS-004-DESC, ISS-004-SERP."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target a product-level purchase query tied to male and female cardinal pair on a branch with red roses and memorial text; keep broader category terms for collections.",
+              "after": "Target a product-level purchase query tied to male and female cardinal pair on a branch with red roses and memorial text; keep broader category terms for collections"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 128,
+              "after": 127
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "A soft memorial-style quilt set featuring a cardinal pair, red roses and I Am Always with You text for meaningful bedroom decor.",
+              "after": "A soft memorial-style quilt set featuring a cardinal pair, red roses and I Am Always with You text for meaningful bedroom decor"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Customer is likely shopping for cat-themed bedding or a gift for someone who likes colorful animal decor.",
+              "after": "Customer is likely shopping for cat-themed bedding or a gift for someone who likes colorful animal decor"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>Bring distinctive large colorful cat face in patchwork blocks artwork into the bedroom with this Jeminise quilt set. The design is shown across the main bedding piece and matching sham artwork, giving the set a coordinated look.</p><h3>Design Details</h3><ul><li>Quilt set with a large colorful patchwork cat face, matching pillow shams, bedroom mockups, fabric feature images and sizing chart.</li><li>Available product details from the source include: Brand: Jeminise; Product Type: Quilt Sets; Material: Polycotton; Fabric Type: Polycotton; Pattern: Dragonfly; Selected Design: Cat Patchwork; Theme: Farmhouse Print; Style: Patchwork Style Pattern; Customization: 1 text input (for name); Available Sizes: Throw (60''x70''), Twin (68\"x86\"), Full (80''x90''), Queen (90''x90''), King (102''x91''); Included Components: 1 Quilt + 2 Pillowcase (Optional); Care Instructions: Machine Wash.</li></ul><h3>Why It Works</h3><p>Customer is likely shopping for cat-themed bedding or a gift for someone who likes colorful animal decor. This draft should be reviewed against the live product page and admin export before approval.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise quilt set featuring large colorful cat face in patchwork blocks. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: large colorful cat face in patchwork blocks.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; Shopify stored SEO fields, current image alt text and Product ID mapping should be verified before deployment.",
+              "after": "R2 revision after qa_batch_001: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-005-IMG-02, ISS-005-IMG-03, ISS-005-IMG-04, ISS-005-DESC, ISS-005-FACT, ISS-005-SERP."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target a product-level purchase query tied to large colorful cat face in patchwork blocks; keep broader category terms for collections.",
+              "after": "Target a product-level purchase query tied to large colorful cat face in patchwork blocks; keep broader category terms for collections"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 141,
+              "after": 140
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Bring playful animal style to the bedroom with a colorful cat patchwork quilt set, matching sham artwork and soft all-season bedding details.",
+              "after": "Bring playful animal style to the bedroom with a colorful cat patchwork quilt set, matching sham artwork and soft all-season bedding details"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Customer may be comparing cat-themed quilt designs and prefer a calmer geometric sitting-cat look.",
+              "after": "Customer may be comparing cat-themed quilt designs and prefer a calmer geometric sitting-cat look"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>Bring distinctive sitting cat in geometric patchwork colors on beige leaf background artwork into the bedroom with this Jeminise quilt set. The design is shown across the main bedding piece and matching sham artwork, giving the set a coordinated look.</p><h3>Design Details</h3><ul><li>Quilt set with a seated cat illustration in orange, black and beige geometric patchwork, leaf accents, pillow shams, feature images and sizing chart.</li><li>Available product details from the source include: Brand: Jeminise; Product Type: Quilt Sets; Material: Polycotton; Fabric Type: Polycotton; Selected Design: Dragonfly; Theme: Farmhouse Print; Style: Patchwork Style Pattern; Included Components: 1 Quilt + 2 Pillowcase (Optional); Available Sizes: Throw (60''x70''), Twin (68\"x86\"), Full (80\"x90\"), Queen (90\"x90\"), King (102\"x91\"); Customization: 1 text input for name; Care Instructions: Machine Wash.</li></ul><h3>Why It Works</h3><p>Customer may be comparing cat-themed quilt designs and prefer a calmer geometric sitting-cat look. This draft should be reviewed against the live product page and admin export before approval.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise quilt set featuring sitting cat in geometric patchwork colors on beige leaf background. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: sitting cat in geometric patchwork colors on beige leaf background.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; Shopify stored SEO fields, current image alt text and Product ID mapping should be verified before deployment.",
+              "after": "R2 revision after qa_batch_001: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-006-IMG-02, ISS-006-IMG-03, ISS-006-IMG-04, ISS-006-DESC, ISS-006-KW, ISS-006-FACT."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target a product-level purchase query tied to sitting cat in geometric patchwork colors on beige leaf background; keep broader category terms for collections.",
+              "after": "Target a product-level purchase query tied to sitting cat in geometric patchwork colors on beige leaf background; keep broader category terms for collections"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 129,
+              "after": 128
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Style a cat lover's room with a geometric sitting-cat quilt set in warm beige, orange and black tones with matching sham artwork.",
+              "after": "Style a cat lover's room with a geometric sitting-cat quilt set in warm beige, orange and black tones with matching sham artwork"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Customer may be shopping for fantasy, pagan-inspired or Celtic bedroom decor with tree and knotwork artwork.",
+              "after": "Customer may be shopping for fantasy, pagan-inspired or Celtic bedroom decor with tree and knotwork artwork"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>Bring distinctive twisting tree trunk with exposed roots and Celtic knot border artwork into the bedroom with this Jeminise quilt set. The design is shown across the main bedding piece and matching sham artwork, giving the set a coordinated look.</p><h3>Design Details</h3><ul><li>Fantasy quilt set with a twisting tree, exposed roots, teal night sky, hills, stars, celtic knot border, pillow shams and feature images.</li><li>Available product details from the source include: Brand: Jeminise; Product Type: Quilt Set; Material: Polyester; Fabric Type: Polyester; Style: Farmhouse; Theme: Tree of Life, Flowers; Pattern: Yggdrasil, Flowers, Tree; Included Components: Quilt + Pillowcase (Optional); Care Instructions: Machine Wash.</li></ul><h3>Why It Works</h3><p>Customer may be shopping for fantasy, pagan-inspired or Celtic bedroom decor with tree and knotwork artwork. This draft should be reviewed against the live product page and admin export before approval.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise quilt set featuring twisting tree trunk with exposed roots and Celtic knot border. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: twisting tree trunk with exposed roots and Celtic knot border.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; Shopify stored SEO fields, current image alt text and Product ID mapping should be verified before deployment.",
+              "after": "R2 revision after qa_batch_001: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-007-IMG-02, ISS-007-IMG-03, ISS-007-IMG-04, ISS-007-DESC."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target a product-level purchase query tied to twisting tree trunk with exposed roots and Celtic knot border; keep broader category terms for collections.",
+              "after": "Target a product-level purchase query tied to twisting tree trunk with exposed roots and Celtic knot border; keep broader category terms for collections"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 134,
+              "after": 133
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Add fantasy woodland style with a Celtic tree quilt set featuring a twisting trunk, exposed roots, teal night sky and knotwork border.",
+              "after": "Add fantasy woodland style with a Celtic tree quilt set featuring a twisting trunk, exposed roots, teal night sky and knotwork border"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Customer may search for Tree of Life or Celtic knotwork bedding as spiritual, fantasy or heritage-inspired decor.",
+              "after": "Customer may search for Tree of Life or Celtic knotwork bedding as spiritual, fantasy or heritage-inspired decor"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>Bring distinctive green tree of life medallion with Celtic knotwork border artwork into the bedroom with this Jeminise quilt set. The design is shown across the main bedding piece and matching sham artwork, giving the set a coordinated look.</p><h3>Design Details</h3><ul><li>Green tree of life quilt set with circular medallion artwork, celtic knotwork border, matching pillow shams, feature images and sizing chart.</li><li>Available product details from the source include: Brand: Jeminise; Product Type: Quilt Set; Material: Polyester; Fabric Type: Polyester; Fill Material: Silk Floss; Selected Design: Tree of Life-ds12; Style: Farmhouse; Theme: Tree of life, Celtic mythology; Pattern: Yggdrasil, Tree of Life; Included Components: 1 Quilt + Pillowcases (Optional); Available Sizes: Throw (60x70 inches), Twin (68x86 inches), Full (80x90 inches), Queen (90x90 inches), King (91x102 inches); Care Instructions: Machine Wash.</li></ul><h3>Why It Works</h3><p>Customer may search for Tree of Life or Celtic knotwork bedding as spiritual, fantasy or heritage-inspired decor. This draft should be reviewed against the live product page and admin export before approval.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise quilt set featuring green tree of life medallion with Celtic knotwork border. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: green tree of life medallion with Celtic knotwork border.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; Shopify stored SEO fields, current image alt text and Product ID mapping should be verified before deployment.",
+              "after": "R2 revision after qa_batch_001: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-008-IMG-02, ISS-008-IMG-03, ISS-008-IMG-04, ISS-008-DESC."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target a product-level purchase query tied to green tree of life medallion with Celtic knotwork border; keep broader category terms for collections.",
+              "after": "Target a product-level purchase query tied to green tree of life medallion with Celtic knotwork border; keep broader category terms for collections"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 121,
+              "after": 120
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Give the bedroom a Celtic focal point with a green Tree of Life quilt set, circular medallion design and knotwork border.",
+              "after": "Give the bedroom a Celtic focal point with a green Tree of Life quilt set, circular medallion design and knotwork border"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Customer may want rustic farmhouse bedding, country animal decor or a chicken-lover gift.",
+              "after": "Customer may want rustic farmhouse bedding, country animal decor or a chicken-lover gift"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>Bring distinctive farmhouse chicken and hen pattern with nest and eggs artwork into the bedroom with this Jeminise quilt set. The design is shown across the main bedding piece and matching sham artwork, giving the set a coordinated look.</p><h3>Design Details</h3><ul><li>White farmhouse quilt set with chicken and hen illustrations, nest with eggs, red comb accents, black patchwork border, pillow shams and feature images.</li><li>Available product details from the source include: Brand: Jeminise; Product Type: Quilt Set; Material: Polycotton; Fabric Type: Polycotton; Color: Dragonfly; Style: Patchwork Style Pattern; Theme: Farmhouse Print; Pattern: Dragonfly; Included Components: 1 Quilt + 2 Pillowcase (Optional); Customization: 1 text input; Available Sizes: 5 sizes; Product Care Instructions: Machine Wash.</li></ul><h3>Why It Works</h3><p>Customer may want rustic farmhouse bedding, country animal decor or a chicken-lover gift. This draft should be reviewed against the live product page and admin export before approval.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise quilt set featuring farmhouse chicken and hen pattern with nest and eggs. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: farmhouse chicken and hen pattern with nest and eggs.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; Shopify stored SEO fields, current image alt text and Product ID mapping should be verified before deployment.",
+              "after": "R2 revision after qa_batch_001: removed internal SEO/QA/import language; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-009-IMG-02, ISS-009-IMG-03, ISS-009-IMG-04, ISS-009-DESC, ISS-009-FACT."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target a product-level purchase query tied to farmhouse chicken and hen pattern with nest and eggs; keep broader category terms for collections.",
+              "after": "Target a product-level purchase query tied to farmhouse chicken and hen pattern with nest and eggs; keep broader category terms for collections"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 134,
+              "after": 133
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Add country charm with a farmhouse chicken quilt set featuring hens, nest-and-egg artwork, black patchwork accents and matching shams.",
+              "after": "Add country charm with a farmhouse chicken quilt set featuring hens, nest-and-egg artwork, black patchwork accents and matching shams"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01",
+          "changes": [
+            {
+              "field": "buyer_search_summary",
+              "before": "Customer may be shopping for a personalized Christian gift for a woman, daughter, mom or faith-centered bedroom.",
+              "after": "Customer may be shopping for a Christian gift for a woman, daughter, mom or faith-centered bedroom"
+            },
+            {
+              "field": "description_proposed_html",
+              "before": "<p>Bring distinctive personalized Christian God Says I Am design with name Jessica, flowers and butterflies artwork into the bedroom with this Jeminise comforter set. The design is shown across the main bedding piece and matching sham artwork, giving the set a coordinated look.</p><h3>Design Details</h3><ul><li>Purple and white christian bedding showing god says i am, the name jessica, bible verse affirmations, flowers, butterflies, bedding type guide, birth month flowers and size chart.</li><li>Available product details from the source include: Brand: Jeminise; Product Type: Comforter Set; Material: Polyester; Pattern: Letter Print; Available Sizes: Twin, Full, Queen, King; Care Instructions: Machine washable; wash separately in cold water and air dry without heat.</li></ul><h3>Why It Works</h3><p>Customer may be shopping for a personalized Christian gift for a woman, daughter, mom or faith-centered bedroom. This draft should be reviewed against the live product page and admin export before approval.</p>",
+              "after": "<p>Add themed style to the bedroom with this Jeminise comforter set featuring Christian God Says I Am design with themed artwork Jessica, flowers and butterflies. The artwork is shown across the main bedding mockup and coordinated pillow or sham images where included.</p><h3>Design Details</h3><ul><li>Artwork focus: Christian God Says I Am design with themed artwork Jessica, flowers and butterflies.</li><li>Gallery images show the main bedding view, detail views, fabric or care graphics, and included-component visuals where available.</li></ul><h3>Product Options</h3><ul><li>Choose from the available size and pillowcase options shown on the product page.</li><li>Review the live product options before checkout to confirm the selected configuration.</li></ul>"
+            },
+            {
+              "field": "issues",
+              "before": "Admin export not provided; Shopify stored SEO fields, current image alt text and Product ID mapping should be verified before deployment.",
+              "after": "R2 revision after qa_batch_001: removed internal SEO/QA/import language; removed unverified personalization/custom claims; remaining admin-export, material, source-mapping and keyword evidence issues require QA recheck. Original QA issue refs: ISS-010-IMG-02, ISS-010-IMG-03, ISS-010-IMG-04, ISS-010-IMG-05, ISS-010-IMG-06, ISS-010-IMG-07, ISS-010-IMG-08, ISS-010-DESC, ISS-010-ENC, ISS-010-PERS."
+            },
+            {
+              "field": "keyword_strategy",
+              "before": "Target a product-level purchase query tied to personalized Christian God Says I Am design with name Jessica, flowers and butterflies; keep broader category terms for collections.",
+              "after": "Target a product-level purchase query tied to Christian God Says I Am design with themed artwork Jessica, flowers and butterflies; keep broader category terms for collections"
+            },
+            {
+              "field": "meta_description_length",
+              "before": 151,
+              "after": 144
+            },
+            {
+              "field": "meta_description_seo",
+              "before": "Personalize a faith-inspired bedroom with a God Says I Am Christian bedding set featuring name text, Bible verse affirmations, flowers and butterflies.",
+              "after": "Style a faith-inspired bedroom with a God Says I Am Christian bedding set featuring name text, Bible verse affirmations, flowers and butterflies"
+            },
+            {
+              "field": "meta_keyword",
+              "before": "personalized Christian comforter set",
+              "after": "Christian comforter set"
+            },
+            {
+              "field": "meta_title_length",
+              "before": 36,
+              "after": 23
+            },
+            {
+              "field": "meta_title_seo",
+              "before": "Personalized Christian Comforter Set",
+              "after": "Christian Comforter Set"
+            },
+            {
+              "field": "primary_keyword",
+              "before": "personalized Christian comforter set",
+              "after": "Christian comforter set"
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            },
+            {
+              "field": "secondary_keywords",
+              "before": "God Says I Am bedding, Christian bedding set, personalized Bible verse comforter",
+              "after": "God Says I Am bedding, Christian bedding set, Bible verse comforter"
+            },
+            {
+              "field": "title_proposed",
+              "before": "Personalized God Says I Am Christian Bedding Set",
+              "after": "God Says I Am Christian Bedding Set"
+            }
+          ]
+        }
+      ]
+    },
+    "Image_Audit": {
+      "before_rows": 65,
+      "after_rows": 65,
+      "changed_rows": 65,
+      "changes": [
+        {
+          "row_id": "('autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20', '47540016382151', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20', '47540016414919', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20', '47540016447687', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20', '47540016480455', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20', '47540016513223', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('bright-teal-yellow-softball-comforter-set-premium-sports-theme', '47934735909063', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('bright-teal-yellow-softball-comforter-set-premium-sports-theme', '47934735941831', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('bright-teal-yellow-softball-comforter-set-premium-sports-theme', '47934735974599', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('bright-teal-yellow-softball-comforter-set-premium-sports-theme', '47934736007367', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('bright-teal-yellow-softball-comforter-set-premium-sports-theme', '47934736040135', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('bright-teal-yellow-softball-comforter-set-premium-sports-theme', '47934736072903', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('bright-teal-yellow-softball-comforter-set-premium-sports-theme', '47934736105671', 7)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0', '47540004094151', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0', '47540004126919', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0', '47540004159687', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0', '47540004192455', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0', '47540004225223', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7', '47540058390727', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7', '47540058423495', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7', '47540058456263', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7', '47540058489031', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7', '47540058521799', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', '47933460349127', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', '47933460381895', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', '47933460414663', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', '47933460447431', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', '47933460480199', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', '47933460512967', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', '47933460545735', 7)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', '47933461725383', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', '47933461758151', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', '47933461790919', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', '47933461823687', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', '47933461856455', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', '47933461889223', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', '47933461921991', 7)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', '47531997331655', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', '47531997364423', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', '47531997397191', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', '47531997429959', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', '47531997462727', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', '47531997495495', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', '47531997528263', 7)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', '47531950571719', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', '47531950604487', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', '47531950637255', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', '47531950670023', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', '47531950702791', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', '47531950735559', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', '47531950768327', 7)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', '47933462118599', 1)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', '47933462151367', 2)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', '47933462184135', 3)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', '47933462216903', 4)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', '47933462249671', 5)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', '47933462282439', 6)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', '47933462315207', 7)",
+          "changes": [
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('christian-bedding-set-inspirational-bible-verse-comforte-design-01', '47933837967559', 1)",
+          "changes": [
+            {
+              "field": "alt_proposed",
+              "before": "Personalized God Says I Am Christian Bedding Set displayed on a bed",
+              "after": "God Says I Am Christian Bedding Set displayed on a bed"
+            },
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('christian-bedding-set-inspirational-bible-verse-comforte-design-01', '47933838000327', 2)",
+          "changes": [
+            {
+              "field": "alt_proposed",
+              "before": "Close view of personalized Christian God Says I Am design with name Jessica, flowers and butterflies on the comforter set",
+              "after": "Close view of Christian God Says I Am design with themed artwork Jessica, flowers and butterflies on the comforter set"
+            },
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('christian-bedding-set-inspirational-bible-verse-comforte-design-01', '47933838033095', 3)",
+          "changes": [
+            {
+              "field": "alt_proposed",
+              "before": "Matching pillow sham for Personalized God Says I Am Christian Bedding Set",
+              "after": "Matching pillow sham for God Says I Am Christian Bedding Set"
+            },
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('christian-bedding-set-inspirational-bible-verse-comforte-design-01', '47933838065863', 4)",
+          "changes": [
+            {
+              "field": "alt_proposed",
+              "before": "Personalized God Says I Am Christian Bedding Set shown in a bedroom setting",
+              "after": "God Says I Am Christian Bedding Set shown in a bedroom setting"
+            },
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('christian-bedding-set-inspirational-bible-verse-comforte-design-01', '47933838098631', 5)",
+          "changes": [
+            {
+              "field": "alt_proposed",
+              "before": "Size guide for Personalized God Says I Am Christian Bedding Set",
+              "after": "Size guide for God Says I Am Christian Bedding Set"
+            },
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('christian-bedding-set-inspirational-bible-verse-comforte-design-01', '47933838131399', 6)",
+          "changes": [
+            {
+              "field": "alt_proposed",
+              "before": "Fabric feature graphic for Personalized God Says I Am Christian Bedding Set",
+              "after": "Fabric feature graphic for God Says I Am Christian Bedding Set"
+            },
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('christian-bedding-set-inspirational-bible-verse-comforte-design-01', '47933838164167', 7)",
+          "changes": [
+            {
+              "field": "alt_proposed",
+              "before": "Bedroom mockup of Personalized God Says I Am Christian Bedding Set",
+              "after": "Bedroom mockup of God Says I Am Christian Bedding Set"
+            },
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('christian-bedding-set-inspirational-bible-verse-comforte-design-01', '47933838196935', 8)",
+          "changes": [
+            {
+              "field": "alt_proposed",
+              "before": "Size or personalization guide for Personalized God Says I Am Christian Bedding Set",
+              "after": "Size or product option guide for God Says I Am Christian Bedding Set"
+            },
+            {
+              "field": "issues",
+              "before": "Alt current unknown without admin export/rendered image-alt extraction.",
+              "after": "R2 revision after qa_batch_001: alt/observation refreshed from QA where available; requires QA recheck and admin media-alt export before approval."
+            },
+            {
+              "field": "revision",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        }
+      ]
+    },
+    "Product_Evidence": {
+      "before_rows": 10,
+      "after_rows": 10,
+      "changed_rows": 10,
+      "changes": [
+        {
+          "row_id": "evidence_batch_001_001",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: page JSON, HTML and contact sheet reviewed; admin export and full QA are still required.",
+              "after": "R2 revised from qa_batch_001; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_001_002",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: page JSON, HTML and contact sheet reviewed; admin export and full QA are still required.",
+              "after": "R2 revised from qa_batch_001; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_001_003",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: page JSON, HTML and contact sheet reviewed; admin export and full QA are still required.",
+              "after": "R2 revised from qa_batch_001; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_001_004",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: page JSON, HTML and contact sheet reviewed; admin export and full QA are still required.",
+              "after": "R2 revised from qa_batch_001; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_001_005",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: page JSON, HTML and contact sheet reviewed; admin export and full QA are still required.",
+              "after": "R2 revised from qa_batch_001; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_001_006",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: page JSON, HTML and contact sheet reviewed; admin export and full QA are still required.",
+              "after": "R2 revised from qa_batch_001; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_001_007",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: page JSON, HTML and contact sheet reviewed; admin export and full QA are still required.",
+              "after": "R2 revised from qa_batch_001; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_001_008",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: page JSON, HTML and contact sheet reviewed; admin export and full QA are still required.",
+              "after": "R2 revised from qa_batch_001; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_001_009",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: page JSON, HTML and contact sheet reviewed; admin export and full QA are still required.",
+              "after": "R2 revised from qa_batch_001; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        },
+        {
+          "row_id": "evidence_batch_001_010",
+          "changes": [
+            {
+              "field": "confidence_and_reason",
+              "before": "Medium: page JSON, HTML and contact sheet reviewed; admin export and full QA are still required.",
+              "after": "R2 revised from qa_batch_001; content still needs independent QA recheck and human approval before import."
+            }
+          ]
+        }
+      ]
+    },
+    "Keyword_Map": {
+      "before_rows": 40,
+      "after_rows": 40,
+      "changed_rows": 42,
+      "changes": [
+        {
+          "row_id": "('jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20', 'autumn cardinal bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20', 'cardinal bird quilt', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20', 'cardinal sunflower quilt set', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20', 'sunflower quilt set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme', 'eat sleep softball comforter', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme', 'softball bedding for girls', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme', 'softball comforter set', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme', 'teal softball bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0', 'Christmas cardinal memorial quilt', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0', 'I am always with you quilt', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0', 'cardinal Christmas quilt', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0', 'memorial cardinal bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7', 'I am always with you cardinal quilt', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7', 'cardinal memorial quilt with roses', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7', 'cardinal remembrance quilt', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7', 'cardinal rose bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', 'animal patchwork quilt set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', 'cat bedding set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', 'cat patchwork quilt set', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set', 'colorful cat quilt', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', 'cat patchwork bedding set', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', 'cat quilt bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', 'geometric cat quilt set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork', 'sitting cat quilt', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', 'Celtic knot quilt set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', 'Celtic tree quilt set', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', 'fantasy tree quilt', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad', 'tree of life bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', 'Celtic knotwork quilt', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', 'Celtic tree of life quilt set', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', 'green tree quilt set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e', 'tree of life bedding set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', 'chicken bedding set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', 'country chicken quilt', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', 'farmhouse chicken quilt set', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set', 'rooster quilt set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01', 'Bible verse comforter', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "buyer_research_refs",
+              "before": null,
+              "after": "research_batch_001_010_001"
+            },
+            {
+              "field": "checked_at",
+              "before": null,
+              "after": "2026-09-06T23:50:47.392974+07:00"
+            },
+            {
+              "field": "decision_reason",
+              "before": null,
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "demand_evidence",
+              "before": null,
+              "after": "SERP_ONLY"
+            },
+            {
+              "field": "intent",
+              "before": null,
+              "after": "purchase"
+            },
+            {
+              "field": "keyword",
+              "before": null,
+              "after": "Bible verse comforter"
+            },
+            {
+              "field": "keyword_role",
+              "before": null,
+              "after": "SECONDARY"
+            },
+            {
+              "field": "mapping_reason",
+              "before": null,
+              "after": "Product page is the right target because the query includes design/product attributes visible on this item."
+            },
+            {
+              "field": "mapping_status",
+              "before": null,
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": null,
+              "after": "r2"
+            },
+            {
+              "field": "possible_overlap_with_other_products",
+              "before": null,
+              "after": "NO"
+            },
+            {
+              "field": "product_key",
+              "before": null,
+              "after": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01"
+            },
+            {
+              "field": "query_origin",
+              "before": null,
+              "after": "SERP_OBSERVED_OR_AGENT_CANDIDATE"
+            },
+            {
+              "field": "representative_SERP_URLs",
+              "before": null,
+              "after": "https://www.amazon.com/ENCYCOM-Personalized-Christian-Comforter-Pillowcases/dp/B0FRSFLFLX; https://www.walmart.com/c/kp/christian-bedding"
+            },
+            {
+              "field": "research_period",
+              "before": null,
+              "after": "2026-09-06"
+            },
+            {
+              "field": "season",
+              "before": null,
+              "after": "EVERGREEN"
+            },
+            {
+              "field": "semantic_cluster",
+              "before": null,
+              "after": "personalized Christian God Says I Am design with name Jessica, flowers and butterflies"
+            },
+            {
+              "field": "supporting_fact_ids",
+              "before": null,
+              "after": "evidence_batch_001_010"
+            },
+            {
+              "field": "target_page_type",
+              "before": null,
+              "after": "PRODUCT"
+            },
+            {
+              "field": "target_url",
+              "before": null,
+              "after": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-01"
+            },
+            {
+              "field": "validation_source",
+              "before": null,
+              "after": "https://www.amazon.com/ENCYCOM-Personalized-Christian-Comforter-Pillowcases/dp/B0FRSFLFLX; https://www.walmart.com/c/kp/christian-bedding"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01', 'Christian bedding set', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01', 'Christian comforter set', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "buyer_research_refs",
+              "before": null,
+              "after": "research_batch_001_010_001"
+            },
+            {
+              "field": "checked_at",
+              "before": null,
+              "after": "2026-09-06T23:50:47.392974+07:00"
+            },
+            {
+              "field": "decision_reason",
+              "before": null,
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "demand_evidence",
+              "before": null,
+              "after": "SERP_ONLY"
+            },
+            {
+              "field": "intent",
+              "before": null,
+              "after": "purchase"
+            },
+            {
+              "field": "keyword",
+              "before": null,
+              "after": "Christian comforter set"
+            },
+            {
+              "field": "keyword_role",
+              "before": null,
+              "after": "PRIMARY"
+            },
+            {
+              "field": "mapping_reason",
+              "before": null,
+              "after": "Product page is the right target because the query includes design/product attributes visible on this item."
+            },
+            {
+              "field": "mapping_status",
+              "before": null,
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": null,
+              "after": "r2"
+            },
+            {
+              "field": "possible_overlap_with_other_products",
+              "before": null,
+              "after": "NO"
+            },
+            {
+              "field": "product_key",
+              "before": null,
+              "after": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01"
+            },
+            {
+              "field": "query_origin",
+              "before": null,
+              "after": "SERP_OBSERVED_OR_AGENT_CANDIDATE"
+            },
+            {
+              "field": "representative_SERP_URLs",
+              "before": null,
+              "after": "https://www.amazon.com/ENCYCOM-Personalized-Christian-Comforter-Pillowcases/dp/B0FRSFLFLX; https://www.walmart.com/c/kp/christian-bedding"
+            },
+            {
+              "field": "research_period",
+              "before": null,
+              "after": "2026-09-06"
+            },
+            {
+              "field": "season",
+              "before": null,
+              "after": "EVERGREEN"
+            },
+            {
+              "field": "semantic_cluster",
+              "before": null,
+              "after": "personalized Christian God Says I Am design with name Jessica, flowers and butterflies"
+            },
+            {
+              "field": "supporting_fact_ids",
+              "before": null,
+              "after": "evidence_batch_001_010"
+            },
+            {
+              "field": "target_page_type",
+              "before": null,
+              "after": "PRODUCT"
+            },
+            {
+              "field": "target_url",
+              "before": null,
+              "after": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-01"
+            },
+            {
+              "field": "validation_source",
+              "before": null,
+              "after": "https://www.amazon.com/ENCYCOM-Personalized-Christian-Comforter-Pillowcases/dp/B0FRSFLFLX; https://www.walmart.com/c/kp/christian-bedding"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01', 'God Says I Am bedding', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": "R2 after qa_batch_001: revised from QA issue set; product query must match visible artwork and verified purchase features."
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": "CANDIDATE_MAPPED_NEEDS_RECHECK"
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": "r2"
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01', 'personalized Bible verse comforter', 'SECONDARY')",
+          "changes": [
+            {
+              "field": "buyer_research_refs",
+              "before": "research_batch_001_010_001",
+              "after": null
+            },
+            {
+              "field": "checked_at",
+              "before": "2026-09-06T23:50:47.392974+07:00",
+              "after": null
+            },
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": null
+            },
+            {
+              "field": "demand_evidence",
+              "before": "SERP_ONLY",
+              "after": null
+            },
+            {
+              "field": "intent",
+              "before": "purchase",
+              "after": null
+            },
+            {
+              "field": "keyword",
+              "before": "personalized Bible verse comforter",
+              "after": null
+            },
+            {
+              "field": "keyword_role",
+              "before": "SECONDARY",
+              "after": null
+            },
+            {
+              "field": "mapping_reason",
+              "before": "Product page is the right target because the query includes design/product attributes visible on this item.",
+              "after": null
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": null
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": null
+            },
+            {
+              "field": "possible_overlap_with_other_products",
+              "before": "NO",
+              "after": null
+            },
+            {
+              "field": "product_key",
+              "before": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01",
+              "after": null
+            },
+            {
+              "field": "query_origin",
+              "before": "SERP_OBSERVED_OR_AGENT_CANDIDATE",
+              "after": null
+            },
+            {
+              "field": "representative_SERP_URLs",
+              "before": "https://www.amazon.com/ENCYCOM-Personalized-Christian-Comforter-Pillowcases/dp/B0FRSFLFLX; https://www.walmart.com/c/kp/christian-bedding",
+              "after": null
+            },
+            {
+              "field": "research_period",
+              "before": "2026-09-06",
+              "after": null
+            },
+            {
+              "field": "season",
+              "before": "EVERGREEN",
+              "after": null
+            },
+            {
+              "field": "semantic_cluster",
+              "before": "personalized Christian God Says I Am design with name Jessica, flowers and butterflies",
+              "after": null
+            },
+            {
+              "field": "supporting_fact_ids",
+              "before": "evidence_batch_001_010",
+              "after": null
+            },
+            {
+              "field": "target_page_type",
+              "before": "PRODUCT",
+              "after": null
+            },
+            {
+              "field": "target_url",
+              "before": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-01",
+              "after": null
+            },
+            {
+              "field": "validation_source",
+              "before": "https://www.amazon.com/ENCYCOM-Personalized-Christian-Comforter-Pillowcases/dp/B0FRSFLFLX; https://www.walmart.com/c/kp/christian-bedding",
+              "after": null
+            }
+          ]
+        },
+        {
+          "row_id": "('jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01', 'personalized Christian comforter set', 'PRIMARY')",
+          "changes": [
+            {
+              "field": "buyer_research_refs",
+              "before": "research_batch_001_010_001",
+              "after": null
+            },
+            {
+              "field": "checked_at",
+              "before": "2026-09-06T23:50:47.392974+07:00",
+              "after": null
+            },
+            {
+              "field": "decision_reason",
+              "before": "Specific to the product artwork and product type; broader category query should be reviewed for collection targeting.",
+              "after": null
+            },
+            {
+              "field": "demand_evidence",
+              "before": "SERP_ONLY",
+              "after": null
+            },
+            {
+              "field": "intent",
+              "before": "purchase",
+              "after": null
+            },
+            {
+              "field": "keyword",
+              "before": "personalized Christian comforter set",
+              "after": null
+            },
+            {
+              "field": "keyword_role",
+              "before": "PRIMARY",
+              "after": null
+            },
+            {
+              "field": "mapping_reason",
+              "before": "Product page is the right target because the query includes design/product attributes visible on this item.",
+              "after": null
+            },
+            {
+              "field": "mapping_status",
+              "before": "CANDIDATE_MAPPED",
+              "after": null
+            },
+            {
+              "field": "mapping_version",
+              "before": "r1",
+              "after": null
+            },
+            {
+              "field": "possible_overlap_with_other_products",
+              "before": "NO",
+              "after": null
+            },
+            {
+              "field": "product_key",
+              "before": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01",
+              "after": null
+            },
+            {
+              "field": "query_origin",
+              "before": "SERP_OBSERVED_OR_AGENT_CANDIDATE",
+              "after": null
+            },
+            {
+              "field": "representative_SERP_URLs",
+              "before": "https://www.amazon.com/ENCYCOM-Personalized-Christian-Comforter-Pillowcases/dp/B0FRSFLFLX; https://www.walmart.com/c/kp/christian-bedding",
+              "after": null
+            },
+            {
+              "field": "research_period",
+              "before": "2026-09-06",
+              "after": null
+            },
+            {
+              "field": "season",
+              "before": "EVERGREEN",
+              "after": null
+            },
+            {
+              "field": "semantic_cluster",
+              "before": "personalized Christian God Says I Am design with name Jessica, flowers and butterflies",
+              "after": null
+            },
+            {
+              "field": "supporting_fact_ids",
+              "before": "evidence_batch_001_010",
+              "after": null
+            },
+            {
+              "field": "target_page_type",
+              "before": "PRODUCT",
+              "after": null
+            },
+            {
+              "field": "target_url",
+              "before": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-01",
+              "after": null
+            },
+            {
+              "field": "validation_source",
+              "before": "https://www.amazon.com/ENCYCOM-Personalized-Christian-Comforter-Pillowcases/dp/B0FRSFLFLX; https://www.walmart.com/c/kp/christian-bedding",
+              "after": null
+            }
+          ]
+        }
+      ]
+    },
+    "Buyer_Search_Research": {
+      "before_rows": 10,
+      "after_rows": 10,
+      "changed_rows": 10,
+      "changes": [
+        {
+          "row_id": "research_batch_001_001_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design.",
+              "after": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find a quilt set with matching visual design, size options and bedding details.",
+              "after": "Find a quilt set with matching visual design, size options and bedding details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for red cardinals, large yellow sunflowers, autumn leaves bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion.",
+              "after": "When shopping for red cardinals, large yellow sunflowers, autumn leaves bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language. R2 note: qa_batch_001 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient.",
+              "after": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Customer may be looking for warm seasonal bedding with cardinal and sunflower artwork for a guest room or gift.",
+              "after": "Customer may be looking for warm seasonal bedding with cardinal and sunflower artwork for a guest room or gift"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use cardinal sunflower quilt set as the product-level primary keyword candidate and avoid generic bedding-only titles.",
+              "after": "Use cardinal sunflower quilt set as the product-level primary keyword candidate and avoid generic bedding-only titles"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_001_002_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design.",
+              "after": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find a comforter set with matching visual design, size options and bedding details.",
+              "after": "Find a comforter set with matching visual design, size options and bedding details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for softball patchwork in teal, black and white with player silhouettes and text bedding, the buyer wants a coordinated comforter set that clearly matches the room theme or gift occasion.",
+              "after": "When shopping for softball patchwork in teal, black and white with player silhouettes and text bedding, the buyer wants a coordinated comforter set that clearly matches the room theme or gift occasion"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language. R2 note: qa_batch_001 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient.",
+              "after": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Customer is likely shopping for sports-themed bedding for a softball player, fan, teen bedroom or gift.",
+              "after": "Customer is likely shopping for sports-themed bedding for a softball player, fan, teen bedroom or gift"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use softball comforter set as the product-level primary keyword candidate and avoid generic bedding-only titles.",
+              "after": "Use softball comforter set as the product-level primary keyword candidate and avoid generic bedding-only titles"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_001_003_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design.",
+              "after": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find a quilt set with matching visual design, size options and bedding details.",
+              "after": "Find a quilt set with matching visual design, size options and bedding details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for red cardinals beside a decorated Christmas tree with memorial text bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion.",
+              "after": "When shopping for red cardinals beside a decorated Christmas tree with memorial text bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language. R2 note: qa_batch_001 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient.",
+              "after": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Customer may be seeking a Christmas bedding gift with cardinal remembrance symbolism and comforting memorial text.",
+              "after": "Customer may be seeking a Christmas bedding gift with cardinal remembrance symbolism and comforting memorial text"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use Christmas cardinal memorial quilt as the product-level primary keyword candidate and avoid generic bedding-only titles.",
+              "after": "Use Christmas cardinal memorial quilt as the product-level primary keyword candidate and avoid generic bedding-only titles"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_001_004_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design.",
+              "after": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find a quilt set with matching visual design, size options and bedding details.",
+              "after": "Find a quilt set with matching visual design, size options and bedding details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for male and female cardinal pair on a branch with red roses and memorial text bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion.",
+              "after": "When shopping for male and female cardinal pair on a branch with red roses and memorial text bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language. R2 note: qa_batch_001 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient.",
+              "after": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Customer may want a remembrance gift or sentimental bedroom update featuring cardinal symbolism and roses.",
+              "after": "Customer may want a remembrance gift or sentimental bedroom update featuring cardinal symbolism and roses"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use cardinal memorial quilt with roses as the product-level primary keyword candidate and avoid generic bedding-only titles.",
+              "after": "Use cardinal memorial quilt with roses as the product-level primary keyword candidate and avoid generic bedding-only titles"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_001_005_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design.",
+              "after": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find a quilt set with matching visual design, size options and bedding details.",
+              "after": "Find a quilt set with matching visual design, size options and bedding details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for large colorful cat face in patchwork blocks bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion.",
+              "after": "When shopping for large colorful cat face in patchwork blocks bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language. R2 note: qa_batch_001 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient.",
+              "after": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Customer is likely shopping for cat-themed bedding or a gift for someone who likes colorful animal decor.",
+              "after": "Customer is likely shopping for cat-themed bedding or a gift for someone who likes colorful animal decor"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use cat patchwork quilt set as the product-level primary keyword candidate and avoid generic bedding-only titles.",
+              "after": "Use cat patchwork quilt set as the product-level primary keyword candidate and avoid generic bedding-only titles"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_001_006_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design.",
+              "after": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find a quilt set with matching visual design, size options and bedding details.",
+              "after": "Find a quilt set with matching visual design, size options and bedding details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for sitting cat in geometric patchwork colors on beige leaf background bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion.",
+              "after": "When shopping for sitting cat in geometric patchwork colors on beige leaf background bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language. R2 note: qa_batch_001 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient.",
+              "after": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Customer may be comparing cat-themed quilt designs and prefer a calmer geometric sitting-cat look.",
+              "after": "Customer may be comparing cat-themed quilt designs and prefer a calmer geometric sitting-cat look"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use cat patchwork bedding set as the product-level primary keyword candidate and avoid generic bedding-only titles.",
+              "after": "Use cat patchwork bedding set as the product-level primary keyword candidate and avoid generic bedding-only titles"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_001_007_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design.",
+              "after": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find a quilt set with matching visual design, size options and bedding details.",
+              "after": "Find a quilt set with matching visual design, size options and bedding details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for twisting tree trunk with exposed roots and Celtic knot border bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion.",
+              "after": "When shopping for twisting tree trunk with exposed roots and Celtic knot border bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language. R2 note: qa_batch_001 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient.",
+              "after": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Customer may be shopping for fantasy, pagan-inspired or Celtic bedroom decor with tree and knotwork artwork.",
+              "after": "Customer may be shopping for fantasy, pagan-inspired or Celtic bedroom decor with tree and knotwork artwork"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use Celtic tree quilt set as the product-level primary keyword candidate and avoid generic bedding-only titles.",
+              "after": "Use Celtic tree quilt set as the product-level primary keyword candidate and avoid generic bedding-only titles"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_001_008_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design.",
+              "after": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find a quilt set with matching visual design, size options and bedding details.",
+              "after": "Find a quilt set with matching visual design, size options and bedding details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for green tree of life medallion with Celtic knotwork border bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion.",
+              "after": "When shopping for green tree of life medallion with Celtic knotwork border bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language. R2 note: qa_batch_001 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient.",
+              "after": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Customer may search for Tree of Life or Celtic knotwork bedding as spiritual, fantasy or heritage-inspired decor.",
+              "after": "Customer may search for Tree of Life or Celtic knotwork bedding as spiritual, fantasy or heritage-inspired decor"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use Celtic tree of life quilt set as the product-level primary keyword candidate and avoid generic bedding-only titles.",
+              "after": "Use Celtic tree of life quilt set as the product-level primary keyword candidate and avoid generic bedding-only titles"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_001_009_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design.",
+              "after": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find a quilt set with matching visual design, size options and bedding details.",
+              "after": "Find a quilt set with matching visual design, size options and bedding details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for farmhouse chicken and hen pattern with nest and eggs bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion.",
+              "after": "When shopping for farmhouse chicken and hen pattern with nest and eggs bedding, the buyer wants a coordinated quilt set that clearly matches the room theme or gift occasion"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language. R2 note: qa_batch_001 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient.",
+              "after": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Customer may want rustic farmhouse bedding, country animal decor or a chicken-lover gift.",
+              "after": "Customer may want rustic farmhouse bedding, country animal decor or a chicken-lover gift"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use farmhouse chicken quilt set as the product-level primary keyword candidate and avoid generic bedding-only titles.",
+              "after": "Use farmhouse chicken quilt set as the product-level primary keyword candidate and avoid generic bedding-only titles"
+            }
+          ]
+        },
+        {
+          "row_id": "research_batch_001_010_001",
+          "changes": [
+            {
+              "field": "emotional_social_motivation",
+              "before": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design.",
+              "after": "Express personal taste, fandom, faith, remembrance or themed bedroom style depending on the design"
+            },
+            {
+              "field": "functional_motivation",
+              "before": "Find a comforter set with matching visual design, size options and bedding details.",
+              "after": "Find a comforter set with matching visual design, size options and bedding details"
+            },
+            {
+              "field": "jtbd_statement",
+              "before": "When shopping for personalized Christian God Says I Am design with name Jessica, flowers and butterflies bedding, the buyer wants a coordinated comforter set that clearly matches the room theme or gift occasion.",
+              "after": "When shopping for Christian God Says I Am design with themed artwork Jessica, flowers and butterflies bedding, the buyer wants a coordinated comforter set that clearly matches the room theme or gift occasion"
+            },
+            {
+              "field": "limitations",
+              "before": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language.",
+              "after": "No Search Console, internal search or verified customer review corpus was provided; buyer language is a hypothesis unless source_refs show matching public marketplace language. R2 note: qa_batch_001 QA found issues requiring recheck before approval."
+            },
+            {
+              "field": "purchase_concerns",
+              "before": "Fit, included components, material/care claims, personalization accuracy and whether the design matches the intended recipient.",
+              "after": "Fit, included components, material/care claims, product option accuracy and whether the design matches the intended recipient"
+            },
+            {
+              "field": "purchase_context",
+              "before": "Customer may be shopping for a personalized Christian gift for a woman, daughter, mom or faith-centered bedroom.",
+              "after": "Customer may be shopping for a Christian gift for a woman, daughter, mom or faith-centered bedroom"
+            },
+            {
+              "field": "seo_application",
+              "before": "Use personalized Christian comforter set as the product-level primary keyword candidate and avoid generic bedding-only titles.",
+              "after": "Use Christian comforter set as the product-level primary keyword candidate and avoid generic bedding-only titles"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

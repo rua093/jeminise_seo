@@ -1,0 +1,30 @@
+{
+  "qa_run_id": "20260907_123726",
+  "qa_batch_id": "qa_batch_002_r2",
+  "revision": "r2",
+  "shop": "jeminise.com",
+  "source_run_id": "20260906_234129",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_002_r2\\SEO_Product_Optimization_qa_batch_002_r2.xlsx",
+  "source_sha256_at_freeze": "75c50fac073cbfe79a77c7a664ba8006edd9327790ca0ac2431e196534dc9a7a",
+  "frozen_at": "2026-09-07T13:47:49.652373+07:00",
+  "prompt_qa": "D:\\Shopify_Workspace\\jeminise_seo\\seo-prompt\\jeminise\\prompt_qa.md",
+  "prompt": "D:\\Shopify_Workspace\\jeminise_seo\\seo-prompt\\jeminise\\prompt.md",
+  "status": "COMPLETE",
+  "completed_at": "2026-09-07T13:47:49.706393+07:00",
+  "source_sha256_at_handoff": "75C50FAC073CBFE79A77C7A664BA8006EDD9327790CA0AC2431E196534DC9A7A",
+  "counts": {
+    "products": 10,
+    "images": 64
+  },
+  "output_markdown": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260907_123726\\SEO_QA_qa_batch_002_r2.md",
+  "output_xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260907_123726\\SEO_QA_qa_batch_002_r2.xlsx",
+  "xlsx_blocker": null,
+  "qa_dataset": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_123726\\qa_dataset.json",
+  "qa_workbook_payload": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_123726\\qa_workbook_payload.json",
+  "source_snapshot_sha256": "75C50FAC073CBFE79A77C7A664BA8006EDD9327790CA0AC2431E196534DC9A7A",
+  "prompt_files_sha256": {
+    "prompt_qa.md": "C2C1DEFDB72362291F7DA656FA7FEA9283A02782FC8CA66D2E4637F2511500DD",
+    "prompt.md": "251B850518A5FAEE459088AED08C7D68F2D7C607CBB360662EC9EFEC6FEBEE33"
+  },
+  "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+}

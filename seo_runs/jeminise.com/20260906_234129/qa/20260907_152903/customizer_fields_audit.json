@@ -1,0 +1,2825 @@
+[
+  {
+    "inventory_position": 41,
+    "url": "https://jeminise.com/products/custom-american-sports-football-player-running-with-ball-comforter-891aa5a660-891aa5a660",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 1,
+      "textInputs": 2,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 3,
+      "assets": 18,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "KjgjM_vJ",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.optionGroups[0]",
+        "fields": {
+          "id": "sC_vmMhf",
+          "label": "CONFIRMATION FOR PRODUCT",
+          "required": true,
+          "instructions": "We have 2 different product types which are DUVET COVER and COMFORTER SET. Make sure you understand our product correctly and choose the right product you'd like to buy. Thanks a lot."
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[0]",
+        "fields": {
+          "id": "iqbfZ4aN",
+          "label": "Yes, I got it"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[1]",
+        "fields": {
+          "id": "TqMAgPKf",
+          "label": "No, I need support"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "VxhrBinG",
+          "label": "Enter Name",
+          "required": true,
+          "minLength": 1,
+          "maxLength": 25,
+          "placeholder": "Jackson",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.textInputs[1]",
+        "fields": {
+          "id": "hsunJmjw",
+          "label": "Enter Number",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 5,
+          "placeholder": "23",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "VxhrBinG"
+        }
+      },
+      {
+        "path": "root.controlOrder[1]",
+        "fields": {
+          "type": "text",
+          "id": "hsunJmjw"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 42,
+    "url": "https://jeminise.com/products/custom-basketball-players-blanket-name-number-76fdad09b6-76fdad09b6",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 1,
+      "textInputs": 2,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 3,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "05172ccd-f8df-4c68-b965-5fdb64b6d611",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.optionGroups[0]",
+        "fields": {
+          "id": "69819d44-8aad-4b09-82ab-666f101cae07",
+          "label": "SIZE CHART CONFIRMATION",
+          "required": true,
+          "instructions": "Please review the size chart one more time to make sure that you have selected the right size"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[0]",
+        "fields": {
+          "id": "bf9509ad-f25a-49d9-a4e8-e94278bf2ad1",
+          "label": "Yes, I have reviewed it"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[1]",
+        "fields": {
+          "id": "fe86f8ff-0f91-4412-ad59-e9457e0c9f78",
+          "label": "No, But I'm OK with it"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "2f30c058-321c-4f61-b71b-738f34744f72",
+          "label": "Custom Name",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 200,
+          "placeholder": "David",
+          "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize name."
+        }
+      },
+      {
+        "path": "root.textInputs[1]",
+        "fields": {
+          "id": "5b402389-d6ed-4690-ac6c-240fa1c4d6fc",
+          "label": "Custom Number",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 20,
+          "placeholder": "22",
+          "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize number"
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "2f30c058-321c-4f61-b71b-738f34744f72"
+        }
+      },
+      {
+        "path": "root.controlOrder[1]",
+        "fields": {
+          "type": "text",
+          "id": "5b402389-d6ed-4690-ac6c-240fa1c4d6fc"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 43,
+    "url": "https://jeminise.com/products/custom-bible-verse-photo-blanket-personalized-christian-gift-for-her",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 1,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "SZJpbl3Z",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "pmV5tBpk",
+          "label": "Customize Your Name",
+          "required": true,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "Laura",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "pmV5tBpk"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 44,
+    "url": "https://jeminise.com/products/custom-cardinals-on-flowering-branches-quilt-47d5316f3d-47d5316f3d",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 1,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "oTPPC0BL",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "z5JA100h",
+          "label": "Customize Your Quilt",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "",
+          "instructions": "Please enter your custom text or leave us your requests!"
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "z5JA100h"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 45,
+    "url": "https://jeminise.com/products/custom-tree-of-life-quilt-set-yggdrasil-bedding-019f2b38a4-019f2b38a4",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 1,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "oTPPC0BL",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "z5JA100h",
+          "label": "Customize Your Quilt",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "",
+          "instructions": "Please enter your custom text or leave us your requests!"
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "z5JA100h"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 46,
+    "url": "https://jeminise.com/products/custom-tree-of-life-quilt-set-yggdrasil-celtic-patterns-908827b1df-908827b1df",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 1,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "oTPPC0BL",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "z5JA100h",
+          "label": "Customize Your Quilt",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "",
+          "instructions": "Please enter your custom text or leave us your requests!"
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "z5JA100h"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 47,
+    "url": "https://jeminise.com/products/custom-tree-of-life-quilt-set-yggdrasil-bedding-5048da8f29-5048da8f29",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 0,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 1,
+      "assets": 2,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "oTPPC0BL",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "z5JA100h",
+          "label": "Customize Your Quilt",
+          "required": false,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "",
+          "instructions": "Please enter your custom text or leave us your requests!"
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "z5JA100h"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 48,
+    "url": "https://jeminise.com/products/custom-christian-faith-semi-truck-in-front-of-large-comforter-057143b1f8-057143b1f8",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 1,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 2,
+      "assets": 22,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "KjgjM_vJ",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.optionGroups[0]",
+        "fields": {
+          "id": "Y9HCNxrJ",
+          "label": "CONFIRMATION FOR PRODUCT",
+          "required": true,
+          "instructions": "We have 2 different product types which are DUVET COVER and COMFORTER SET. Make sure you understand our product correctly and choose the right product you'd like to buy. Thanks a lot."
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[0]",
+        "fields": {
+          "id": "Wd931GAE",
+          "label": "Yes, I got it."
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[1]",
+        "fields": {
+          "id": "H3w1gJGG",
+          "label": "No, I need support"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "VxhrBinG",
+          "label": "Enter Name",
+          "required": true,
+          "minLength": 1,
+          "maxLength": 35,
+          "placeholder": "Jackson",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "VxhrBinG"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 49,
+    "url": "https://jeminise.com/products/custom-christian-girl-bible-emergency-numbers-blanket-d12",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 6,
+      "textInputs": 2,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 8,
+      "assets": 306,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "2XdIiphb",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.optionGroups[0]",
+        "fields": {
+          "id": "EAfMDqt4",
+          "label": "Choose Skin",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[0]",
+        "fields": {
+          "id": "JDmVRnTz",
+          "label": "skin1"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[1]",
+        "fields": {
+          "id": "5-ndpO7Y",
+          "label": "skin2"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[2]",
+        "fields": {
+          "id": "Ei4oeB1G",
+          "label": "skin3"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[3]",
+        "fields": {
+          "id": "puu0Lz8j",
+          "label": "skin4"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[4]",
+        "fields": {
+          "id": "HiBCIYay",
+          "label": "skin5"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[5]",
+        "fields": {
+          "id": "ltUTan1k",
+          "label": "skin6"
+        }
+      },
+      {
+        "path": "root.optionGroups[1]",
+        "fields": {
+          "id": "bXn3IzEr",
+          "label": "Choose Eye",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[0]",
+        "fields": {
+          "id": "H_cRfbbh",
+          "label": "Eye1"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[1]",
+        "fields": {
+          "id": "N9XHmub6",
+          "label": "Eye2"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[2]",
+        "fields": {
+          "id": "ACLHP4_p",
+          "label": "Eye3"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[3]",
+        "fields": {
+          "id": "pG6iSM9_",
+          "label": "Eye4"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[4]",
+        "fields": {
+          "id": "avUZWGvd",
+          "label": "Eye5"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[5]",
+        "fields": {
+          "id": "u7w3tC6l",
+          "label": "Eye6"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[6]",
+        "fields": {
+          "id": "nRir-OCu",
+          "label": "Eye7"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[7]",
+        "fields": {
+          "id": "G6bYWXCZ",
+          "label": "Eye8"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[8]",
+        "fields": {
+          "id": "BNYTKfCi",
+          "label": "Eye9"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[9]",
+        "fields": {
+          "id": "3IgBAAZ4",
+          "label": "Eye10"
+        }
+      },
+      {
+        "path": "root.optionGroups[2]",
+        "fields": {
+          "id": "hkHqX6_7",
+          "label": "Choose Pants",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[0]",
+        "fields": {
+          "id": "ZOQ-Xpyl",
+          "label": "Pants1"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[1]",
+        "fields": {
+          "id": "wSZraMRZ",
+          "label": "Pants2"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[2]",
+        "fields": {
+          "id": "3WRec8AZ",
+          "label": "Pants3"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[3]",
+        "fields": {
+          "id": "IXhSvOcF",
+          "label": "Pants4"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[4]",
+        "fields": {
+          "id": "fuuq0alO",
+          "label": "Pants5"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[5]",
+        "fields": {
+          "id": "ZuwrAjX0",
+          "label": "Pants6"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[6]",
+        "fields": {
+          "id": "hR43YJ1D",
+          "label": "Pants7"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[7]",
+        "fields": {
+          "id": "GiGJ6ZKn",
+          "label": "Pants8"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[8]",
+        "fields": {
+          "id": "EAMxH-Wt",
+          "label": "Pants9"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[9]",
+        "fields": {
+          "id": "gJ94CzQ5",
+          "label": "Pants11"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[10]",
+        "fields": {
+          "id": "iAdT-2cH",
+          "label": "Pants14"
+        }
+      },
+      {
+        "path": "root.optionGroups[3]",
+        "fields": {
+          "id": "eFpGJXLI",
+          "label": "Choose Shirt",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[0]",
+        "fields": {
+          "id": "jsqXjujw",
+          "label": "SHIRT-2"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[1]",
+        "fields": {
+          "id": "dSPxNrom",
+          "label": "SHIRT-3"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[2]",
+        "fields": {
+          "id": "aweOzi20",
+          "label": "SHIRT-4"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[3]",
+        "fields": {
+          "id": "gF0-tZjf",
+          "label": "SHIRT-5"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[4]",
+        "fields": {
+          "id": "lbu-Ow8U",
+          "label": "SHIRT-6"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[5]",
+        "fields": {
+          "id": "0eVEIYzu",
+          "label": "SHIRT-7"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[6]",
+        "fields": {
+          "id": "y1RC1gvS",
+          "label": "SHIRT-8"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[7]",
+        "fields": {
+          "id": "3-J6-QrW",
+          "label": "SHIRT-9"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[8]",
+        "fields": {
+          "id": "bnlr-nTB",
+          "label": "SHIRT-10"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[9]",
+        "fields": {
+          "id": "f2ddGQz8",
+          "label": "SHIRT-11"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[10]",
+        "fields": {
+          "id": "1paATIO7",
+          "label": "SHIRT-12"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[11]",
+        "fields": {
+          "id": "jt4qnkxt",
+          "label": "SHIRT-13"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[12]",
+        "fields": {
+          "id": "8kb3IPhJ",
+          "label": "SHIRT-14"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[13]",
+        "fields": {
+          "id": "DXw8cV4a",
+          "label": "SHIRT-15"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[14]",
+        "fields": {
+          "id": "NoeCESdd",
+          "label": "SHIRT-16"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[15]",
+        "fields": {
+          "id": "fI5Kv0f6",
+          "label": "SHIRT-17"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[16]",
+        "fields": {
+          "id": "F8tSPTQa",
+          "label": "SHIRT-18"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[17]",
+        "fields": {
+          "id": "O6f3AE0x",
+          "label": "SHIRT-19"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[18]",
+        "fields": {
+          "id": "pYOlFf5Z",
+          "label": "SHIRT-20"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[19]",
+        "fields": {
+          "id": "L_EqHACY",
+          "label": "SHIRT-21"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[20]",
+        "fields": {
+          "id": "zcr4GvAP",
+          "label": "SHIRT-22"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[21]",
+        "fields": {
+          "id": "F40umTHa",
+          "label": "SHIRT-23"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[22]",
+        "fields": {
+          "id": "rPowmEy7",
+          "label": "SHIRT-24"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[23]",
+        "fields": {
+          "id": "Hv7NX-99",
+          "label": "SHIRT-25"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[24]",
+        "fields": {
+          "id": "c3cUg9IZ",
+          "label": "SHIRT-26"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[25]",
+        "fields": {
+          "id": "_0BoSpDP",
+          "label": "SHIRT-27"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[26]",
+        "fields": {
+          "id": "mcBrUZPS",
+          "label": "SHIRT-28"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[27]",
+        "fields": {
+          "id": "_df_c0Va",
+          "label": "SHIRT-29"
+        }
+      },
+      {
+        "path": "root.optionGroups[4]",
+        "fields": {
+          "id": "4Dt0KYG2",
+          "label": "Choose Hair",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[0]",
+        "fields": {
+          "id": "b1EVvg3N",
+          "label": "Hair1"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[1]",
+        "fields": {
+          "id": "ZTn8mPu2",
+          "label": "Hair2"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[2]",
+        "fields": {
+          "id": "DCRSCKJa",
+          "label": "Hair3"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[3]",
+        "fields": {
+          "id": "GQvXdz0n",
+          "label": "Hair4"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[4]",
+        "fields": {
+          "id": "fwug1MKa",
+          "label": "Hair5"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[5]",
+        "fields": {
+          "id": "yEMo27SZ",
+          "label": "Hair6"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[6]",
+        "fields": {
+          "id": "VqVmVTJe",
+          "label": "Hair7"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[7]",
+        "fields": {
+          "id": "6eMEcmcf",
+          "label": "Hair8"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[8]",
+        "fields": {
+          "id": "ASHq72BG",
+          "label": "Hair9"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[9]",
+        "fields": {
+          "id": "CM3tQBOG",
+          "label": "Hair10"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[10]",
+        "fields": {
+          "id": "XziEhhrv",
+          "label": "Hair11"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[11]",
+        "fields": {
+          "id": "Ab9UMscL",
+          "label": "Hair12"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[12]",
+        "fields": {
+          "id": "BESu7htn",
+          "label": "Hair13"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[13]",
+        "fields": {
+          "id": "nhuAuxGT",
+          "label": "Hair14"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[14]",
+        "fields": {
+          "id": "qpRPhWBx",
+          "label": "Hair15"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[15]",
+        "fields": {
+          "id": "yNTm-jEj",
+          "label": "Hair16"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[16]",
+        "fields": {
+          "id": "Q_xvDqjw",
+          "label": "Hair17"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[17]",
+        "fields": {
+          "id": "XSZnlu3I",
+          "label": "Hair18"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[18]",
+        "fields": {
+          "id": "gcuc4ToS",
+          "label": "Hair19"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[19]",
+        "fields": {
+          "id": "Hlzq9EgH",
+          "label": "Hair20"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[20]",
+        "fields": {
+          "id": "SNJrch2-",
+          "label": "Hair21"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[21]",
+        "fields": {
+          "id": "5XFiuyWr",
+          "label": "Hair23"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[22]",
+        "fields": {
+          "id": "ANXl_JPb",
+          "label": "Hair24"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[23]",
+        "fields": {
+          "id": "O3BQjJyG",
+          "label": "Hair25"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[24]",
+        "fields": {
+          "id": "F3lOMnkM",
+          "label": "Hair26"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[25]",
+        "fields": {
+          "id": "GwwJVYec",
+          "label": "Hair27"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[26]",
+        "fields": {
+          "id": "TPDPDcQx",
+          "label": "Hair28"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[27]",
+        "fields": {
+          "id": "FESuUKex",
+          "label": "Hair29"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[28]",
+        "fields": {
+          "id": "YYW7NqNu",
+          "label": "Hair30"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[29]",
+        "fields": {
+          "id": "-Jkcdpy5",
+          "label": "Hair31"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[30]",
+        "fields": {
+          "id": "qzFBCKf5",
+          "label": "Hair32"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[31]",
+        "fields": {
+          "id": "nhqNtJLv",
+          "label": "Hair33"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[32]",
+        "fields": {
+          "id": "6-vAKg2u",
+          "label": "Hair34"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[33]",
+        "fields": {
+          "id": "7Z8FVs4Y",
+          "label": "Hair35"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[34]",
+        "fields": {
+          "id": "4iKFTRVH",
+          "label": "Hair36"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[35]",
+        "fields": {
+          "id": "Udgcqm1X",
+          "label": "Hair37"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[36]",
+        "fields": {
+          "id": "_1O9XUPL",
+          "label": "Hair38"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[37]",
+        "fields": {
+          "id": "eG1OhctN",
+          "label": "Hair39"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[38]",
+        "fields": {
+          "id": "-9w4W_QU",
+          "label": "Hair40"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[39]",
+        "fields": {
+          "id": "Y-BZcN6h",
+          "label": "Hair41"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[40]",
+        "fields": {
+          "id": "qsXtxVvW",
+          "label": "Hair42"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[41]",
+        "fields": {
+          "id": "ssSv5tLR",
+          "label": "Hair43"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[42]",
+        "fields": {
+          "id": "sQyFk6vy",
+          "label": "Hair44"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[43]",
+        "fields": {
+          "id": "uLmEzE3k",
+          "label": "Hair45"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[44]",
+        "fields": {
+          "id": "qzQYnzi0",
+          "label": "Hair46"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[45]",
+        "fields": {
+          "id": "NCEW6RE5",
+          "label": "Hair47"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[46]",
+        "fields": {
+          "id": "ZRb7o2QI",
+          "label": "Hair48"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[47]",
+        "fields": {
+          "id": "8uDXpwZu",
+          "label": "Hair49"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[48]",
+        "fields": {
+          "id": "ZRT0_Xq1",
+          "label": "Hair50"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[49]",
+        "fields": {
+          "id": "ZBAC-70J",
+          "label": "Hair51"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[50]",
+        "fields": {
+          "id": "2iDvEiok",
+          "label": "Hair52"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[51]",
+        "fields": {
+          "id": "GNPMwfjK",
+          "label": "Hair53"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[52]",
+        "fields": {
+          "id": "061rCN16",
+          "label": "Hair54"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[53]",
+        "fields": {
+          "id": "nI9e5Nml",
+          "label": "Hair55"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[54]",
+        "fields": {
+          "id": "sApQ5WSV",
+          "label": "Hair56"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[55]",
+        "fields": {
+          "id": "iKKaRGuW",
+          "label": "Hair57"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[56]",
+        "fields": {
+          "id": "FX4zydRg",
+          "label": "Hair58"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[57]",
+        "fields": {
+          "id": "c4TvrLf7",
+          "label": "Hair59"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[58]",
+        "fields": {
+          "id": "6n9U4Y9Q",
+          "label": "Hair60"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[59]",
+        "fields": {
+          "id": "X3aSTVOk",
+          "label": "Hair61"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[60]",
+        "fields": {
+          "id": "fbueO36n",
+          "label": "Hair62"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[61]",
+        "fields": {
+          "id": "J1Up7N9C",
+          "label": "Hair63"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[62]",
+        "fields": {
+          "id": "S2Ve5dKt",
+          "label": "Hair64"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[63]",
+        "fields": {
+          "id": "TA0mszRm",
+          "label": "Hair65"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[64]",
+        "fields": {
+          "id": "CYuI22DW",
+          "label": "Hair66"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[65]",
+        "fields": {
+          "id": "xxbPMFbx",
+          "label": "Hair67"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[66]",
+        "fields": {
+          "id": "wO-yFGXz",
+          "label": "Hair68"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[67]",
+        "fields": {
+          "id": "X1ojluc-",
+          "label": "Hair69"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[68]",
+        "fields": {
+          "id": "4u0jszVS",
+          "label": "Hair70"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[69]",
+        "fields": {
+          "id": "yQs_JGmZ",
+          "label": "Hair71"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[70]",
+        "fields": {
+          "id": "93I4Qwno",
+          "label": "Hair72"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[71]",
+        "fields": {
+          "id": "5zkO-BCZ",
+          "label": "Hair73"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[72]",
+        "fields": {
+          "id": "MqssyB3B",
+          "label": "Hair74"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[73]",
+        "fields": {
+          "id": "5W0JNsfa",
+          "label": "Hair75"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[74]",
+        "fields": {
+          "id": "LlGX0UqJ",
+          "label": "Hair76"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[75]",
+        "fields": {
+          "id": "spNUiASN",
+          "label": "Hair77"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[76]",
+        "fields": {
+          "id": "LalVmt0w",
+          "label": "Hair78"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[77]",
+        "fields": {
+          "id": "dw6ProHk",
+          "label": "Hair79"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[78]",
+        "fields": {
+          "id": "A1ypxGNh",
+          "label": "Hair80"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[79]",
+        "fields": {
+          "id": "T-vzWEou",
+          "label": "Hair81"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[80]",
+        "fields": {
+          "id": "b3ZITzSx",
+          "label": "Hair82"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[81]",
+        "fields": {
+          "id": "mojkGxN6",
+          "label": "Hair83"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[82]",
+        "fields": {
+          "id": "ybak1h7I",
+          "label": "Hair84"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[83]",
+        "fields": {
+          "id": "cHMO1sJN",
+          "label": "Hair85"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[84]",
+        "fields": {
+          "id": "U55KeXD_",
+          "label": "Hair86"
+        }
+      },
+      {
+        "path": "root.optionGroups[5]",
+        "fields": {
+          "id": "aSBj6byJ",
+          "label": "Choose Flowers",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[0]",
+        "fields": {
+          "id": "PqDpgZ2O",
+          "label": "1"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[1]",
+        "fields": {
+          "id": "btYR5lZN",
+          "label": "2"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[2]",
+        "fields": {
+          "id": "5ZiajafX",
+          "label": "3"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[3]",
+        "fields": {
+          "id": "tx_UBo9E",
+          "label": "4"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[4]",
+        "fields": {
+          "id": "4E8p7ikw",
+          "label": "5"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[5]",
+        "fields": {
+          "id": "rigyjqKI",
+          "label": "6"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[6]",
+        "fields": {
+          "id": "Qr91NWO4",
+          "label": "7"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[7]",
+        "fields": {
+          "id": "aEsmt6vt",
+          "label": "8"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[8]",
+        "fields": {
+          "id": "NRCAtVQd",
+          "label": "9"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[9]",
+        "fields": {
+          "id": "ET-9PHnf",
+          "label": "10"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[10]",
+        "fields": {
+          "id": "Iy-cK0M0",
+          "label": "11"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[11]",
+        "fields": {
+          "id": "MI4d-1mg",
+          "label": "12"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "xUR1otKX",
+          "label": "Custom Name",
+          "required": true,
+          "minLength": 1,
+          "maxLength": 1000,
+          "placeholder": "Sophia",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[6]",
+        "fields": {
+          "type": "text",
+          "id": "xUR1otKX"
+        }
+      },
+      {
+        "path": "root.controlOrder[7]",
+        "fields": {
+          "type": "text",
+          "id": "LE8mvsan"
+        }
+      }
+    ]
+  },
+  {
+    "inventory_position": 50,
+    "url": "https://jeminise.com/products/custom-christian-inspirational-sophia-blanket-machine-washable-d11",
+    "collections": {
+      "surfaces": 1,
+      "optionGroups": 7,
+      "textInputs": 1,
+      "imageInputs": 0,
+      "fontGroups": 0,
+      "colorGroups": 0,
+      "placements": 0,
+      "conditionalRules": 0,
+      "controlOrder": 8,
+      "assets": 306,
+      "warnings": 0
+    },
+    "fields": [
+      {
+        "path": "root.surfaces[0]",
+        "fields": {
+          "id": "2XdIiphb",
+          "label": "Surface 1"
+        }
+      },
+      {
+        "path": "root.optionGroups[0]",
+        "fields": {
+          "id": "5RExQ8WM",
+          "label": "Choose Flowers",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[0]",
+        "fields": {
+          "id": "3AFc4hbq",
+          "label": "1"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[1]",
+        "fields": {
+          "id": "Uhg2-wfA",
+          "label": "2"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[2]",
+        "fields": {
+          "id": "rzsUbcwL",
+          "label": "3"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[3]",
+        "fields": {
+          "id": "s7_JYMS2",
+          "label": "4"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[4]",
+        "fields": {
+          "id": "PsNhcMRX",
+          "label": "5"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[5]",
+        "fields": {
+          "id": "-N1YeNQC",
+          "label": "6"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[6]",
+        "fields": {
+          "id": "zwYEVW81",
+          "label": "7"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[7]",
+        "fields": {
+          "id": "hViSE-Du",
+          "label": "8"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[8]",
+        "fields": {
+          "id": "_npQgYGb",
+          "label": "9"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[9]",
+        "fields": {
+          "id": "qqT1mdVy",
+          "label": "10"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[10]",
+        "fields": {
+          "id": "vE0VGUnP",
+          "label": "11"
+        }
+      },
+      {
+        "path": "root.optionGroups[0].options[11]",
+        "fields": {
+          "id": "hsHtxref",
+          "label": "12"
+        }
+      },
+      {
+        "path": "root.optionGroups[1]",
+        "fields": {
+          "id": "wmRwg9pH",
+          "label": "Choose Skin",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[0]",
+        "fields": {
+          "id": "7XeP3_q-",
+          "label": "skin1"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[1]",
+        "fields": {
+          "id": "42dM8znO",
+          "label": "skin2"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[2]",
+        "fields": {
+          "id": "10dPHJOo",
+          "label": "skin3"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[3]",
+        "fields": {
+          "id": "GBKAOyyB",
+          "label": "skin4"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[4]",
+        "fields": {
+          "id": "GIbEWDK7",
+          "label": "skin5"
+        }
+      },
+      {
+        "path": "root.optionGroups[1].options[5]",
+        "fields": {
+          "id": "Yg_u59eZ",
+          "label": "skin6"
+        }
+      },
+      {
+        "path": "root.optionGroups[2]",
+        "fields": {
+          "id": "URKk34oZ",
+          "label": "Choose Shirt",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[0]",
+        "fields": {
+          "id": "-SfCjxsQ",
+          "label": "SHIRT-2"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[1]",
+        "fields": {
+          "id": "TwuVNrgy",
+          "label": "SHIRT-3"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[2]",
+        "fields": {
+          "id": "H1ivJBpY",
+          "label": "SHIRT-4"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[3]",
+        "fields": {
+          "id": "9nwHM_iz",
+          "label": "SHIRT-5"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[4]",
+        "fields": {
+          "id": "UvyZkreG",
+          "label": "SHIRT-6"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[5]",
+        "fields": {
+          "id": "0oAvl9Of",
+          "label": "SHIRT-7"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[6]",
+        "fields": {
+          "id": "gE8_Qx-E",
+          "label": "SHIRT-8"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[7]",
+        "fields": {
+          "id": "i6gbPJNs",
+          "label": "SHIRT-9"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[8]",
+        "fields": {
+          "id": "sYWBvgG2",
+          "label": "SHIRT-10"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[9]",
+        "fields": {
+          "id": "gsV0qX7C",
+          "label": "SHIRT-11"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[10]",
+        "fields": {
+          "id": "hJT2GeQQ",
+          "label": "SHIRT-12"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[11]",
+        "fields": {
+          "id": "Ch5y4fvo",
+          "label": "SHIRT-13"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[12]",
+        "fields": {
+          "id": "xcTvELeJ",
+          "label": "SHIRT-14"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[13]",
+        "fields": {
+          "id": "DWD08DIe",
+          "label": "SHIRT-15"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[14]",
+        "fields": {
+          "id": "7cslVNkU",
+          "label": "SHIRT-16"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[15]",
+        "fields": {
+          "id": "iR4LbeTm",
+          "label": "SHIRT-17"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[16]",
+        "fields": {
+          "id": "CFbvel1k",
+          "label": "SHIRT-18"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[17]",
+        "fields": {
+          "id": "Xz51QWSb",
+          "label": "SHIRT-19"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[18]",
+        "fields": {
+          "id": "eD5_AlBv",
+          "label": "SHIRT-20"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[19]",
+        "fields": {
+          "id": "P1v62Kwv",
+          "label": "SHIRT-21"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[20]",
+        "fields": {
+          "id": "6yvjCyq3",
+          "label": "SHIRT-22"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[21]",
+        "fields": {
+          "id": "3WV6Ah6_",
+          "label": "SHIRT-23"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[22]",
+        "fields": {
+          "id": "NbpGg-ME",
+          "label": "SHIRT-24"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[23]",
+        "fields": {
+          "id": "mquWM-z3",
+          "label": "SHIRT-25"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[24]",
+        "fields": {
+          "id": "3w81wCiu",
+          "label": "SHIRT-26"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[25]",
+        "fields": {
+          "id": "cTWIsjfL",
+          "label": "SHIRT-27"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[26]",
+        "fields": {
+          "id": "Rgfe6Xml",
+          "label": "SHIRT-28"
+        }
+      },
+      {
+        "path": "root.optionGroups[2].options[27]",
+        "fields": {
+          "id": "tZb229d3",
+          "label": "SHIRT-29"
+        }
+      },
+      {
+        "path": "root.optionGroups[3]",
+        "fields": {
+          "id": "R6H8zHNt",
+          "label": "Choose Eye",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[0]",
+        "fields": {
+          "id": "QUJgpXyK",
+          "label": "Eye1"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[1]",
+        "fields": {
+          "id": "k-Jsqb7L",
+          "label": "Eye2"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[2]",
+        "fields": {
+          "id": "-FCtuKPg",
+          "label": "Eye3"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[3]",
+        "fields": {
+          "id": "PWo5GMTV",
+          "label": "Eye4"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[4]",
+        "fields": {
+          "id": "UXMax-DK",
+          "label": "Eye5"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[5]",
+        "fields": {
+          "id": "ZNalUUPH",
+          "label": "Eye6"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[6]",
+        "fields": {
+          "id": "zhA-TZ7-",
+          "label": "Eye7"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[7]",
+        "fields": {
+          "id": "mzllYbiv",
+          "label": "Eye8"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[8]",
+        "fields": {
+          "id": "-LoV0Cg4",
+          "label": "Eye9"
+        }
+      },
+      {
+        "path": "root.optionGroups[3].options[9]",
+        "fields": {
+          "id": "v7D-UElc",
+          "label": "Eye10"
+        }
+      },
+      {
+        "path": "root.optionGroups[4]",
+        "fields": {
+          "id": "JAxmAdKC",
+          "label": "Choose Hair",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[0]",
+        "fields": {
+          "id": "hNTrHxn1",
+          "label": "Hair1"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[1]",
+        "fields": {
+          "id": "JcxkRUxh",
+          "label": "Hair2"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[2]",
+        "fields": {
+          "id": "TGAh1xsy",
+          "label": "Hair3"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[3]",
+        "fields": {
+          "id": "JXmfJoRF",
+          "label": "Hair4"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[4]",
+        "fields": {
+          "id": "3Vyvkz1P",
+          "label": "Hair5"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[5]",
+        "fields": {
+          "id": "XyHs6BCu",
+          "label": "Hair6"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[6]",
+        "fields": {
+          "id": "JWBTkmht",
+          "label": "Hair7"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[7]",
+        "fields": {
+          "id": "AiOLfvZ9",
+          "label": "Hair8"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[8]",
+        "fields": {
+          "id": "NKa95Vta",
+          "label": "Hair9"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[9]",
+        "fields": {
+          "id": "EbXO5wlY",
+          "label": "Hair10"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[10]",
+        "fields": {
+          "id": "3JSnl7Fd",
+          "label": "Hair11"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[11]",
+        "fields": {
+          "id": "6zoxlAF7",
+          "label": "Hair12"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[12]",
+        "fields": {
+          "id": "aFRVHFDh",
+          "label": "Hair13"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[13]",
+        "fields": {
+          "id": "uL1G-Q1E",
+          "label": "Hair14"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[14]",
+        "fields": {
+          "id": "51dHiSgq",
+          "label": "Hair15"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[15]",
+        "fields": {
+          "id": "HZnDB6I4",
+          "label": "Hair16"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[16]",
+        "fields": {
+          "id": "kTigKR23",
+          "label": "Hair17"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[17]",
+        "fields": {
+          "id": "oh1AbtwS",
+          "label": "Hair18"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[18]",
+        "fields": {
+          "id": "EM9QmuiU",
+          "label": "Hair19"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[19]",
+        "fields": {
+          "id": "CBeixh30",
+          "label": "Hair20"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[20]",
+        "fields": {
+          "id": "hq5K7ZCs",
+          "label": "Hair21"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[21]",
+        "fields": {
+          "id": "783yFNcz",
+          "label": "Hair23"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[22]",
+        "fields": {
+          "id": "G9OcjKCo",
+          "label": "Hair24"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[23]",
+        "fields": {
+          "id": "uNHwTRZb",
+          "label": "Hair25"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[24]",
+        "fields": {
+          "id": "3tfFhm_j",
+          "label": "Hair26"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[25]",
+        "fields": {
+          "id": "_G0OLYFH",
+          "label": "Hair27"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[26]",
+        "fields": {
+          "id": "ReemJG1Q",
+          "label": "Hair28"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[27]",
+        "fields": {
+          "id": "UMvpzfDT",
+          "label": "Hair29"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[28]",
+        "fields": {
+          "id": "fz9fihrH",
+          "label": "Hair30"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[29]",
+        "fields": {
+          "id": "AUCOKiCj",
+          "label": "Hair31"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[30]",
+        "fields": {
+          "id": "yMONI5jo",
+          "label": "Hair32"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[31]",
+        "fields": {
+          "id": "NEe72Ckk",
+          "label": "Hair33"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[32]",
+        "fields": {
+          "id": "9aKitGHT",
+          "label": "Hair34"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[33]",
+        "fields": {
+          "id": "Tnsp32VQ",
+          "label": "Hair35"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[34]",
+        "fields": {
+          "id": "kgtYQtV6",
+          "label": "Hair36"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[35]",
+        "fields": {
+          "id": "FmHlY0FQ",
+          "label": "Hair37"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[36]",
+        "fields": {
+          "id": "3qnkzy-c",
+          "label": "Hair38"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[37]",
+        "fields": {
+          "id": "kEgyZxgl",
+          "label": "Hair39"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[38]",
+        "fields": {
+          "id": "FVbAtw0O",
+          "label": "Hair40"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[39]",
+        "fields": {
+          "id": "hhyxSHt5",
+          "label": "Hair41"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[40]",
+        "fields": {
+          "id": "D0NAO5xH",
+          "label": "Hair42"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[41]",
+        "fields": {
+          "id": "hble87Es",
+          "label": "Hair43"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[42]",
+        "fields": {
+          "id": "vSuS94jh",
+          "label": "Hair44"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[43]",
+        "fields": {
+          "id": "6mH4LSwf",
+          "label": "Hair45"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[44]",
+        "fields": {
+          "id": "gbEYrVxD",
+          "label": "Hair46"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[45]",
+        "fields": {
+          "id": "zTZOmuoB",
+          "label": "Hair47"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[46]",
+        "fields": {
+          "id": "3aWvWi80",
+          "label": "Hair48"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[47]",
+        "fields": {
+          "id": "d5fbQ5Wj",
+          "label": "Hair49"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[48]",
+        "fields": {
+          "id": "gZdLrWDl",
+          "label": "Hair50"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[49]",
+        "fields": {
+          "id": "Z1tIEVM8",
+          "label": "Hair51"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[50]",
+        "fields": {
+          "id": "-MT6nZML",
+          "label": "Hair52"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[51]",
+        "fields": {
+          "id": "n5De5vEh",
+          "label": "Hair53"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[52]",
+        "fields": {
+          "id": "hFnt5Cdp",
+          "label": "Hair54"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[53]",
+        "fields": {
+          "id": "81bLVSQr",
+          "label": "Hair55"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[54]",
+        "fields": {
+          "id": "vZ8Ft_qn",
+          "label": "Hair56"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[55]",
+        "fields": {
+          "id": "qOn5j_0g",
+          "label": "Hair57"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[56]",
+        "fields": {
+          "id": "XAZ1skQw",
+          "label": "Hair58"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[57]",
+        "fields": {
+          "id": "g32m7279",
+          "label": "Hair59"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[58]",
+        "fields": {
+          "id": "3IZsWciZ",
+          "label": "Hair60"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[59]",
+        "fields": {
+          "id": "QArixnuW",
+          "label": "Hair61"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[60]",
+        "fields": {
+          "id": "gR5l-bxp",
+          "label": "Hair62"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[61]",
+        "fields": {
+          "id": "NKvSZ-bf",
+          "label": "Hair63"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[62]",
+        "fields": {
+          "id": "Q68BvZYb",
+          "label": "Hair64"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[63]",
+        "fields": {
+          "id": "mdtKOI3A",
+          "label": "Hair65"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[64]",
+        "fields": {
+          "id": "jEryfW8u",
+          "label": "Hair66"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[65]",
+        "fields": {
+          "id": "yQhQrA5z",
+          "label": "Hair67"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[66]",
+        "fields": {
+          "id": "oAJ_t3xY",
+          "label": "Hair68"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[67]",
+        "fields": {
+          "id": "btviZZiV",
+          "label": "Hair69"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[68]",
+        "fields": {
+          "id": "SWwEP1aM",
+          "label": "Hair70"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[69]",
+        "fields": {
+          "id": "IgRBTGNI",
+          "label": "Hair71"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[70]",
+        "fields": {
+          "id": "nwziKplT",
+          "label": "Hair72"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[71]",
+        "fields": {
+          "id": "g_vuw5vl",
+          "label": "Hair73"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[72]",
+        "fields": {
+          "id": "l6hAupnV",
+          "label": "Hair74"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[73]",
+        "fields": {
+          "id": "uLsZmD6s",
+          "label": "Hair75"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[74]",
+        "fields": {
+          "id": "0LRknSiI",
+          "label": "Hair76"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[75]",
+        "fields": {
+          "id": "ceAUQ_fM",
+          "label": "Hair77"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[76]",
+        "fields": {
+          "id": "tfR6-Wyt",
+          "label": "Hair78"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[77]",
+        "fields": {
+          "id": "A82qIYe9",
+          "label": "Hair79"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[78]",
+        "fields": {
+          "id": "zHKVl31K",
+          "label": "Hair80"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[79]",
+        "fields": {
+          "id": "-N5TSQxS",
+          "label": "Hair81"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[80]",
+        "fields": {
+          "id": "VUo32MSf",
+          "label": "Hair82"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[81]",
+        "fields": {
+          "id": "yeejWys3",
+          "label": "Hair83"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[82]",
+        "fields": {
+          "id": "JdOFHvKE",
+          "label": "Hair84"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[83]",
+        "fields": {
+          "id": "ONRwvBXV",
+          "label": "Hair85"
+        }
+      },
+      {
+        "path": "root.optionGroups[4].options[84]",
+        "fields": {
+          "id": "khR6xfbu",
+          "label": "Hair86"
+        }
+      },
+      {
+        "path": "root.optionGroups[5]",
+        "fields": {
+          "id": "GxQh6SN1",
+          "label": "Choose Pants",
+          "required": true,
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[0]",
+        "fields": {
+          "id": "0hB6urKa",
+          "label": "Pants1"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[1]",
+        "fields": {
+          "id": "bUkpOeVM",
+          "label": "Pants2"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[2]",
+        "fields": {
+          "id": "uNzZggsr",
+          "label": "Pants3"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[3]",
+        "fields": {
+          "id": "_nmR7bA4",
+          "label": "Pants4"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[4]",
+        "fields": {
+          "id": "0Asom5yU",
+          "label": "Pants5"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[5]",
+        "fields": {
+          "id": "ZgrSw7Ab",
+          "label": "Pants6"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[6]",
+        "fields": {
+          "id": "nzO_stzq",
+          "label": "Pants7"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[7]",
+        "fields": {
+          "id": "FR7Pjk51",
+          "label": "Pants8"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[8]",
+        "fields": {
+          "id": "tftTgXL0",
+          "label": "Pants9"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[9]",
+        "fields": {
+          "id": "pDaC9dza",
+          "label": "Pants11"
+        }
+      },
+      {
+        "path": "root.optionGroups[5].options[10]",
+        "fields": {
+          "id": "bg5BbUI1",
+          "label": "Pants14"
+        }
+      },
+      {
+        "path": "root.optionGroups[6]",
+        "fields": {
+          "id": "UEiGSRNn",
+          "label": "CONFIRM CUSTOM INFORMATION",
+          "required": true,
+          "instructions": "Please check your information (spelling, size ) by preview."
+        }
+      },
+      {
+        "path": "root.optionGroups[6].options[0]",
+        "fields": {
+          "id": "MWx4ghqC",
+          "label": "Yes. I have confirmed all custom info"
+        }
+      },
+      {
+        "path": "root.optionGroups[6].options[1]",
+        "fields": {
+          "id": "YtRFM5em",
+          "label": "No, I didn't confirm"
+        }
+      },
+      {
+        "path": "root.textInputs[0]",
+        "fields": {
+          "id": "lpSLkPmI",
+          "label": "Custom Name",
+          "required": true,
+          "minLength": 1,
+          "maxLength": 30,
+          "placeholder": "Sarah",
+          "instructions": ""
+        }
+      },
+      {
+        "path": "root.controlOrder[0]",
+        "fields": {
+          "type": "text",
+          "id": "lpSLkPmI"
+        }
+      }
+    ]
+  }
+]
