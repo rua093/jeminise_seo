@@ -1,0 +1,522 @@
+[
+  {
+    "inventory_position": 61,
+    "url": "https://jeminise.com/products/custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 62,
+    "url": "https://jeminise.com/products/custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 63,
+    "url": "https://jeminise.com/products/custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 64,
+    "url": "https://jeminise.com/products/custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 65,
+    "url": "https://jeminise.com/products/custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 66,
+    "url": "https://jeminise.com/products/custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 67,
+    "url": "https://jeminise.com/products/custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 68,
+    "url": "https://jeminise.com/products/custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 69,
+    "url": "https://jeminise.com/products/custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 70,
+    "url": "https://jeminise.com/products/custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  }
+]

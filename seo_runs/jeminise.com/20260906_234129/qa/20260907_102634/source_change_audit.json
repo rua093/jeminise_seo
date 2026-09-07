@@ -1,0 +1,172 @@
+[
+  {
+    "product_key": "jeminise.com+custom-christian-scripture-floral-blanket-machine-washable-d10",
+    "snapshot_checked_at": "2026-09-06T17:21:04.383366+00:00",
+    "live_checked_at": "2026-09-07T10:27:31.628289+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "ef57292642f17cf890e9d92593fe8e64b88b776d45783fdee4ca5f85e38e9de5",
+    "live_html_sha256": "7fa6a9f44256218b2537931c6fa0de3b627d561b64169cdb5536e61329d0e630",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-emily-god-says-i-am-blanket-machine-washable-d9",
+    "snapshot_checked_at": "2026-09-06T17:21:04.383366+00:00",
+    "live_checked_at": "2026-09-07T10:27:32.668945+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "a84c25411a702c2a07da2c4815382be4b31ea82485b1dc96f0df6f9e2bc5b801",
+    "live_html_sha256": "b14910d1748e78f574af6c49699804d3de5c02d0b3797ac9a9c5e05dade47aea",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-exploding-soccer-ball-comforter-set-machine-washable-a10",
+    "snapshot_checked_at": "2026-09-06T17:21:04.383366+00:00",
+    "live_checked_at": "2026-09-07T10:27:33.805057+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "882ae77216fca74cb39d83fe78b568dc05b2fe7109c6912f1bfb4e637e5f02fe",
+    "live_html_sha256": "52ab436fa9d1708a104a02bd77d1edceffe90e77efb1c9bc129f8295e1ccf8a8",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-fiery-soccer-ball-custom-name-comforter-set-machin-design-5",
+    "snapshot_checked_at": "2026-09-06T17:21:04.383366+00:00",
+    "live_checked_at": "2026-09-07T10:27:34.958093+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "7197db7515ffa55d754ef16b03793a07b29342332b2d27d380374cc982d4a6c4",
+    "live_html_sha256": "2b561d8c11eb466dc9c1e4208f80981ac50479ec716eba69dfb9f0eb21b7c12f",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-flaming-soccer-ball-with-custom-name-comforter-set-a12",
+    "snapshot_checked_at": "2026-09-06T17:21:04.383366+00:00",
+    "live_checked_at": "2026-09-07T10:27:36.173769+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "35d8e9a0b4dbac322d34d9e969997c7144adbca13ddd1ec05e131545830d9892",
+    "live_html_sha256": "ec1a14bd45509eef421bcc6a0e640ab790fbf40f182d2d041e94e9ada9cadef7",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-flaming-soccer-ball-with-name-comforter-set-machine-washable",
+    "snapshot_checked_at": "2026-09-06T17:21:04.383366+00:00",
+    "live_checked_at": "2026-09-07T10:27:37.235885+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "1a72cff9e1b04ffca4689c02f7c2b2bd096b3c008fc86c8fa9753404d20263fc",
+    "live_html_sha256": "521bfc31f93d0a87c7faf23ad83d012cea6ea9b5bb4f8bf96ffdf7dc25904b05",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-floral-butterfly-inspirational-blanket-machine-wash-design-8",
+    "snapshot_checked_at": "2026-09-06T17:21:04.383366+00:00",
+    "live_checked_at": "2026-09-07T10:27:38.301842+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "73a784daf261c5d96c2a4553fffd41cfb634ea1723693661e2b1ff9aa8c298c9",
+    "live_html_sha256": "1bd410ba6176f2c88a062947e46e1d40f3edadfeeff3eb3e9c0b5ea32686f55d",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-floral-butterfly-inspirational-blanket-machine-washable-d3",
+    "snapshot_checked_at": "2026-09-06T17:21:04.383366+00:00",
+    "live_checked_at": "2026-09-07T10:27:39.327592+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "59a09254519da2501203e81db5dfbddde4ec27532ccdb179aba2f10127b4fd72",
+    "live_html_sha256": "f8fbeb866f24a6681ef0fb78b9e4e4d2d4c600f43c1a1b82103b631ffe76649f",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-floral-cross-bible-verse-blanket-machine-washable-d13",
+    "snapshot_checked_at": "2026-09-06T17:21:04.383366+00:00",
+    "live_checked_at": "2026-09-07T10:27:40.455408+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "514f8acdc07c7c7b4d2bd83ac27e8ff7018ea8f3fed29003e2206cd29d173e18",
+    "live_html_sha256": "35b58c91ae8d1c3c9d4275a6e4e21fb089fa243603997d78e8bc4187da0f77f2",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  },
+  {
+    "product_key": "jeminise.com+custom-floral-cross-with-butterflies-blanket-machine-washable-d6",
+    "snapshot_checked_at": "2026-09-06T17:21:04.383366+00:00",
+    "live_checked_at": "2026-09-07T10:27:41.503881+07:00",
+    "snapshot_html_status": 200,
+    "snapshot_html_sha256": "f7a5fdb070ce2b668a9514335336a43b7e1778ba7a994e1912cd5c1cbbfeb735",
+    "live_html_sha256": "155a9658d85726570029d80609ee840a251e3e07cfed6de45c8565edde84383a",
+    "html_hash_comparison": true,
+    "material_fields_equal": {
+      "product_id": true,
+      "title": true,
+      "body_html": true,
+      "options": true,
+      "gallery_urls_and_order": true
+    },
+    "source_revision_status": "LIVE_PRODUCT_JSON_EQUIVALENT"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "path": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260907_104027\\SEO_QA_qa_batch_007.xlsx",
+  "sheet_names": [
+    "QA_Summary",
+    "QA_Products",
+    "QA_Criteria",
+    "QA_Images",
+    "QA_Issues"
+  ],
+  "expected_sheet_names": [
+    "QA_Summary",
+    "QA_Products",
+    "QA_Criteria",
+    "QA_Images",
+    "QA_Issues"
+  ],
+  "row_counts": {
+    "QA_Summary": 13,
+    "QA_Products": 10,
+    "QA_Criteria": 110,
+    "QA_Images": 60,
+    "QA_Issues": 44
+  },
+  "freeze_panes": {
+    "QA_Summary": "A2",
+    "QA_Products": "A2",
+    "QA_Criteria": "A2",
+    "QA_Images": "A2",
+    "QA_Issues": "A2"
+  },
+  "auto_filters": {
+    "QA_Summary": "A1:C14",
+    "QA_Products": "A1:W11",
+    "QA_Criteria": "A1:J111",
+    "QA_Images": "A1:Z61",
+    "QA_Issues": "A1:K45"
+  },
+  "formula_cells": 733,
+  "hyperlink_cells": 130,
+  "formula_error_tokens": 0,
+  "xlsx_sha256": "67ad15eb2593bb20a898766f8e98c42e225819faa7de7d571e64c739a43d9ce6",
+  "source_sha256": "609ef38d46896f234ea7aaeec74f393267003d20d6de8c5ba9bd21bfb19675ee",
+  "zip_bad_member": null,
+  "passed": true
+}

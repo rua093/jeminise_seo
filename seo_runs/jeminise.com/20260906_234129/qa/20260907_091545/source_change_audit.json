@@ -1,0 +1,152 @@
+[
+  {
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-02",
+    "snapshot_checked_at": "2026-09-06T16:54:18.487069+00:00",
+    "live_checked_at": "2026-09-07T09:17:02.569316+07:00",
+    "snapshot_html_sha256": "358374380265e3902da8aa8eb7b90f3a5970a66b81cf6de71c90a6abe0d0cbb4",
+    "live_html_sha256": "160288b3916960c77f5ef5d6094a79972988d94a77b173fc6f277992e9ec00d5",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-03",
+    "snapshot_checked_at": "2026-09-06T16:54:18.487069+00:00",
+    "live_checked_at": "2026-09-07T09:17:03.735965+07:00",
+    "snapshot_html_sha256": "b3b1f83ee66e8b293499e142614dab3878d4d9f183540ac61d66d26a2f3e08cd",
+    "live_html_sha256": "628d0c2c89a8406af17ddca0885bb10232ee49cb60968ca9c940f3ff9c1619b6",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-04",
+    "snapshot_checked_at": "2026-09-06T16:54:18.487069+00:00",
+    "live_checked_at": "2026-09-07T09:17:04.885573+07:00",
+    "snapshot_html_sha256": "25ef11658aba0ce1dd2a81d2a4a0b6a8f9d47ab4c8f736f1bbf996650fdaf286",
+    "live_html_sha256": "76b30659866ddada511f93ab64a40cb7627d83dd9afd65f5168c1c69a13c5d29",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-05",
+    "snapshot_checked_at": "2026-09-06T16:54:18.487069+00:00",
+    "live_checked_at": "2026-09-07T09:17:05.915320+07:00",
+    "snapshot_html_sha256": "0eab257ee104a267bd18ba7b6146d72ec7e0c650554c0ffdd9354994d2ce03a8",
+    "live_html_sha256": "29e0a1c6866b133cc74c6d5b214538f1bee00193ea0808fc9253afab945fabb7",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-06",
+    "snapshot_checked_at": "2026-09-06T16:54:18.487069+00:00",
+    "live_checked_at": "2026-09-07T09:17:06.943090+07:00",
+    "snapshot_html_sha256": "7039ccdf014ffb723e54cc7cd7540ef9c228fbcc9dce1f6d601faaf7ec53c90f",
+    "live_html_sha256": "d80c89fb04360af790e918980a3f2c2e7b7cf1d4e0e69cadb24449eda630f759",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforter",
+    "snapshot_checked_at": "2026-09-06T16:54:18.487069+00:00",
+    "live_checked_at": "2026-09-07T09:17:08.144847+07:00",
+    "snapshot_html_sha256": "fbbf4529be31d65e4cced8f5f413c54bc81ec648624b671b7d19a51458d42793",
+    "live_html_sha256": "94b003fd06e1ed1f8f4e9f24d0d7bcc5ffcdb6b607df82c0ddc61318136ddf09",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-01",
+    "snapshot_checked_at": "2026-09-06T16:54:18.487069+00:00",
+    "live_checked_at": "2026-09-07T09:17:09.421918+07:00",
+    "snapshot_html_sha256": "a17ee44edf3971037163c296598f6c629df17750c47b7e2a8ed6582f92966fa1",
+    "live_html_sha256": "b6e41c3dd88449aad7fd76557dbdcf7d6b4650ea6e2b9ddc74fdac19a290968d",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-02",
+    "snapshot_checked_at": "2026-09-06T16:54:18.487069+00:00",
+    "live_checked_at": "2026-09-07T09:17:10.634741+07:00",
+    "snapshot_html_sha256": "42aebe6869fb40a09f8d9fc218574fa336a97ff490fdd82208f63ff0fc9a6471",
+    "live_html_sha256": "d00f1135300b5e813512b95574cc0f7e8cdb11f47321e96904b88b86314e4201",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-03",
+    "snapshot_checked_at": "2026-09-06T16:54:18.487069+00:00",
+    "live_checked_at": "2026-09-07T09:17:11.819847+07:00",
+    "snapshot_html_sha256": "ac304810a73e81fe9d5b6208b97a9e37d9ca461f2c023ca3f29c8c49fab4e77e",
+    "live_html_sha256": "a90fffb6c55429ec87b8e3a121c9cc0ed66a744be400dcf2a9393e944f764803",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  },
+  {
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-04",
+    "snapshot_checked_at": "2026-09-06T16:54:18.487069+00:00",
+    "live_checked_at": "2026-09-07T09:17:13.029000+07:00",
+    "snapshot_html_sha256": "c0bb7ac312223ea66ddbbb3f978ab6ac2f9eea443fd2657cea85ad1a994a08a9",
+    "live_html_sha256": "b95f7c625eb11ee03c45f65051891e75f8b1c13f7bdc350af0ef13458ee001ad",
+    "html_hash_changed": true,
+    "material_fields_equal": {
+      "title": true,
+      "h1": true,
+      "meta_description": true,
+      "canonical": true
+    },
+    "source_revision_status": "LIVE_EQUIVALENT_DYNAMIC_HTML_CHANGED"
+  }
+]

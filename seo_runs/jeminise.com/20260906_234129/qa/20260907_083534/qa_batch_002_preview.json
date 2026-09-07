@@ -1,0 +1,96 @@
+{
+  "batch_id": "qa_batch_002",
+  "status": "PREPARED_NOT_STARTED",
+  "products": [
+    {
+      "inventory_position": 11,
+      "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-02",
+      "product_id": "8867138732231",
+      "Handle": "christian-bedding-set-inspirational-bible-verse-comforte-design-02",
+      "title_current": "Christian Bedding Set – Inspirational Bible Verse Comforte - Design 02",
+      "product_url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-02",
+      "image_count": 8
+    },
+    {
+      "inventory_position": 12,
+      "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-03",
+      "product_id": "8867139027143",
+      "Handle": "christian-bedding-set-inspirational-bible-verse-comforte-design-03",
+      "title_current": "Christian Bedding Set – Inspirational Bible Verse Comforte - Design 03",
+      "product_url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-03",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 13,
+      "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-04",
+      "product_id": "8867139322055",
+      "Handle": "christian-bedding-set-inspirational-bible-verse-comforte-design-04",
+      "title_current": "Christian Bedding Set – Inspirational Bible Verse Comforte - Design 04",
+      "product_url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-04",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 14,
+      "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-05",
+      "product_id": "8867139453127",
+      "Handle": "christian-bedding-set-inspirational-bible-verse-comforte-design-05",
+      "title_current": "Christian Bedding Set – Inspirational Bible Verse Comforte - Design 05",
+      "product_url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-05",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 15,
+      "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-06",
+      "product_id": "8867139584199",
+      "Handle": "christian-bedding-set-inspirational-bible-verse-comforte-design-06",
+      "title_current": "Christian Bedding Set – Inspirational Bible Verse Comforte - Design 06",
+      "product_url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-06",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 16,
+      "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforter",
+      "product_id": "8867138437319",
+      "Handle": "christian-bedding-set-inspirational-bible-verse-comforter",
+      "title_current": "Christian Bedding Set – Inspirational Bible Verse Comforter",
+      "product_url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforter",
+      "image_count": 8
+    },
+    {
+      "inventory_position": 17,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-01",
+      "product_id": "8867158065351",
+      "Handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-01",
+      "title_current": "Christmas Bedding Quilt – Soft Microfiber Holiday Bedsprea - Design 01",
+      "product_url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-01",
+      "image_count": 5
+    },
+    {
+      "inventory_position": 18,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-02",
+      "product_id": "8867158130887",
+      "Handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-02",
+      "title_current": "Christmas Bedding Quilt – Soft Microfiber Holiday Bedsprea - Design 02",
+      "product_url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-02",
+      "image_count": 5
+    },
+    {
+      "inventory_position": 19,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-03",
+      "product_id": "8867158229191",
+      "Handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-03",
+      "title_current": "Christmas Bedding Quilt – Soft Microfiber Holiday Bedsprea - Design 03",
+      "product_url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-03",
+      "image_count": 5
+    },
+    {
+      "inventory_position": 20,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-04",
+      "product_id": "8867158196423",
+      "Handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-04",
+      "title_current": "Christmas Bedding Quilt – Soft Microfiber Holiday Bedsprea - Design 04",
+      "product_url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-04",
+      "image_count": 5
+    }
+  ]
+}

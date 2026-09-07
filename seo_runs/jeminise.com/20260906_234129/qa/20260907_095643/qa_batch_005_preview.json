@@ -1,0 +1,96 @@
+{
+  "batch_id": "qa_batch_005",
+  "status": "PREPARED_NOT_STARTED",
+  "products": [
+    {
+      "inventory_position": 41,
+      "product_key": "jeminise.com+custom-american-sports-football-player-running-with-ball-comforter-891aa5a660-891aa5a660",
+      "product_id": "8834755821767",
+      "Handle": "custom-american-sports-football-player-running-with-ball-comforter-891aa5a660-891aa5a660",
+      "title_current": "Custom American Sports Football Player Running with Ball Comforter",
+      "product_url": "https://jeminise.com/products/custom-american-sports-football-player-running-with-ball-comforter-891aa5a660-891aa5a660",
+      "image_count": 6
+    },
+    {
+      "inventory_position": 42,
+      "product_key": "jeminise.com+custom-basketball-players-blanket-name-number-76fdad09b6-76fdad09b6",
+      "product_id": "8834346778823",
+      "Handle": "custom-basketball-players-blanket-name-number-76fdad09b6-76fdad09b6",
+      "title_current": "Custom Basketball Players Blanket with Name and Number",
+      "product_url": "https://jeminise.com/products/custom-basketball-players-blanket-name-number-76fdad09b6-76fdad09b6",
+      "image_count": 8
+    },
+    {
+      "inventory_position": 43,
+      "product_key": "jeminise.com+custom-bible-verse-photo-blanket-personalized-christian-gift-for-her",
+      "product_id": "8859763507399",
+      "Handle": "custom-bible-verse-photo-blanket-personalized-christian-gift-for-her",
+      "title_current": "Custom Bible Verse Photo Blanket – Personalized Christian Gift for Her",
+      "product_url": "https://jeminise.com/products/custom-bible-verse-photo-blanket-personalized-christian-gift-for-her",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 44,
+      "product_key": "jeminise.com+custom-cardinals-on-flowering-branches-quilt-47d5316f3d-47d5316f3d",
+      "product_id": "8834723807431",
+      "Handle": "custom-cardinals-on-flowering-branches-quilt-47d5316f3d-47d5316f3d",
+      "title_current": "Custom Cardinals on Flowering Branches Quilt with Name",
+      "product_url": "https://jeminise.com/products/custom-cardinals-on-flowering-branches-quilt-47d5316f3d-47d5316f3d",
+      "image_count": 5
+    },
+    {
+      "inventory_position": 45,
+      "product_key": "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-019f2b38a4-019f2b38a4",
+      "product_id": "8833353515207",
+      "Handle": "custom-tree-of-life-quilt-set-yggdrasil-bedding-019f2b38a4-019f2b38a4",
+      "title_current": "Custom Celtic Tree of Life Quilt Set with Colorful Mosaic Sunburst",
+      "product_url": "https://jeminise.com/products/custom-tree-of-life-quilt-set-yggdrasil-bedding-019f2b38a4-019f2b38a4",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 46,
+      "product_key": "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-celtic-patterns-908827b1df-908827b1df",
+      "product_id": "8833348534471",
+      "Handle": "custom-tree-of-life-quilt-set-yggdrasil-celtic-patterns-908827b1df-908827b1df",
+      "title_current": "Custom Celtic Tree of Life Quilt Set with Fantasy Central Eye Artwork",
+      "product_url": "https://jeminise.com/products/custom-tree-of-life-quilt-set-yggdrasil-celtic-patterns-908827b1df-908827b1df",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 47,
+      "product_key": "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-5048da8f29-5048da8f29",
+      "product_id": "8833351942343",
+      "Handle": "custom-tree-of-life-quilt-set-yggdrasil-bedding-5048da8f29-5048da8f29",
+      "title_current": "Custom Celtic Tree of Life Quilt Set with Intertwined Roots Design",
+      "product_url": "https://jeminise.com/products/custom-tree-of-life-quilt-set-yggdrasil-bedding-5048da8f29-5048da8f29",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 48,
+      "product_key": "jeminise.com+custom-christian-faith-semi-truck-in-front-of-large-comforter-057143b1f8-057143b1f8",
+      "product_id": "8835552805063",
+      "Handle": "custom-christian-faith-semi-truck-in-front-of-large-comforter-057143b1f8-057143b1f8",
+      "title_current": "Custom Christian Faith Semi Truck in Front of Large Comforter",
+      "product_url": "https://jeminise.com/products/custom-christian-faith-semi-truck-in-front-of-large-comforter-057143b1f8-057143b1f8",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 49,
+      "product_key": "jeminise.com+custom-christian-girl-bible-emergency-numbers-blanket-d12",
+      "product_id": "8860136964295",
+      "Handle": "custom-christian-girl-bible-emergency-numbers-blanket-d12",
+      "title_current": "Custom Christian girl Bible emergency numbers Blanket - D12",
+      "product_url": "https://jeminise.com/products/custom-christian-girl-bible-emergency-numbers-blanket-d12",
+      "image_count": 9
+    },
+    {
+      "inventory_position": 50,
+      "product_key": "jeminise.com+custom-christian-inspirational-sophia-blanket-machine-washable-d11",
+      "product_id": "8860099707079",
+      "Handle": "custom-christian-inspirational-sophia-blanket-machine-washable-d11",
+      "title_current": "Custom Christian Inspirational Sophia Blanket, Machine Washable - D11",
+      "product_url": "https://jeminise.com/products/custom-christian-inspirational-sophia-blanket-machine-washable-d11",
+      "image_count": 9
+    }
+  ]
+}

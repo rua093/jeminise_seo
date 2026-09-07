@@ -1,0 +1,96 @@
+{
+  "batch_id": "qa_batch_004",
+  "status": "PREPARED_NOT_STARTED",
+  "products": [
+    {
+      "inventory_position": 31,
+      "product_key": "jeminise.com+christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935",
+      "product_id": "8834720170183",
+      "Handle": "christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935",
+      "title_current": "Christmas Cardinals Near Snowy Birdhouse Patchwork Floral Quilt",
+      "product_url": "https://jeminise.com/products/christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 32,
+      "product_key": "jeminise.com+christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed",
+      "product_id": "8834709323975",
+      "Handle": "christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed",
+      "title_current": "Christmas Cardinals on Snowy Branches Patchwork Winter Quilt",
+      "product_url": "https://jeminise.com/products/christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed",
+      "image_count": 5
+    },
+    {
+      "inventory_position": 33,
+      "product_key": "jeminise.com+cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set",
+      "product_id": "8867095806151",
+      "Handle": "cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set",
+      "title_current": "Cow with Landscape Patchwork Quilt, Animal Farmhouse Printed Quilt Set",
+      "product_url": "https://jeminise.com/products/cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 34,
+      "product_key": "jeminise.com+crocodile-patchwork-printed-quilts-animal-patchwork-bedding",
+      "product_id": "8867095445703",
+      "Handle": "crocodile-patchwork-printed-quilts-animal-patchwork-bedding",
+      "title_current": "Crocodile Patchwork Printed Quilts, Animal Patchwork Bedding",
+      "product_url": "https://jeminise.com/products/crocodile-patchwork-printed-quilts-animal-patchwork-bedding",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 35,
+      "product_key": "jeminise.com+custom-retro-football-art-bedding-set-c66211cf75-c66211cf75",
+      "product_id": "8834768699591",
+      "Handle": "custom-retro-football-art-bedding-set-c66211cf75-c66211cf75",
+      "title_current": "Custom American Football Close Up on Flag Comforter",
+      "product_url": "https://jeminise.com/products/custom-retro-football-art-bedding-set-c66211cf75-c66211cf75",
+      "image_count": 6
+    },
+    {
+      "inventory_position": 36,
+      "product_key": "jeminise.com+custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264",
+      "product_id": "8834754445511",
+      "Handle": "custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264",
+      "title_current": "Custom American Football Close Up on Grunge Vintage Comforter",
+      "product_url": "https://jeminise.com/products/custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264",
+      "image_count": 6
+    },
+    {
+      "inventory_position": 37,
+      "product_key": "jeminise.com+custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621",
+      "product_id": "8834752676039",
+      "Handle": "custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621",
+      "title_current": "Custom American Football on Cosmic Background Vintage Comforter",
+      "product_url": "https://jeminise.com/products/custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621",
+      "image_count": 6
+    },
+    {
+      "inventory_position": 38,
+      "product_key": "jeminise.com+custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82",
+      "product_id": "8834767421639",
+      "Handle": "custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82",
+      "title_current": "Custom American Football on Usa Flag Background Comforter",
+      "product_url": "https://jeminise.com/products/custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82",
+      "image_count": 6
+    },
+    {
+      "inventory_position": 39,
+      "product_key": "jeminise.com+custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1",
+      "product_id": "8834773319879",
+      "Handle": "custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1",
+      "title_current": "Custom American Football with Paint Splash Background Vintage Comforter",
+      "product_url": "https://jeminise.com/products/custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1",
+      "image_count": 6
+    },
+    {
+      "inventory_position": 40,
+      "product_key": "jeminise.com+custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9",
+      "product_id": "8834768011463",
+      "Handle": "custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9",
+      "title_current": "Custom American Football with Patriotic Flag Comforter",
+      "product_url": "https://jeminise.com/products/custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9",
+      "image_count": 6
+    }
+  ]
+}

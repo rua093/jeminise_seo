@@ -1,0 +1,282 @@
+[
+  {
+    "serp_id": "serp_qa_021_1",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-05",
+    "query": "gingerbread candy cane quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://quiltwoman.com/products/gingerbread-christmas-quilt-downloadable-pattern"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_021_2",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-05",
+    "query": "gingerbread Christmas quilt set candy cane",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.target.com/p/-/A-94992224"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_022_1",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-06",
+    "query": "black Christmas tree quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.homedepot.com/p/332726298"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_022_2",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-06",
+    "query": "dark Christmas tree quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.lowes.com/pd/MarCielo-BY218-3-Pcs-Patchwork-Christmas-Tree-Queen-Size-Polyester-Quilt-Set-Holiday-Bedspread/5016774281"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_023_1",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-08",
+    "query": "winter cardinal birdhouse quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/listing/4348580665/bird-feeders-and-cardinals-quilt-kit"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_023_2",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-08",
+    "query": "cardinal birdhouse winter bedding quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.wayfair.com/bed-bath/pdp/james-home-holiday-cardinal-reversible-bedding-quilt-set-w100620099.html"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_024_1",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-09",
+    "query": "snowman Christmas quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.target.com/p/-/A-1006322169"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_024_2",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-09",
+    "query": "gingerbread snowman Christmas quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.marcielobedding.com/products/3-piece-christmas-snowman-quilt-set-marcielo-reversible-bedspread"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_025_1",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-10",
+    "query": "red snowman cardinal Christmas quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://charmingfavor.com/products/nd230908"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_025_2",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-10",
+    "query": "snowman cardinal bedding quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/ip/20264016781"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_026_1",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-11",
+    "query": "white Christmas tree quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/ip/2562902230"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_026_2",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-11",
+    "query": "cream Christmas tree quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.macys.com/shop/seasonal-celebrations/holiday-shop/christmas/bed-bath/bedding/Color_normal/Ivory%2FCream?id=202790"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_027_1",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-12",
+    "query": "snowman cardinal Christmas quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://charmingfavor.com/products/nd230908"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_027_2",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-12",
+    "query": "cardinal snowman quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.chugsandree.com/products/christmas-quilt-embroidery-snowman-and-cardinal-quilt-personalized-christmas-quilt-custom-quilt-christmas-decor-buffalo-plaid"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_028_1",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedspread",
+    "query": "vintage Christmas tree quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/listing/773547484/handmade-christmas-tree-quilt-vintage"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_028_2",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedspread",
+    "query": "antique style Christmas tree quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.potterybarn.com/shopping/christmas-tree-bedding/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_029_1",
+    "product_key": "jeminise.com+christmas-cardinal-on-branch-within-patchwork-winter-quilt-892d70543a-892d70543a",
+    "query": "Christmas cardinal memorial quilt I am always with you",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/listing/1085801805/i-am-always-with-you-blanket-cardinal"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_029_2",
+    "product_key": "jeminise.com+christmas-cardinal-on-branch-within-patchwork-winter-quilt-892d70543a-892d70543a",
+    "query": "cardinal remembrance quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/ip/16678752228"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_030_1",
+    "product_key": "jeminise.com+christmas-cardinal-perched-on-branch-within-wreath-patchwork-winter-quilt-9e7c0b5896-9e7c0b5896",
+    "query": "personalized Christmas cardinal quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/ip/16678752228"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  },
+  {
+    "serp_id": "serp_qa_030_2",
+    "product_key": "jeminise.com+christmas-cardinal-perched-on-branch-within-wreath-patchwork-winter-quilt-9e7c0b5896-9e7c0b5896",
+    "query": "custom name cardinal Christmas bedding quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T09:49:03.123721+07:00",
+    "result_urls_read": [
+      "https://www.macustom.com/collections/quilted-bedding-set/products/cardinal-christmas-quilted-bedding-set-ncu0vh044"
+    ],
+    "intent": "Commercial/product",
+    "note": "Evidence supports intent only; no paid search-volume claim."
+  }
+]

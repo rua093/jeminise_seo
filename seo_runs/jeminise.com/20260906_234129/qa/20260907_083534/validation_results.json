@@ -1,0 +1,33 @@
+{
+  "product_weight_total": 100,
+  "image_weight_total": 100,
+  "products": 10,
+  "images": 65,
+  "unique_product_keys": 10,
+  "unique_qa_image_keys": 65,
+  "all_image_coverage_100": true,
+  "logic_100_with_critical": "QA_FAIL",
+  "logic_90_full_no_blocker": "QA_PASS",
+  "logic_72_on_80": {
+    "range": "72-92",
+    "status": "QA_INCOMPLETE"
+  },
+  "cross_links_valid": true,
+  "xlsx": {
+    "sheet_names": [
+      "QA_Summary",
+      "QA_Products",
+      "QA_Criteria",
+      "QA_Images",
+      "QA_Issues"
+    ],
+    "formula_count": 758,
+    "formula_errors": 0,
+    "hyperlink_count": 140,
+    "filters_present_on_all_sheets": true,
+    "freeze_headers_present_on_all_sheets": true,
+    "excel_recalculation_passed": true,
+    "rendered_pages_checked": 27,
+    "sha256": "E2C913348B8C72EEA2C5146842BF9E9262871932B34D09237C2AC3F4D65FE662"
+  }
+}
