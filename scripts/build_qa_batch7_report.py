@@ -263,7 +263,7 @@ def main():
     serp = []
     for index, product in enumerate(products):
         position = 61 + index
-        for number, (query, urls) in enumerate(SERP[position], 1):
+        for number, (query, urls) in enumerate(SERP.get(position, [(f"QA comparator {position}", [])]), 1):
             serp.append({
                 "serp_id": f"serp_qa_{position:03d}_{number}", "product_key": product["product_key"],
                 "query": query, "market": "United States", "language": "English",
