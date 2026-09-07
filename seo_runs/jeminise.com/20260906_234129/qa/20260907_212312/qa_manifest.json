@@ -1,0 +1,28 @@
+{
+  "qa_run_id": "20260907_212312",
+  "qa_batch_id": "qa_batch_017",
+  "revision": "r1",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_017.xlsx",
+  "source_sha256": "65F8C48D63E55BA5F6B311B33EF5ED1FBFEAB99A148B84E45592C180C8CD9132",
+  "snapshot_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_212312\\source_snapshot\\SEO_Product_Optimization_through_batch_017.xlsx",
+  "snapshot_sha256": "65F8C48D63E55BA5F6B311B33EF5ED1FBFEAB99A148B84E45592C180C8CD9132",
+  "shop": "jeminise.com",
+  "source_run_id": "20260906_234129",
+  "market": "United States",
+  "language": "English",
+  "product_keys": [
+    "jeminise.com+norse-mythology-raven-within-celtic-knot-frame-quilt-906ee24d68-906ee24d68",
+    "jeminise.com+norse-mythology-viking-shield-with-crossed-axes-quilt-ca630a284e-ca630a284e",
+    "jeminise.com+owl-patchwork-pattern-quilt-set-animals-quilt-set-style-owl-nights",
+    "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-01",
+    "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-02",
+    "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-03",
+    "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-04",
+    "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-05",
+    "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-06",
+    "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-07"
+  ],
+  "created_at": "2026-09-07T21:30:37+07:00",
+  "prompt_version": "seo-prompt/jeminise/prompt_qa.md (current at QA start)",
+  "rubric_version": "P1,P2,K1-K3,T1-T2,D1-D2,I1,E1; IM1-IM4"
+}

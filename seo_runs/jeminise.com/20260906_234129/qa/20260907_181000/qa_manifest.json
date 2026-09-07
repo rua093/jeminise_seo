@@ -1,0 +1,26 @@
+{
+  "qa_run_id": "20260907_181000",
+  "qa_batch_id": "qa_batch_010",
+  "revision": "r1_corrected_full_qa",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_010.xlsx",
+  "source_sha256": "0DA5C696AC39A2B7C6A923250474C3BBE8C2FF57DC1BF2718FC8C07C9E1B00AF",
+  "snapshot_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_181000\\source_snapshot\\SEO_Product_Optimization_through_batch_010.xlsx",
+  "snapshot_sha256": "0DA5C696AC39A2B7C6A923250474C3BBE8C2FF57DC1BF2718FC8C07C9E1B00AF",
+  "shop": "jeminise.com",
+  "source_run_id": "20260906_234129",
+  "market": "United States",
+  "language": "English",
+  "product_keys": [
+    "jeminise.com+custom-native-american-inspired-wolf-head-inside-circular-frame-comforter-d351b4bfe1-d351b4bfe1",
+    "jeminise.com+custom-neon-green-soccer-player-artwork-comforter-set-boys-room-decor",
+    "jeminise.com+custom-patriotic-semi-truck-on-american-flag-background-comforter-e664ba94f8-e664ba94f8",
+    "jeminise.com+custom-patriotic-semi-truck-with-waving-american-flag-comforter-e01f2755b2-e01f2755b2",
+    "jeminise.com+custom-patriotic-trucking-semi-truck-below-waving-american-flag-comforter-05c0cd8623-05c0cd8623",
+    "jeminise.com+custom-photo-quilt-bicycle-flowers-07e2c6fca1-07e2c6fca1",
+    "jeminise.com+custom-purple-butterflies-text-blanket-machine-washable-d7b",
+    "jeminise.com+custom-purple-butterfly-christian-blanket-machine-washable-d15",
+    "jeminise.com+custom-purple-floral-christian-cross-blanket-machine-washable-d2",
+    "jeminise.com+custom-purple-floral-cross-with-butterflies-blanket-machi-design-14"
+  ],
+  "created_at": "2026-09-07T18:39:17+07:00"
+}

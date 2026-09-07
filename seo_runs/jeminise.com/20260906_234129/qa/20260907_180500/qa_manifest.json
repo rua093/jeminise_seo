@@ -1,0 +1,18 @@
+{
+  "qa_run_id": "20260907_180500",
+  "batch_id": "qa_batch_009",
+  "revision": "r1",
+  "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_009.xlsx",
+  "source_workbook_sha256": "D1D265F3AD9921852CF46DFC086093B832ABE511E03DA9F0E50B5174925A26EA",
+  "source_snapshot": "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_180500\\source_snapshot\\SEO_Product_Optimization_through_batch_009.xlsx",
+  "source_snapshot_sha256": "D1D265F3AD9921852CF46DFC086093B832ABE511E03DA9F0E50B5174925A26EA",
+  "expected_products": 10,
+  "expected_images": 69,
+  "status": "COMPLETE",
+  "source_sha256_at_handoff": "D1D265F3AD9921852CF46DFC086093B832ABE511E03DA9F0E50B5174925A26EA",
+  "xlsx_sha256": "BBA76056FADD7E91F3B7AE4664A67B6A94C136FC5FB4DBFF404172304D8B51EB",
+  "validation_passed": true,
+  "completed_at": "2026-09-07T17:57:01.208209+07:00",
+  "output_markdown": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260907_180500\\SEO_QA_qa_batch_009.md",
+  "output_xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260907_180500\\SEO_QA_qa_batch_009.xlsx"
+}

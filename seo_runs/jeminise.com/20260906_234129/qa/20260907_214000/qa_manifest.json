@@ -1,0 +1,28 @@
+{
+  "qa_run_id": "20260907_214000",
+  "qa_batch_id": "qa_batch_015",
+  "revision": "r1",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_015.xlsx",
+  "source_sha256": "0311DF4CA9BB483107A3267536E7AD4632CCB24F7A0178BF2D9DAD1BA7E6333D",
+  "snapshot_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_214000\\source_snapshot\\SEO_Product_Optimization_through_batch_015.xlsx",
+  "snapshot_sha256": "0311DF4CA9BB483107A3267536E7AD4632CCB24F7A0178BF2D9DAD1BA7E6333D",
+  "shop": "jeminise.com",
+  "source_run_id": "20260906_234129",
+  "market": "United States",
+  "language": "English",
+  "product_keys": [
+    "jeminise.com+fantasy-fire-dragon-comforter-set-with-glowing-lava-and-bedroom-setting-c7ca9ae893-c7ca9ae893",
+    "jeminise.com+fantasy-mythical-dragon-comforter-set-with-winged-dragon-and-bedroom-setting-bcfc28e9d3-bcfc28e9d3",
+    "jeminise.com+fantasy-nature-tree-of-life-quilt-set-with-entwined-golden-roots-and-bedroom-setting-9ad124a9ad-9ad124a9ad",
+    "jeminise.com+fantasy-nature-tree-of-life-quilt-set-with-twisted-tree-trunk-and-bedroom-4dbc5a5b98-4dbc5a5b98",
+    "jeminise.com+fantasy-comforter-set-with-dragon-and-bedroom-and-fire-and-spikes-9008eacaf3-9008eacaf3",
+    "jeminise.com+fantasy-winged-dragon-comforter-set-with-starry-nebula-pattern-and-bedroom-setting-d228ce3712-d228ce3712",
+    "jeminise.com+fantasy-winged-dragon-comforter-set-with-volcanic-eruption-and-bedroom-258009c125-258009c125",
+    "jeminise.com+floral-nature-cardinal-within-ornate-oval-frame-patchwork-winter-quilt-88ef309589-88ef309589",
+    "jeminise.com+folklore-tree-of-life-in-celtic-knot-quilt-40ab1f6113-40ab1f6113",
+    "jeminise.com+fox-patchwork-pattern-quilt-set-animal-quilt-set-patchwork-style"
+  ],
+  "created_at": "2026-09-07T21:54:16+07:00",
+  "prompt_version": "seo-prompt/jeminise/prompt_qa.md (current at QA start)",
+  "rubric_version": "P1,P2,K1-K3,T1-T2,D1-D2,I1,E1; IM1-IM4"
+}

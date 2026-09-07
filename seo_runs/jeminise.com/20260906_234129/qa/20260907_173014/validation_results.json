@@ -1,0 +1,18 @@
+{
+  "source_hash_matches_snapshot": true,
+  "exact_product_keys_71_80": true,
+  "product_count_10": true,
+  "image_count_69": true,
+  "criteria_count_110": true,
+  "unique_product_keys": true,
+  "unique_image_keys": true,
+  "unique_issue_ids": true,
+  "product_issue_links_valid": true,
+  "image_issue_links_valid": true,
+  "all_assessed_weight_100": true,
+  "all_image_coverage_100": true,
+  "spreadsheet_validation_passed": true,
+  "rendered_exact_five_sheets": true,
+  "logic_tests_present": true,
+  "passed": true
+}

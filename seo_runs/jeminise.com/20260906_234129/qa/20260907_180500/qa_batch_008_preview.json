@@ -1,0 +1,96 @@
+{
+  "batch_id": "qa_batch_008",
+  "status": "PREPARED_NOT_STARTED",
+  "products": [
+    {
+      "inventory_position": 81,
+      "product_key": "jeminise.com+custom-name-catcher-batter-baseball-baseball-throw-baseba-design-01",
+      "product_id": "8867271082183",
+      "Handle": "custom-name-catcher-batter-baseball-baseball-throw-baseba-design-01",
+      "title_current": "Custom Name Catcher Batter Baseball Baseball Throw, Baseba - Design 01",
+      "product_url": "https://jeminise.com/products/custom-name-catcher-batter-baseball-baseball-throw-baseba-design-01",
+      "image_count": 5
+    },
+    {
+      "inventory_position": 82,
+      "product_key": "jeminise.com+custom-name-catcher-batter-baseball-baseball-throw-baseba-design-07",
+      "product_id": "8867273310407",
+      "Handle": "custom-name-catcher-batter-baseball-baseball-throw-baseba-design-07",
+      "title_current": "Custom Name Catcher Batter Baseball Baseball Throw, Baseba - Design 07",
+      "product_url": "https://jeminise.com/products/custom-name-catcher-batter-baseball-baseball-throw-baseba-design-07",
+      "image_count": 6
+    },
+    {
+      "inventory_position": 83,
+      "product_key": "jeminise.com+custom-name-catcher-batter-baseball-baseball-throw-baseba-design-10",
+      "product_id": "8867270394055",
+      "Handle": "custom-name-catcher-batter-baseball-baseball-throw-baseba-design-10",
+      "title_current": "Custom Name Catcher Batter Baseball Baseball Throw, Baseba - Design 10",
+      "product_url": "https://jeminise.com/products/custom-name-catcher-batter-baseball-baseball-throw-baseba-design-10",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 84,
+      "product_key": "jeminise.com+custom-name-catcher-batter-baseball-baseball-throw-baseba-design-11",
+      "product_id": "8867273113799",
+      "Handle": "custom-name-catcher-batter-baseball-baseball-throw-baseba-design-11",
+      "title_current": "Custom Name Catcher Batter Baseball Baseball Throw, Baseba - Design 11",
+      "product_url": "https://jeminise.com/products/custom-name-catcher-batter-baseball-baseball-throw-baseba-design-11",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 85,
+      "product_key": "jeminise.com+custom-name-catcher-batter-baseball-baseball-throw-baseba-design-12",
+      "product_id": "8867271770311",
+      "Handle": "custom-name-catcher-batter-baseball-baseball-throw-baseba-design-12",
+      "title_current": "Custom Name Catcher Batter Baseball Baseball Throw, Baseba - Design 12",
+      "product_url": "https://jeminise.com/products/custom-name-catcher-batter-baseball-baseball-throw-baseba-design-12",
+      "image_count": 6
+    },
+    {
+      "inventory_position": 86,
+      "product_key": "jeminise.com+custom-name-catcher-batter-baseball-baseball-throw-baseba-design-13",
+      "product_id": "8867272196295",
+      "Handle": "custom-name-catcher-batter-baseball-baseball-throw-baseba-design-13",
+      "title_current": "Custom Name Catcher Batter Baseball Baseball Throw, Baseba - Design 13",
+      "product_url": "https://jeminise.com/products/custom-name-catcher-batter-baseball-baseball-throw-baseba-design-13",
+      "image_count": 6
+    },
+    {
+      "inventory_position": 87,
+      "product_key": "jeminise.com+custom-name-catcher-batter-baseball-baseball-throw-baseba-design-17",
+      "product_id": "8867272589511",
+      "Handle": "custom-name-catcher-batter-baseball-baseball-throw-baseba-design-17",
+      "title_current": "Custom Name Catcher Batter Baseball Baseball Throw, Baseba - Design 17",
+      "product_url": "https://jeminise.com/products/custom-name-catcher-batter-baseball-baseball-throw-baseba-design-17",
+      "image_count": 6
+    },
+    {
+      "inventory_position": 88,
+      "product_key": "jeminise.com+custom-name-catcher-batter-baseball-baseball-throw-baseba-design-18",
+      "product_id": "8867270721735",
+      "Handle": "custom-name-catcher-batter-baseball-baseball-throw-baseba-design-18",
+      "title_current": "Custom Name Catcher Batter Baseball Baseball Throw, Baseba - Design 18",
+      "product_url": "https://jeminise.com/products/custom-name-catcher-batter-baseball-baseball-throw-baseba-design-18",
+      "image_count": 7
+    },
+    {
+      "inventory_position": 89,
+      "product_key": "jeminise.com+custom-name-catcher-batter-baseball-baseball-throw-baseba-design-21",
+      "product_id": "8867270656199",
+      "Handle": "custom-name-catcher-batter-baseball-baseball-throw-baseba-design-21",
+      "title_current": "Custom Name Catcher Batter Baseball Baseball Throw, Baseba - Design 21",
+      "product_url": "https://jeminise.com/products/custom-name-catcher-batter-baseball-baseball-throw-baseba-design-21",
+      "image_count": 5
+    },
+    {
+      "inventory_position": 90,
+      "product_key": "jeminise.com+custom-name-catcher-batter-baseball-baseball-throw-baseball-blanket",
+      "product_id": "8867269279943",
+      "Handle": "custom-name-catcher-batter-baseball-baseball-throw-baseball-blanket",
+      "title_current": "Custom Name Catcher Batter Baseball Baseball Throw, Baseball Blanket",
+      "product_url": "https://jeminise.com/products/custom-name-catcher-batter-baseball-baseball-throw-baseball-blanket",
+      "image_count": 4
+    }
+  ]
+}
