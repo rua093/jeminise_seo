@@ -1,0 +1,84 @@
+{
+  "created_at": "2026-09-07T11:17:18.449198+07:00",
+  "batch_id": "qa_batch_005",
+  "qa_run_id": "20260907_101050",
+  "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_005_r2\\SEO_Product_Optimization_qa_batch_005_r2.xlsx",
+  "scope_rule": "official per-batch revision, exactly 10 products unless final batch is smaller",
+  "inventory_positions": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "product_keys": [
+    "jeminise.com+custom-american-sports-football-player-running-with-ball-comforter-891aa5a660-891aa5a660",
+    "jeminise.com+custom-basketball-players-blanket-name-number-76fdad09b6-76fdad09b6",
+    "jeminise.com+custom-bible-verse-photo-blanket-personalized-christian-gift-for-her",
+    "jeminise.com+custom-cardinals-on-flowering-branches-quilt-47d5316f3d-47d5316f3d",
+    "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-019f2b38a4-019f2b38a4",
+    "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-celtic-patterns-908827b1df-908827b1df",
+    "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-5048da8f29-5048da8f29",
+    "jeminise.com+custom-christian-faith-semi-truck-in-front-of-large-comforter-057143b1f8-057143b1f8",
+    "jeminise.com+custom-christian-girl-bible-emergency-numbers-blanket-d12",
+    "jeminise.com+custom-christian-inspirational-sophia-blanket-machine-washable-d11"
+  ],
+  "revision": "r2",
+  "revised_products": 10,
+  "revised_images": 72,
+  "no_custom_claims_removed_products": 7,
+  "image_recommended_fixes_applied": 41,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "requires_next_step": "Sang QA lại qa_batch_005_r2 before any human approval or import.",
+  "issue_counts_by_product": {
+    "jeminise.com+custom-american-sports-football-player-running-with-ball-comforter-891aa5a660-891aa5a660": {
+      "MAJOR": 2,
+      "CRITICAL": 1
+    },
+    "jeminise.com+custom-basketball-players-blanket-name-number-76fdad09b6-76fdad09b6": {
+      "MAJOR": 8,
+      "CRITICAL": 1
+    },
+    "jeminise.com+custom-bible-verse-photo-blanket-personalized-christian-gift-for-her": {
+      "MAJOR": 5,
+      "CRITICAL": 1,
+      "MINOR": 1
+    },
+    "jeminise.com+custom-cardinals-on-flowering-branches-quilt-47d5316f3d-47d5316f3d": {
+      "MAJOR": 6,
+      "MINOR": 1
+    },
+    "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-019f2b38a4-019f2b38a4": {
+      "MAJOR": 5,
+      "MINOR": 1
+    },
+    "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-celtic-patterns-908827b1df-908827b1df": {
+      "MAJOR": 5,
+      "MINOR": 1
+    },
+    "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-5048da8f29-5048da8f29": {
+      "MAJOR": 5,
+      "CRITICAL": 1
+    },
+    "jeminise.com+custom-christian-faith-semi-truck-in-front-of-large-comforter-057143b1f8-057143b1f8": {
+      "MAJOR": 5,
+      "CRITICAL": 1
+    },
+    "jeminise.com+custom-christian-girl-bible-emergency-numbers-blanket-d12": {
+      "MAJOR": 8,
+      "CRITICAL": 1
+    },
+    "jeminise.com+custom-christian-inspirational-sophia-blanket-machine-washable-d11": {
+      "MAJOR": 9,
+      "CRITICAL": 1
+    }
+  }
+}

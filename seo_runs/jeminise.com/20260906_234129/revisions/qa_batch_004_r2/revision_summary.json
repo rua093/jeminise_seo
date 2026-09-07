@@ -1,0 +1,85 @@
+{
+  "created_at": "2026-09-07T11:17:13.275033+07:00",
+  "batch_id": "qa_batch_004",
+  "qa_run_id": "20260907_095643",
+  "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_004_r2\\SEO_Product_Optimization_qa_batch_004_r2.xlsx",
+  "scope_rule": "official per-batch revision, exactly 10 products unless final batch is smaller",
+  "inventory_positions": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "product_keys": [
+    "jeminise.com+christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935",
+    "jeminise.com+christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed",
+    "jeminise.com+cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set",
+    "jeminise.com+crocodile-patchwork-printed-quilts-animal-patchwork-bedding",
+    "jeminise.com+custom-retro-football-art-bedding-set-c66211cf75-c66211cf75",
+    "jeminise.com+custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264",
+    "jeminise.com+custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621",
+    "jeminise.com+custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82",
+    "jeminise.com+custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1",
+    "jeminise.com+custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9"
+  ],
+  "revision": "r2",
+  "revised_products": 10,
+  "revised_images": 62,
+  "no_custom_claims_removed_products": 8,
+  "image_recommended_fixes_applied": 5,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "requires_next_step": "Sang QA lại qa_batch_004_r2 before any human approval or import.",
+  "issue_counts_by_product": {
+    "jeminise.com+christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935": {
+      "MAJOR": 4,
+      "MINOR": 1
+    },
+    "jeminise.com+christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed": {
+      "MAJOR": 4,
+      "MINOR": 1
+    },
+    "jeminise.com+cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set": {
+      "MAJOR": 3,
+      "CRITICAL": 1,
+      "MINOR": 1
+    },
+    "jeminise.com+crocodile-patchwork-printed-quilts-animal-patchwork-bedding": {
+      "MAJOR": 4,
+      "CRITICAL": 1,
+      "MINOR": 1
+    },
+    "jeminise.com+custom-retro-football-art-bedding-set-c66211cf75-c66211cf75": {
+      "MAJOR": 1,
+      "CRITICAL": 1
+    },
+    "jeminise.com+custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264": {
+      "MAJOR": 1,
+      "CRITICAL": 1
+    },
+    "jeminise.com+custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621": {
+      "MAJOR": 1,
+      "CRITICAL": 1
+    },
+    "jeminise.com+custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82": {
+      "MAJOR": 1,
+      "CRITICAL": 1
+    },
+    "jeminise.com+custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1": {
+      "MAJOR": 1,
+      "CRITICAL": 1
+    },
+    "jeminise.com+custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9": {
+      "MAJOR": 1,
+      "CRITICAL": 1
+    }
+  }
+}

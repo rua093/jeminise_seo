@@ -1,0 +1,87 @@
+{
+  "created_at": "2026-09-07T11:16:57.915073+07:00",
+  "batch_id": "qa_batch_001",
+  "qa_run_id": "20260907_083534",
+  "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_001_r2\\SEO_Product_Optimization_qa_batch_001_r2.xlsx",
+  "scope_rule": "official per-batch revision, exactly 10 products unless final batch is smaller",
+  "inventory_positions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "product_keys": [
+    "jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20",
+    "jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme",
+    "jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0",
+    "jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7",
+    "jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set",
+    "jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork",
+    "jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad",
+    "jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e",
+    "jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set",
+    "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01"
+  ],
+  "revision": "r2",
+  "revised_products": 10,
+  "revised_images": 65,
+  "no_custom_claims_removed_products": 1,
+  "image_recommended_fixes_applied": 29,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "requires_next_step": "Sang QA lại qa_batch_001_r2 before any human approval or import.",
+  "issue_counts_by_product": {
+    "jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20": {
+      "MINOR": 1,
+      "MAJOR": 1,
+      "LIMITATION": 1
+    },
+    "jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme": {
+      "MAJOR": 5,
+      "MINOR": 1
+    },
+    "jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0": {
+      "MINOR": 1,
+      "MAJOR": 2
+    },
+    "jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7": {
+      "MINOR": 1,
+      "MAJOR": 2
+    },
+    "jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set": {
+      "MAJOR": 3,
+      "MINOR": 2,
+      "CRITICAL": 1
+    },
+    "jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork": {
+      "MAJOR": 3,
+      "MINOR": 2,
+      "LIMITATION": 1
+    },
+    "jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad": {
+      "MAJOR": 2,
+      "MINOR": 2
+    },
+    "jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e": {
+      "MAJOR": 2,
+      "MINOR": 2
+    },
+    "jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set": {
+      "MAJOR": 3,
+      "MINOR": 2
+    },
+    "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01": {
+      "MAJOR": 6,
+      "MINOR": 3,
+      "CRITICAL": 1
+    }
+  }
+}

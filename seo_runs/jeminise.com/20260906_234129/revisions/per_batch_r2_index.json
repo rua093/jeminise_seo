@@ -1,0 +1,602 @@
+[
+  {
+    "created_at": "2026-09-07T11:16:57.915073+07:00",
+    "batch_id": "qa_batch_001",
+    "qa_run_id": "20260907_083534",
+    "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+    "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_001_r2\\SEO_Product_Optimization_qa_batch_001_r2.xlsx",
+    "scope_rule": "official per-batch revision, exactly 10 products unless final batch is smaller",
+    "inventory_positions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "product_keys": [
+      "jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20",
+      "jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme",
+      "jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0",
+      "jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7",
+      "jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set",
+      "jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork",
+      "jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad",
+      "jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e",
+      "jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set",
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01"
+    ],
+    "revision": "r2",
+    "revised_products": 10,
+    "revised_images": 65,
+    "no_custom_claims_removed_products": 1,
+    "image_recommended_fixes_applied": 29,
+    "review_status": "NEEDS_REVIEW",
+    "approved_created": false,
+    "shopify_import_created": false,
+    "requires_next_step": "Sang QA lại qa_batch_001_r2 before any human approval or import.",
+    "issue_counts_by_product": {
+      "jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20": {
+        "MINOR": 1,
+        "MAJOR": 1,
+        "LIMITATION": 1
+      },
+      "jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme": {
+        "MAJOR": 5,
+        "MINOR": 1
+      },
+      "jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0": {
+        "MINOR": 1,
+        "MAJOR": 2
+      },
+      "jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7": {
+        "MINOR": 1,
+        "MAJOR": 2
+      },
+      "jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set": {
+        "MAJOR": 3,
+        "MINOR": 2,
+        "CRITICAL": 1
+      },
+      "jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork": {
+        "MAJOR": 3,
+        "MINOR": 2,
+        "LIMITATION": 1
+      },
+      "jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad": {
+        "MAJOR": 2,
+        "MINOR": 2
+      },
+      "jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e": {
+        "MAJOR": 2,
+        "MINOR": 2
+      },
+      "jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set": {
+        "MAJOR": 3,
+        "MINOR": 2
+      },
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01": {
+        "MAJOR": 6,
+        "MINOR": 3,
+        "CRITICAL": 1
+      }
+    }
+  },
+  {
+    "created_at": "2026-09-07T11:17:03.191415+07:00",
+    "batch_id": "qa_batch_002",
+    "qa_run_id": "20260907_091545",
+    "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+    "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_002_r2\\SEO_Product_Optimization_qa_batch_002_r2.xlsx",
+    "scope_rule": "official per-batch revision, exactly 10 products unless final batch is smaller",
+    "inventory_positions": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "product_keys": [
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-02",
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-03",
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-04",
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-05",
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-06",
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforter",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-01",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-02",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-03",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-04"
+    ],
+    "revision": "r2",
+    "revised_products": 10,
+    "revised_images": 64,
+    "no_custom_claims_removed_products": 7,
+    "image_recommended_fixes_applied": 44,
+    "review_status": "NEEDS_REVIEW",
+    "approved_created": false,
+    "shopify_import_created": false,
+    "requires_next_step": "Sang QA lại qa_batch_002_r2 before any human approval or import.",
+    "issue_counts_by_product": {
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-02": {
+        "MINOR": 4,
+        "MAJOR": 6,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-03": {
+        "MINOR": 2,
+        "MAJOR": 7,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-04": {
+        "MINOR": 2,
+        "MAJOR": 8,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-05": {
+        "MINOR": 2,
+        "MAJOR": 7,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-06": {
+        "MINOR": 2,
+        "MAJOR": 7,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforter": {
+        "MINOR": 3,
+        "MAJOR": 6,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-01": {
+        "MAJOR": 2,
+        "MINOR": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-02": {
+        "MAJOR": 3,
+        "MINOR": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-03": {
+        "MAJOR": 3,
+        "MINOR": 1,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-04": {
+        "MINOR": 2,
+        "MAJOR": 2
+      }
+    }
+  },
+  {
+    "created_at": "2026-09-07T11:17:08.250849+07:00",
+    "batch_id": "qa_batch_003",
+    "qa_run_id": "20260907_094127",
+    "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+    "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_003_r2\\SEO_Product_Optimization_qa_batch_003_r2.xlsx",
+    "scope_rule": "official per-batch revision, exactly 10 products unless final batch is smaller",
+    "inventory_positions": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "product_keys": [
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-05",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-06",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-08",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-09",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-10",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-11",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-12",
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedspread",
+      "jeminise.com+christmas-cardinal-on-branch-within-patchwork-winter-quilt-892d70543a-892d70543a",
+      "jeminise.com+christmas-cardinal-perched-on-branch-within-wreath-patchwork-winter-quilt-9e7c0b5896-9e7c0b5896"
+    ],
+    "revision": "r2",
+    "revised_products": 10,
+    "revised_images": 50,
+    "no_custom_claims_removed_products": 3,
+    "image_recommended_fixes_applied": 6,
+    "review_status": "NEEDS_REVIEW",
+    "approved_created": false,
+    "shopify_import_created": false,
+    "requires_next_step": "Sang QA lại qa_batch_003_r2 before any human approval or import.",
+    "issue_counts_by_product": {
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-05": {
+        "MAJOR": 4,
+        "MINOR": 1,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christmas-cardinal-on-branch-within-patchwork-winter-quilt-892d70543a-892d70543a": {
+        "MAJOR": 3,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christmas-cardinal-perched-on-branch-within-wreath-patchwork-winter-quilt-9e7c0b5896-9e7c0b5896": {
+        "MAJOR": 3,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-06": {
+        "MAJOR": 1,
+        "MINOR": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-08": {
+        "MAJOR": 2,
+        "MINOR": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-09": {
+        "MAJOR": 1,
+        "MINOR": 1,
+        "CRITICAL": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-10": {
+        "MAJOR": 1,
+        "MINOR": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-11": {
+        "MAJOR": 1,
+        "MINOR": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-12": {
+        "MAJOR": 1,
+        "MINOR": 1
+      },
+      "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedspread": {
+        "MAJOR": 1,
+        "MINOR": 1
+      }
+    }
+  },
+  {
+    "created_at": "2026-09-07T11:17:13.275033+07:00",
+    "batch_id": "qa_batch_004",
+    "qa_run_id": "20260907_095643",
+    "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+    "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_004_r2\\SEO_Product_Optimization_qa_batch_004_r2.xlsx",
+    "scope_rule": "official per-batch revision, exactly 10 products unless final batch is smaller",
+    "inventory_positions": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "product_keys": [
+      "jeminise.com+christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935",
+      "jeminise.com+christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed",
+      "jeminise.com+cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set",
+      "jeminise.com+crocodile-patchwork-printed-quilts-animal-patchwork-bedding",
+      "jeminise.com+custom-retro-football-art-bedding-set-c66211cf75-c66211cf75",
+      "jeminise.com+custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264",
+      "jeminise.com+custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621",
+      "jeminise.com+custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82",
+      "jeminise.com+custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1",
+      "jeminise.com+custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9"
+    ],
+    "revision": "r2",
+    "revised_products": 10,
+    "revised_images": 62,
+    "no_custom_claims_removed_products": 8,
+    "image_recommended_fixes_applied": 5,
+    "review_status": "NEEDS_REVIEW",
+    "approved_created": false,
+    "shopify_import_created": false,
+    "requires_next_step": "Sang QA lại qa_batch_004_r2 before any human approval or import.",
+    "issue_counts_by_product": {
+      "jeminise.com+christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935": {
+        "MAJOR": 4,
+        "MINOR": 1
+      },
+      "jeminise.com+christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed": {
+        "MAJOR": 4,
+        "MINOR": 1
+      },
+      "jeminise.com+cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set": {
+        "MAJOR": 3,
+        "CRITICAL": 1,
+        "MINOR": 1
+      },
+      "jeminise.com+crocodile-patchwork-printed-quilts-animal-patchwork-bedding": {
+        "MAJOR": 4,
+        "CRITICAL": 1,
+        "MINOR": 1
+      },
+      "jeminise.com+custom-retro-football-art-bedding-set-c66211cf75-c66211cf75": {
+        "MAJOR": 1,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264": {
+        "MAJOR": 1,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621": {
+        "MAJOR": 1,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82": {
+        "MAJOR": 1,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1": {
+        "MAJOR": 1,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9": {
+        "MAJOR": 1,
+        "CRITICAL": 1
+      }
+    }
+  },
+  {
+    "created_at": "2026-09-07T11:17:18.449198+07:00",
+    "batch_id": "qa_batch_005",
+    "qa_run_id": "20260907_101050",
+    "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+    "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_005_r2\\SEO_Product_Optimization_qa_batch_005_r2.xlsx",
+    "scope_rule": "official per-batch revision, exactly 10 products unless final batch is smaller",
+    "inventory_positions": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "product_keys": [
+      "jeminise.com+custom-american-sports-football-player-running-with-ball-comforter-891aa5a660-891aa5a660",
+      "jeminise.com+custom-basketball-players-blanket-name-number-76fdad09b6-76fdad09b6",
+      "jeminise.com+custom-bible-verse-photo-blanket-personalized-christian-gift-for-her",
+      "jeminise.com+custom-cardinals-on-flowering-branches-quilt-47d5316f3d-47d5316f3d",
+      "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-019f2b38a4-019f2b38a4",
+      "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-celtic-patterns-908827b1df-908827b1df",
+      "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-5048da8f29-5048da8f29",
+      "jeminise.com+custom-christian-faith-semi-truck-in-front-of-large-comforter-057143b1f8-057143b1f8",
+      "jeminise.com+custom-christian-girl-bible-emergency-numbers-blanket-d12",
+      "jeminise.com+custom-christian-inspirational-sophia-blanket-machine-washable-d11"
+    ],
+    "revision": "r2",
+    "revised_products": 10,
+    "revised_images": 72,
+    "no_custom_claims_removed_products": 7,
+    "image_recommended_fixes_applied": 41,
+    "review_status": "NEEDS_REVIEW",
+    "approved_created": false,
+    "shopify_import_created": false,
+    "requires_next_step": "Sang QA lại qa_batch_005_r2 before any human approval or import.",
+    "issue_counts_by_product": {
+      "jeminise.com+custom-american-sports-football-player-running-with-ball-comforter-891aa5a660-891aa5a660": {
+        "MAJOR": 2,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-basketball-players-blanket-name-number-76fdad09b6-76fdad09b6": {
+        "MAJOR": 8,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-bible-verse-photo-blanket-personalized-christian-gift-for-her": {
+        "MAJOR": 5,
+        "CRITICAL": 1,
+        "MINOR": 1
+      },
+      "jeminise.com+custom-cardinals-on-flowering-branches-quilt-47d5316f3d-47d5316f3d": {
+        "MAJOR": 6,
+        "MINOR": 1
+      },
+      "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-019f2b38a4-019f2b38a4": {
+        "MAJOR": 5,
+        "MINOR": 1
+      },
+      "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-celtic-patterns-908827b1df-908827b1df": {
+        "MAJOR": 5,
+        "MINOR": 1
+      },
+      "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-5048da8f29-5048da8f29": {
+        "MAJOR": 5,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-christian-faith-semi-truck-in-front-of-large-comforter-057143b1f8-057143b1f8": {
+        "MAJOR": 5,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-christian-girl-bible-emergency-numbers-blanket-d12": {
+        "MAJOR": 8,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-christian-inspirational-sophia-blanket-machine-washable-d11": {
+        "MAJOR": 9,
+        "CRITICAL": 1
+      }
+    }
+  },
+  {
+    "created_at": "2026-09-07T11:17:23.650800+07:00",
+    "batch_id": "qa_batch_006",
+    "qa_run_id": "20260907_102634",
+    "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+    "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_006_r2\\SEO_Product_Optimization_qa_batch_006_r2.xlsx",
+    "scope_rule": "official per-batch revision, exactly 10 products unless final batch is smaller",
+    "inventory_positions": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "product_keys": [
+      "jeminise.com+custom-christian-scripture-floral-blanket-machine-washable-d10",
+      "jeminise.com+custom-emily-god-says-i-am-blanket-machine-washable-d9",
+      "jeminise.com+custom-exploding-soccer-ball-comforter-set-machine-washable-a10",
+      "jeminise.com+custom-fiery-soccer-ball-custom-name-comforter-set-machin-design-5",
+      "jeminise.com+custom-flaming-soccer-ball-with-custom-name-comforter-set-a12",
+      "jeminise.com+custom-flaming-soccer-ball-with-name-comforter-set-machine-washable",
+      "jeminise.com+custom-floral-butterfly-inspirational-blanket-machine-wash-design-8",
+      "jeminise.com+custom-floral-butterfly-inspirational-blanket-machine-washable-d3",
+      "jeminise.com+custom-floral-cross-bible-verse-blanket-machine-washable-d13",
+      "jeminise.com+custom-floral-cross-with-butterflies-blanket-machine-washable-d6"
+    ],
+    "revision": "r2",
+    "revised_products": 10,
+    "revised_images": 78,
+    "no_custom_claims_removed_products": 10,
+    "image_recommended_fixes_applied": 31,
+    "review_status": "NEEDS_REVIEW",
+    "approved_created": false,
+    "shopify_import_created": false,
+    "requires_next_step": "Sang QA lại qa_batch_006_r2 before any human approval or import.",
+    "issue_counts_by_product": {
+      "jeminise.com+custom-christian-scripture-floral-blanket-machine-washable-d10": {
+        "MAJOR": 9,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-emily-god-says-i-am-blanket-machine-washable-d9": {
+        "MAJOR": 9,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-exploding-soccer-ball-comforter-set-machine-washable-a10": {
+        "MAJOR": 7,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-fiery-soccer-ball-custom-name-comforter-set-machin-design-5": {
+        "MAJOR": 8,
+        "CRITICAL": 1,
+        "MINOR": 1
+      },
+      "jeminise.com+custom-flaming-soccer-ball-with-custom-name-comforter-set-a12": {
+        "MAJOR": 7,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-flaming-soccer-ball-with-name-comforter-set-machine-washable": {
+        "MAJOR": 9,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-floral-butterfly-inspirational-blanket-machine-washable-d3": {
+        "MAJOR": 6,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-floral-cross-bible-verse-blanket-machine-washable-d13": {
+        "MAJOR": 8,
+        "CRITICAL": 1
+      },
+      "jeminise.com+custom-floral-butterfly-inspirational-blanket-machine-wash-design-8": {
+        "CRITICAL": 1,
+        "MAJOR": 4,
+        "MINOR": 1
+      },
+      "jeminise.com+custom-floral-cross-with-butterflies-blanket-machine-washable-d6": {
+        "CRITICAL": 1,
+        "MAJOR": 4,
+        "MINOR": 1
+      }
+    }
+  },
+  {
+    "created_at": "2026-09-07T11:17:29.378620+07:00",
+    "batch_id": "qa_batch_007",
+    "qa_run_id": "20260907_104027",
+    "source_workbook": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_034.xlsx",
+    "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_007_r2\\SEO_Product_Optimization_qa_batch_007_r2.xlsx",
+    "scope_rule": "official per-batch revision, exactly 10 products unless final batch is smaller",
+    "inventory_positions": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "product_keys": [
+      "jeminise.com+custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8",
+      "jeminise.com+custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4",
+      "jeminise.com+custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4",
+      "jeminise.com+custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d",
+      "jeminise.com+custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe",
+      "jeminise.com+custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f",
+      "jeminise.com+custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0",
+      "jeminise.com+custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722",
+      "jeminise.com+custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b",
+      "jeminise.com+custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23"
+    ],
+    "revision": "r2",
+    "revised_products": 10,
+    "revised_images": 60,
+    "no_custom_claims_removed_products": 0,
+    "image_recommended_fixes_applied": 11,
+    "review_status": "NEEDS_REVIEW",
+    "approved_created": false,
+    "shopify_import_created": false,
+    "requires_next_step": "Sang QA lại qa_batch_007_r2 before any human approval or import.",
+    "issue_counts_by_product": {
+      "jeminise.com+custom-football-above-yard-lines-perspective-comforter-2c2cb25ed8-2c2cb25ed8": {
+        "MINOR": 2,
+        "MAJOR": 2
+      },
+      "jeminise.com+custom-football-close-up-on-american-flag-comforter-039b2d7dd4-039b2d7dd4": {
+        "MINOR": 2,
+        "MAJOR": 2
+      },
+      "jeminise.com+custom-football-engulfed-in-flames-and-lightning-comforter-902ce338f4-902ce338f4": {
+        "MINOR": 2,
+        "MAJOR": 2
+      },
+      "jeminise.com+custom-football-helmet-on-american-flag-vintage-comforter-43f12dbb8d-43f12dbb8d": {
+        "MINOR": 2,
+        "MAJOR": 2
+      },
+      "jeminise.com+custom-football-helmet-with-flaming-football-comforter-07ad417afe-07ad417afe": {
+        "MAJOR": 4,
+        "MINOR": 1
+      },
+      "jeminise.com+custom-football-over-american-flag-background-comforter-ed07da9f1f-ed07da9f1f": {
+        "MINOR": 2,
+        "MAJOR": 2
+      },
+      "jeminise.com+custom-football-player-holding-ball-close-up-comforter-d5b47c0ee0-d5b47c0ee0": {
+        "MINOR": 2,
+        "MAJOR": 2
+      },
+      "jeminise.com+custom-football-player-holding-ball-close-up-comforter-with-football-helmet-da6d035722-da6d035722": {
+        "MINOR": 2,
+        "MAJOR": 2
+      },
+      "jeminise.com+custom-football-player-holding-ball-collage-comforter-with-football-helmet-08a49e7d2b-08a49e7d2b": {
+        "MINOR": 2,
+        "MAJOR": 2
+      },
+      "jeminise.com+custom-football-player-running-on-camouflage-flag-comforter-9b84ecda23-9b84ecda23": {
+        "MINOR": 2,
+        "MAJOR": 2
+      }
+    }
+  }
+]
