@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-09-08T22:17:22",
+  "batch_id": "qa_batch_021",
+  "source_revision": "qa_batch_021_r3",
+  "source_evidence": "seo_runs\\jeminise.com\\20260906_234129\\batch_021_evidence_summary.json",
+  "source_qa_report": "resutls\\jeminise.com\\20260906_234129\\qa\\20260908_133500\\SEO_QA_qa_batch_021_r2.md",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_021_r3\\SEO_Product_Optimization_qa_batch_021_r3.xlsx",
+  "scope": "qa_batch_021 only; inventory positions 201-210",
+  "revision": "qa_batch_021_r4",
+  "revised_products": 10,
+  "revised_images": 64,
+  "admin_alt_matches": 64,
+  "keyword_rows_revised": 40,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "r3_changes": [
+    "Rewrote all 10 meta descriptions to avoid hard truncation and broken endings.",
+    "Rewrote all 10 product descriptions to remove process/boilerplate copy flagged by qa_batch_021_r2 QA.",
+    "Separated Bedding products with required name and number fields from Blanket products with optional name and number fields.",
+    "Added product type, size, add-on, zipper, material/care or blanket-size details where relevant."
+  ],
+  "next_step": "Sang QA lại qa_batch_021_r3 before any approval or import.",
+  "changed_evidence_ids": [
+    "evidence_batch_021_201",
+    "evidence_batch_021_202",
+    "evidence_batch_021_203",
+    "evidence_batch_021_204",
+    "evidence_batch_021_205",
+    "evidence_batch_021_206",
+    "evidence_batch_021_207",
+    "evidence_batch_021_208",
+    "evidence_batch_021_209",
+    "evidence_batch_021_210"
+  ],
+  "change_scope": "description_proposed_html only; removed repetitive phrasing and tightened sports artwork/name-number customization detail",
+  "status": "READY_FOR_QA"
+}

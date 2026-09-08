@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-09-08T22:38:02",
+  "batch_id": "qa_batch_006",
+  "source_revision": "qa_batch_006_r4",
+  "source_qa_r2": "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_161639\\qa_dataset.json",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_006_r4\\SEO_Product_Optimization_qa_batch_006_r4.xlsx",
+  "scope": "qa_batch_006 only; inventory positions 51-60",
+  "revision": "qa_batch_006_r5",
+  "revised_products": 10,
+  "revised_images": 78,
+  "admin_alt_matches": 78,
+  "keyword_rows_revised": 40,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "r4_changes": [
+    "Deepened product-specific descriptions for all 10 products using admin export, customizer audit and contact-sheet evidence.",
+    "Rewrote 78 image observations and alt texts by visual panel instead of using repeated product-level templates.",
+    "Removed blanket pillowcase/sham wording from products 51, 52, 57, 58, 59 and 60.",
+    "Mapped verified customizer rules including required/optional Custom Name, optional Customize Your Item and required Choose Color on product 52.",
+    "Separated soccer comforter clusters 53-56 by motif, sample text and bedding intent."
+  ],
+  "next_step": "Sang QA lại qa_batch_006_r4 before any approval or import.",
+  "changed_evidence_ids": [
+    "evidence_batch_006_051",
+    "evidence_batch_006_052",
+    "evidence_batch_006_053",
+    "evidence_batch_006_054",
+    "evidence_batch_006_055",
+    "evidence_batch_006_056",
+    "evidence_batch_006_057",
+    "evidence_batch_006_058",
+    "evidence_batch_006_059",
+    "evidence_batch_006_060"
+  ],
+  "change_scope": "description_proposed_html only; removed template wording and fixed customization grammar",
+  "status": "READY_FOR_QA"
+}

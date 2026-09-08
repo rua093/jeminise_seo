@@ -1,0 +1,71 @@
+{
+  "revision": "qa_batch_029_r4",
+  "source_revision": "qa_batch_029_r3",
+  "created_at": "2026-09-08T19:53:58",
+  "scope": "Batch 029 positions 281-290 only",
+  "change_type": "Revise description_proposed_html to remove repeated internal QA/process wording and reduce template-like copy",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_029_281",
+      "old_length": 907,
+      "new_length": 746,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_029_282",
+      "old_length": 1051,
+      "new_length": 757,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_029_283",
+      "old_length": 1248,
+      "new_length": 875,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_029_284",
+      "old_length": 1046,
+      "new_length": 735,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_029_285",
+      "old_length": 1129,
+      "new_length": 787,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_029_286",
+      "old_length": 912,
+      "new_length": 766,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_029_287",
+      "old_length": 1076,
+      "new_length": 824,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_029_288",
+      "old_length": 1067,
+      "new_length": 771,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_029_289",
+      "old_length": 1033,
+      "new_length": 748,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_029_290",
+      "old_length": 917,
+      "new_length": 697,
+      "removed_internal_phrase": true
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "3647ab68aa5f26c6fdc28a73a77fbe2bdca67269c9dbaa6a0012a8dd2eeb6abe"
+}

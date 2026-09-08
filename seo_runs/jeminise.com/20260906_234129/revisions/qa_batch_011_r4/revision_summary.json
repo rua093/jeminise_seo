@@ -1,0 +1,61 @@
+{
+  "revision": "qa_batch_011_r4",
+  "source_revision": "qa_batch_011_r3",
+  "created_at": "2026-09-08T20:22:21",
+  "scope": "Batch 011 positions 101-110 only",
+  "change_type": "Revise description_proposed_html to remove internal/editorial phrasing and reduce template-like copy",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_011_101",
+      "old_length": 902,
+      "new_length": 771
+    },
+    {
+      "evidence_id": "evidence_batch_011_102",
+      "old_length": 910,
+      "new_length": 758
+    },
+    {
+      "evidence_id": "evidence_batch_011_103",
+      "old_length": 911,
+      "new_length": 717
+    },
+    {
+      "evidence_id": "evidence_batch_011_104",
+      "old_length": 914,
+      "new_length": 741
+    },
+    {
+      "evidence_id": "evidence_batch_011_105",
+      "old_length": 918,
+      "new_length": 730
+    },
+    {
+      "evidence_id": "evidence_batch_011_106",
+      "old_length": 912,
+      "new_length": 732
+    },
+    {
+      "evidence_id": "evidence_batch_011_107",
+      "old_length": 925,
+      "new_length": 754
+    },
+    {
+      "evidence_id": "evidence_batch_011_108",
+      "old_length": 899,
+      "new_length": 732
+    },
+    {
+      "evidence_id": "evidence_batch_011_109",
+      "old_length": 918,
+      "new_length": 721
+    },
+    {
+      "evidence_id": "evidence_batch_011_110",
+      "old_length": 897,
+      "new_length": 739
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "e25034ae119ae590edb62ea73ff5b6d1ab95cdb1c65c2ae76079009d17131e65"
+}

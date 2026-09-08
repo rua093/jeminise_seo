@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-09-08T22:36:21",
+  "batch_id": "qa_batch_005",
+  "source_revision": "qa_batch_005_r4",
+  "source_qa_r2": "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_152903\\qa_dataset.json",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_005_r4\\SEO_Product_Optimization_qa_batch_005_r4.xlsx",
+  "scope": "qa_batch_005 only; inventory positions 41-50",
+  "revision": "qa_batch_005_r5",
+  "revised_products": 10,
+  "revised_images": 72,
+  "admin_alt_matches": 72,
+  "keyword_rows_revised": 40,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "r4_changes": [
+    "Deepened product-specific descriptions for all 10 products using admin export, customizer audit and contact-sheet evidence.",
+    "Rewrote 72 image observations and alt texts by visual panel instead of using repeated product-level templates.",
+    "Kept product 43 to name-only personalization and removed unsupported visual-personalization wording from proposed fields.",
+    "Separated product 42 COLON 06 and RASHAD 22 sample images.",
+    "Kept blanket products away from quilt/comforter/pillowcase component claims unless visible in their own evidence."
+  ],
+  "next_step": "Sang QA lại qa_batch_005_r4 before any approval or import.",
+  "changed_evidence_ids": [
+    "evidence_batch_005_041",
+    "evidence_batch_005_042",
+    "evidence_batch_005_043",
+    "evidence_batch_005_044",
+    "evidence_batch_005_045",
+    "evidence_batch_005_046",
+    "evidence_batch_005_047",
+    "evidence_batch_005_048",
+    "evidence_batch_005_049",
+    "evidence_batch_005_050"
+  ],
+  "change_scope": "description_proposed_html only; removed template wording and fixed customization grammar",
+  "status": "READY_FOR_QA"
+}

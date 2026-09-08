@@ -1,0 +1,59 @@
+{
+  "revision": "qa_batch_034_r4",
+  "source_revision": "qa_batch_034_r3",
+  "created_at": "2026-09-08T20:09:38",
+  "scope": "Batch 034 positions 331-338 only",
+  "change_type": "Revise description_proposed_html to remove repeated internal QA/process wording and reduce template-like copy",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_034_331",
+      "old_length": 1004,
+      "new_length": 819,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_034_332",
+      "old_length": 985,
+      "new_length": 790,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_034_333",
+      "old_length": 996,
+      "new_length": 820,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_034_334",
+      "old_length": 982,
+      "new_length": 792,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_034_335",
+      "old_length": 888,
+      "new_length": 708,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_034_336",
+      "old_length": 903,
+      "new_length": 695,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_034_337",
+      "old_length": 937,
+      "new_length": 749,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_034_338",
+      "old_length": 886,
+      "new_length": 693,
+      "removed_internal_phrase": true
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "4735ec320645e865905c564710f988006cb2428756154093b75b69599f6fe335"
+}

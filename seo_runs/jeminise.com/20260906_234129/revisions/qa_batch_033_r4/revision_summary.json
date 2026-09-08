@@ -1,0 +1,71 @@
+{
+  "revision": "qa_batch_033_r4",
+  "source_revision": "qa_batch_033_r3",
+  "created_at": "2026-09-08T20:07:46",
+  "scope": "Batch 033 positions 321-330 only",
+  "change_type": "Revise description_proposed_html to remove repeated internal QA/process wording and reduce template-like copy",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_033_321",
+      "old_length": 924,
+      "new_length": 747,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_033_322",
+      "old_length": 988,
+      "new_length": 804,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_033_323",
+      "old_length": 987,
+      "new_length": 795,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_033_324",
+      "old_length": 1011,
+      "new_length": 810,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_033_325",
+      "old_length": 1048,
+      "new_length": 829,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_033_326",
+      "old_length": 1015,
+      "new_length": 815,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_033_327",
+      "old_length": 978,
+      "new_length": 821,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_033_328",
+      "old_length": 1047,
+      "new_length": 842,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_033_329",
+      "old_length": 1016,
+      "new_length": 803,
+      "removed_internal_phrase": true
+    },
+    {
+      "evidence_id": "evidence_batch_033_330",
+      "old_length": 967,
+      "new_length": 801,
+      "removed_internal_phrase": true
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "dd579d05323a57267599887cef71cf0fe12d507e17a50f4ba799e4cd22634b9b"
+}

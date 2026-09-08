@@ -1,0 +1,39 @@
+{
+  "created_at": "2026-09-08T22:03:01",
+  "batch_id": "qa_batch_018",
+  "source_revision": "qa_batch_018_r4",
+  "source_qa_report": "resutls\\jeminise.com\\20260906_234129\\qa\\20260908_105500\\SEO_QA_qa_batch_018_r3.md",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_018_r4\\SEO_Product_Optimization_qa_batch_018_r4.xlsx",
+  "scope": "qa_batch_018 only; inventory positions 171-180",
+  "revision": "qa_batch_018_r5",
+  "revised_products": 10,
+  "revised_images": 52,
+  "admin_alt_matches": 52,
+  "keyword_rows_revised": 40,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "r4_changes": [
+    "Rewrote all 10 product descriptions to remove process/meta commentary flagged by qa_batch_018_r3 QA.",
+    "Added package contents by size for Halloween comforter sets.",
+    "Added verified personalization fields for photo music player quilt and baseball name products, while keeping no-text-field products as fixed artwork.",
+    "Added product type, size, material/care and duvet/comforter details where QA identified them as verified."
+  ],
+  "next_step": "Sang QA lại qa_batch_018_r4 before any approval or import.",
+  "changed_evidence_ids": [
+    "evidence_batch_018_171",
+    "evidence_batch_018_172",
+    "evidence_batch_018_173",
+    "evidence_batch_018_174",
+    "evidence_batch_018_175",
+    "evidence_batch_018_176",
+    "evidence_batch_018_177",
+    "evidence_batch_018_178",
+    "evidence_batch_018_179",
+    "evidence_batch_018_180"
+  ],
+  "change_scope": "description_proposed_html only; removed repetitive/template phrasing and tightened artwork/package/customizer detail",
+  "status": "READY_FOR_QA"
+}
