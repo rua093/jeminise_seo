@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-09-08T00:30:11.989590+07:00",
+  "batch_id": "qa_batch_002_r4",
+  "source_revision": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_002_r3\\SEO_Product_Optimization_qa_batch_002_r3.xlsx",
+  "source_qa_r2": "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_123726\\qa_dataset.json",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_002_r4\\SEO_Product_Optimization_qa_batch_002_r4.xlsx",
+  "scope": "qa_batch_002 only; inventory positions 11-20",
+  "revision": "r4",
+  "revised_products": 10,
+  "revised_images": 64,
+  "admin_alt_matches": 64,
+  "keyword_rows_revised": 40,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "r4_changes": [
+    "Deepened image-level observed_visual_details and alt_proposed for all 64 batch images.",
+    "Removed customer-facing references to Shopify export/admin baseline from description_proposed_html.",
+    "Kept personalization wording tied to verified required or optional Enter Name fields.",
+    "Kept product 13 away from unsupported Knight Templar wording and tightened product 15 around Is Within Her butterfly evidence."
+  ],
+  "next_step": "Sang QA lại qa_batch_002_r4 before any approval or import."
+}

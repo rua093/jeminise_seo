@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-09-08T01:37:17.157657+07:00",
+  "batch_id": "qa_batch_011_r3",
+  "source_revision": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_011_r2\\SEO_Product_Optimization_qa_batch_011_r2.xlsx",
+  "source_qa": "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_181100\\qa_dataset.json",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_011_r3\\SEO_Product_Optimization_qa_batch_011_r3.xlsx",
+  "scope": "qa_batch_011 only; inventory positions 101-110",
+  "revision": "r3",
+  "revised_products": 10,
+  "revised_images": 77,
+  "admin_alt_matches": 77,
+  "keyword_rows_revised": 40,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "next_step": "Hold for combined QA handoff after revisions through qa_batch_020, per user request."
+}
