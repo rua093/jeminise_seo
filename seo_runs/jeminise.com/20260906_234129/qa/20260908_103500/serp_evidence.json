@@ -1,0 +1,392 @@
+[
+  {
+    "query_id": "SERP-01",
+    "inventory_position": 161,
+    "product_key": "jeminise.com+norse-mythology-raven-within-celtic-knot-frame-quilt-906ee24d68-906ee24d68",
+    "query": "blue raven Celtic knot quilt",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:31:42+07:00",
+    "intent": "Commercial / Transactional (Search for specialty Celtic/Norse raven pattern quilts)",
+    "top_organic_domains": [
+      "urbanthreads.com",
+      "sweetdreamsquiltstudio.com",
+      "etsy.com",
+      "bethannwilliams.com"
+    ],
+    "summary": "Search shows demand for raven and Celtic knot patterns, longarm quilting designs, and custom-printed quilt bed sets. The proposed keyword accurately describes the product motif.",
+    "keyword_assessment": "VALIDATED_RELEVANT"
+  },
+  {
+    "query_id": "SERP-02",
+    "inventory_position": 161,
+    "product_key": "jeminise.com+norse-mythology-raven-within-celtic-knot-frame-quilt-906ee24d68-906ee24d68",
+    "query": "viking raven quilt bedding",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:31:42+07:00",
+    "intent": "Commercial / Transactional (Norse mythology raven bedding, Odin themes)",
+    "top_organic_domains": [
+      "vikingstyle.co",
+      "myvikinggear.com",
+      "vikingheritage.net",
+      "ancientreasures.com",
+      "etsy.com",
+      "walmart.com"
+    ],
+    "summary": "Competitor and niche market analysis demonstrates strong buyer interest in 3D printed microfiber raven/Odin bedding sets with matching pillowcases.",
+    "keyword_assessment": "VALIDATED_COMPETITIVE"
+  },
+  {
+    "query_id": "SERP-03",
+    "inventory_position": 162,
+    "product_key": "jeminise.com+norse-mythology-viking-shield-with-crossed-axes-quilt-ca630a284e-ca630a284e",
+    "query": "Valhalla Viking shield quilt",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:31:50+07:00",
+    "intent": "Commercial / Transactional (Specific Valhalla Viking shield motif bedding)",
+    "top_organic_domains": [
+      "ubuy.com",
+      "wonderprintshop.com",
+      "mspdesignsusa.com",
+      "etsy.com"
+    ],
+    "summary": "Pre-made printed quilts and DIY pattern designs feature circular Viking shields, crossed axes, and runic artwork. Perfectly aligns with visible product design.",
+    "keyword_assessment": "VALIDATED_RELEVANT"
+  },
+  {
+    "query_id": "SERP-04",
+    "inventory_position": 162,
+    "product_key": "jeminise.com+norse-mythology-viking-shield-with-crossed-axes-quilt-ca630a284e-ca630a284e",
+    "query": "viking shield quilt bedding amazon target",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:31:50+07:00",
+    "intent": "Commercial / Market Gap Analysis (Major big-box vs specialty retailers)",
+    "top_organic_domains": [
+      "amazon.com",
+      "target.com",
+      "vikingstyle.co",
+      "myvikinggear.com",
+      "etsy.com",
+      "jeminise.com"
+    ],
+    "summary": "Big-box stores (Amazon, Target) stock generic Scandi/hygge minimalist bedding rather than Viking mythology themes, leaving niche POD platforms like Jeminise and Etsy to capture targeted demand.",
+    "keyword_assessment": "VALIDATED_NICHE_OPPORTUNITY"
+  },
+  {
+    "query_id": "SERP-05",
+    "inventory_position": 163,
+    "product_key": "jeminise.com+owl-patchwork-pattern-quilt-set-animals-quilt-set-style-owl-nights",
+    "query": "blue gold owl night quilt set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:00+07:00",
+    "intent": "Commercial / Transactional (Nocturnal owl motif bedding in navy and gold)",
+    "top_organic_domains": [
+      "etsy.com",
+      "wayfair.com",
+      "orangedoorquilts.com",
+      "owlstuff.com"
+    ],
+    "summary": "Quilting patterns and ready-made bedding focus on night sky, moon, and owl illustrations. The navy blue and gold color scheme is a distinct long-tail search intent.",
+    "keyword_assessment": "VALIDATED_RELEVANT"
+  },
+  {
+    "query_id": "SERP-06",
+    "inventory_position": 163,
+    "product_key": "jeminise.com+owl-patchwork-pattern-quilt-set-animals-quilt-set-style-owl-nights",
+    "query": "owl quilt set wayfair amazon",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:00+07:00",
+    "intent": "Commercial / Transactional (General owl bedding retail search)",
+    "top_organic_domains": [
+      "wayfair.com",
+      "amazon.com",
+      "ebay.com",
+      "cozylinehomefashions.com"
+    ],
+    "summary": "Broad owl bedding search results show kids and woodland designs. Distinctive color modifiers (blue gold) are critical for differentiation from general juvenile owl quilts.",
+    "keyword_assessment": "VALIDATED_COMPETITIVE"
+  },
+  {
+    "query_id": "SERP-07",
+    "inventory_position": 164,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-01",
+    "query": "witch moon Halloween comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:10+07:00",
+    "intent": "Commercial / Transactional (Witch, moon, celestial Halloween bedding)",
+    "top_organic_domains": [
+      "walmart.com",
+      "target.com",
+      "etsy.com",
+      "wayfair.com",
+      "society6.com",
+      "gearfrost.com"
+    ],
+    "summary": "Strong search intent for celestial, whimsigoth, and flying witch comforters with bats and pumpkins. Matches visible product artwork exactly.",
+    "keyword_assessment": "VALIDATED_RELEVANT"
+  },
+  {
+    "query_id": "SERP-08",
+    "inventory_position": 164,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-01",
+    "query": "halloween comforter set with sheets wayfair",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:10+07:00",
+    "intent": "Commercial / Transactional (Halloween bed-in-a-bag with comforter, sheets, pillowcases)",
+    "top_organic_domains": [
+      "wayfair.com"
+    ],
+    "summary": "Wayfair customers actively search for complete Halloween bed-in-a-bag sets containing comforter, flat sheet, fitted sheet, and shams/pillowcases. Confirms that highlighting sheets in secondary keywords and copy is critical.",
+    "keyword_assessment": "VALIDATED_COMPETITIVE"
+  },
+  {
+    "query_id": "SERP-09",
+    "inventory_position": 165,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-02",
+    "query": "ghost pumpkin Halloween comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:18+07:00",
+    "intent": "Commercial / Transactional (Ghost and jack-o-lantern seasonal bedding)",
+    "top_organic_domains": [
+      "walmart.com",
+      "target.com",
+      "ebay.com",
+      "etsy.com",
+      "shein.com",
+      "tkmaxx.com"
+    ],
+    "summary": "High seasonal search volume across retail giants and marketplaces. The combination of ghost and pumpkin motifs is a prime search driver for Halloween bedroom decor.",
+    "keyword_assessment": "VALIDATED_RELEVANT"
+  },
+  {
+    "query_id": "SERP-10",
+    "inventory_position": 165,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-02",
+    "query": "pumpkin ghost halloween bedding set target amazon",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:18+07:00",
+    "intent": "Commercial / Transactional (Retail competitor search on Target and Amazon)",
+    "top_organic_domains": [
+      "target.com",
+      "amazon.com",
+      "marshalls.com",
+      "parade.com"
+    ],
+    "summary": "Target and Amazon feature ghost/pumpkin throws, sheet sets, and comforter bundles. Highlights consumer preference for complete bedding sets during early autumn seasonal shopping.",
+    "keyword_assessment": "VALIDATED_COMPETITIVE"
+  },
+  {
+    "query_id": "SERP-11",
+    "inventory_position": 166,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-03",
+    "query": "black ghost Halloween comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:28+07:00",
+    "intent": "Commercial / Transactional (Black background with white ghost pattern bedding)",
+    "top_organic_domains": [
+      "walmart.com",
+      "amazon.com",
+      "etsy.com",
+      "wayfair.com",
+      "target.com",
+      "asda.com"
+    ],
+    "summary": "Strong search intent for monochromatic / gothic Halloween bedding featuring all-over white ghost faces on black fabric. Distinguishes from colorful Halloween sets.",
+    "keyword_assessment": "VALIDATED_RELEVANT"
+  },
+  {
+    "query_id": "SERP-12",
+    "inventory_position": 166,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-03",
+    "query": "cute ghost halloween bedding comforter",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:28+07:00",
+    "intent": "Commercial / Transactional (Cute / friendly ghost bedding aesthetic)",
+    "top_organic_domains": [
+      "walmart.com",
+      "etsy.com",
+      "target.com",
+      "amazon.com"
+    ],
+    "summary": "Consumers frequently search for cute rather than terrifying ghost aesthetics for teen, dorm, or friendly seasonal home decor.",
+    "keyword_assessment": "VALIDATED_COMPETITIVE"
+  },
+  {
+    "query_id": "SERP-13",
+    "inventory_position": 167,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-04",
+    "query": "haunted pumpkin ghost comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:36+07:00",
+    "intent": "Commercial / Transactional (Atmospheric haunted scene with pumpkins and ghosts)",
+    "top_organic_domains": [
+      "walmart.com",
+      "bedbathandbeyond.com",
+      "ebay.com",
+      "etsy.com",
+      "tkmaxx.com"
+    ],
+    "summary": "Search queries seeking atmospheric spooky artwork with graveyard trees, yellow moon, pumpkins, and ghosts. Differentiates Pos 167 from the cute ghost sets.",
+    "keyword_assessment": "VALIDATED_RELEVANT"
+  },
+  {
+    "query_id": "SERP-14",
+    "inventory_position": 167,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-04",
+    "query": "haunted house halloween comforter set amazon",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:36+07:00",
+    "intent": "Commercial / Transactional (Haunted house theme bedding marketplace search)",
+    "top_organic_domains": [
+      "amazon.com",
+      "walmart.com",
+      "wayfair.com"
+    ],
+    "summary": "Competitor offerings on Amazon feature full haunted house scenes. Pos 167 includes haunted silhouettes and jack-o-lanterns.",
+    "keyword_assessment": "VALIDATED_COMPETITIVE"
+  },
+  {
+    "query_id": "SERP-15",
+    "inventory_position": 168,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-05",
+    "query": "pink cute ghost Halloween comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:45+07:00",
+    "intent": "Commercial / Transactional (Pastel / pink Halloween aesthetic bedding)",
+    "top_organic_domains": [
+      "walmart.com",
+      "amazon.com",
+      "ebay.com",
+      "etsy.com",
+      "shein.com",
+      "matalan.co.uk"
+    ],
+    "summary": "Pink Halloween (pastel Halloween / pink ghost) is a trending aesthetic on TikTok, Etsy, and Walmart. The proposed keyword captures high-conversion search traffic.",
+    "keyword_assessment": "VALIDATED_HIGH_TREND"
+  },
+  {
+    "query_id": "SERP-16",
+    "inventory_position": 168,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-05",
+    "query": "pink halloween comforter set target pottery barn",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:45+07:00",
+    "intent": "Commercial / Competitive (High-end and mass market pink Halloween bedding)",
+    "top_organic_domains": [
+      "target.com",
+      "potterybarn.com",
+      "pbteen.com"
+    ],
+    "summary": "Target and Pottery Barn Kids/Teen stock pastel and pink seasonal bedding items that sell out rapidly. Jeminise product matches this exact trend.",
+    "keyword_assessment": "VALIDATED_COMPETITIVE"
+  },
+  {
+    "query_id": "SERP-17",
+    "inventory_position": 169,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-06",
+    "query": "red handprint Halloween comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:56+07:00",
+    "intent": "Commercial / Transactional (Horror, splatter, bloody handprint bedding)",
+    "top_organic_domains": [
+      "walmart.com",
+      "ebay.com",
+      "etsy.com",
+      "next.co.uk",
+      "therange.co.uk"
+    ],
+    "summary": "Horror fans and slasher movie enthusiasts search for blood-splatter and handprint bedding. Matches the vivid graphic print on white fabric.",
+    "keyword_assessment": "VALIDATED_RELEVANT"
+  },
+  {
+    "query_id": "SERP-18",
+    "inventory_position": 169,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-06",
+    "query": "bloody handprint halloween bedding set amazon",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:32:56+07:00",
+    "intent": "Commercial / Transactional (Amazon marketplace horror bedding)",
+    "top_organic_domains": [
+      "amazon.com",
+      "walmart.com",
+      "etsy.com"
+    ],
+    "summary": "Amazon listings demonstrate that terms like bloody handprint and horror bedding have steady Halloween seasonal search demand.",
+    "keyword_assessment": "VALIDATED_COMPETITIVE"
+  },
+  {
+    "query_id": "SERP-19",
+    "inventory_position": 170,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-07",
+    "query": "haunted house pumpkin comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:33:05+07:00",
+    "intent": "Commercial / Transactional (Haunted house, pumpkin, black cat seasonal comforter)",
+    "top_organic_domains": [
+      "etsy.com",
+      "ebay.com",
+      "wayfair.com",
+      "bedbathandbeyond.com",
+      "aliexpress.com"
+    ],
+    "summary": "Popular theme combining haunted Victorian cottage, jack-o-lanterns, autumn leaves, and witch boots. Matches all graphic elements on the comforter.",
+    "keyword_assessment": "VALIDATED_RELEVANT"
+  },
+  {
+    "query_id": "SERP-20",
+    "inventory_position": 170,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-07",
+    "query": "halloween pumpkin comforter set with sheets",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:33:05+07:00",
+    "intent": "Commercial / Transactional (Complete bed-in-a-bag package with sheets)",
+    "top_organic_domains": [
+      "walmart.com",
+      "target.com",
+      "wayfair.com",
+      "ebay.com",
+      "dunelm.com"
+    ],
+    "summary": "Retailers emphasize bed-in-a-bag 5-piece or 7-piece sets that bundle flat and fitted sheets. Reinforces recommendation to detail sheet inclusions in description copy.",
+    "keyword_assessment": "VALIDATED_COMPETITIVE"
+  }
+]

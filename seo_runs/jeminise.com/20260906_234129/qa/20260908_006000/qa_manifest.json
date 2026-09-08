@@ -1,0 +1,18 @@
+{
+  "rubric_version": "1.0",
+  "qa_run_id": "20260908_006000",
+  "batch_id": "qa_batch_006_r4",
+  "revision": "r3",
+  "source_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_006_r4\\SEO_Product_Optimization_qa_batch_006_r4.xlsx",
+  "source_workbook_sha256": "8EA6DE41C79893DE5828B6684347836E89DFC61BC09A42631400791037C08823",
+  "source_snapshot": "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260908_006000\\source_snapshot\\SEO_Product_Optimization_qa_batch_006_r4.xlsx",
+  "source_snapshot_sha256": "8EA6DE41C79893DE5828B6684347836E89DFC61BC09A42631400791037C08823",
+  "expected_products": 10,
+  "expected_images": 78,
+  "status": "COMPLETE",
+  "awaiting_confirmation": true,
+  "output_markdown": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260908_006000\\SEO_QA_qa_batch_006_r4.md",
+  "output_xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260908_006000\\SEO_QA_qa_batch_006_r4.xlsx",
+  "admin_export": "products_export_1.csv",
+  "admin_alt_matches": 78
+}

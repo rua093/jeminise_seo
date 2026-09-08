@@ -1,0 +1,22 @@
+{
+  "sheet_names": [
+    "QA_Summary",
+    "QA_Products",
+    "QA_Criteria",
+    "QA_Images",
+    "QA_Issues"
+  ],
+  "row_counts": {
+    "QA_Summary": 13,
+    "QA_Products": 10,
+    "QA_Criteria": 110,
+    "QA_Images": 50,
+    "QA_Issues": 8
+  },
+  "formula_cells": 683,
+  "formula_error_tokens": 0,
+  "source_sha256": "B235E900891385FCB71315357E88AD305844D8DB719C21B424B709B4EACB3FDA",
+  "xlsx_sha256": "2638A6AD5A03641154CF35C258D54CB79D432F698F731555400C545A5F72291A",
+  "zip_bad_member": null,
+  "passed": true
+}

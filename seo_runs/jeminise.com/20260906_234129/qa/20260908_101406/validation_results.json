@@ -1,0 +1,16 @@
+{
+  "exact_five_sheets": true,
+  "product_count": 10,
+  "criteria_count": 110,
+  "image_count": 71,
+  "expected_images": 71,
+  "product_weights_100": true,
+  "image_weights_100": true,
+  "duplicate_product_keys": false,
+  "duplicate_image_keys": false,
+  "logic_test_critical_forces_fail": true,
+  "logic_test_90_pass_no_blocker": true,
+  "logic_test_72_80_incomplete": "72-92 QA_INCOMPLETE",
+  "source_snapshot_hash_match": true,
+  "passed": true
+}

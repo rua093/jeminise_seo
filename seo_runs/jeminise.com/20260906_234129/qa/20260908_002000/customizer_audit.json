@@ -1,0 +1,343 @@
+[
+  {
+    "inventory_position": 11,
+    "url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-02",
+    "customizer_root_present": true,
+    "config_bytes": 13289,
+    "surface_count": 2,
+    "name_mentions": 3,
+    "number_mentions": 1,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "Q8kF-kO-",
+        "label": "Custom name, select number of letters in your name",
+        "baseImage": {
+          "url": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/amzcustom-config-4948b503f3e455dc.jpg?v=1787237927",
+          "width": 1000,
+          "height": 1000
+        },
+        "maskImage": null,
+        "previewSize": 400
+      },
+      {
+        "id": "2oDM-PyS",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 13,
+        "maxLines": 1,
+        "placeholder": "Charlotte",
+        "instructions": "Each letter in your custom text will have a special line design inspired by faith. Please look at the example carefully. If you have any questions, just leave a message here.",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "p3fW4TC0",
+          "Q8kF-kO-",
+          "SYV8iQJp",
+          "oHNQKG30"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 12,
+    "url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-03",
+    "customizer_root_present": true,
+    "config_bytes": 6277,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 6,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "pvjCp0w1",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "maxLines": 1,
+        "placeholder": "David",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "p3fW4TC0",
+          "X9abiAdW",
+          "RjudHwp7",
+          "Sgl6H0D-"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 13,
+    "url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-04",
+    "customizer_root_present": true,
+    "config_bytes": 6113,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 6,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "hZ0Kb-Av",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 13,
+        "maxLines": 1,
+        "placeholder": "Charlotte",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "p3fW4TC0",
+          "X9abiAdW",
+          "RjudHwp7",
+          "o93kN0vA"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 14,
+    "url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-05",
+    "customizer_root_present": true,
+    "config_bytes": 6076,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 6,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "gSEcu9n5",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 13,
+        "maxLines": 1,
+        "placeholder": "Charlotte",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "p3fW4TC0",
+          "X9abiAdW",
+          "RjudHwp7",
+          "2AdjraN2"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 15,
+    "url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforte-design-06",
+    "customizer_root_present": true,
+    "config_bytes": 6076,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 6,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "xv1LrBBD",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 13,
+        "maxLines": 1,
+        "placeholder": "Charlotte",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "p3fW4TC0",
+          "X9abiAdW",
+          "RjudHwp7",
+          "MOwyJKME"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 16,
+    "url": "https://jeminise.com/products/christian-bedding-set-inspirational-bible-verse-comforter",
+    "customizer_root_present": true,
+    "config_bytes": 6017,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 6,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "pvjCp0w1",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "maxLines": 1,
+        "placeholder": "David",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "p3fW4TC0",
+          "X9abiAdW",
+          "RjudHwp7",
+          "Sgl6H0D-"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 17,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-01",
+    "customizer_root_present": true,
+    "config_bytes": 4317,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 18,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-02",
+    "customizer_root_present": true,
+    "config_bytes": 4317,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 19,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-03",
+    "customizer_root_present": true,
+    "config_bytes": 4317,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 20,
+    "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-04",
+    "customizer_root_present": true,
+    "config_bytes": 4317,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "b3376f51-9a6e-4914-ab62-61d43a80b9cd",
+        "label": "Custom Your Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "Henry",
+        "instructions": "Please enter your custom text or leave us your requests!",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "64ae8c22-4cd7-4861-8c9e-09dc9603193b",
+          "27ee6ddc-55dd-419e-b674-467d1ed27d04",
+          "4937ea7d-a92a-47ca-aaf5-ab2f7fd2a57b",
+          "0920f282-f3db-46c4-b012-1020c9906351"
+        ]
+      }
+    ]
+  }
+]

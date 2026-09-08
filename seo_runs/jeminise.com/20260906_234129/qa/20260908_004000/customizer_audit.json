@@ -1,0 +1,366 @@
+[
+  {
+    "inventory_position": 31,
+    "url": "https://jeminise.com/products/christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935",
+    "customizer_root_present": true,
+    "config_bytes": 2966,
+    "surface_count": 1,
+    "name_mentions": 0,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": []
+  },
+  {
+    "inventory_position": 32,
+    "url": "https://jeminise.com/products/christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed",
+    "customizer_root_present": true,
+    "config_bytes": 2966,
+    "surface_count": 1,
+    "name_mentions": 0,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": []
+  },
+  {
+    "inventory_position": 33,
+    "url": "https://jeminise.com/products/cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set",
+    "customizer_root_present": true,
+    "config_bytes": 4550,
+    "surface_count": 1,
+    "name_mentions": 0,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": []
+  },
+  {
+    "inventory_position": 34,
+    "url": "https://jeminise.com/products/crocodile-patchwork-printed-quilts-animal-patchwork-bedding",
+    "customizer_root_present": true,
+    "config_bytes": 4550,
+    "surface_count": 1,
+    "name_mentions": 0,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": []
+  },
+  {
+    "inventory_position": 35,
+    "url": "https://jeminise.com/products/custom-retro-football-art-bedding-set-c66211cf75-c66211cf75",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 36,
+    "url": "https://jeminise.com/products/custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 37,
+    "url": "https://jeminise.com/products/custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 38,
+    "url": "https://jeminise.com/products/custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 39,
+    "url": "https://jeminise.com/products/custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 40,
+    "url": "https://jeminise.com/products/custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  }
+]

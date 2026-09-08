@@ -1,0 +1,372 @@
+[
+  {
+    "inventory_position": 191,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-16",
+    "Handle": "personalized-baseball-bedding-full-size-flag-custom-name-d-design-16",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-16",
+    "checked_at": "2026-09-08T11:20:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      }
+    ],
+    "options_available": [
+      "Choose Product Type + Size: Duvet Cover (Twin, Full, Queen, King), Comforter (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet Cover (same size)"
+    ],
+    "audit_note": "Direct live storefront audit confirmed BOTH 'Customize Your Name' (1-30 chars) and 'Customize Your Number' (1-5 chars) are active, required customizer inputs. r3 copywriter note claiming numbers cannot be customized is factually refuted by live customizer."
+  },
+  {
+    "inventory_position": 192,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-17",
+    "Handle": "personalized-baseball-bedding-full-size-flag-custom-name-d-design-17",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-17",
+    "checked_at": "2026-09-08T11:20:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      }
+    ],
+    "options_available": [
+      "Choose Product Type + Size: Duvet Cover (Twin, Full, Queen, King), Comforter (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet Cover (same size)"
+    ],
+    "audit_note": "Direct live storefront audit confirmed BOTH 'Customize Your Name' (1-30 chars) and 'Customize Your Number' (1-5 chars) are active, required customizer inputs. r3 copywriter note claiming numbers cannot be customized is factually refuted by live customizer."
+  },
+  {
+    "inventory_position": 193,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-18",
+    "Handle": "personalized-baseball-bedding-full-size-flag-custom-name-d-design-18",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-18",
+    "checked_at": "2026-09-08T11:20:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      }
+    ],
+    "options_available": [
+      "Choose Product Type + Size: Duvet Cover (Twin, Full, Queen, King), Comforter (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet Cover (same size)"
+    ],
+    "audit_note": "Direct live storefront audit confirmed BOTH 'Customize Your Name' (1-30 chars) and 'Customize Your Number' (1-5 chars) are active, required customizer inputs. r3 copywriter note claiming numbers cannot be customized is factually refuted by live customizer."
+  },
+  {
+    "inventory_position": 194,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-19",
+    "Handle": "personalized-baseball-bedding-full-size-flag-custom-name-d-design-19",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-19",
+    "checked_at": "2026-09-08T11:20:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      }
+    ],
+    "options_available": [
+      "Choose Product Type + Size: Duvet Cover (Twin, Full, Queen, King), Comforter (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet Cover (same size)"
+    ],
+    "audit_note": "Direct live storefront audit confirmed BOTH 'Customize Your Name' (1-30 chars) and 'Customize Your Number' (1-5 chars) are active, required customizer inputs. r3 copywriter note claiming numbers cannot be customized is factually refuted by live customizer."
+  },
+  {
+    "inventory_position": 195,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-20",
+    "Handle": "personalized-baseball-bedding-full-size-flag-custom-name-d-design-20",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-20",
+    "checked_at": "2026-09-08T11:20:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      }
+    ],
+    "options_available": [
+      "Choose Product Type + Size: Duvet Cover (Twin, Full, Queen, King), Comforter (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet Cover (same size)"
+    ],
+    "audit_note": "Direct live storefront audit confirmed BOTH 'Customize Your Name' (1-30 chars) and 'Customize Your Number' (1-5 chars) are active, required customizer inputs. r3 copywriter note claiming numbers cannot be customized is factually refuted by live customizer."
+  },
+  {
+    "inventory_position": 196,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-21",
+    "Handle": "personalized-baseball-bedding-full-size-flag-custom-name-d-design-21",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-21",
+    "checked_at": "2026-09-08T11:20:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      }
+    ],
+    "options_available": [
+      "Choose Product Type + Size: Duvet Cover (Twin, Full, Queen, King), Comforter (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet Cover (same size)"
+    ],
+    "audit_note": "Direct live storefront audit confirmed BOTH 'Customize Your Name' (1-30 chars) and 'Customize Your Number' (1-5 chars) are active, required customizer inputs. r3 copywriter note claiming numbers cannot be customized is factually refuted by live customizer."
+  },
+  {
+    "inventory_position": 197,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-22",
+    "Handle": "personalized-baseball-bedding-full-size-flag-custom-name-d-design-22",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-22",
+    "checked_at": "2026-09-08T11:20:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      }
+    ],
+    "options_available": [
+      "Choose Product Type + Size: Duvet Cover (Twin, Full, Queen, King), Comforter (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet Cover (same size)"
+    ],
+    "audit_note": "Direct live storefront audit confirmed BOTH 'Customize Your Name' (1-30 chars) and 'Customize Your Number' (1-5 chars) are active, required customizer inputs. r3 copywriter note claiming numbers cannot be customized is factually refuted by live customizer."
+  },
+  {
+    "inventory_position": 198,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-23",
+    "Handle": "personalized-baseball-bedding-full-size-flag-custom-name-d-design-23",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-23",
+    "checked_at": "2026-09-08T11:20:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      }
+    ],
+    "options_available": [
+      "Choose Product Type + Size: Duvet Cover (Twin, Full, Queen, King), Comforter (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet Cover (same size)"
+    ],
+    "audit_note": "Direct live storefront audit confirmed BOTH 'Customize Your Name' (1-30 chars) and 'Customize Your Number' (1-5 chars) are active, required customizer inputs. r3 copywriter note claiming numbers cannot be customized is factually refuted by live customizer."
+  },
+  {
+    "inventory_position": 199,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-24",
+    "Handle": "personalized-baseball-bedding-full-size-flag-custom-name-d-design-24",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-24",
+    "checked_at": "2026-09-08T11:20:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      }
+    ],
+    "options_available": [
+      "Choose Product Type + Size: Duvet Cover (Twin, Full, Queen, King), Comforter (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet Cover (same size)"
+    ],
+    "audit_note": "Direct live storefront audit confirmed BOTH 'Customize Your Name' (1-30 chars) and 'Customize Your Number' (1-5 chars) are active, required customizer inputs. r3 copywriter note claiming numbers cannot be customized is factually refuted by live customizer."
+  },
+  {
+    "inventory_position": 200,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-25",
+    "Handle": "personalized-baseball-bedding-full-size-flag-custom-name-d-design-25",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-25",
+    "checked_at": "2026-09-08T11:20:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want to customize"
+      }
+    ],
+    "options_available": [
+      "Choose Product Type + Size: Duvet Cover (Twin, Full, Queen, King), Comforter (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet Cover (same size)"
+    ],
+    "audit_note": "Direct live storefront audit confirmed BOTH 'Customize Your Name' (1-30 chars) and 'Customize Your Number' (1-5 chars) are active, required customizer inputs. r3 copywriter note claiming numbers cannot be customized is factually refuted by live customizer."
+  }
+]

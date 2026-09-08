@@ -1,0 +1,10 @@
+{
+  "qa_run_id": "20260907_220823",
+  "batch_id": "qa_batch_001_r3",
+  "revision": "r3",
+  "current_stage": "BATCH_COMPLETE",
+  "products_completed": 10,
+  "images_completed": 65,
+  "awaiting_confirmation": true,
+  "last_saved_at": "2026-09-07T22:10:03.657947+07:00"
+}

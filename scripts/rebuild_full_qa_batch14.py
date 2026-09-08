@@ -230,7 +230,6 @@ def build_serp(submitted: dict, products: list[dict], run_dir: Path) -> list[dic
 
 def criterion_rows(product: dict, issue_ids: list[str], image_avg: float, live_row: dict | None, custom_sev: str | None) -> list[dict]:
     internal = has_internal_text(product)
-    meta_len = int(product.get("meta_description_length") or len(str(product.get("meta_description_seo") or "")))
     criteria: dict[str, str] = {
         "P1": "FULL",
         "P2": "FAIL" if custom_sev == "CRITICAL" else "PARTIAL",
@@ -238,7 +237,9 @@ def criterion_rows(product: dict, issue_ids: list[str], image_avg: float, live_r
         "K2": "PARTIAL",
         "K3": "PARTIAL",
         "T1": "PARTIAL" if not str(product.get("h1_proposed") or "").strip() else "FULL",
-        "T2": "PARTIAL" if meta_len > 160 else "FULL",
+        # Legacy mapping: this slot assessed meta copy, not Product Title/H1.
+        # Length alone cannot supply a content rating; requires independent review.
+        "T2": "NOT_CHECKED",
         "D1": "FAIL" if internal else "PARTIAL",
         "D2": "PARTIAL",
         "I1": "FULL" if image_avg >= 85 else ("PARTIAL" if image_avg >= 60 else "FAIL"),
@@ -256,7 +257,7 @@ def criterion_rows(product: dict, issue_ids: list[str], image_avg: float, live_r
         "K2": "Nearby product cluster has overlap risk, so intent distinction remains only partial.",
         "K3": "Evidence is public SERP only; no Search Console, keyword volume or customer-search corpus provided.",
         "T1": "Title/H1 are product-specific and tied to visible motif/product type." if str(product.get("h1_proposed") or "").strip() else "Proposed H1 is blank, so the title/H1 pair cannot be fully verified.",
-        "T2": "Meta description checked for length, specificity and supportable claims.",
+        "T2": "Meta description content has not been independently rated by this legacy generator; 145–165 characters is editorial guidance only.",
         "D1": "Description HTML still contains internal QA/import language." if internal else "Description is publish-oriented but still needs final admin/source check.",
         "D2": "Description covers motif/product type but remains templated and does not always map every verified constraint.",
         "I1": "Derived from average image QA score; see QA_Images.",
@@ -381,21 +382,7 @@ def build_batch(batch_id: str, cfg: dict) -> dict:
                     "Description contains no irrelevant template audience list and every remaining claim is supported by live/snapshot evidence.",
                 )
             )
-        meta_len = int(product.get("meta_description_length") or len(str(product.get("meta_description_seo") or "")))
-        if meta_len > 160:
-            issue_refs.append(
-                add_issue(
-                    qa_issues,
-                    pk,
-                    "MINOR",
-                    "meta_description_seo",
-                    product.get("meta_description_seo") or "",
-                    f"Meta description length is {meta_len} characters.",
-                    "Likely to truncate in search results and repeats review/personality wording in several rows.",
-                    "Rewrite to roughly 145-155 characters while preserving verified design and product type.",
-                    "Length check <=160 characters and no unsupported claim remains.",
-                )
-            )
+        # No automatic issue for length. Record an evidenced content defect instead.
         cluster_terms = " ".join([str(product.get("primary_keyword") or ""), str(product.get("secondary_keywords") or ""), str(product.get("title_proposed") or "")]).lower()
         if any(term in cluster_terms for term in ("soccer", "semi truck", "wolf", "christian", "cross", "football", "dragonfly", "elephant", "cactus", "dragon", "softball")):
             issue_refs.append(

@@ -211,8 +211,9 @@ def main():
         ws.cell(row_num, idx["title_proposed"]).value = title
         ws.cell(row_num, idx["meta_title_seo"]).value = title
         ws.cell(row_num, idx["meta_title_length"]).value = len(title)
-        ws.cell(row_num, idx["meta_description_seo"]).value = meta[:155]
-        ws.cell(row_num, idx["meta_description_length"]).value = len(meta[:155])
+        # 145–165 characters is an editorial target, never a truncation boundary.
+        ws.cell(row_num, idx["meta_description_seo"]).value = meta
+        ws.cell(row_num, idx["meta_description_length"]).value = len(meta)
         ws.cell(row_num, idx["description_proposed_html"]).value = description(pos, admin_row, ctext)
         ws.cell(row_num, idx["primary_keyword"]).value = primary
         ws.cell(row_num, idx["secondary_keywords"]).value = secondary

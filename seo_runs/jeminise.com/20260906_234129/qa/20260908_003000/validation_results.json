@@ -1,0 +1,19 @@
+{
+  "product_weight_total": 100,
+  "image_weight_total": 100,
+  "products": 10,
+  "images": 50,
+  "criteria": 110,
+  "unique_product_keys": 10,
+  "unique_qa_image_keys": 50,
+  "all_image_coverage_100": true,
+  "logic_100_with_critical": "QA_FAIL",
+  "logic_90_full_no_blocker": "QA_PASS",
+  "logic_72_on_80": {
+    "range": "72-92",
+    "status": "QA_INCOMPLETE"
+  },
+  "cross_links_valid": true,
+  "source_revision": "r4",
+  "source_sha256": "B235E900891385FCB71315357E88AD305844D8DB719C21B424B709B4EACB3FDA"
+}

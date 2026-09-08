@@ -1,0 +1,597 @@
+[
+  {
+    "inventory_position": 221,
+    "product_key": "jeminise.com+personalized-basketball-hoop-with-net-close-up-blanket-with-name-and-number-cc637164fc-cc637164fc",
+    "Handle": "personalized-basketball-hoop-with-net-close-up-blanket-with-name-and-number-cc637164fc-cc637164fc",
+    "url": "https://jeminise.com/products/personalized-basketball-hoop-with-net-close-up-blanket-with-name-and-number-cc637164fc-cc637164fc",
+    "product_type": "Blanket",
+    "checked_at": "2026-09-08T14:35:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Custom Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "placeholder": "David",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize name."
+      },
+      {
+        "label": "Custom Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 20,
+        "placeholder": "22",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize number"
+      }
+    ],
+    "options": [
+      {
+        "name": "Choose Your Size",
+        "position": 1,
+        "values": [
+          "40\"x30\" Fleece Blanket",
+          "50\"x40\" Fleece Blanket",
+          "60\"x50\" Fleece Blanket",
+          "80\"x60\" Fleece Blanket",
+          "40\"x30\" Sherpa Blanket",
+          "50\"x40\" Sherpa Blanket",
+          "60\"x50\" Sherpa Blanket",
+          "80\"x60\" Sherpa Blanket"
+        ]
+      }
+    ],
+    "variant_count": 8,
+    "special_notes": "Verified optional Custom Name (1-200 chars) and optional Custom Number (1-20 chars) in live Amazon customizer config. Single option group 'Choose Your Size' with 8 size/material variants."
+  },
+  {
+    "inventory_position": 222,
+    "product_key": "jeminise.com+personalized-basketball-next-to-athletic-shoes-blanket-with-name-and-number-dfbf4fde2f-dfbf4fde2f",
+    "Handle": "personalized-basketball-next-to-athletic-shoes-blanket-with-name-and-number-dfbf4fde2f-dfbf4fde2f",
+    "url": "https://jeminise.com/products/personalized-basketball-next-to-athletic-shoes-blanket-with-name-and-number-dfbf4fde2f-dfbf4fde2f",
+    "product_type": "Blanket",
+    "checked_at": "2026-09-08T14:35:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Custom Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "placeholder": "David",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize name."
+      },
+      {
+        "label": "Custom Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 20,
+        "placeholder": "22",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize number"
+      }
+    ],
+    "options": [
+      {
+        "name": "Choose Your Size",
+        "position": 1,
+        "values": [
+          "40\"x30\" Fleece Blanket",
+          "50\"x40\" Fleece Blanket",
+          "60\"x50\" Fleece Blanket",
+          "80\"x60\" Fleece Blanket",
+          "40\"x30\" Sherpa Blanket",
+          "50\"x40\" Sherpa Blanket",
+          "60\"x50\" Sherpa Blanket",
+          "80\"x60\" Sherpa Blanket"
+        ]
+      }
+    ],
+    "variant_count": 8,
+    "special_notes": "Verified optional Custom Name (1-200 chars) and optional Custom Number (1-20 chars) in live Amazon customizer config. Single option group 'Choose Your Size' with 8 size/material variants."
+  },
+  {
+    "inventory_position": 223,
+    "product_key": "jeminise.com+personalized-basketball-on-court-lines-comforter-name-number-303fbd50f6-303fbd50f6",
+    "Handle": "personalized-basketball-on-court-lines-comforter-name-number-303fbd50f6-303fbd50f6",
+    "url": "https://jeminise.com/products/personalized-basketball-on-court-lines-comforter-name-number-303fbd50f6-303fbd50f6",
+    "product_type": "Comforter",
+    "checked_at": "2026-09-08T14:35:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "placeholder": "",
+        "instructions": "Enter \"NO\" if you don't want. The name will be used correctly on the product as you input. Please carefully check the correct spelling before submitting."
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want"
+      }
+    ],
+    "options": [
+      {
+        "name": "Choose Product Type + Size",
+        "position": 1,
+        "values": [
+          "Duvet Cover Twin (68\" x 88\")",
+          "Duvet Cover  Full (78\" x 88\")",
+          "Duvet Cover Queen (88\" x 88\")",
+          "Duvet Cover King (104\" x 88\")",
+          "Comforter Twin (68\"x90\")",
+          "Comforter Full (79\"x90\")",
+          "Comforter Queen (90\"x90\")",
+          "Comforter King (104\"x90\")"
+        ]
+      },
+      {
+        "name": "Choose Pillowcases",
+        "position": 2,
+        "values": [
+          "None",
+          "1 Pillowcase",
+          "2 Pillowcases"
+        ]
+      },
+      {
+        "name": "Additional Sheet Cover (Flat Sheet)",
+        "position": 3,
+        "values": [
+          "None",
+          "1 Sheet Cover (same size)"
+        ]
+      }
+    ],
+    "variant_count": 48,
+    "special_notes": "Verified required Customize Your Name (1-30 chars) and Customize Your Number (1-5 chars). 3 option groups: Choose Product Type + Size (8), Choose Pillowcases (3), Additional Sheet Cover (2) yielding 48 variants."
+  },
+  {
+    "inventory_position": 224,
+    "product_key": "jeminise.com+personalized-basketball-on-court-perspective-comforter-with-name-and-number-1acfbe4260-1acfbe4260",
+    "Handle": "personalized-basketball-on-court-perspective-comforter-with-name-and-number-1acfbe4260-1acfbe4260",
+    "url": "https://jeminise.com/products/personalized-basketball-on-court-perspective-comforter-with-name-and-number-1acfbe4260-1acfbe4260",
+    "product_type": "Comforter",
+    "checked_at": "2026-09-08T14:35:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "placeholder": "",
+        "instructions": "Enter \"NO\" if you don't want. The name will be used correctly on the product as you input. Please carefully check the correct spelling before submitting."
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want"
+      }
+    ],
+    "options": [
+      {
+        "name": "Choose Product Type + Size",
+        "position": 1,
+        "values": [
+          "Duvet Cover Twin (68\" x 88\")",
+          "Duvet Cover  Full (78\" x 88\")",
+          "Duvet Cover Queen (88\" x 88\")",
+          "Duvet Cover King (104\" x 88\")",
+          "Comforter Twin (68\"x90\")",
+          "Comforter Full (79\"x90\")",
+          "Comforter Queen (90\"x90\")",
+          "Comforter King (104\"x90\")"
+        ]
+      },
+      {
+        "name": "Choose Pillowcases",
+        "position": 2,
+        "values": [
+          "None",
+          "1 Pillowcase",
+          "2 Pillowcases"
+        ]
+      },
+      {
+        "name": "Additional Sheet Cover (Flat Sheet)",
+        "position": 3,
+        "values": [
+          "None",
+          "1 Sheet Cover (same size)"
+        ]
+      }
+    ],
+    "variant_count": 48,
+    "special_notes": "Verified required Customize Your Name (1-30 chars) and Customize Your Number (1-5 chars). 3 option groups: Choose Product Type + Size (8), Choose Pillowcases (3), Additional Sheet Cover (2) yielding 48 variants."
+  },
+  {
+    "inventory_position": 225,
+    "product_key": "jeminise.com+personalized-basketball-on-hardwood-court-comforter-with-name-and-number-8aee799947-8aee799947",
+    "Handle": "personalized-basketball-on-hardwood-court-comforter-with-name-and-number-8aee799947-8aee799947",
+    "url": "https://jeminise.com/products/personalized-basketball-on-hardwood-court-comforter-with-name-and-number-8aee799947-8aee799947",
+    "product_type": "Comforter",
+    "checked_at": "2026-09-08T14:35:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "placeholder": "",
+        "instructions": "Enter \"NO\" if you don't want. The name will be used correctly on the product as you input. Please carefully check the correct spelling before submitting."
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want"
+      }
+    ],
+    "options": [
+      {
+        "name": "Choose Product Type + Size",
+        "position": 1,
+        "values": [
+          "Duvet Cover Twin (68\" x 88\")",
+          "Duvet Cover  Full (78\" x 88\")",
+          "Duvet Cover Queen (88\" x 88\")",
+          "Duvet Cover King (104\" x 88\")",
+          "Comforter Twin (68\"x90\")",
+          "Comforter Full (79\"x90\")",
+          "Comforter Queen (90\"x90\")",
+          "Comforter King (104\"x90\")"
+        ]
+      },
+      {
+        "name": "Choose Pillowcases",
+        "position": 2,
+        "values": [
+          "None",
+          "1 Pillowcase",
+          "2 Pillowcases"
+        ]
+      },
+      {
+        "name": "Additional Sheet Cover (Flat Sheet)",
+        "position": 3,
+        "values": [
+          "None",
+          "1 Sheet Cover (same size)"
+        ]
+      }
+    ],
+    "variant_count": 48,
+    "special_notes": "Verified required Customize Your Name (1-30 chars) and Customize Your Number (1-5 chars). 3 option groups: Choose Product Type + Size (8), Choose Pillowcases (3), Additional Sheet Cover (2) yielding 48 variants."
+  },
+  {
+    "inventory_position": 226,
+    "product_key": "jeminise.com+personalized-neon-basketball-player-blanket-788fb6ae63-788fb6ae63",
+    "Handle": "personalized-neon-basketball-player-blanket-788fb6ae63-788fb6ae63",
+    "url": "https://jeminise.com/products/personalized-neon-basketball-player-blanket-788fb6ae63-788fb6ae63",
+    "product_type": "Blanket",
+    "checked_at": "2026-09-08T14:35:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Custom Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "placeholder": "David",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize name."
+      },
+      {
+        "label": "Custom Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 20,
+        "placeholder": "22",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize number"
+      }
+    ],
+    "options": [
+      {
+        "name": "Choose Your Size",
+        "position": 1,
+        "values": [
+          "40\"x30\" Fleece Blanket",
+          "50\"x40\" Fleece Blanket",
+          "60\"x50\" Fleece Blanket",
+          "80\"x60\" Fleece Blanket",
+          "40\"x30\" Sherpa Blanket",
+          "50\"x40\" Sherpa Blanket",
+          "60\"x50\" Sherpa Blanket",
+          "80\"x60\" Sherpa Blanket"
+        ]
+      }
+    ],
+    "variant_count": 8,
+    "special_notes": "Verified optional Custom Name (1-200 chars) and optional Custom Number (1-20 chars) in live Amazon customizer config. Single option group 'Choose Your Size' with 8 size/material variants."
+  },
+  {
+    "inventory_position": 227,
+    "product_key": "jeminise.com+personalized-basketball-player-front-blanket-with-name-and-number-258e7f9e2e-258e7f9e2e",
+    "Handle": "personalized-basketball-player-front-blanket-with-name-and-number-258e7f9e2e-258e7f9e2e",
+    "url": "https://jeminise.com/products/personalized-basketball-player-front-blanket-with-name-and-number-258e7f9e2e-258e7f9e2e",
+    "product_type": "Blanket",
+    "checked_at": "2026-09-08T14:35:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Custom Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "placeholder": "David",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize name."
+      },
+      {
+        "label": "Custom Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 20,
+        "placeholder": "22",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize number"
+      }
+    ],
+    "options": [
+      {
+        "name": "Choose Your Size",
+        "position": 1,
+        "values": [
+          "40\"x30\" Fleece Blanket",
+          "50\"x40\" Fleece Blanket",
+          "60\"x50\" Fleece Blanket",
+          "80\"x60\" Fleece Blanket",
+          "40\"x30\" Sherpa Blanket",
+          "50\"x40\" Sherpa Blanket",
+          "60\"x50\" Sherpa Blanket",
+          "80\"x60\" Sherpa Blanket"
+        ]
+      }
+    ],
+    "variant_count": 8,
+    "special_notes": "Verified optional Custom Name (1-200 chars) and optional Custom Number (1-20 chars) in live Amazon customizer config. Single option group 'Choose Your Size' with 8 size/material variants."
+  },
+  {
+    "inventory_position": 228,
+    "product_key": "jeminise.com+personalized-basketball-player-silhouette-blanket-with-name-and-number-35f8822fba-35f8822fba",
+    "Handle": "personalized-basketball-player-silhouette-blanket-with-name-and-number-35f8822fba-35f8822fba",
+    "url": "https://jeminise.com/products/personalized-basketball-player-silhouette-blanket-with-name-and-number-35f8822fba-35f8822fba",
+    "product_type": "Blanket",
+    "checked_at": "2026-09-08T14:35:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Custom Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "placeholder": "David",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize name."
+      },
+      {
+        "label": "Custom Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 20,
+        "placeholder": "22",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize number"
+      }
+    ],
+    "options": [
+      {
+        "name": "Choose Your Size",
+        "position": 1,
+        "values": [
+          "40\"x30\" Fleece Blanket",
+          "50\"x40\" Fleece Blanket",
+          "60\"x50\" Fleece Blanket",
+          "80\"x60\" Fleece Blanket",
+          "40\"x30\" Sherpa Blanket",
+          "50\"x40\" Sherpa Blanket",
+          "60\"x50\" Sherpa Blanket",
+          "80\"x60\" Sherpa Blanket"
+        ]
+      }
+    ],
+    "variant_count": 8,
+    "special_notes": "Verified optional Custom Name (1-200 chars) and optional Custom Number (1-20 chars) in live Amazon customizer config. Single option group 'Choose Your Size' with 8 size/material variants."
+  },
+  {
+    "inventory_position": 229,
+    "product_key": "jeminise.com+personalized-basketball-players-and-hoops-comforter-with-name-and-number-ff13bad888-ff13bad888",
+    "Handle": "personalized-basketball-players-and-hoops-comforter-with-name-and-number-ff13bad888-ff13bad888",
+    "url": "https://jeminise.com/products/personalized-basketball-players-and-hoops-comforter-with-name-and-number-ff13bad888-ff13bad888",
+    "product_type": "Comforter",
+    "checked_at": "2026-09-08T14:35:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "placeholder": "",
+        "instructions": "Enter \"NO\" if you don't want. The name will be used correctly on the product as you input. Please carefully check the correct spelling before submitting."
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want"
+      }
+    ],
+    "options": [
+      {
+        "name": "Choose Product Type + Size",
+        "position": 1,
+        "values": [
+          "Duvet Cover Twin (68\" x 88\")",
+          "Duvet Cover  Full (78\" x 88\")",
+          "Duvet Cover Queen (88\" x 88\")",
+          "Duvet Cover King (104\" x 88\")",
+          "Comforter Twin (68\"x90\")",
+          "Comforter Full (79\"x90\")",
+          "Comforter Queen (90\"x90\")",
+          "Comforter King (104\"x90\")"
+        ]
+      },
+      {
+        "name": "Choose Pillowcases",
+        "position": 2,
+        "values": [
+          "None",
+          "1 Pillowcase",
+          "2 Pillowcases"
+        ]
+      },
+      {
+        "name": "Additional Sheet Cover (Flat Sheet)",
+        "position": 3,
+        "values": [
+          "None",
+          "1 Sheet Cover (same size)"
+        ]
+      }
+    ],
+    "variant_count": 48,
+    "special_notes": "Verified required Customize Your Name (1-30 chars) and Customize Your Number (1-5 chars). 3 option groups: Choose Product Type + Size (8), Choose Pillowcases (3), Additional Sheet Cover (2) yielding 48 variants."
+  },
+  {
+    "inventory_position": 230,
+    "product_key": "jeminise.com+personalized-basketball-shattered-glass-comforter-with-name-and-number-353fc0c17e-353fc0c17e",
+    "Handle": "personalized-basketball-shattered-glass-comforter-with-name-and-number-353fc0c17e-353fc0c17e",
+    "url": "https://jeminise.com/products/personalized-basketball-shattered-glass-comforter-with-name-and-number-353fc0c17e-353fc0c17e",
+    "product_type": "Comforter",
+    "checked_at": "2026-09-08T14:35:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": true,
+    "text_or_input_mentions": true,
+    "text_inputs": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "placeholder": "",
+        "instructions": "Enter \"NO\" if you don't want. The name will be used correctly on the product as you input. Please carefully check the correct spelling before submitting."
+      },
+      {
+        "label": "Customize Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 5,
+        "placeholder": "10",
+        "instructions": "Enter \"NO\" if you don't want"
+      }
+    ],
+    "options": [
+      {
+        "name": "Choose Product Type + Size",
+        "position": 1,
+        "values": [
+          "Duvet Cover Twin (68\" x 88\")",
+          "Duvet Cover  Full (78\" x 88\")",
+          "Duvet Cover Queen (88\" x 88\")",
+          "Duvet Cover King (104\" x 88\")",
+          "Comforter Twin (68\"x90\")",
+          "Comforter Full (79\"x90\")",
+          "Comforter Queen (90\"x90\")",
+          "Comforter King (104\"x90\")"
+        ]
+      },
+      {
+        "name": "Choose Pillowcases",
+        "position": 2,
+        "values": [
+          "None",
+          "1 Pillowcase",
+          "2 Pillowcases"
+        ]
+      },
+      {
+        "name": "Additional Sheet Cover (Flat Sheet)",
+        "position": 3,
+        "values": [
+          "None",
+          "1 Sheet Cover (same size)"
+        ]
+      }
+    ],
+    "variant_count": 48,
+    "special_notes": "Verified required Customize Your Name (1-30 chars) and Customize Your Number (1-5 chars). 3 option groups: Choose Product Type + Size (8), Choose Pillowcases (3), Additional Sheet Cover (2) yielding 48 variants. NOTE: Pillowcases/shams are optional add-ons; not included by default."
+  }
+]

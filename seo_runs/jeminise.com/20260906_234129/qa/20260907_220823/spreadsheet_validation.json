@@ -1,0 +1,23 @@
+{
+  "path": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260907_220823\\SEO_QA_qa_batch_001_r3.xlsx",
+  "sheet_names": [
+    "QA_Summary",
+    "QA_Products",
+    "QA_Criteria",
+    "QA_Images",
+    "QA_Issues"
+  ],
+  "row_counts": {
+    "QA_Summary": 13,
+    "QA_Products": 10,
+    "QA_Criteria": 110,
+    "QA_Images": 65,
+    "QA_Issues": 54
+  },
+  "formula_cells": 758,
+  "hyperlink_cells": 140,
+  "source_sha256": "AB22C9A2289F22390CC61A27AC7C9171125DABBD75746C2DB17CB7272CFB5D9D",
+  "xlsx_sha256": "5CCCB05430EBFCD123A0402E9B635902223EFEB348BB665354869C5FB009B291",
+  "zip_bad_member": null,
+  "passed": true
+}

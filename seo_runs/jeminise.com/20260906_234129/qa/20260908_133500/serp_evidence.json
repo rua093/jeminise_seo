@@ -1,0 +1,394 @@
+[
+  {
+    "query_id": "SERP-201-PRI",
+    "inventory_position": 201,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-26",
+    "query": "custom baseball flag name number bedding",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Patriotic Sports Bedding",
+    "top_organic_domains": [
+      "etsy.com",
+      "ohaprints.com",
+      "lylyprint.com",
+      "huswiftgift.com",
+      "youcustomizeit.com"
+    ],
+    "summary": "Shoppers seeking personalized baseball bedding featuring American flag graphics, player name, and jersey number.",
+    "keyword_assessment": "Directly represents Design 26's rustic flag wood plank backdrop, baseball, and custom name/number fields."
+  },
+  {
+    "query_id": "SERP-201-COM",
+    "inventory_position": 201,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-26",
+    "query": "baseball flag comforter set",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Sports Decor",
+    "top_organic_domains": [
+      "ebay.com",
+      "walmart.com",
+      "target.com",
+      "temu.com",
+      "wayfair.com"
+    ],
+    "summary": "Broad market demand for baseball and American flag themed comforter sets.",
+    "keyword_assessment": "Confirms strong commercial search interest in patriotic baseball bedding."
+  },
+  {
+    "query_id": "SERP-202-PRI",
+    "inventory_position": 202,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-duvet-cover",
+    "query": "custom neon baseball player duvet cover",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Neon Graphic Sports",
+    "top_organic_domains": [
+      "etsy.com",
+      "ohaprints.com",
+      "youcustomizeit.com",
+      "walmart.com"
+    ],
+    "summary": "Searches for dark-themed, neon green accented baseball player silhouette duvet covers and bedding.",
+    "keyword_assessment": "Accurately targets the black background and neon green player graphic theme."
+  },
+  {
+    "query_id": "SERP-202-COM",
+    "inventory_position": 202,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-duvet-cover",
+    "query": "neon baseball bedding",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Modern Sports Linens",
+    "top_organic_domains": [
+      "walmart.com",
+      "ebay.com",
+      "etsy.com",
+      "potterybarnkids.com",
+      "target.com"
+    ],
+    "summary": "Growing youth and teen interest in high-contrast neon and glow-in-the-dark baseball bedding aesthetics.",
+    "keyword_assessment": "Validates neon sports bedding aesthetic demand."
+  },
+  {
+    "query_id": "SERP-203-PRI",
+    "inventory_position": 203,
+    "product_key": "jeminise.com+personalized-basketball-above-hoop-and-net-comforter-with-name-and-number-ff32dd676a-ff32dd676a",
+    "query": "custom basketball hoop comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Custom Basketball Bedding",
+    "top_organic_domains": [
+      "etsy.com",
+      "2cooldesigns.com",
+      "youcustomizeit.com",
+      "amorcustomgifts.com"
+    ],
+    "summary": "Shoppers seeking personalized comforter sets featuring basketball hoops, nets, and player names/numbers.",
+    "keyword_assessment": "Accurately captures the ball above the hoop and net motif with custom name and number."
+  },
+  {
+    "query_id": "SERP-203-COM",
+    "inventory_position": 203,
+    "product_key": "jeminise.com+personalized-basketball-above-hoop-and-net-comforter-with-name-and-number-ff32dd676a-ff32dd676a",
+    "query": "basketball hoop bedding",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Sports Bedroom",
+    "top_organic_domains": [
+      "etsy.com",
+      "temu.com",
+      "shein.com",
+      "90vogue.com"
+    ],
+    "summary": "Core search volume for basketball hoop and net bedroom linens.",
+    "keyword_assessment": "High-volume commercial comparator establishing core motif demand."
+  },
+  {
+    "query_id": "SERP-204-PRI",
+    "inventory_position": 204,
+    "product_key": "jeminise.com+personalized-basketball-above-hoop-close-up-comforter-with-name-and-number-95487807f8-95487807f8",
+    "query": "custom blue red basketball hoop bedding",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Team Color Basketball",
+    "top_organic_domains": [
+      "etsy.com",
+      "2cooldesigns.com",
+      "walmart.com",
+      "pbteen.com"
+    ],
+    "summary": "Targeted searches for basketball bedding featuring close-up hoops in blue and red athletic palettes.",
+    "keyword_assessment": "Matches the close-up hoop, net, and blue/red color scheme of product 204."
+  },
+  {
+    "query_id": "SERP-204-COM",
+    "inventory_position": 204,
+    "product_key": "jeminise.com+personalized-basketball-above-hoop-close-up-comforter-with-name-and-number-95487807f8-95487807f8",
+    "query": "blue red basketball comforter",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Colorway Sports Bedding",
+    "top_organic_domains": [
+      "target.com",
+      "walmart.com",
+      "ebay.com",
+      "lushdecor.com",
+      "etsy.com"
+    ],
+    "summary": "Broad demand for blue and red basketball comforter sets in youth/teen bedrooms.",
+    "keyword_assessment": "Validates commercial colorway alignment."
+  },
+  {
+    "query_id": "SERP-205-PRI",
+    "inventory_position": 205,
+    "product_key": "jeminise.com+personalized-basketball-with-paint-splash-comforter-ccac4b4a9e-ccac4b4a9e",
+    "query": "custom basketball paint splash comforter",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Artistic Sports Bedding",
+    "top_organic_domains": [
+      "jeminise.com",
+      "etsy.com",
+      "2cooldesigns.com",
+      "walmart.com"
+    ],
+    "summary": "Bedding searches featuring paint splash, splatter, or graffiti basketball graphics with custom text. Jeminise detected in SERP!",
+    "keyword_assessment": "Accurately reflects the red/blue paint splash basketball design."
+  },
+  {
+    "query_id": "SERP-205-COM",
+    "inventory_position": 205,
+    "product_key": "jeminise.com+personalized-basketball-with-paint-splash-comforter-ccac4b4a9e-ccac4b4a9e",
+    "query": "paint splash basketball bedding",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Abstract Sports Decor",
+    "top_organic_domains": [
+      "etsy.com",
+      "walmart.com",
+      "target.com",
+      "lushdecor.com"
+    ],
+    "summary": "Commercial market for abstract and artistic paint-splatter basketball comforters.",
+    "keyword_assessment": "Strong commercial volume confirming popularity of paint splash motif."
+  },
+  {
+    "query_id": "SERP-206-PRI",
+    "inventory_position": 206,
+    "product_key": "jeminise.com+personalized-basketball-ball-below-net-blanket-with-name-and-number-86aaeebf75-86aaeebf75",
+    "query": "custom basketball net blanket",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Custom Sports Blanket",
+    "top_organic_domains": [
+      "zazzle.com",
+      "etsy.com",
+      "walmart.com",
+      "jeminise.com",
+      "carlylou.com"
+    ],
+    "summary": "Searches for personalized basketball net blankets with custom player name and jersey number. Jeminise detected in SERP!",
+    "keyword_assessment": "Directly targets the throw blanket form factor with net artwork and optional customization."
+  },
+  {
+    "query_id": "SERP-206-COM",
+    "inventory_position": 206,
+    "product_key": "jeminise.com+personalized-basketball-ball-below-net-blanket-with-name-and-number-86aaeebf75-86aaeebf75",
+    "query": "basketball net throw blanket",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Fleece Throws",
+    "top_organic_domains": [
+      "walmart.com",
+      "target.com",
+      "etsy.com",
+      "nba.com",
+      "zazzle.com"
+    ],
+    "summary": "High-volume searches for basketball throw blankets featuring net and hoop artwork.",
+    "keyword_assessment": "Confirms strong market for basketball-themed throw blankets."
+  },
+  {
+    "query_id": "SERP-207-PRI",
+    "inventory_position": 207,
+    "product_key": "jeminise.com+personalized-basketball-below-hoop-comforter-name-number-e8b829a176-e8b829a176",
+    "query": "custom basketball court hoop comforter",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Court Layout Bedding",
+    "top_organic_domains": [
+      "etsy.com",
+      "amorcustomgifts.com",
+      "2cooldesigns.com",
+      "ohaprints.com"
+    ],
+    "summary": "Personalized bedding queries featuring basketball court lines, hardwood floor aesthetics, hoops, and custom names.",
+    "keyword_assessment": "Matches the blue-black basketball court lines and hoop design 1 artwork."
+  },
+  {
+    "query_id": "SERP-207-COM",
+    "inventory_position": 207,
+    "product_key": "jeminise.com+personalized-basketball-below-hoop-comforter-name-number-e8b829a176-e8b829a176",
+    "query": "basketball court comforter",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Sports Comforters",
+    "top_organic_domains": [
+      "walmart.com",
+      "lushdecor.com",
+      "etsy.com",
+      "ebay.com",
+      "pbteen.com"
+    ],
+    "summary": "General market search for basketball court layout comforters.",
+    "keyword_assessment": "Validates core court floor motif search volume."
+  },
+  {
+    "query_id": "SERP-208-PRI",
+    "inventory_position": 208,
+    "product_key": "jeminise.com+personalized-basketball-below-hoop-comforter-with-name-and-number-d7a58513fd-d7a58513fd",
+    "query": "custom black basketball hoop comforter",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Dark Aesthetic Basketball",
+    "top_organic_domains": [
+      "etsy.com",
+      "ohaprints.com",
+      "2cooldesigns.com",
+      "amorcustomgifts.com"
+    ],
+    "summary": "Targeted queries for dark-themed, black basketball comforters featuring hoops, orange balls, and custom names/numbers.",
+    "keyword_assessment": "Accurately reflects Design 2's black grid background and orange ball under hoop."
+  },
+  {
+    "query_id": "SERP-208-COM",
+    "inventory_position": 208,
+    "product_key": "jeminise.com+personalized-basketball-below-hoop-comforter-with-name-and-number-d7a58513fd-d7a58513fd",
+    "query": "black basketball bedding",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Modern Sports Bedroom",
+    "top_organic_domains": [
+      "target.com",
+      "walmart.com",
+      "pbteen.com",
+      "crateandbarrel.com",
+      "etsy.com"
+    ],
+    "summary": "Modern teen and adult market for black sports-themed bedroom linens.",
+    "keyword_assessment": "Strong commercial volume confirming popularity of black sports decor."
+  },
+  {
+    "query_id": "SERP-209-PRI",
+    "inventory_position": 209,
+    "product_key": "jeminise.com+personalized-basketball-burning-flames-comforter-with-name-and-number-746598fa53-746598fa53",
+    "query": "custom flame basketball comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Fire Sports Bedding",
+    "top_organic_domains": [
+      "etsy.com",
+      "eloquentinnovations.com",
+      "ohaprints.com",
+      "callie.com",
+      "2cooldesigns.com"
+    ],
+    "summary": "Bedding searches featuring flaming basketballs, burning embers, and personalized athlete names/numbers.",
+    "keyword_assessment": "Accurately represents the oversized basketball engulfed in flames graphic."
+  },
+  {
+    "query_id": "SERP-209-COM",
+    "inventory_position": 209,
+    "product_key": "jeminise.com+personalized-basketball-burning-flames-comforter-with-name-and-number-746598fa53-746598fa53",
+    "query": "fire basketball comforter",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / High-Energy Sports Decor",
+    "top_organic_domains": [
+      "ebay.com",
+      "etsy.com",
+      "homisu.store",
+      "walmart.com",
+      "temu.com"
+    ],
+    "summary": "High commercial interest in fire and flame basketball comforters.",
+    "keyword_assessment": "Confirms strong demand for energetic fire sports bedding."
+  },
+  {
+    "query_id": "SERP-210-PRI",
+    "inventory_position": 210,
+    "product_key": "jeminise.com+personalized-basketball-close-up-blanket-with-name-and-number-3f49346de1-3f49346de1",
+    "query": "custom basketball close-up blanket",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Custom Sports Blanket",
+    "top_organic_domains": [
+      "personalizationmall.com",
+      "zazzle.com",
+      "canvaschamp.com",
+      "getphotoblanket.com",
+      "etsy.com"
+    ],
+    "summary": "Personalized blanket queries featuring macro close-ups of basketballs, player silhouettes, and custom names/numbers.",
+    "keyword_assessment": "Directly targets the dark basketball close-up blanket form factor with optional customization."
+  },
+  {
+    "query_id": "SERP-210-COM",
+    "inventory_position": 210,
+    "product_key": "jeminise.com+personalized-basketball-close-up-blanket-with-name-and-number-3f49346de1-3f49346de1",
+    "query": "basketball player fleece blanket",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T13:33:00+07:00",
+    "intent": "Commercial / Fleece Throws",
+    "top_organic_domains": [
+      "nba.com",
+      "logobrands.com",
+      "etsy.com",
+      "zazzle.com",
+      "personalizationmall.com"
+    ],
+    "summary": "Demand for cozy fleece throw blankets featuring basketball player silhouettes and balls.",
+    "keyword_assessment": "Validates consumer interest in sports fleece throws."
+  }
+]

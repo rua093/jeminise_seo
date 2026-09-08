@@ -1,0 +1,28 @@
+{
+  "qa_run_id": "20260908_134500",
+  "batch_name": "qa_batch_022_r2",
+  "status": "ALL_TESTS_PASSED",
+  "test_results": {
+    "sheet_names_match": true,
+    "qa_summary_rows": 1,
+    "qa_products_rows": 10,
+    "qa_criteria_rows": 110,
+    "qa_images_rows": 73,
+    "qa_issues_rows": 30,
+    "criteria_ids_unique": true,
+    "image_ids_unique": true,
+    "issue_ids_unique": true,
+    "page_read_present_and_true": true,
+    "freeze_panes_ok": true,
+    "filter_ok": true,
+    "test_case_critical_fails": true,
+    "test_case_clean_90_passes": true,
+    "test_case_unassessed_incomplete": true,
+    "test_case_batch22_r2_revise": true,
+    "issue_breakdown": {
+      "MAJOR": 10,
+      "MINOR": 10,
+      "LIMITATION": 10
+    }
+  }
+}

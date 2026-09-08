@@ -249,10 +249,11 @@ def description(pos, admin_row, ctext):
 
 
 def meta_description(pos, fields):
+    # Preserve complete copy; edit toward 145–165 characters without slicing it.
     title, _, _, detail, _ = PRODUCT_UPDATES[pos]
     if fields:
-        return f"Shop {title.lower()} with {detail}, selectable sizes and verified name and number text fields."[:155]
-    return f"Shop {title.lower()} with {detail}, visible basketball artwork and selectable size options."[:155]
+        return f"Shop {title.lower()} with {detail}, selectable sizes and verified name and number text fields."
+    return f"Shop {title.lower()} with {detail}, visible basketball artwork and selectable size options."
 
 
 def main():

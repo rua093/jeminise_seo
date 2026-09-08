@@ -1,0 +1,283 @@
+[
+  {
+    "serp_id": "serp_r3_reqa_001_1",
+    "product_key": "jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20",
+    "query": "cardinal sunflower quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992954+07:00",
+    "result_urls_read": [
+      "https://vantique.net/products/autumn-cardinal-3-piece-quilted-bedding-set-ncu0tv033"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_001_2",
+    "product_key": "jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20",
+    "query": "autumn cardinal bedding quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992967+07:00",
+    "result_urls_read": [
+      "https://www.target.com/s/cardinal%2Bquilt"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_002_1",
+    "product_key": "jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme",
+    "query": "softball comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992971+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/market/softball_comforter_sets"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_002_2",
+    "product_key": "jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme",
+    "query": "teal softball bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992973+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/ip/18550165606",
+      "https://www.youcustomizeit.com/p/Softball-Comforters-Personalized/353832"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_003_1",
+    "product_key": "jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0",
+    "query": "Christmas cardinal memorial quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992976+07:00",
+    "result_urls_read": [
+      "https://www.target.com/s/cardinal%2Bquilt"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_003_2",
+    "product_key": "jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0",
+    "query": "cardinal Christmas quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992978+07:00",
+    "result_urls_read": [
+      "https://www.marcielobedding.com/products/marcelo-3-pcs-winter-cardinals-christmas-quilt-bedspread-set-decor"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_004_1",
+    "product_key": "jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7",
+    "query": "cardinal memorial quilt with roses",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992981+07:00",
+    "result_urls_read": [
+      "https://www.reddit.com/r/quilting/comments/19fiv3f"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_004_2",
+    "product_key": "jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7",
+    "query": "cardinal remembrance quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992985+07:00",
+    "result_urls_read": [
+      "https://www.reddit.com/r/quilting/comments/166n7be"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_005_1",
+    "product_key": "jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set",
+    "query": "cat patchwork quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992988+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/ip/20788770071"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_005_2",
+    "product_key": "jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set",
+    "query": "colorful cat quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992990+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/ip/20076702698"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_006_1",
+    "product_key": "jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork",
+    "query": "cat patchwork bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992992+07:00",
+    "result_urls_read": [
+      "https://www.wayfair.com/bed-bath/pdp/ambesonne-cat-bedspread-set-patchwork-style-silly-faces-multicolor-bbqv8335.html"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_006_2",
+    "product_key": "jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork",
+    "query": "geometric cat quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992995+07:00",
+    "result_urls_read": [
+      "https://vantique.net/products/whimsical-cat-patchwork-3-piece-quilted-bedding-set-ncu0nt5145"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_007_1",
+    "product_key": "jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad",
+    "query": "Celtic tree quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.992998+07:00",
+    "result_urls_read": [
+      "https://usblanket.com/collections/tree-of-life"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_007_2",
+    "product_key": "jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad",
+    "query": "fantasy tree quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.993000+07:00",
+    "result_urls_read": [
+      "https://www.freshouseshop.com/products/celtic-bed-knot-tree-of-life-veru1967-quilt-bedding-set"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_008_1",
+    "product_key": "jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e",
+    "query": "Celtic tree of life quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.993003+07:00",
+    "result_urls_read": [
+      "https://quiltnest.com/products/intricate-celtic-tree-of-life-3-piece-quilted-bedding-set-ncu0pd047"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_008_2",
+    "product_key": "jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e",
+    "query": "Yggdrasil quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.993005+07:00",
+    "result_urls_read": [
+      "https://ohaprints.com/products/ohaprints-quilt-bed-set-pillowcase-tree-of-life-yggdrasil-black-yellow-mythology-ancient-norse-nordic-blanket-bedspread-bedding-695"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_009_1",
+    "product_key": "jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set",
+    "query": "farmhouse chicken quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.993008+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/ip/20230621300"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_009_2",
+    "product_key": "jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set",
+    "query": "chicken bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.993010+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/ip/19696512799"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_010_1",
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01",
+    "query": "Christian comforter set God Says I Am",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.993012+07:00",
+    "result_urls_read": [
+      "https://shop.tiktok.com/us/pdp/christian-faith-themed-comforter-set-soft-cozy-bedding/1732217285195305523"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  },
+  {
+    "serp_id": "serp_r3_reqa_010_2",
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01",
+    "query": "personalized God Says I Am bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US intent; search service locale could not be hard-pinned",
+    "checked_at": "2026-09-07T22:10:02.993015+07:00",
+    "result_urls_read": [
+      "https://www.guidingcross.com/products/god-says-i-am-blanket"
+    ],
+    "intent": "Commercial/product or noted weak evidence",
+    "note": "US commercial intent comparator; no search-volume claim. r3 maps this query as candidate needing recheck."
+  }
+]

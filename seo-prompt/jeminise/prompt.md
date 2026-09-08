@@ -380,7 +380,8 @@ Trong từng lô, keyword mapping mang trạng thái PROVISIONAL. Sau khi đã x
 
 ### Meta description
 
-- Nhắm khoảng 140–160 ký tự khi phù hợp.
+- Nhắm khoảng 145–165 ký tự khi phù hợp; đây là mục tiêu biên tập, không phải giới hạn cứng và không bắt buộc đúng 155 ký tự.
+- Giữ câu hoàn chỉnh, rõ nghĩa. Không cắt chuỗi bằng `[:155]`, `[:165]` hoặc cắt tự động theo số ký tự/từ để ép độ dài. Nếu dài dòng, viết lại câu bằng biên tập, giữ thông tin thiết yếu; có thể ngoài khoảng mục tiêu khi cần đủ ý và không vượt giới hạn trường đã xác minh. Không thêm từ đệm chỉ để đủ 145 ký tự.
 - Mô tả đúng sản phẩm và điểm khác biệt có căn cứ.
 - Không viết tất cả sản phẩm theo cùng một câu chung chung.
 - Không tự thêm free shipping, handmade, eco-friendly hoặc các cam kết chưa xác minh.

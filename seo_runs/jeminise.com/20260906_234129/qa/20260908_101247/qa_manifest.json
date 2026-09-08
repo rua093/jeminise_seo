@@ -1,0 +1,25 @@
+{
+  "qa_run_id": "20260908_101247",
+  "qa_batch_id": "qa_batch_016",
+  "revision": "r3",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_016_r3\\SEO_Product_Optimization_qa_batch_016_r3.xlsx",
+  "source_sha256": "222E407ED2D5DE355924919CAB060C215CC109CD68127C14D7FB292237A45ABE",
+  "snapshot_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260908_101247\\source_snapshot\\SEO_Product_Optimization_qa_batch_016_r3.xlsx",
+  "shop": "jeminise.com",
+  "market": "United States",
+  "language": "English",
+  "product_keys": [
+    "jeminise.com+giraffe-patchwork-style-printed-quilt-animal-patchwork-bedding",
+    "jeminise.com+horse-patchwork-pattern-quilt-set-vintage-animal-quilt-printed",
+    "jeminise.com+horse-patchwork-pattern-quilt-animal-farmhouse-quilt-set-patchwork",
+    "jeminise.com+i-am-who-he-says-i-am-christian-scripture-blanket-inspirational",
+    "jeminise.com+nature-and-mythology-tree-of-life-quilt-set-with-twisted-tree-trunk-ceb2e637d5-ceb2e637d5",
+    "jeminise.com+nature-tree-of-life-quilt-set-with-blooming-tree-and-bedroom-and-exposed-roots-d5450715a6-d5450715a6",
+    "jeminise.com+nature-tree-of-life-quilt-set-with-stained-glass-pattern-and-bedroom-2eedde5b65-2eedde5b65",
+    "jeminise.com+norse-mythology-mjolnir-with-skull-within-circular-celtic-quilt-621115581a-621115581a",
+    "jeminise.com+norse-mythology-quilt-with-ravens-b8220cc38c-b8220cc38c",
+    "jeminise.com+norse-mythology-raven-centered-within-runic-circle-comforter-ab76500bc1-ab76500bc1"
+  ],
+  "created_at": "2026-09-08T10:12:49.612045+07:00",
+  "snapshot_sha256": "222E407ED2D5DE355924919CAB060C215CC109CD68127C14D7FB292237A45ABE"
+}

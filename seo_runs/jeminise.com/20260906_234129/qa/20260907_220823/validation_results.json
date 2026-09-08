@@ -1,0 +1,32 @@
+{
+  "product_weight_total": 100,
+  "image_weight_total": 100,
+  "products": 10,
+  "images": 65,
+  "criteria": 110,
+  "unique_product_keys": 10,
+  "unique_qa_image_keys": 65,
+  "all_image_coverage_100": true,
+  "logic_100_with_critical": {
+    "actual": "QA_FAIL",
+    "expected": "QA_FAIL",
+    "passed": true
+  },
+  "logic_90_full_no_blocker": {
+    "actual": "QA_PASS",
+    "expected": "QA_PASS",
+    "passed": true
+  },
+  "logic_72_on_80": {
+    "actual_range": "72-92",
+    "expected_range": "72-92",
+    "actual_status": "QA_INCOMPLETE",
+    "passed": true
+  },
+  "cross_links_valid": true,
+  "customizer_pages_checked": 10,
+  "source_revision": "r3",
+  "source_sha256": "AB22C9A2289F22390CC61A27AC7C9171125DABBD75746C2DB17CB7272CFB5D9D",
+  "admin_alt_matches": 65,
+  "resolved_critical_cat_serp": true
+}

@@ -1,0 +1,383 @@
+[
+  {
+    "query_id": "SERP-171-PRI",
+    "inventory_position": 171,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-08",
+    "query": "pink gothic skull comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Transactional",
+    "top_organic_domains": [
+      "etsy.com",
+      "walmart.com",
+      "aliexpress.com",
+      "society6.com"
+    ],
+    "summary": "E-commerce shoppers searching for pastel goth or romantic skull comforter sets in pink/black palettes.",
+    "keyword_assessment": "High-intent visual commercial query directly matching product design."
+  },
+  {
+    "query_id": "SERP-171-COM",
+    "inventory_position": 171,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-08",
+    "query": "gothic skull comforter set",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Transactional",
+    "top_organic_domains": [
+      "sininlinen.com",
+      "walmart.com",
+      "gothoasis.com",
+      "etsy.com"
+    ],
+    "summary": "Broader alternative bedding market for gothic skull designs.",
+    "keyword_assessment": "High volume head term providing strong category relevance."
+  },
+  {
+    "query_id": "SERP-172-PRI",
+    "inventory_position": 172,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-09",
+    "query": "trick or treat haunted house comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Seasonal",
+    "top_organic_domains": [
+      "walmart.com",
+      "wayfair.com",
+      "etsy.com",
+      "miravodecor.com"
+    ],
+    "summary": "Seasonal Halloween bedding queries seeking haunted house artwork and Trick or Treat typography.",
+    "keyword_assessment": "Exact intent match for spooky seasonal home decor."
+  },
+  {
+    "query_id": "SERP-172-COM",
+    "inventory_position": 172,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-09",
+    "query": "haunted house comforter set",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Seasonal",
+    "top_organic_domains": [
+      "wayfair.com",
+      "walmart.com",
+      "ebay.com",
+      "potterybarn.com"
+    ],
+    "summary": "General market demand for haunted manor and haunted house themed comforters and duvet covers.",
+    "keyword_assessment": "Strong comparator term capturing core thematic search volume."
+  },
+  {
+    "query_id": "SERP-173-PRI",
+    "inventory_position": 173,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-evil",
+    "query": "cream pumpkin ghost comforter set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Aesthetic",
+    "top_organic_domains": [
+      "walmart.com",
+      "wayfair.com",
+      "etsy.com",
+      "furn.com"
+    ],
+    "summary": "Neutral aesthetic Halloween bedding shoppers looking for cream, beige, or off-white pumpkin and ghost sets.",
+    "keyword_assessment": "Perfect aesthetic match for cream/white background Halloween comforter."
+  },
+  {
+    "query_id": "SERP-173-COM",
+    "inventory_position": 173,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-evil",
+    "query": "pumpkin ghost comforter set",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Seasonal",
+    "top_organic_domains": [
+      "homedepot.com",
+      "walmart.com",
+      "bedbathandbeyond.com",
+      "etsy.com"
+    ],
+    "summary": "Broad category volume for festive ghost and jack-o-lantern bedding.",
+    "keyword_assessment": "High-volume seasonal query supporting core category ranking."
+  },
+  {
+    "query_id": "SERP-174-PRI",
+    "inventory_position": 174,
+    "product_key": "jeminise.com+personalized-and-romance-music-player-interface-quilt-with-photo-b8a3dc4155-b8a3dc4155",
+    "query": "custom photo music player quilt",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Personalized Gift",
+    "top_organic_domains": [
+      "getnamenecklace.com",
+      "etsy.com",
+      "manlina.com",
+      "customize.gifts"
+    ],
+    "summary": "Shoppers seeking personalized keepsake quilts featuring digital music player interfaces, song titles, and photo artwork.",
+    "keyword_assessment": "Exact product match; r3 appropriately targets visual interface without claiming active audio playback."
+  },
+  {
+    "query_id": "SERP-174-COM",
+    "inventory_position": 174,
+    "product_key": "jeminise.com+personalized-and-romance-music-player-interface-quilt-with-photo-b8a3dc4155-b8a3dc4155",
+    "query": "personalized music player quilt",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Keepsake",
+    "top_organic_domains": [
+      "etsy.com",
+      "madamsew.com",
+      "penless.com",
+      "quiltstorylabels.com"
+    ],
+    "summary": "Sentimental anniversary and wedding gift queries for custom song and music-themed blankets and quilts.",
+    "keyword_assessment": "Strong commercial long-tail supporting gift search intent."
+  },
+  {
+    "query_id": "SERP-175-PRI",
+    "inventory_position": 175,
+    "product_key": "jeminise.com+personalized-autumn-tree-of-life-birds-flowers-quilt-sets-radiant",
+    "query": "autumn tree of life birds quilt set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Seasonal Decor",
+    "top_organic_domains": [
+      "wanderquilt.com",
+      "ebay.com",
+      "wayfair.com",
+      "etsy.com"
+    ],
+    "summary": "Shoppers searching for radiant fall foliage Tree of Life quilt sets featuring colorful wildflowers and bluebirds.",
+    "keyword_assessment": "Captures both the spiritual Tree of Life motif and autumn color palette."
+  },
+  {
+    "query_id": "SERP-175-COM",
+    "inventory_position": 175,
+    "product_key": "jeminise.com+personalized-autumn-tree-of-life-birds-flowers-quilt-sets-radiant",
+    "query": "tree of life quilt set",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Evergreen Home",
+    "top_organic_domains": [
+      "etsy.com",
+      "ebay.com",
+      "doonakingdom.com.au",
+      "galerie-beckers.com"
+    ],
+    "summary": "Evergreen botanical and bohemian quilt market demand for Tree of Life bedding.",
+    "keyword_assessment": "Massive volume category query providing long-term authority."
+  },
+  {
+    "query_id": "SERP-176-PRI",
+    "inventory_position": 176,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-01",
+    "query": "custom name baseball flag bedding",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Custom Sports",
+    "top_organic_domains": [
+      "ohaprints.com",
+      "luvingift.com",
+      "truegether.com",
+      "stinkylockers.com"
+    ],
+    "summary": "Shoppers seeking personalized American flag sports bedding with custom player name customization.",
+    "keyword_assessment": "Directly targets high-intent parents and fans seeking personalized sports room decor."
+  },
+  {
+    "query_id": "SERP-176-COM",
+    "inventory_position": 176,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-01",
+    "query": "personalized baseball bedding",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Sports Decor",
+    "top_organic_domains": [
+      "jeminise.com",
+      "youcustomizeit.com",
+      "etsy.com",
+      "pbteen.com"
+    ],
+    "summary": "Core category search for personalized baseball comforters, duvets, and quilts. Jeminise actively cited in SERP.",
+    "keyword_assessment": "Primary market competitor query; confirms Jeminise domain relevance."
+  },
+  {
+    "query_id": "SERP-177-PRI",
+    "inventory_position": 177,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-02",
+    "query": "custom baseball glove bedding",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Custom Sports",
+    "top_organic_domains": [
+      "ohaprints.com",
+      "custombeddingset.com",
+      "youcustomizeit.com",
+      "etsy.com"
+    ],
+    "summary": "Shoppers seeking black sports bedding featuring a leather baseball glove, bat, ball, and customized player name.",
+    "keyword_assessment": "Accurately represents the dark aesthetic and glove centerpiece of Design 02."
+  },
+  {
+    "query_id": "SERP-177-COM",
+    "inventory_position": 177,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-02",
+    "query": "baseball glove bedding",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Sports Decor",
+    "top_organic_domains": [
+      "walmart.com",
+      "target.com",
+      "pbteen.com",
+      "etsy.com"
+    ],
+    "summary": "Broader sports room bedding market focused on baseball mitts and glove motifs.",
+    "keyword_assessment": "Strong commercial volume establishing core equipment theme."
+  },
+  {
+    "query_id": "SERP-178-PRI",
+    "inventory_position": 178,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-03",
+    "query": "baseball flag glove bedding set",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Patriotic Sports",
+    "top_organic_domains": [
+      "ohaprints.com",
+      "luvingift.com",
+      "etsy.com",
+      "ebay.com"
+    ],
+    "summary": "Bedding searches combining American flag patriotic stripes with a baseball glove and ball graphic.",
+    "keyword_assessment": "Accurately names the artwork combination without falsely claiming custom name entry."
+  },
+  {
+    "query_id": "SERP-178-COM",
+    "inventory_position": 178,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-03",
+    "query": "american flag baseball bedding",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Americana Sports",
+    "top_organic_domains": [
+      "catkin.eu",
+      "lacasadellafibra.com",
+      "ohaprints.com",
+      "temu.com"
+    ],
+    "summary": "Americana patriotic bedding market for youth and adult baseball enthusiasts.",
+    "keyword_assessment": "High relevance comparator term aligning with Design 03 artwork."
+  },
+  {
+    "query_id": "SERP-179-PRI",
+    "inventory_position": 179,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-04",
+    "query": "custom baseball home quote bedding",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Sports Typography",
+    "top_organic_domains": [
+      "ohaprints.com",
+      "youcustomizeit.com",
+      "etsy.com",
+      "amorcustomgifts.com"
+    ],
+    "summary": "Personalized bedding queries featuring baseball typography 'There is no place like Home' and custom player name.",
+    "keyword_assessment": "Matches the vintage wood aesthetic, home plate quote, and personalized pillowcase fields."
+  },
+  {
+    "query_id": "SERP-179-COM",
+    "inventory_position": 179,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-04",
+    "query": "baseball quote bedding",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Sports Quotes",
+    "top_organic_domains": [
+      "etsy.com",
+      "walmart.com",
+      "fineartamerica.com",
+      "youcustomizeit.com"
+    ],
+    "summary": "General market search for sports quote and inspirational baseball bedding.",
+    "keyword_assessment": "Strong supporting secondary query capturing typographic interest."
+  },
+  {
+    "query_id": "SERP-180-PRI",
+    "inventory_position": 180,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-05",
+    "query": "catcher american flag baseball bedding",
+    "query_type": "PRIMARY",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Athletic Position",
+    "top_organic_domains": [
+      "ohaprints.com",
+      "luvingift.com",
+      "shein.com",
+      "etsy.com"
+    ],
+    "summary": "Targeted bedding searches for baseball catchers with American flag graphic backdrop.",
+    "keyword_assessment": "Accurately targets position-specific baseball bedding without claiming custom text fields."
+  },
+  {
+    "query_id": "SERP-180-COM",
+    "inventory_position": 180,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-05",
+    "query": "catcher baseball bedding",
+    "query_type": "COMPARATOR",
+    "locale": "en-US",
+    "market": "United States",
+    "timestamp": "2026-09-08T10:51:00+07:00",
+    "intent": "Commercial / Sports Specialty",
+    "top_organic_domains": [
+      "potterybarnkids.com",
+      "wayfair.com",
+      "target.com",
+      "walmart.com",
+      "fineartamerica.com"
+    ],
+    "summary": "Position-specific baseball bedroom decor for youth and amateur catchers.",
+    "keyword_assessment": "Strong commercial comparator validating dedicated catcher search demand."
+  }
+]

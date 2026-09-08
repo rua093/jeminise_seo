@@ -167,7 +167,7 @@ Với ảnh trong HTML mô tả (`image_location=DESCRIPTION`), alt có thể n�
 - Giữ URL Handle và CDN URL. Không đổi filename, thêm ảnh hoặc reorder ảnh trong tác vụ alt-only.
 - Chỉ sửa ngôn ngữ mặc định bằng product CSV/template này. Bản dịch theo Markets/Translate & Adapt cần luồng dịch đã xác minh riêng.
 
-Giới hạn trường Shopify theo tài liệu hiện tại: SEO title tối đa 70 ký tự, SEO description tối đa 320, alt tối đa 512. Mốc biên tập đề xuất lần lượt khoảng 50–60, 140–160 và thường không quá 125 ký tự nếu đủ ý. Đếm cả khoảng trắng/dấu câu; không coi các mốc biên tập là giới hạn hiển thị cố định của Google. Kiểm tra lại giới hạn ở export/UI trước một đợt mới. [Shopify CSV fields](https://help.shopify.com/en/manual/products/import-export/using-csv), [Shopify alt text](https://help.shopify.com/en/manual/products/product-media/add-alt-text).
+Giới hạn trường Shopify theo tài liệu hiện tại: SEO title tối đa 70 ký tự, SEO description tối đa 320, alt tối đa 512. Mốc biên tập đề xuất lần lượt khoảng 50–60, 145–165 và thường không quá 125 ký tự nếu đủ ý. Meta description không bắt buộc đúng 155 ký tự; ưu tiên câu hoàn chỉnh và rõ nghĩa, không cắt tự động theo số ký tự hoặc thêm từ đệm để đạt mốc. Nếu cần rút gọn, viết lại câu giữ đủ ý. Đếm cả khoảng trắng/dấu câu; không coi các mốc biên tập là giới hạn hiển thị cố định của Google hoặc điều kiện tự động trừ điểm QA. Kiểm tra lại giới hạn ở export/UI trước một đợt mới. [Shopify CSV fields](https://help.shopify.com/en/manual/products/import-export/using-csv), [Shopify alt text](https://help.shopify.com/en/manual/products/product-media/add-alt-text).
 
 ### 4.2. Khác biệt định dạng
 

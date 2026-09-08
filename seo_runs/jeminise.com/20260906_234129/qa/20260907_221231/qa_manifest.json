@@ -1,0 +1,28 @@
+{
+  "qa_run_id": "20260907_221231",
+  "batch_id": "qa_batch_002_r3",
+  "revision": "r3",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_002_r3\\SEO_Product_Optimization_qa_batch_002_r3.xlsx",
+  "source_workbook_sha256": "ABB67F4125E0506B84F9089043725F7457BEE27F9E28890BD0674A035F06CC97",
+  "batch_product_keys": [
+    "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-02",
+    "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-03",
+    "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-04",
+    "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-05",
+    "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-06",
+    "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforter",
+    "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-01",
+    "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-02",
+    "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-03",
+    "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-04"
+  ],
+  "expected_products": 10,
+  "expected_images": 64,
+  "admin_export": "products_export_1.csv",
+  "admin_alt_matches": 64,
+  "status": "COMPLETE",
+  "awaiting_confirmation": true,
+  "completed_at": "2026-09-07T22:14:34.071562+07:00",
+  "output_markdown": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260907_221231\\SEO_QA_qa_batch_002_r3.md",
+  "output_xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260907_221231\\SEO_QA_qa_batch_002_r3.xlsx"
+}

@@ -192,7 +192,8 @@ def main():
         handle = handle_by_pos[pos]
         title, primary, secondary, detail, cluster = PRODUCT_UPDATES[pos]
         admin_row = admin[handle]
-        meta = f"Shop {title.lower()} with {detail}, selectable sizes and verified custom text options."[:155]
+        # Keep the full sentence; 145–165 characters is guidance, not a hard cap.
+        meta = f"Shop {title.lower()} with {detail}, selectable sizes and verified custom text options."
         ws.cell(row_num, idx["title_current"]).value = admin_row["Title"]
         ws.cell(row_num, idx["h1_current"]).value = admin_row["Title"]
         ws.cell(row_num, idx["rendered_title_current"]).value = admin_row["SEO Title"] or admin_row["Title"]

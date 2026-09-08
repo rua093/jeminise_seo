@@ -1,0 +1,248 @@
+[
+  {
+    "inventory_position": 171,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-08",
+    "url": "https://jeminise.com/products/pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-08",
+    "checked_at": "2026-09-08T10:45:00+07:00",
+    "customizer_root_present": false,
+    "customize_button_present": false,
+    "upload_endpoint_present": false,
+    "surface_count": 0,
+    "name_mentions": false,
+    "number_mentions": false,
+    "text_or_input_mentions": false,
+    "options_available": [
+      "Size: Twin, Full, Queen, King"
+    ],
+    "config_excerpt": "Standard manufactured Halloween comforter set with sheets. Twin has 5 pieces; Full/Queen/King has 7 pieces."
+  },
+  {
+    "inventory_position": 172,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-09",
+    "url": "https://jeminise.com/products/pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-09",
+    "checked_at": "2026-09-08T10:45:00+07:00",
+    "customizer_root_present": false,
+    "customize_button_present": false,
+    "upload_endpoint_present": false,
+    "surface_count": 0,
+    "name_mentions": false,
+    "number_mentions": false,
+    "text_or_input_mentions": false,
+    "options_available": [
+      "Size: Twin, Full, Queen, King"
+    ],
+    "config_excerpt": "Standard manufactured Halloween comforter set with sheets. Twin has 5 pieces; Full/Queen/King has 7 pieces."
+  },
+  {
+    "inventory_position": 173,
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-evil",
+    "url": "https://jeminise.com/products/pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-evil",
+    "checked_at": "2026-09-08T10:45:00+07:00",
+    "customizer_root_present": false,
+    "customize_button_present": false,
+    "upload_endpoint_present": false,
+    "surface_count": 0,
+    "name_mentions": false,
+    "number_mentions": false,
+    "text_or_input_mentions": false,
+    "options_available": [
+      "Size: Twin, Full, Queen, King"
+    ],
+    "config_excerpt": "Standard manufactured Halloween comforter set with sheets. Twin has 5 pieces; Full/Queen/King has 7 pieces."
+  },
+  {
+    "inventory_position": 174,
+    "product_key": "jeminise.com+personalized-and-romance-music-player-interface-quilt-with-photo-b8a3dc4155-b8a3dc4155",
+    "url": "https://jeminise.com/products/personalized-and-romance-music-player-interface-quilt-with-photo-b8a3dc4155-b8a3dc4155",
+    "checked_at": "2026-09-08T10:45:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": true,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": false,
+    "text_or_input_mentions": true,
+    "options_available": [
+      "CHOOSE QUILT SIZE: Throw (60x70in), Twin (68x86in), Full (80x90in), Queen (90x90in), King (102x91in)",
+      "PILLOWCASES (Purchase SEPARATELY): None, 2 Pillowcases (20x30in)"
+    ],
+    "input_fields": [
+      {
+        "label": "Song Name",
+        "required": true,
+        "type": "text",
+        "min_len": 1,
+        "max_len": 200
+      },
+      {
+        "label": "Artist Name",
+        "required": false,
+        "type": "text",
+        "min_len": 1,
+        "max_len": 200
+      },
+      {
+        "label": "Custom Your Name/Text",
+        "required": false,
+        "type": "text",
+        "min_len": 1,
+        "max_len": 200
+      },
+      {
+        "label": "Upload Image",
+        "required": true,
+        "type": "file_upload"
+      }
+    ],
+    "config_excerpt": "Custom photo music player interface quilt. Image upload and song details are printed as textile artwork. No audio/speaker hardware."
+  },
+  {
+    "inventory_position": 175,
+    "product_key": "jeminise.com+personalized-autumn-tree-of-life-birds-flowers-quilt-sets-radiant",
+    "url": "https://jeminise.com/products/personalized-autumn-tree-of-life-birds-flowers-quilt-sets-radiant",
+    "checked_at": "2026-09-08T10:45:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": false,
+    "number_mentions": false,
+    "text_or_input_mentions": true,
+    "options_available": [
+      "CHOOSE QUILT SIZE: Throw (60x70in), Twin (68x86in), Full (80x90in), Queen (90x90in), King (102x91in)",
+      "PILLOWCASES (Purchase SEPARATELY): None, 2 Pillowcases (20x30in)"
+    ],
+    "input_fields": [
+      {
+        "label": "Customize Your Quilt",
+        "required": false,
+        "type": "textarea",
+        "min_len": 1,
+        "max_len": 1000
+      }
+    ],
+    "config_excerpt": "Autumn Tree of Life Quilt with optional custom text note and optional pillowcases."
+  },
+  {
+    "inventory_position": 176,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-01",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-01",
+    "checked_at": "2026-09-08T10:45:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": false,
+    "text_or_input_mentions": true,
+    "options_available": [
+      "Choose Product Type + Size: Comforter (Twin, Full, Queen, King) OR Duvet Cover (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet"
+    ],
+    "input_fields": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "type": "text",
+        "min_len": 1,
+        "max_len": 30
+      }
+    ],
+    "config_excerpt": "American Flag Baseball Bedding Design 01. Customer selects between Comforter and Duvet Cover, optional pillowcases/sheets. Required name input."
+  },
+  {
+    "inventory_position": 177,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-02",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-02",
+    "checked_at": "2026-09-08T10:45:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": false,
+    "text_or_input_mentions": true,
+    "options_available": [
+      "Choose Product Type + Size: Comforter (Twin, Full, Queen, King) OR Duvet Cover (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet"
+    ],
+    "input_fields": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "type": "text",
+        "min_len": 1,
+        "max_len": 30
+      }
+    ],
+    "config_excerpt": "Black Baseball Glove Bedding Design 02. Customer selects Comforter vs Duvet Cover, optional pillowcases/sheets. Required name input."
+  },
+  {
+    "inventory_position": 178,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-03",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-03",
+    "checked_at": "2026-09-08T10:45:00+07:00",
+    "customizer_root_present": false,
+    "customize_button_present": false,
+    "upload_endpoint_present": false,
+    "surface_count": 0,
+    "name_mentions": false,
+    "number_mentions": false,
+    "text_or_input_mentions": false,
+    "options_available": [
+      "Choose Product Type + Size: Comforter (Twin, Full, Queen, King) OR Duvet Cover (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet"
+    ],
+    "config_excerpt": "Baseball Flag Glove Bedding Design 03. No customizer text inputs on storefront. Sample name DANIEL is part of fixed artwork. Comforter vs Duvet options available."
+  },
+  {
+    "inventory_position": 179,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-04",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-04",
+    "checked_at": "2026-09-08T10:45:00+07:00",
+    "customizer_root_present": true,
+    "customize_button_present": true,
+    "upload_endpoint_present": false,
+    "surface_count": 1,
+    "name_mentions": true,
+    "number_mentions": false,
+    "text_or_input_mentions": true,
+    "options_available": [
+      "Choose Product Type + Size: Comforter (Twin, Full, Queen, King) OR Duvet Cover (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet"
+    ],
+    "input_fields": [
+      {
+        "label": "Customize Your Name",
+        "required": true,
+        "type": "text",
+        "min_len": 1,
+        "max_len": 30
+      }
+    ],
+    "config_excerpt": "Baseball Home Quote Bedding Design 04. Customer selects Comforter vs Duvet Cover, optional pillowcases/sheets. Required name input."
+  },
+  {
+    "inventory_position": 180,
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-05",
+    "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-05",
+    "checked_at": "2026-09-08T10:45:00+07:00",
+    "customizer_root_present": false,
+    "customize_button_present": false,
+    "upload_endpoint_present": false,
+    "surface_count": 0,
+    "name_mentions": false,
+    "number_mentions": false,
+    "text_or_input_mentions": false,
+    "options_available": [
+      "Choose Product Type + Size: Comforter (Twin, Full, Queen, King) OR Duvet Cover (Twin, Full, Queen, King)",
+      "Choose Pillowcases: None, 1 Pillowcase, 2 Pillowcases",
+      "Additional Sheet Cover (Flat Sheet): None, 1 Sheet"
+    ],
+    "config_excerpt": "Catcher American Flag Baseball Bedding Design 05. No customizer text inputs on storefront. Sample name WILLIAM and number 23 are fixed artwork. Comforter vs Duvet options available."
+  }
+]

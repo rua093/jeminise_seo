@@ -1,0 +1,27 @@
+{
+  "qa_run_id": "20260908_012000",
+  "qa_batch_id": "qa_batch_012",
+  "revision": "r3",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_012_r3\\SEO_Product_Optimization_qa_batch_012_r3.xlsx",
+  "source_sha256": "A496B606FFCC03969EA7BEAC56F223E03B57E9669EFDA95928D7E6A0AAA76874",
+  "snapshot_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260908_012000\\source_snapshot\\SEO_Product_Optimization_qa_batch_012_r3.xlsx",
+  "snapshot_sha256": "A496B606FFCC03969EA7BEAC56F223E03B57E9669EFDA95928D7E6A0AAA76874",
+  "shop": "jeminise.com",
+  "run_id": "20260906_234129",
+  "market": "United States",
+  "language": "English",
+  "prompt_rubric_version": "prompt_qa.md v1.0",
+  "product_keys": [
+    "jeminise.com+custom-soccer-player-custom-name-number-comforter-set-boys-room-decor",
+    "jeminise.com+custom-soccer-player-goal-comforter-set-machine-washable-design-8",
+    "jeminise.com+custom-soccer-player-paint-splatter-comforter-set-machine-washable",
+    "jeminise.com+custom-softball-comforter-set-for-girls-personalized-name-number",
+    "jeminise.com+custom-sports-and-patriotism-football-on-american-flag-background-comforter-510823ee16-510823ee16",
+    "jeminise.com+custom-transportation-semi-truck-on-geometric-background-comforter-284b7a6d0a-284b7a6d0a",
+    "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-97b4844050-97b4844050",
+    "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-0038a4731b-0038a4731b",
+    "jeminise.com+custom-trucking-semi-truck-breaking-through-stone-wall-comforter-7a6b616ec4-7a6b616ec4",
+    "jeminise.com+custom-trucking-semi-truck-breaking-through-stone-wall-comforter-01281fb2d3-01281fb2d3"
+  ],
+  "created_at": "2026-09-08T09:29:47+07:00"
+}
