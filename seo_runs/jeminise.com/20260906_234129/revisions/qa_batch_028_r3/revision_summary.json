@@ -1,0 +1,81 @@
+{
+  "revision": "qa_batch_028_r3",
+  "source_revision": "qa_batch_028_r2",
+  "created_at": "2026-09-08T17:55:22",
+  "scope": "Batch 028 positions 271-280 only",
+  "change_type": "Fix meta_description_seo hard truncation / incomplete endings",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_028_271",
+      "old_length": 155,
+      "new_length": 129,
+      "old_meta": "Shop personalized deer couple heart comforter set with rustic woodland comforter set with buck and doe inside a heart frame plus sample couple text, select",
+      "new_meta": "Shop personalized deer couple heart comforter set with rustic woodland artwork, buck and doe heart frame, and sample couple text."
+    },
+    {
+      "evidence_id": "evidence_batch_028_272",
+      "old_length": 155,
+      "new_length": 114,
+      "old_meta": "Shop personalized buck and doe comforter set with blue and white deer silhouette comforter with buck and doe artwork, forest border and sample names, selec",
+      "new_meta": "Shop personalized buck and doe comforter set with blue and white deer silhouettes, forest border and sample names."
+    },
+    {
+      "evidence_id": "evidence_batch_028_273",
+      "old_length": 155,
+      "new_length": 118,
+      "old_meta": "Shop personalized deer heart outline comforter with brown and white comforter with deer silhouettes forming a heart outline and sample couple names, select",
+      "new_meta": "Shop personalized deer heart outline comforter with brown and white artwork, deer silhouettes and sample couple names."
+    },
+    {
+      "evidence_id": "evidence_batch_028_274",
+      "old_length": 155,
+      "new_length": 108,
+      "old_meta": "Shop desert cactus sunset quilt set with southwest desert quilt set with orange sun, layered hills, cacti and warm striped colors, selectable sizes and ver",
+      "new_meta": "Shop desert cactus sunset quilt set with orange sun, layered hills, cacti and warm southwest striped colors."
+    },
+    {
+      "evidence_id": "evidence_batch_028_275",
+      "old_length": 155,
+      "new_length": 118,
+      "old_meta": "Shop desert sunset cactus floral quilt set with bright pink and orange desert quilt set with flowering cactus, layered sunset and bird silhouettes, selecta",
+      "new_meta": "Shop desert sunset cactus floral quilt set with bright pink and orange artwork, flowering cactus and bird silhouettes."
+    },
+    {
+      "evidence_id": "evidence_batch_028_276",
+      "old_length": 155,
+      "new_length": 124,
+      "old_meta": "Shop floral cross christian affirmation blanket with white throw blanket with floral cross, I am chosen affirmation text and sample name Elizabeth, selecta",
+      "new_meta": "Shop floral cross Christian affirmation blanket with white design, floral cross, I Am Chosen text and sample name Elizabeth."
+    },
+    {
+      "evidence_id": "evidence_batch_028_277",
+      "old_length": 155,
+      "new_length": 104,
+      "old_meta": "Shop god says i am floral cross blanket with white floral cross blanket with God Says I Am scripture words, sample portrait and sample name Elizabeth, sele",
+      "new_meta": "Shop God Says I Am floral cross blanket with scripture words, sample portrait and sample name Elizabeth."
+    },
+    {
+      "evidence_id": "evidence_batch_028_278",
+      "old_length": 155,
+      "new_length": 124,
+      "old_meta": "Shop floral cross personalized text blanket with white floral cross blanket with I am affirmation text and sample name Elizabeth, selectable sizes and veri",
+      "new_meta": "Shop floral cross personalized text blanket with white floral cross design, I Am affirmation text and sample name Elizabeth."
+    },
+    {
+      "evidence_id": "evidence_batch_028_279",
+      "old_length": 155,
+      "new_length": 125,
+      "old_meta": "Shop floral line art book lover blanket with cream blanket with line-art girl holding a book, butterflies, flowers and sample name Jessica, selectable size",
+      "new_meta": "Shop floral line art book lover blanket with cream design, girl holding a book, butterflies, flowers and sample name Jessica."
+    },
+    {
+      "evidence_id": "evidence_batch_028_280",
+      "old_length": 155,
+      "new_length": 120,
+      "old_meta": "Shop flowering cactus succulent quilt set with dark quilt set with flowering cacti, succulents, colorful pots and garden-style desert artwork, selectable s",
+      "new_meta": "Shop flowering cactus succulent quilt set with dark garden artwork, colorful pots, cacti, succulents and desert flowers."
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "8e9ad819ab3a2d7d38a983b052c0867cb5c5cecaa2db0fc8991f09b6bb5a6027"
+}

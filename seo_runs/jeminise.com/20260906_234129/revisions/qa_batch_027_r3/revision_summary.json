@@ -1,0 +1,81 @@
+{
+  "revision": "qa_batch_027_r3",
+  "source_revision": "qa_batch_027_r2",
+  "created_at": "2026-09-08T17:53:43",
+  "scope": "Batch 027 positions 261-270 only",
+  "change_type": "Fix meta_description_seo hard truncation / incomplete endings",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_027_261",
+      "old_length": 155,
+      "new_length": 120,
+      "old_meta": "Shop personalized christian woman affirmation blanket with wood-panel affirmation throw blanket with seated woman illustration, Bible verse labels and samp",
+      "new_meta": "Shop personalized Christian woman affirmation blanket with wood-panel look, seated woman artwork and Bible verse labels."
+    },
+    {
+      "evidence_id": "evidence_batch_027_262",
+      "old_length": 155,
+      "new_length": 116,
+      "old_meta": "Shop personalized christian photo scripture blanket with vintage beige scripture blanket with circular photo area, faith quotes and sample portrait, select",
+      "new_meta": "Shop personalized Christian photo scripture blanket with vintage beige design, circular photo area and faith quotes."
+    },
+    {
+      "evidence_id": "evidence_batch_027_263",
+      "old_length": 155,
+      "new_length": 118,
+      "old_meta": "Shop personalized colorful celtic tree quilt set with colorful teal and orange quilt set with central Tree of Life medallion and Celtic knot border, select",
+      "new_meta": "Shop personalized colorful Celtic tree quilt set with teal and orange artwork, Tree of Life medallion and knot border."
+    },
+    {
+      "evidence_id": "evidence_batch_027_264",
+      "old_length": 154,
+      "new_length": 110,
+      "old_meta": "Shop personalized vintage yggdrasil quilt set with sunset-toned quilt set with large Tree of Life artwork and Celtic border, selectable sizes and verified ",
+      "new_meta": "Shop personalized vintage Yggdrasil quilt set with sunset tones, large Tree of Life artwork and Celtic border."
+    },
+    {
+      "evidence_id": "evidence_batch_027_265",
+      "old_length": 155,
+      "new_length": 113,
+      "old_meta": "Shop personalized desert rv sunset quilt set with colorful desert quilt set with RV camper, cactus, flowers, mountains and sunset, selectable sizes and ver",
+      "new_meta": "Shop personalized desert RV sunset quilt set with camper, cactus, flowers, mountains and colorful sunset artwork."
+    },
+    {
+      "evidence_id": "evidence_batch_027_266",
+      "old_length": 154,
+      "new_length": 104,
+      "old_meta": "Shop personalized rainbow tree of life quilt set with dark quilt set with rainbow leaf Tree of Life artwork and glowing sun, selectable sizes and verified ",
+      "new_meta": "Shop personalized rainbow Tree of Life quilt set with dark background, rainbow leaves and a glowing sun."
+    },
+    {
+      "evidence_id": "evidence_batch_027_267",
+      "old_length": 155,
+      "new_length": 112,
+      "old_meta": "Shop personalized celtic border yggdrasil quilt set with black quilt set with green Celtic border, orange corner knots and central Yggdrasil tree, selectab",
+      "new_meta": "Shop personalized Celtic border Yggdrasil quilt set with black background, green border and orange knot accents."
+    },
+    {
+      "evidence_id": "evidence_batch_027_268",
+      "old_length": 155,
+      "new_length": 121,
+      "old_meta": "Shop personalized couple photo quilt set with couple portrait quilt set with custom photo badge and Happy Valentine's Day sample text, selectable sizes and",
+      "new_meta": "Shop personalized couple photo quilt set with couple portrait artwork, photo badge and Happy Valentine's Day sample text."
+    },
+    {
+      "evidence_id": "evidence_batch_027_269",
+      "old_length": 155,
+      "new_length": 105,
+      "old_meta": "Shop personalized cozy room bookworm blanket with cozy room reading blanket with bookshelf, green chair, cartoon reader, sample name and background options",
+      "new_meta": "Shop personalized cozy room bookworm blanket with bookshelf, green chair, cartoon reader and sample name."
+    },
+    {
+      "evidence_id": "evidence_batch_027_270",
+      "old_length": 155,
+      "new_length": 114,
+      "old_meta": "Shop personalized dark hair book lover blanket with book lover blanket with dark-haired girl, stacked books, floral beige background and So Many Books So L",
+      "new_meta": "Shop personalized dark hair book lover blanket with stacked books, floral beige background and reading quote text."
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "c5b848d4ca91ed5c2d3f76b1891afac4bb3c987e5eee075595e92c955d370f23"
+}

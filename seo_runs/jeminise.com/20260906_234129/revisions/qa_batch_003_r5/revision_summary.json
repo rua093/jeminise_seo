@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-09-08T16:32:24.570440+07:00",
+  "batch_id": "qa_batch_003_r5",
+  "source_revision": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_003_r4\\SEO_Product_Optimization_qa_batch_003_r4.xlsx",
+  "source_qa_r4_report": "resutls\\jeminise.com\\20260906_234129\\qa\\20260908_003000\\SEO_QA_qa_batch_003_r4.md",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_003_r5\\SEO_Product_Optimization_qa_batch_003_r5.xlsx",
+  "scope": "qa_batch_003 only; inventory positions 21-30",
+  "revision": "r5",
+  "revised_products": 10,
+  "revised_images": 50,
+  "admin_alt_matches": 50,
+  "keyword_rows_revised": 40,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "r5_changes": [
+    "Rewrote customer-facing description_proposed_html for all 10 products with specific motif, size, material/care and option facts.",
+    "Strengthened product-page/collection intent and no-cannibalization roles for Christmas tree, gingerbread, snowman and cardinal siblings.",
+    "Focused products 25 and 27 on the verified single-snowman and two-snowmen cardinal motifs called out by QA.",
+    "Kept 50 image observations/alts from r4, which QA had already accepted at 100% coverage."
+  ],
+  "next_step": "Sang QA lại qa_batch_003_r5 before any approval or import."
+}

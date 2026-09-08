@@ -1,0 +1,81 @@
+{
+  "revision": "qa_batch_031_r3",
+  "source_revision": "qa_batch_031_r2",
+  "created_at": "2026-09-08T18:04:14",
+  "scope": "Batch 031 positions 301-310 only",
+  "change_type": "Fix meta_description_seo hard truncation / incomplete endings",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_031_301",
+      "old_length": 155,
+      "new_length": 121,
+      "old_meta": "Shop vibrant cactus flower quilt set with quilt set with tall green cacti, large red and yellow flowers, teal stripes and warm red trim, selectable sizes a",
+      "new_meta": "Shop vibrant cactus flower quilt set with tall green cacti, large red and yellow flowers, teal stripes and warm red trim."
+    },
+    {
+      "evidence_id": "evidence_batch_031_302",
+      "old_length": 155,
+      "new_length": 128,
+      "old_meta": "Shop embroidered desert cactus quilt set with bright desert cactus quilt set with teal columns, magenta flowers, yellow-orange background and textured stit",
+      "new_meta": "Shop embroidered desert cactus quilt set with teal columns, magenta flowers, yellow-orange background and stitched-look details."
+    },
+    {
+      "evidence_id": "evidence_batch_031_303",
+      "old_length": 155,
+      "new_length": 112,
+      "old_meta": "Shop flowering cactus desert scene quilt set with desert scene quilt set with saguaro cacti, layered hills, muted sky and red-orange blooms, selectable siz",
+      "new_meta": "Shop flowering cactus desert scene quilt set with saguaro cacti, layered hills, muted sky and red-orange blooms."
+    },
+    {
+      "evidence_id": "evidence_batch_031_304",
+      "old_length": 154,
+      "new_length": 122,
+      "old_meta": "Shop vibrant potted cactus garden quilt set with yellow quilt set with repeated potted cactus and succulent blocks in bright colorful planters, selectable ",
+      "new_meta": "Shop vibrant potted cactus garden quilt set with yellow artwork, repeated cactus blocks, succulents and colorful planters."
+    },
+    {
+      "evidence_id": "evidence_batch_031_305",
+      "old_length": 155,
+      "new_length": 119,
+      "old_meta": "Shop potted cactus quilt set design 3 with cream quilt set with potted cactus grid, earthy patterned planters, succulents and small orange flowers, selecta",
+      "new_meta": "Shop potted cactus quilt set design 3 with cream grid artwork, patterned planters, succulents and small orange flowers."
+    },
+    {
+      "evidence_id": "evidence_batch_031_306",
+      "old_length": 155,
+      "new_length": 124,
+      "old_meta": "Shop viking celtic tree of life quilt set with blue and black Viking-style quilt set with Celtic border, Tree of Life roots, compass emblem, runes and samp",
+      "new_meta": "Shop Viking Celtic Tree of Life quilt set with blue and black artwork, Celtic border, compass emblem, runes and sample name."
+    },
+    {
+      "evidence_id": "evidence_batch_031_307",
+      "old_length": 155,
+      "new_length": 122,
+      "old_meta": "Shop vintage reading girl flowers blanket with vintage newspaper-style blanket with tall flowers, cartoon reader, stack of books and sample name Sarah, sel",
+      "new_meta": "Shop vintage reading girl flowers blanket with newspaper-style design, tall flowers, cartoon reader and sample name Sarah."
+    },
+    {
+      "evidence_id": "evidence_batch_031_308",
+      "old_length": 155,
+      "new_length": 122,
+      "old_meta": "Shop vintage yggdrasil tree of life quilt set with black and cream quilt set with oval Tree of Life artwork, sun, crescent moon and ornate floral border, s",
+      "new_meta": "Shop vintage Yggdrasil Tree of Life quilt set with black and cream artwork, oval tree design, sun, moon and floral border."
+    },
+    {
+      "evidence_id": "evidence_batch_031_309",
+      "old_length": 154,
+      "new_length": 114,
+      "old_meta": "Shop watercolor basketball dunking blanket with watercolor-style blanket with dunking basketball players, hoop, stars, sample class text and sample number ",
+      "new_meta": "Shop watercolor basketball dunking blanket with dunking players, hoop, stars, sample class text and sample number."
+    },
+    {
+      "evidence_id": "evidence_batch_031_310",
+      "old_length": 155,
+      "new_length": 125,
+      "old_meta": "Shop romantic deer forest comforter set with black woodland comforter with two deer, floral border, You and Me text and sample names James and Emma, select",
+      "new_meta": "Shop romantic deer forest comforter set with black woodland artwork, two deer, floral border and sample names James and Emma."
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "a7c5ff5d3e2727959a0fedcaf2f5a810cb5147a7af1067d335d44e6831be7172"
+}

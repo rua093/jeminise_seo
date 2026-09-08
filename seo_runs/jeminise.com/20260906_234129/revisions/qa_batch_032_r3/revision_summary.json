@@ -1,0 +1,81 @@
+{
+  "revision": "qa_batch_032_r3",
+  "source_revision": "qa_batch_032_r2",
+  "created_at": "2026-09-08T18:07:49",
+  "scope": "Batch 032 positions 311-320 only",
+  "change_type": "Fix meta_description_seo hard truncation / incomplete endings",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_032_311",
+      "old_length": 155,
+      "new_length": 116,
+      "old_meta": "Shop you and me deer comforter set with beige woodland comforter with two spotted deer, You and Me We Got This text and orange flower accents, selectable s",
+      "new_meta": "Shop You and Me deer comforter set with beige woodland artwork, two spotted deer, orange flowers and statement text."
+    },
+    {
+      "evidence_id": "evidence_batch_032_312",
+      "old_length": 155,
+      "new_length": 116,
+      "old_meta": "Shop forest clearing deer couple comforter set with tan forest clearing comforter with buck and doe between tree roots, You and Me text and sample names, s",
+      "new_meta": "Shop forest clearing deer couple comforter set with tan woodland artwork, buck and doe, tree roots and sample names."
+    },
+    {
+      "evidence_id": "evidence_batch_032_313",
+      "old_length": 155,
+      "new_length": 116,
+      "old_meta": "Shop dark forest deer couple comforter set with dark forest comforter with two deer, You and Me We Got This text, butterfly accents and sample name pillows",
+      "new_meta": "Shop dark forest deer couple comforter set with two deer, butterfly accents, sample name pillows and statement text."
+    },
+    {
+      "evidence_id": "evidence_batch_032_314",
+      "old_length": 155,
+      "new_length": 110,
+      "old_meta": "Shop deer couple touching noses comforter with autumn woodland comforter with two deer touching noses, All of Me Loves All of You text and sample name pill",
+      "new_meta": "Shop deer couple touching noses comforter with autumn woodland artwork, romantic text and sample name pillows."
+    },
+    {
+      "evidence_id": "evidence_batch_032_315",
+      "old_length": 155,
+      "new_length": 119,
+      "old_meta": "Shop wolf dreamcatcher quilt set with brown quilt set with a close wolf face framed by a dreamcatcher ring, feather details and matching wolf pillows, sele",
+      "new_meta": "Shop wolf dreamcatcher quilt set with brown artwork, close wolf face, dreamcatcher ring, feathers and matching pillows."
+    },
+    {
+      "evidence_id": "evidence_batch_032_316",
+      "old_length": 155,
+      "new_length": 112,
+      "old_meta": "Shop geometric headdress wolf quilt set with brown and cream quilt set with a close wolf face, geometric headdress artwork and matching wolf pillows, selec",
+      "new_meta": "Shop geometric headdress wolf quilt set with brown and cream artwork, close wolf face and matching wolf pillows."
+    },
+    {
+      "evidence_id": "evidence_batch_032_317",
+      "old_length": 155,
+      "new_length": 112,
+      "old_meta": "Shop green yggdrasil tree of life quilt set with green quilt set with gold Tree of Life artwork, Celtic knot border, starry center and amber corner emblems",
+      "new_meta": "Shop green Yggdrasil Tree of Life quilt set with gold tree artwork, Celtic knot border and amber corner emblems."
+    },
+    {
+      "evidence_id": "evidence_batch_032_318",
+      "old_length": 154,
+      "new_length": 111,
+      "old_meta": "Shop blue yggdrasil ravens quilt set with blue quilt set with Yggdrasil Tree of Life, two ravens, Celtic border and matching pillows, selectable sizes and ",
+      "new_meta": "Shop blue Yggdrasil ravens quilt set with Tree of Life artwork, two ravens, Celtic border and matching pillows."
+    },
+    {
+      "evidence_id": "evidence_batch_032_319",
+      "old_length": 155,
+      "new_length": 101,
+      "old_meta": "Shop vibrant gold yggdrasil quilt set with teal and blue quilt set with gold Yggdrasil Tree of Life artwork, leafy background and Celtic border, selectable",
+      "new_meta": "Shop vibrant gold Yggdrasil quilt set with teal and blue artwork, leafy background and Celtic border."
+    },
+    {
+      "evidence_id": "evidence_batch_032_320",
+      "old_length": 155,
+      "new_length": 119,
+      "old_meta": "Shop rooster patchwork quilt set with farmhouse patchwork quilt set with a large rooster, red flowers, patterned black border and matching pillows, selecta",
+      "new_meta": "Shop rooster patchwork quilt set with farmhouse artwork, large rooster, red flowers, black border and matching pillows."
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "569885bf9c3f542f512e90467d915f34a6d89fbefc4fdfd54b7de3be8e66d4ad"
+}

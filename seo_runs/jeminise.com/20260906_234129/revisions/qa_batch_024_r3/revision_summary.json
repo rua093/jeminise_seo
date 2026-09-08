@@ -1,0 +1,81 @@
+{
+  "revision": "qa_batch_024_r3",
+  "source_revision": "qa_batch_024_r2",
+  "created_at": "2026-09-08T17:48:28",
+  "scope": "Batch 024 positions 231-240 only",
+  "change_type": "Fix meta_description_seo hard truncation / incomplete endings",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_024_231",
+      "old_length": 154,
+      "new_length": 122,
+      "old_meta": "Shop custom splatter basketball blanket with teal and pink splatter-style basketball blanket with sample name Autumn and jersey number 7, selectable sizes ",
+      "new_meta": "Shop custom splatter basketball blanket with teal and pink paint-splatter artwork, sample name Autumn and jersey number 7."
+    },
+    {
+      "evidence_id": "evidence_batch_024_232",
+      "old_length": 155,
+      "new_length": 124,
+      "old_meta": "Shop custom red basketball comforter with red basketball-court comforter with large ball artwork, sample name Braylon and jersey number 21, selectable size",
+      "new_meta": "Shop custom red basketball comforter with court-style artwork, large ball graphic, sample name Braylon and jersey number 21."
+    },
+    {
+      "evidence_id": "evidence_batch_024_233",
+      "old_length": 155,
+      "new_length": 134,
+      "old_meta": "Shop custom reflection basketball blanket with black blanket with a large basketball reflection, starry background, script sample name and jersey number, s",
+      "new_meta": "Shop custom reflection basketball blanket with black background, large ball reflection, starry details, sample name and jersey number."
+    },
+    {
+      "evidence_id": "evidence_batch_024_234",
+      "old_length": 155,
+      "new_length": 134,
+      "old_meta": "Shop custom water splash basketball comforter with orange and black comforter with basketball water-splash artwork, sample name Matthew and number 10, sele",
+      "new_meta": "Shop custom water splash basketball comforter with orange and black artwork, splash effects, sample name Matthew and jersey number 10."
+    },
+    {
+      "evidence_id": "evidence_batch_024_235",
+      "old_length": 155,
+      "new_length": 116,
+      "old_meta": "Shop personalized bigfoot forest quilt set with dark forest quilt set with a large walking silhouette under moonlit trees, selectable sizes and verified cu",
+      "new_meta": "Shop personalized Bigfoot forest quilt set with dark woodland artwork, moonlit trees and a large walking silhouette."
+    },
+    {
+      "evidence_id": "evidence_batch_024_236",
+      "old_length": 155,
+      "new_length": 123,
+      "old_meta": "Shop personalized bigfoot campfire quilt set with blue mountain campsite quilt set with campfire, Bigfoot figure, lantern and basketball near the fire, sel",
+      "new_meta": "Shop personalized Bigfoot campfire quilt set with blue mountain campsite artwork, campfire, lantern and basketball details."
+    },
+    {
+      "evidence_id": "evidence_batch_024_237",
+      "old_length": 155,
+      "new_length": 116,
+      "old_meta": "Shop personalized bigfoot campfire night quilt set with night forest campfire quilt set with two seated figures around a fire and blue wooded background, s",
+      "new_meta": "Shop personalized Bigfoot campfire night quilt set with blue wooded background and two seated figures around a fire."
+    },
+    {
+      "evidence_id": "evidence_batch_024_238",
+      "old_length": 155,
+      "new_length": 116,
+      "old_meta": "Shop personalized bigfoot sunset forest quilt set with orange sunset forest quilt set with long tree shadows and a small walking silhouette, selectable siz",
+      "new_meta": "Shop personalized Bigfoot sunset forest quilt set with orange sky, long tree shadows and a small walking silhouette."
+    },
+    {
+      "evidence_id": "evidence_batch_024_239",
+      "old_length": 155,
+      "new_length": 118,
+      "old_meta": "Shop personalized bigfoot full moon quilt set with dark forest quilt set with a large full moon and walking silhouette, selectable sizes and verified custo",
+      "new_meta": "Shop personalized Bigfoot full moon quilt set with dark forest artwork, large moon and walking silhouette among trees."
+    },
+    {
+      "evidence_id": "evidence_batch_024_240",
+      "old_length": 155,
+      "new_length": 119,
+      "old_meta": "Shop personalized bigfoot moon mountain quilt set with moonlit mountain forest quilt set with a large walking silhouette and dark pine landscape, selectabl",
+      "new_meta": "Shop personalized Bigfoot moon mountain quilt set with moonlit pine landscape, dark mountains and a walking silhouette."
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "8593ce39c261787c0d4b5ed2a14eac28fbf80591c0cc167ff3f00f171c38c854"
+}

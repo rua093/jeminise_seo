@@ -1,0 +1,81 @@
+{
+  "revision": "qa_batch_030_r3",
+  "source_revision": "qa_batch_030_r2",
+  "created_at": "2026-09-08T17:58:26",
+  "scope": "Batch 030 positions 291-300 only",
+  "change_type": "Fix meta_description_seo hard truncation / incomplete endings",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_030_291",
+      "old_length": 155,
+      "new_length": 112,
+      "old_meta": "Shop reading girl book flowers blanket with beige throw blanket with girl sitting on an open book, flowers, notebook pattern and sample name Rebecca, selec",
+      "new_meta": "Shop reading girl book flowers blanket with beige design, girl on an open book, flowers and sample name Rebecca."
+    },
+    {
+      "evidence_id": "evidence_batch_030_292",
+      "old_length": 155,
+      "new_length": 127,
+      "old_meta": "Shop reading girl heart bookshelf blanket with newspaper-style throw blanket with heart bookshelf, stacked book titles, butterflies and sample name Elizabe",
+      "new_meta": "Shop reading girl heart bookshelf blanket with newspaper-style artwork, heart bookshelf, butterflies and sample name Elizabeth."
+    },
+    {
+      "evidence_id": "evidence_batch_030_293",
+      "old_length": 155,
+      "new_length": 117,
+      "old_meta": "Shop best mom ever photo quilt set with black-and-white photo collage quilt set with Best Mom Ever text, daisies and custom photo badge in the image, selec",
+      "new_meta": "Shop Best Mom Ever photo quilt set with black-and-white collage artwork, daisies and custom photo badge in the image."
+    },
+    {
+      "evidence_id": "evidence_batch_030_294",
+      "old_length": 155,
+      "new_length": 118,
+      "old_meta": "Shop seasonal bookworms sophia blanket with library-themed blanket with Seasonal Bookworms text, illustrated reader, plants and sample name Sophia, selecta",
+      "new_meta": "Shop Seasonal Bookworms Sophia blanket with library-themed artwork, illustrated reader, plants and sample name Sophia."
+    },
+    {
+      "evidence_id": "evidence_batch_030_295",
+      "old_length": 155,
+      "new_length": 111,
+      "old_meta": "Shop southwestern wolf head comforter set with southwestern-style comforter with large wolf head portrait, geometric border and matching wolf pillows, sele",
+      "new_meta": "Shop southwestern wolf head comforter set with large wolf portrait, geometric border and matching wolf pillows."
+    },
+    {
+      "evidence_id": "evidence_batch_030_296",
+      "old_length": 155,
+      "new_length": 118,
+      "old_meta": "Shop sunflower christian bible verse blanket with yellow sunflower blanket with silhouette profile, God Says You Are scripture words and sample name Jessic",
+      "new_meta": "Shop sunflower Christian Bible verse blanket with yellow sunflower design, silhouette profile and sample name Jessica."
+    },
+    {
+      "evidence_id": "evidence_batch_030_297",
+      "old_length": 154,
+      "new_length": 115,
+      "old_meta": "Shop sunflower god says you are blanket with rustic sunflower blanket with woodgrain silhouette, scripture affirmations and sample name Sophia, selectable ",
+      "new_meta": "Shop sunflower God Says You Are blanket with rustic sunflower artwork, woodgrain silhouette and sample name Sophia."
+    },
+    {
+      "evidence_id": "evidence_batch_030_298",
+      "old_length": 155,
+      "new_length": 126,
+      "old_meta": "Shop sunflower self affirmations blanket with cream blanket with My Self-Affirmations text, sunflowers, butterflies, portrait sample and sample name Jennif",
+      "new_meta": "Shop sunflower self affirmations blanket with cream design, sunflowers, butterflies, portrait sample and sample name Jennifer."
+    },
+    {
+      "evidence_id": "evidence_batch_030_299",
+      "old_length": 155,
+      "new_length": 119,
+      "old_meta": "Shop teal argyle reading girl blanket with teal argyle throw blanket with reader seen from behind, dragonflies, books and And She Read Happily Ever After t",
+      "new_meta": "Shop teal argyle reading girl blanket with reader artwork, dragonflies, books and And She Read Happily Ever After text."
+    },
+    {
+      "evidence_id": "evidence_batch_030_300",
+      "old_length": 155,
+      "new_length": 109,
+      "old_meta": "Shop vibrant cactus desert flowers quilt set with dark quilt set with vibrant cactus blooms, succulent forms, patterned pots and desert flower artwork, sel",
+      "new_meta": "Shop vibrant cactus desert flowers quilt set with dark artwork, cactus blooms, succulents and patterned pots."
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "5c8ab99764c707c35a852437c7285733f7df88ecf6017619fb8c351cf1013ebc"
+}

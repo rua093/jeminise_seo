@@ -1,0 +1,81 @@
+{
+  "revision": "qa_batch_025_r3",
+  "source_revision": "qa_batch_025_r2",
+  "created_at": "2026-09-08T17:50:15",
+  "scope": "Batch 025 positions 241-250 only",
+  "change_type": "Fix meta_description_seo hard truncation / incomplete endings",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_025_241",
+      "old_length": 155,
+      "new_length": 118,
+      "old_meta": "Shop personalized bigfoot peace sign mountain quilt set with mountain landscape quilt set with a large Bigfoot figure making a peace sign, selectable sizes",
+      "new_meta": "Shop personalized Bigfoot peace sign mountain quilt set with landscape artwork and a large figure making a peace sign."
+    },
+    {
+      "evidence_id": "evidence_batch_025_242",
+      "old_length": 155,
+      "new_length": 113,
+      "old_meta": "Shop personalized bigfoot peace sign sunset quilt set with sunset forest quilt set with a close Bigfoot figure making a peace sign, selectable sizes and ve",
+      "new_meta": "Shop personalized Bigfoot peace sign sunset quilt set with forest artwork and a close figure making a peace sign."
+    },
+    {
+      "evidence_id": "evidence_batch_025_243",
+      "old_length": 155,
+      "new_length": 99,
+      "old_meta": "Shop personalized bigfoot forest night quilt set with night forest quilt set with a large walking Bigfoot silhouette in front of a moon, selectable sizes a",
+      "new_meta": "Shop personalized Bigfoot forest night quilt set with moonlit woods and a large walking silhouette."
+    },
+    {
+      "evidence_id": "evidence_batch_025_244",
+      "old_length": 155,
+      "new_length": 112,
+      "old_meta": "Shop personalized bigfoot snowy mountain quilt set with snowy mountain forest quilt set with a small Bigfoot silhouette near pine trees, selectable sizes a",
+      "new_meta": "Shop personalized Bigfoot snowy mountain quilt set with pine trees, snow details and a small walking silhouette."
+    },
+    {
+      "evidence_id": "evidence_batch_025_245",
+      "old_length": 155,
+      "new_length": 108,
+      "old_meta": "Shop personalized bigfoot sunset forest quilt set with gold sunset forest quilt set with long tree shadows and a Bigfoot silhouette, selectable sizes and v",
+      "new_meta": "Shop personalized Bigfoot sunset forest quilt set with gold sky, long tree shadows and a walking silhouette."
+    },
+    {
+      "evidence_id": "evidence_batch_025_246",
+      "old_length": 155,
+      "new_length": 115,
+      "old_meta": "Shop personalized bigfoot red sunglasses quilt set with woodland quilt set with a large Bigfoot figure wearing red sunglasses, selectable sizes and verifie",
+      "new_meta": "Shop personalized Bigfoot red sunglasses quilt set with woodland artwork and a large figure wearing red sunglasses."
+    },
+    {
+      "evidence_id": "evidence_batch_025_247",
+      "old_length": 155,
+      "new_length": 119,
+      "old_meta": "Shop personalized bookshelf reading girl blanket with book-themed blanket with a black-haired reading girl, bookshelf collage, quotes and sample name, sele",
+      "new_meta": "Shop personalized bookshelf reading girl blanket with a black-haired reader, bookshelf collage, quotes and sample name."
+    },
+    {
+      "evidence_id": "evidence_batch_025_248",
+      "old_length": 154,
+      "new_length": 110,
+      "old_meta": "Shop personalized blonde reading girl blanket with bookstore-style blanket with blonde reading girl, bookshelves, quotes and sample name, selectable sizes ",
+      "new_meta": "Shop personalized blonde reading girl blanket with bookstore artwork, bookshelves, quote text and sample name."
+    },
+    {
+      "evidence_id": "evidence_batch_025_249",
+      "old_length": 155,
+      "new_length": 122,
+      "old_meta": "Shop personalized antique books reading blanket with vintage book-page blanket with girl-in-bun artwork, stacked books, quote text and sample name, selecta",
+      "new_meta": "Shop personalized antique books reading blanket with vintage book-page artwork, stacked books, quote text and sample name."
+    },
+    {
+      "evidence_id": "evidence_batch_025_250",
+      "old_length": 155,
+      "new_length": 121,
+      "old_meta": "Shop personalized wildflower reading girl blanket with wildflower book blanket with brown-haired reading girl, stack of books and quote text, selectable si",
+      "new_meta": "Shop personalized wildflower reading girl blanket with brown-haired reader, stacked books, floral details and quote text."
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "7633484c75a782b6ad557e55e8f63cd86cfc20d1dd1642bf912f3253ac78372c"
+}

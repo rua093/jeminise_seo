@@ -1,0 +1,81 @@
+{
+  "revision": "qa_batch_029_r3",
+  "source_revision": "qa_batch_029_r2",
+  "created_at": "2026-09-08T17:56:34",
+  "scope": "Batch 029 positions 281-290 only",
+  "change_type": "Fix meta_description_seo hard truncation / incomplete endings",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_029_281",
+      "old_length": 155,
+      "new_length": 116,
+      "old_meta": "Shop flowering cactus garden quilt set with light quilt set with flowering cacti, succulents, patterned pots and southwest garden artwork, selectable sizes",
+      "new_meta": "Shop flowering cactus garden quilt set with light southwest artwork, flowering cacti, succulents and patterned pots."
+    },
+    {
+      "evidence_id": "evidence_batch_029_282",
+      "old_length": 155,
+      "new_length": 124,
+      "old_meta": "Shop girl glasses newspaper book blanket with throw blanket with glasses girl, stacked books, newspaper background, leopard border and sample name Elizabet",
+      "new_meta": "Shop girl glasses newspaper book blanket with stacked books, newspaper background, leopard border and sample name Elizabeth."
+    },
+    {
+      "evidence_id": "evidence_batch_029_283",
+      "old_length": 155,
+      "new_length": 113,
+      "old_meta": "Shop girl in glasses book lover blanket with cream throw blanket with glasses girl reading below a bookshelf, flowers, butterflies and sample name Laura, s",
+      "new_meta": "Shop girl in glasses book lover blanket with cream design, bookshelf, flowers, butterflies and sample name Laura."
+    },
+    {
+      "evidence_id": "evidence_batch_029_284",
+      "old_length": 155,
+      "new_length": 117,
+      "old_meta": "Shop messy bun girl reading book blanket with vintage open-book blanket with messy-bun girl holding a book and mug, floral accents and sample name Rebecca,",
+      "new_meta": "Shop messy bun girl reading book blanket with vintage open-book artwork, mug, floral accents and sample name Rebecca."
+    },
+    {
+      "evidence_id": "evidence_batch_029_285",
+      "old_length": 155,
+      "new_length": 105,
+      "old_meta": "Shop girl reading bookshelf blanket with cream blanket with glasses girl reading in front of a colorful bookshelf, flowers and sample name Laura, selectabl",
+      "new_meta": "Shop girl reading bookshelf blanket with cream design, colorful bookshelf, flowers and sample name Laura."
+    },
+    {
+      "evidence_id": "evidence_batch_029_286",
+      "old_length": 155,
+      "new_length": 119,
+      "old_meta": "Shop hunting deer antlers comforter set with brown striped comforter with deer head silhouette, antlers, heart icon, photo collage and sample names, select",
+      "new_meta": "Shop hunting deer antlers comforter set with brown stripes, deer head silhouette, antlers, heart icon and sample names."
+    },
+    {
+      "evidence_id": "evidence_batch_029_287",
+      "old_length": 155,
+      "new_length": 115,
+      "old_meta": "Shop reading books floral blanket with white reading blanket with open book, upright books, floral stems, butterflies and sample Amelia text, selectable si",
+      "new_meta": "Shop reading books floral blanket with white design, open book, upright books, floral stems and sample Amelia text."
+    },
+    {
+      "evidence_id": "evidence_batch_029_288",
+      "old_length": 155,
+      "new_length": 120,
+      "old_meta": "Shop love photo heart quilt set with black photo-collage quilt set with heart graphic, I love you text and custom photo badge in the image, selectable size",
+      "new_meta": "Shop love photo heart quilt set with black photo-collage artwork, heart graphic, I love you text and custom photo badge."
+    },
+    {
+      "evidence_id": "evidence_batch_029_289",
+      "old_length": 155,
+      "new_length": 128,
+      "old_meta": "Shop morning affirmations floral blanket with navy blanket with My Morning Affirmations text, flowers, illustrated girl and sample name Jennifer, selectabl",
+      "new_meta": "Shop morning affirmations floral blanket with navy design, affirmation text, flowers, illustrated girl and sample name Jennifer."
+    },
+    {
+      "evidence_id": "evidence_batch_029_290",
+      "old_length": 155,
+      "new_length": 116,
+      "old_meta": "Shop mosaic tree of life quilt set with colorful mosaic-style Tree of Life quilt set with glowing sun, curved trunk and warm landscape bands, selectable si",
+      "new_meta": "Shop mosaic Tree of Life quilt set with colorful mosaic artwork, glowing sun, curved trunk and warm landscape bands."
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "1df8c81e9969175214234be18ffe943876f905a36be3cd9f4def6268941f91d6"
+}

@@ -1,0 +1,81 @@
+{
+  "revision": "qa_batch_026_r3",
+  "source_revision": "qa_batch_026_r2",
+  "created_at": "2026-09-08T17:52:24",
+  "scope": "Batch 026 positions 251-260 only",
+  "change_type": "Fix meta_description_seo hard truncation / incomplete endings",
+  "changed_rows": [
+    {
+      "evidence_id": "evidence_batch_026_251",
+      "old_length": 155,
+      "new_length": 125,
+      "old_meta": "Shop personalized christian butterfly blanket with white Christian throw blanket with butterfly wings, affirmation words, scripture references and sample n",
+      "new_meta": "Shop personalized Christian butterfly blanket with white design, butterfly wings, affirmation words and scripture references."
+    },
+    {
+      "evidence_id": "evidence_batch_026_252",
+      "old_length": 155,
+      "new_length": 110,
+      "old_meta": "Shop personalized reading tree blanket with reading-themed throw blanket with cartoon reader, tree of books, quote text and sample name Jessica, selectable",
+      "new_meta": "Shop personalized reading tree blanket with cartoon reader, tree of books, quote text and sample name Jessica."
+    },
+    {
+      "evidence_id": "evidence_batch_026_253",
+      "old_length": 155,
+      "new_length": 106,
+      "old_meta": "Shop personalized celtic tree of life quilt set with green and gold quilt set with Celtic panels and central Tree of Life medallion, selectable sizes and v",
+      "new_meta": "Shop personalized Celtic Tree of Life quilt set with green and gold panels and a central medallion design."
+    },
+    {
+      "evidence_id": "evidence_batch_026_254",
+      "old_length": 155,
+      "new_length": 116,
+      "old_meta": "Shop personalized celtic yggdrasil quilt set with dark Celtic quilt set with interlaced red and green knotwork and a glowing tree medallion, selectable siz",
+      "new_meta": "Shop personalized Celtic Yggdrasil quilt set with dark knotwork, red and green accents and a glowing tree medallion."
+    },
+    {
+      "evidence_id": "evidence_batch_026_255",
+      "old_length": 155,
+      "new_length": 111,
+      "old_meta": "Shop personalized green yggdrasil quilt set with green quilt set with circular gold Yggdrasil artwork and interlaced knot pattern, selectable sizes and ver",
+      "new_meta": "Shop personalized green Yggdrasil quilt set with circular gold tree artwork and interlaced Celtic knot pattern."
+    },
+    {
+      "evidence_id": "evidence_batch_026_256",
+      "old_length": 155,
+      "new_length": 112,
+      "old_meta": "Shop personalized cosmic tree of life quilt set with dark quilt set with cosmic Tree of Life panels, moon imagery, chain border and purple accents, selecta",
+      "new_meta": "Shop personalized cosmic Tree of Life quilt set with dark panels, moon imagery, chain border and purple accents."
+    },
+    {
+      "evidence_id": "evidence_batch_026_257",
+      "old_length": 155,
+      "new_length": 113,
+      "old_meta": "Shop personalized celtic knot tree quilt set with black and green quilt set with Celtic knot frame, red accents and central tree symbol, selectable sizes a",
+      "new_meta": "Shop personalized Celtic knot tree quilt set with black and green artwork, red accents and a central tree symbol."
+    },
+    {
+      "evidence_id": "evidence_batch_026_258",
+      "old_length": 155,
+      "new_length": 123,
+      "old_meta": "Shop personalized christian affirmations blanket with white affirmation blanket with butterflies, scripture reference bubbles, photo area and sample name L",
+      "new_meta": "Shop personalized Christian affirmations blanket with butterflies, scripture reference bubbles, photo area and sample name."
+    },
+    {
+      "evidence_id": "evidence_batch_026_259",
+      "old_length": 155,
+      "new_length": 130,
+      "old_meta": "Shop personalized christian woman affirmation blanket with white affirmation blanket with seated woman illustration, butterflies, scripture reference bubbl",
+      "new_meta": "Shop personalized Christian woman affirmation blanket with seated woman illustration, butterflies and scripture reference bubbles."
+    },
+    {
+      "evidence_id": "evidence_batch_026_260",
+      "old_length": 155,
+      "new_length": 115,
+      "old_meta": "Shop personalized lavender scripture blanket with white blanket with lavender flowers, butterflies, affirmation words, scripture references and sample name",
+      "new_meta": "Shop personalized lavender scripture blanket with lavender flowers, butterflies, affirmation words and sample name."
+    }
+  ],
+  "review_status_policy": "Kept existing review statuses; no APPROVED created.",
+  "sha256": "a7183574266f0b35014e5d7cdf37e26e39d1306053e3d50cf84c90b84bcd62c6"
+}
