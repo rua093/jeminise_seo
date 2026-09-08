@@ -1,0 +1,338 @@
+[
+  {
+    "product_key": "jeminise.com+softball-themed-bedding-for-girls-and-women-bright-teal-yellow",
+    "inventory_position": 331,
+    "handle": "softball-themed-bedding-for-girls-and-women-bright-teal-yellow",
+    "workbook_product_id": "8867218489543",
+    "live_product_id": "8867218489543",
+    "workbook_title_current": "Softball-Themed Bedding for Girls and Women – Bright Teal Yellow",
+    "live_title": "Softball-Themed Bedding for Girls and Women – Bright Teal Yellow",
+    "workbook_expected_images": 7,
+    "live_images": 7,
+    "live_options": [
+      {
+        "name": "Choose Comforter Size",
+        "values": [
+          "Twin 68\"x90\" (173cm x 218cm)",
+          "Full 79\"x90\" (200cm x 230cm)",
+          "Queen 90\"x90\" (228cm x 228cm)",
+          "King 104\"x90\" (228cm x 264cm)"
+        ]
+      },
+      {
+        "name": "Pillowcases",
+        "values": [
+          "None",
+          "1 Pillowcase (20''x30'')",
+          "2 Pillowcases (20''x30'')"
+        ]
+      }
+    ],
+    "customizer_labels": [
+      {
+        "label": "Custom Your Name",
+        "required": true,
+        "maxLength": 1000
+      },
+      {
+        "label": "Custom Your Number",
+        "required": true,
+        "maxLength": 1000
+      }
+    ],
+    "source_changed": "NO_MATERIAL_PRODUCT_DRIFT",
+    "note": "Product JSON matched identity/image count; row-level revision label remains r2 although source path/hash/revision_summary indicate r3."
+  },
+  {
+    "product_key": "jeminise.com+sports-theme-softball-bedding-premium-teal-yellow-comforter-set-for",
+    "inventory_position": 332,
+    "handle": "sports-theme-softball-bedding-premium-teal-yellow-comforter-set-for",
+    "workbook_product_id": "8867219505351",
+    "live_product_id": "8867219505351",
+    "workbook_title_current": "Sports Theme Softball Bedding – Premium Teal Yellow Comforter Set for",
+    "live_title": "Sports Theme Softball Bedding – Premium Teal Yellow Comforter Set for",
+    "workbook_expected_images": 7,
+    "live_images": 7,
+    "live_options": [
+      {
+        "name": "Choose Comforter Size",
+        "values": [
+          "Twin 68\"x90\" (173cm x 218cm)",
+          "Full 79\"x90\" (200cm x 230cm)",
+          "Queen 90\"x90\" (228cm x 228cm)",
+          "King 104\"x90\" (228cm x 264cm)"
+        ]
+      },
+      {
+        "name": "Pillowcases",
+        "values": [
+          "None",
+          "1 Pillowcase (20''x30'')",
+          "2 Pillowcases (20''x30'')"
+        ]
+      }
+    ],
+    "customizer_labels": [
+      {
+        "label": "Custom Your Name",
+        "required": true,
+        "maxLength": 1000
+      },
+      {
+        "label": "Custom Your Number",
+        "required": true,
+        "maxLength": 1000
+      }
+    ],
+    "source_changed": "NO_MATERIAL_PRODUCT_DRIFT",
+    "note": "Product JSON matched identity/image count; row-level revision label remains r2 although source path/hash/revision_summary indicate r3."
+  },
+  {
+    "product_key": "jeminise.com+teal-yellow-softball-comforter-set-vibrant-sports-bedroom-decor",
+    "inventory_position": 333,
+    "handle": "teal-yellow-softball-comforter-set-vibrant-sports-bedroom-decor",
+    "workbook_product_id": "8867218424007",
+    "live_product_id": "8867218424007",
+    "workbook_title_current": "Teal & Yellow Softball Comforter Set – Vibrant Sports Bedroom Decor",
+    "live_title": "Teal & Yellow Softball Comforter Set – Vibrant Sports Bedroom Decor",
+    "workbook_expected_images": 7,
+    "live_images": 7,
+    "live_options": [
+      {
+        "name": "Choose Comforter Size",
+        "values": [
+          "Twin 68\"x90\" (173cm x 218cm)",
+          "Full 79\"x90\" (200cm x 230cm)",
+          "Queen 90\"x90\" (228cm x 228cm)",
+          "King 104\"x90\" (228cm x 264cm)"
+        ]
+      },
+      {
+        "name": "Pillowcases",
+        "values": [
+          "None",
+          "1 Pillowcase (20''x30'')",
+          "2 Pillowcases (20''x30'')"
+        ]
+      }
+    ],
+    "customizer_labels": [
+      {
+        "label": "Custom Your Name",
+        "required": true,
+        "maxLength": 1000
+      },
+      {
+        "label": "Custom Your Number",
+        "required": true,
+        "maxLength": 1000
+      }
+    ],
+    "source_changed": "NO_MATERIAL_PRODUCT_DRIFT",
+    "note": "Product JSON matched identity/image count; row-level revision label remains r2 although source path/hash/revision_summary indicate r3."
+  },
+  {
+    "product_key": "jeminise.com+teal-yellow-softball-bedding-set-stylish-sports-bedroom-decor",
+    "inventory_position": 334,
+    "handle": "teal-yellow-softball-bedding-set-stylish-sports-bedroom-decor",
+    "workbook_product_id": "8867217965255",
+    "live_product_id": "8867217965255",
+    "workbook_title_current": "Teal Yellow Softball Bedding Set – Stylish Sports Bedroom Decor",
+    "live_title": "Teal Yellow Softball Bedding Set – Stylish Sports Bedroom Decor",
+    "workbook_expected_images": 14,
+    "live_images": 14,
+    "live_options": [
+      {
+        "name": "Choose Comforter Size",
+        "values": [
+          "Twin 68\"x90\" (173cm x 218cm)",
+          "Full 79\"x90\" (200cm x 230cm)",
+          "Queen 90\"x90\" (228cm x 228cm)",
+          "King 104\"x90\" (228cm x 264cm)"
+        ]
+      },
+      {
+        "name": "Pillowcases",
+        "values": [
+          "None",
+          "1 Pillowcase (20''x30'')",
+          "2 Pillowcases (20''x30'')"
+        ]
+      }
+    ],
+    "customizer_labels": [
+      {
+        "label": "Custom Your Name",
+        "required": true,
+        "maxLength": 1000
+      },
+      {
+        "label": "Custom Your Number",
+        "required": true,
+        "maxLength": 1000
+      }
+    ],
+    "source_changed": "NO_MATERIAL_PRODUCT_DRIFT",
+    "note": "Product JSON matched identity/image count; row-level revision label remains r2 although source path/hash/revision_summary indicate r3."
+  },
+  {
+    "product_key": "jeminise.com+tree-of-life-with-celtic-knot-roots-quilt-set-and-celtic-knot-borders-9482d2b2f5-9482d2b2f5",
+    "inventory_position": 335,
+    "handle": "tree-of-life-with-celtic-knot-roots-quilt-set-and-celtic-knot-borders-9482d2b2f5-9482d2b2f5",
+    "workbook_product_id": "8833358856391",
+    "live_product_id": "8833358856391",
+    "workbook_title_current": "Tree of Life with Celtic Knot Roots Quilt Set And Celtic Knot Borders",
+    "live_title": "Tree of Life with Celtic Knot Roots Quilt Set And Celtic Knot Borders",
+    "workbook_expected_images": 7,
+    "live_images": 7,
+    "live_options": [
+      {
+        "name": "CHOOSE YOUR SIZE",
+        "values": [
+          "Throw (60''x70'')",
+          "Twin (68\"x86\")",
+          "Full (80\"x90\")",
+          "Queen (90\"x90\")",
+          "King (102\"x91\")"
+        ]
+      },
+      {
+        "name": "Pillowcases",
+        "values": [
+          "None",
+          "2 Pillowcases (20''x30'')",
+          "4 Pillowcases (20''x30'')"
+        ]
+      }
+    ],
+    "customizer_labels": [
+      {
+        "label": "Customize Your Quilt",
+        "required": false,
+        "maxLength": 1000
+      }
+    ],
+    "source_changed": "NO_MATERIAL_PRODUCT_DRIFT",
+    "note": "Product JSON matched identity/image count; row-level revision label remains r2 although source path/hash/revision_summary indicate r3."
+  },
+  {
+    "product_key": "jeminise.com+winter-cardinal-on-berry-branch-patchwork-christmas-quilt-43ecda62b6-43ecda62b6",
+    "inventory_position": 336,
+    "handle": "winter-cardinal-on-berry-branch-patchwork-christmas-quilt-43ecda62b6-43ecda62b6",
+    "workbook_product_id": "8834730787015",
+    "live_product_id": "8834730787015",
+    "workbook_title_current": "Winter Cardinal on Berry Branch Patchwork Christmas Quilt",
+    "live_title": "Winter Cardinal on Berry Branch Patchwork Christmas Quilt",
+    "workbook_expected_images": 5,
+    "live_images": 5,
+    "live_options": [
+      {
+        "name": "CHOOSE YOUR SIZE",
+        "values": [
+          "Throw (60''x70'')",
+          "Twin (68\"x86\")",
+          "Full (80\"x90\")",
+          "Queen (90\"x90\")",
+          "King (102\"x91\")"
+        ]
+      },
+      {
+        "name": "Pillowcases",
+        "values": [
+          "None",
+          "2 Pillowcases (20''x30'')",
+          "4 Pillowcases (20''x30'')"
+        ]
+      }
+    ],
+    "customizer_labels": [
+      {
+        "label": "Customize Your Quilt",
+        "required": false,
+        "maxLength": 1000
+      }
+    ],
+    "source_changed": "NO_MATERIAL_PRODUCT_DRIFT",
+    "note": "Product JSON matched identity/image count; row-level revision label remains r2 although source path/hash/revision_summary indicate r3."
+  },
+  {
+    "product_key": "jeminise.com+winter-cardinals-on-heart-shaped-berry-branches-patchwork-christmas-quilt-de1c648f60-de1c648f60",
+    "inventory_position": 337,
+    "handle": "winter-cardinals-on-heart-shaped-berry-branches-patchwork-christmas-quilt-de1c648f60-de1c648f60",
+    "workbook_product_id": "8834734489799",
+    "live_product_id": "8834734489799",
+    "workbook_title_current": "Winter Cardinals on Heart Shaped Berry Branches Patchwork Christmas Quilt",
+    "live_title": "Winter Cardinals on Heart Shaped Berry Branches Patchwork Christmas Quilt",
+    "workbook_expected_images": 5,
+    "live_images": 5,
+    "live_options": [
+      {
+        "name": "CHOOSE YOUR SIZE",
+        "values": [
+          "Throw (60''x70'')",
+          "Twin (68\"x86\")",
+          "Full (80\"x90\")",
+          "Queen (90\"x90\")",
+          "King (102\"x91\")"
+        ]
+      },
+      {
+        "name": "Pillowcases",
+        "values": [
+          "None",
+          "2 Pillowcases (20''x30'')",
+          "4 Pillowcases (20''x30'')"
+        ]
+      }
+    ],
+    "customizer_labels": [
+      {
+        "label": "Customize Your Quilt",
+        "required": false,
+        "maxLength": 1000
+      }
+    ],
+    "source_changed": "NO_MATERIAL_PRODUCT_DRIFT",
+    "note": "Product JSON matched identity/image count; row-level revision label remains r2 although source path/hash/revision_summary indicate r3."
+  },
+  {
+    "product_key": "jeminise.com+winter-cat-and-cardinal-sitting-on-snowy-patchwork-christmas-quilt-82f86611f4-82f86611f4",
+    "inventory_position": 338,
+    "handle": "winter-cat-and-cardinal-sitting-on-snowy-patchwork-christmas-quilt-82f86611f4-82f86611f4",
+    "workbook_product_id": "8834725576903",
+    "live_product_id": "8834725576903",
+    "workbook_title_current": "Winter Cat and Cardinal Sitting on Snowy Patchwork Christmas Quilt",
+    "live_title": "Winter Cat and Cardinal Sitting on Snowy Patchwork Christmas Quilt",
+    "workbook_expected_images": 5,
+    "live_images": 5,
+    "live_options": [
+      {
+        "name": "CHOOSE YOUR SIZE",
+        "values": [
+          "Throw (60''x70'')",
+          "Twin (68\"x86\")",
+          "Full (80\"x90\")",
+          "Queen (90\"x90\")",
+          "King (102\"x91\")"
+        ]
+      },
+      {
+        "name": "Pillowcases",
+        "values": [
+          "None",
+          "2 Pillowcases (20''x30'')",
+          "4 Pillowcases (20''x30'')"
+        ]
+      }
+    ],
+    "customizer_labels": [
+      {
+        "label": "Customize Your Quilt",
+        "required": false,
+        "maxLength": 1000
+      }
+    ],
+    "source_changed": "NO_MATERIAL_PRODUCT_DRIFT",
+    "note": "Product JSON matched identity/image count; row-level revision label remains r2 although source path/hash/revision_summary indicate r3."
+  }
+]

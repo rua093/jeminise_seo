@@ -1,0 +1,74 @@
+[
+  {
+    "evidence_id": "evidence_batch_034_331",
+    "old_meta": "Shop vintage yellow softball comforter set with dark brown comforter with a large distressed yellow softball, red stitching, script lettering and number ar",
+    "new_meta": "Shop vintage yellow softball comforter set with dark brown design, distressed softball, red stitching and number artwork.",
+    "old_length": 155,
+    "new_length": 121,
+    "status": "RESOLVED",
+    "reason": "r3 meta_description_seo ends as a complete sentence without hard truncation/dangling final word."
+  },
+  {
+    "evidence_id": "evidence_batch_034_332",
+    "old_meta": "Shop polka dot softball comforter set with black polka dot comforter with teal stripe, paisley border, softball lettering and glove-and-ball artwork, selec",
+    "new_meta": "Shop polka dot softball comforter set with black dots, teal stripe, paisley border, softball lettering and glove artwork.",
+    "old_length": 155,
+    "new_length": 121,
+    "status": "RESOLVED",
+    "reason": "r3 meta_description_seo ends as a complete sentence without hard truncation/dangling final word."
+  },
+  {
+    "evidence_id": "evidence_batch_034_333",
+    "old_meta": "Shop fireball softball comforter set with orange and blue comforter with a large glowing yellow softball, flame ring, script lettering and number artwork, ",
+    "new_meta": "Shop fireball softball comforter set with orange and blue design, glowing yellow softball, flame ring and number artwork.",
+    "old_length": 154,
+    "new_length": 121,
+    "status": "RESOLVED",
+    "reason": "r3 meta_description_seo ends as a complete sentence without hard truncation/dangling final word."
+  },
+  {
+    "evidence_id": "evidence_batch_034_334",
+    "old_meta": "Shop pink glove softball comforter set with pink and gray comforter with a red softball glove, yellow softball, script lettering and number artwork, select",
+    "new_meta": "Shop pink glove softball comforter set with pink and gray design, red glove, yellow softball and number artwork.",
+    "old_length": 155,
+    "new_length": 112,
+    "status": "RESOLVED",
+    "reason": "r3 meta_description_seo ends as a complete sentence without hard truncation/dangling final word."
+  },
+  {
+    "evidence_id": "evidence_batch_034_335",
+    "old_meta": "Shop celtic tree of life quilt set with earth tone quilt set with a green Tree of Life, exposed knot roots, hills and Celtic knot borders, selectable sizes",
+    "new_meta": "Shop Celtic Tree of Life quilt set with earth tone artwork, green tree, exposed knot roots, hills and Celtic borders.",
+    "old_length": 155,
+    "new_length": 117,
+    "status": "RESOLVED",
+    "reason": "r3 meta_description_seo ends as a complete sentence without hard truncation/dangling final word."
+  },
+  {
+    "evidence_id": "evidence_batch_034_336",
+    "old_meta": "Shop winter cardinal berry branch quilt with winter quilt with a red cardinal, red berry branches, blue-gray leaves and snowy watercolor background, select",
+    "new_meta": "Shop winter cardinal berry branch quilt with red cardinal, berry branches, blue-gray leaves and snowy watercolor background.",
+    "old_length": 155,
+    "new_length": 124,
+    "status": "RESOLVED",
+    "reason": "r3 meta_description_seo ends as a complete sentence without hard truncation/dangling final word."
+  },
+  {
+    "evidence_id": "evidence_batch_034_337",
+    "old_meta": "Shop heart branch cardinals christmas quilt with Christmas quilt with two red cardinals, heart-shaped berry branches, snowy village scenery and pale winter",
+    "new_meta": "Shop heart branch cardinals Christmas quilt with two red cardinals, berry heart branches and snowy village scenery.",
+    "old_length": 155,
+    "new_length": 115,
+    "status": "RESOLVED",
+    "reason": "r3 meta_description_seo ends as a complete sentence without hard truncation/dangling final word."
+  },
+  {
+    "evidence_id": "evidence_batch_034_338",
+    "old_meta": "Shop winter cat cardinal christmas quilt with winter quilt with a gray kitten, red cardinal, snowy branches and It's Well With My Soul text, selectable siz",
+    "new_meta": "Shop winter cat cardinal Christmas quilt with gray kitten, red cardinal, snowy branches and It's Well With My Soul text.",
+    "old_length": 155,
+    "new_length": 120,
+    "status": "RESOLVED",
+    "reason": "r3 meta_description_seo ends as a complete sentence without hard truncation/dangling final word."
+  }
+]

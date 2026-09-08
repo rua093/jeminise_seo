@@ -1,0 +1,33 @@
+{
+  "expected_product_count": true,
+  "expected_image_rows": true,
+  "expected_criteria_rows": true,
+  "expected_keyword_rows": true,
+  "expected_buyer_rows": true,
+  "expected_evidence_rows": true,
+  "product_weight_100": true,
+  "image_weight_100": true,
+  "duplicate_qa_image_key_count": 0,
+  "source_snapshot_hash_match": true,
+  "status_test_100_with_critical": true,
+  "status_test_90_pass": true,
+  "status_test_72_on_80_incomplete": true,
+  "status_test_72_on_80_range": "72-92",
+  "missing_image_denominator_test": "Images missing/not opened would remain in expected_images denominator; current batch has 57/57 opened.",
+  "xlsx_exists": true,
+  "xlsx_exact_5_sheets": true,
+  "xlsx_row_counts": {
+    "QA_Summary": 14,
+    "QA_Products": 8,
+    "QA_Criteria": 88,
+    "QA_Images": 57,
+    "QA_Issues": 25
+  },
+  "xlsx_formula_count": 632,
+  "xlsx_formula_errors": [],
+  "xlsx_filters_freeze_wrap": true,
+  "xlsx_zip_ok": true,
+  "source_sha256_end": "E8FF901F334297FAD3934DEA63775C95CF1BA9C5DFB1A80F7738B9C370EDC320",
+  "source_hash_unchanged_during_qa": true,
+  "all_required_checks_passed": true
+}
