@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-09-08T12:50:18.641824+07:00",
+  "batch_id": "qa_batch_027_r2",
+  "source_revision": "resutls\\jeminise.com\\20260906_234129\\batches\\SEO_Product_Optimization_through_batch_027.xlsx",
+  "source_evidence": "seo_runs\\jeminise.com\\20260906_234129\\batch_027_evidence_summary.json",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_027_r2\\SEO_Product_Optimization_qa_batch_027_r2.xlsx",
+  "scope": "qa_batch_027 only; inventory positions 261-270",
+  "revision": "r2",
+  "revised_products": 10,
+  "revised_images": 70,
+  "admin_alt_matches": 70,
+  "keyword_rows_revised": 40,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "next_step": "Ready for independent QA of qa_batch_027_r2."
+}
