@@ -1,0 +1,11 @@
+{
+  "batch": 4,
+  "revision": "r6",
+  "products": 10,
+  "images": 62,
+  "criteria": 110,
+  "score": 96.0,
+  "status": "PASSED",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_004_r6\\SEO_Product_Optimization_qa_batch_004_r6.xlsx",
+  "source_sha256": "3EC8644CCD05DD78EE6057E4BB36E21D921197351E94E3F8A65955229F46BB75"
+}

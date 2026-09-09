@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": {
+    "product_count": true,
+    "image_count": true,
+    "criteria_count": true,
+    "all_products_pass": true,
+    "sheet_count": true
+  }
+}

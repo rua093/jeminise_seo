@@ -1,0 +1,23 @@
+{
+  "batch": 1,
+  "old_revision": "r7",
+  "new_revision": "r8",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_001_r7\\SEO_Product_Optimization_qa_batch_001_r7.xlsx",
+  "source_sha256": "A965CFD64371561152CF92B4B3B1CDF449E3F06BC3E0EB4060CAD54DC5AD713B",
+  "output_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_001_r8\\SEO_Product_Optimization_qa_batch_001_r8.xlsx",
+  "output_sha256": "7F3298E30BC1220706A502D7FF21F28C6201DE864DA6DA31267057FD177A9268",
+  "positions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "product_count": 10,
+  "changes": "R8 Stage 2 repair: fixed QA-blocking fields from r7 and reset approval metadata for independent re-QA."
+}
