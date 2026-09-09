@@ -1,0 +1,25 @@
+{
+  "rubric_version": "prompt_qa.md v1.0 / 2026-09-06",
+  "qa_run_id": "20260909_151928",
+  "batch_id": "qa_batch_029_r5",
+  "source_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_029_r5\\SEO_Product_Optimization_qa_batch_029_r5.xlsx",
+  "source_workbook_sha256": "7A4A0C7DC075616630426BD02847EC01E1026C2B16318C12ED53D880877645F4",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "batch_product_keys": [
+    "jeminise.com+personalized-flowering-cactus-succulent-garden-quilt-set-style-7",
+    "jeminise.com+personalized-girl-glasses-reading-on-newspaper-pattern-throw-blanket",
+    "jeminise.com+personalized-girl-in-glasses-reading-book-throw-blanket-book-lover",
+    "jeminise.com+personalized-girl-messy-bun-reading-book-and-holding-mug-throw-blanket",
+    "jeminise.com+personalized-girl-reading-in-front-of-book-bookshelf-throw-design-8",
+    "jeminise.com+personalized-hunting-and-outdoor-comforter-with-deer-antlers-4e13e688e0-4e13e688e0",
+    "jeminise.com+personalized-just-a-girl-who-loves-books-blanket-custom-name-book",
+    "jeminise.com+personalized-love-and-relationships-quilt-with-photo-and-heart-644d558a8f-644d558a8f",
+    "jeminise.com+personalized-morning-affirmations-floral-blanket-lightweight",
+    "jeminise.com+personalized-mosaic-tree-of-life-quilt-sets-machine-wa-mosaic-style"
+  ],
+  "checked_at": "2026-09-09T15:00:40+07:00",
+  "output_markdown": "resutls\\jeminise.com\\20260906_234129\\qa\\20260909_151928\\SEO_QA_qa_batch_029_r5.md",
+  "output_xlsx": "resutls\\jeminise.com\\20260906_234129\\qa\\20260909_151928\\SEO_QA_qa_batch_029_r5.xlsx",
+  "output_xlsx_sha256": "60863B297EFF136D34232735B3E25D68DFDCEC76974C4B265133A6D86E16471C"
+}

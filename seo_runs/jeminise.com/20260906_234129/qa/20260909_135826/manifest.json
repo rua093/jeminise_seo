@@ -1,0 +1,25 @@
+{
+  "rubric_version": "prompt_qa.md v1.0 / 2026-09-06",
+  "qa_run_id": "20260909_135826",
+  "batch_id": "qa_batch_031_r4",
+  "source_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_031_r4\\SEO_Product_Optimization_qa_batch_031_r4.xlsx",
+  "source_workbook_sha256": "9ED591B28F4B7BE0893FFF585898EAF8D918C0CD6D326AA71689019AB21B14E8",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "batch_product_keys": [
+    "jeminise.com+personalized-vibrant-cactus-flower-quilt-set-machine-washable-style",
+    "jeminise.com+personalized-vibrant-embroidered-desert-cactus-quilt-set-style-8",
+    "jeminise.com+personalized-vibrant-flowering-cactus-desert-scene-quilt-set-style",
+    "jeminise.com+personalized-vibrant-potted-cactus-garden-quilt-set-machine-washable",
+    "jeminise.com+personalized-vibrant-potted-cactus-quilt-set-machine-washa-design-3",
+    "jeminise.com+personalized-viking-celtic-tree-of-life-quilt-quilt-set-viking-style",
+    "jeminise.com+personalized-vintage-reading-girl-with-flowers-throw-blanket-book",
+    "jeminise.com+personalized-vintage-yggdrasil-tree-of-life-quilt-sets-vintage",
+    "jeminise.com+personalized-watercolor-basketball-players-dunking-blanket-83c424fef1-83c424fef1",
+    "jeminise.com+personalized-wildlife-and-romance-two-deer-standing-in-a-forest-comforter-ef860ca9a2-ef860ca9a2"
+  ],
+  "checked_at": "2026-09-09T13:45:51+07:00",
+  "output_markdown": "resutls\\jeminise.com\\20260906_234129\\qa\\20260909_135826\\SEO_QA_qa_batch_031_r4.md",
+  "output_xlsx": "resutls\\jeminise.com\\20260906_234129\\qa\\20260909_135826\\SEO_QA_qa_batch_031_r4.xlsx",
+  "output_xlsx_sha256": "374F42540DA15EC1CADCD51FF1B23ED7BC9D9950CF8F0EB487AAA70C79C49796"
+}

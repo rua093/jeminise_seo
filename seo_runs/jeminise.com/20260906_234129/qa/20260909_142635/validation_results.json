@@ -1,0 +1,20 @@
+{
+  "sheet_names": [
+    "QA_Summary",
+    "QA_Products",
+    "QA_Criteria",
+    "QA_Images",
+    "QA_Issues"
+  ],
+  "row_counts": {
+    "QA_Summary": 15,
+    "QA_Products": 10,
+    "QA_Criteria": 110,
+    "QA_Images": 70,
+    "QA_Issues": 21
+  },
+  "criteria_weights_sum_100": true,
+  "zip_bad_member": null,
+  "xlsx_sha256": "4755F70EF8D8B7D6056CB0CAD977C9B140042CFADE6110846FAF2FCE9FF7A86D",
+  "passed": true
+}

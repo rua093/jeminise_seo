@@ -1,0 +1,25 @@
+{
+  "rubric_version": "prompt_qa.md v1.0 / 2026-09-06",
+  "qa_run_id": "20260909_142635",
+  "batch_id": "qa_batch_030_r4",
+  "source_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_030_r4\\SEO_Product_Optimization_qa_batch_030_r4.xlsx",
+  "source_workbook_sha256": "19058334B8B7421D3D59EBC00239F1F37B0D4F77E37C5665A7CF52702E854E7F",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "batch_product_keys": [
+    "jeminise.com+personalized-reading-girl-on-book-with-flowers-blanket-book-lover",
+    "jeminise.com+personalized-reading-girl-on-heart-bookshelf-throw-blanket-book",
+    "jeminise.com+personalized-s-day-mother-and-daughter-quilt-with-photo-and-daisies-8dd40d7242-8dd40d7242",
+    "jeminise.com+personalized-seasonal-bookworms-sophia-reading-girl-throw-blanket",
+    "jeminise.com+personalized-southwestern-wolf-head-with-geometric-patterns-comforter-1d03ff91e5-1d03ff91e5",
+    "jeminise.com+personalized-sunflower-christian-blanket-with-bible-verses-custom",
+    "jeminise.com+personalized-sunflower-god-says-you-are-throw-blanket-lightweight",
+    "jeminise.com+personalized-sunflowers-and-butterflies-affirmations-blanket-unique",
+    "jeminise.com+personalized-teal-argyle-reading-girl-with-books-throw-blanket-book",
+    "jeminise.com+personalized-vibrant-cactus-and-desert-flowers-quilt-set-style-4"
+  ],
+  "checked_at": "2026-09-09T14:02:15+07:00",
+  "output_markdown": "resutls\\jeminise.com\\20260906_234129\\qa\\20260909_142635\\SEO_QA_qa_batch_030_r4.md",
+  "output_xlsx": "resutls\\jeminise.com\\20260906_234129\\qa\\20260909_142635\\SEO_QA_qa_batch_030_r4.xlsx",
+  "output_xlsx_sha256": "4755F70EF8D8B7D6056CB0CAD977C9B140042CFADE6110846FAF2FCE9FF7A86D"
+}
