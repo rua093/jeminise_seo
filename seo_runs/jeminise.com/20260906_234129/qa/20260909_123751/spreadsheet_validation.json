@@ -1,0 +1,21 @@
+{
+  "sheet_names": [
+    "QA_Summary",
+    "QA_Products",
+    "QA_Criteria",
+    "QA_Images",
+    "QA_Issues"
+  ],
+  "row_counts": {
+    "QA_Summary": 16,
+    "QA_Products": 10,
+    "QA_Criteria": 110,
+    "QA_Images": 62,
+    "QA_Issues": 11
+  },
+  "formula_cells": 743,
+  "formula_error_tokens": 0,
+  "zip_bad_member": null,
+  "source_snapshot_hash_match": true,
+  "passed": true
+}

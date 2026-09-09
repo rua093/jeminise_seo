@@ -1,0 +1,35 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "20260909_123320",
+  "batch_id": "qa_batch_012_r4",
+  "shop": "jeminise.com",
+  "run_id": "20260906_234129",
+  "market": "United States",
+  "language": "English",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_012_r4\\SEO_Product_Optimization_qa_batch_012_r4.xlsx",
+  "source_workbook_sha256": "C07C0FEB5AC2CC4810DD152389DBEBACB10879F342B9B7A4D0546AB905CFFBE1",
+  "source_post_sha256": "C07C0FEB5AC2CC4810DD152389DBEBACB10879F342B9B7A4D0546AB905CFFBE1",
+  "source_snapshot": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_123320\\source_snapshot\\SEO_Product_Optimization_qa_batch_012_r4.xlsx",
+  "product_keys": [
+    "jeminise.com+custom-soccer-player-custom-name-number-comforter-set-boys-room-decor",
+    "jeminise.com+custom-soccer-player-goal-comforter-set-machine-washable-design-8",
+    "jeminise.com+custom-soccer-player-paint-splatter-comforter-set-machine-washable",
+    "jeminise.com+custom-softball-comforter-set-for-girls-personalized-name-number",
+    "jeminise.com+custom-sports-and-patriotism-football-on-american-flag-background-comforter-510823ee16-510823ee16",
+    "jeminise.com+custom-transportation-semi-truck-on-geometric-background-comforter-284b7a6d0a-284b7a6d0a",
+    "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-97b4844050-97b4844050",
+    "jeminise.com+custom-tree-of-life-quilt-set-yggdrasil-bedding-0038a4731b-0038a4731b",
+    "jeminise.com+custom-trucking-semi-truck-breaking-through-stone-wall-comforter-7a6b616ec4-7a6b616ec4",
+    "jeminise.com+custom-trucking-semi-truck-breaking-through-stone-wall-comforter-01281fb2d3-01281fb2d3"
+  ],
+  "expected_products": 10,
+  "expected_images": 72,
+  "status": "COMPLETE",
+  "awaiting_confirmation": true,
+  "artifact_paths": {
+    "xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_123320\\SEO_QA_qa_batch_012_r4.xlsx",
+    "md": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_123320\\SEO_QA_qa_batch_012_r4.md",
+    "qa_dataset": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_123320\\qa_dataset.json"
+  },
+  "created_at": "2026-09-09T12:33:21+07:00"
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "serp_id": "serp_qa_batch_015_r4_141_1",
+    "product_key": "jeminise.com+fantasy-fire-dragon-comforter-set-with-glowing-lava-and-bedroom-setting-c7ca9ae893-c7ca9ae893",
+    "query": "red fire dragon lava quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/",
+      "https://www.desertcart.vn/",
+      "https://www.liberia.ubuy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Red/fire dragon bedding intent is supported; lava exact phrasing is product-specific and should stay tied to visible artwork."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_141_2",
+    "product_key": "jeminise.com+fantasy-fire-dragon-comforter-set-with-glowing-lava-and-bedroom-setting-c7ca9ae893-c7ca9ae893",
+    "query": "fantasy dragon quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.bigw.com.au/",
+      "https://www.etsy.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports fantasy dragon quilt/bedding product intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_142_1",
+    "product_key": "jeminise.com+fantasy-mythical-dragon-comforter-set-with-winged-dragon-and-bedroom-setting-bcfc28e9d3-bcfc28e9d3",
+    "query": "teal winged dragon quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.u-buy.co.uk/",
+      "https://www.ubuy.co.bw/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Dragon bedding intent is supported; teal winged exact phrase is narrower than the broad SERP."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_142_2",
+    "product_key": "jeminise.com+fantasy-mythical-dragon-comforter-set-with-winged-dragon-and-bedroom-setting-bcfc28e9d3-bcfc28e9d3",
+    "query": "dragon bedding set teal",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports dragon bedding purchase intent with color/motif modifiers."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_143_1",
+    "product_key": "jeminise.com+fantasy-nature-tree-of-life-quilt-set-with-entwined-golden-roots-and-bedroom-setting-9ad124a9ad-9ad124a9ad",
+    "query": "golden roots tree of life quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://miravoventures.com/",
+      "https://www.amazon.com/",
+      "https://www.mercadolivre.com.br/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Tree of Life quilt/bedding intent is supported, with golden roots as a visible differentiator."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_143_2",
+    "product_key": "jeminise.com+fantasy-nature-tree-of-life-quilt-set-with-entwined-golden-roots-and-bedroom-setting-9ad124a9ad-9ad124a9ad",
+    "query": "Tree of Life golden roots quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.ebay.com/",
+      "https://alphaquilt.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Tree of Life bedding product intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_144_1",
+    "product_key": "jeminise.com+fantasy-nature-tree-of-life-quilt-set-with-twisted-tree-trunk-and-bedroom-4dbc5a5b98-4dbc5a5b98",
+    "query": "twisted tree of life quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://jeminise.com/",
+      "https://www.etsy.com/",
+      "https://alphaquilt.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Tree of Life quilt product intent is supported and the twisted-trunk modifier is visible."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_144_2",
+    "product_key": "jeminise.com+fantasy-nature-tree-of-life-quilt-set-with-twisted-tree-trunk-and-bedroom-4dbc5a5b98-4dbc5a5b98",
+    "query": "tree of life quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.ebay.com/",
+      "https://shop.crackerbarrel.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports broad Tree of Life quilt/bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_145_1",
+    "product_key": "jeminise.com+fantasy-comforter-set-with-dragon-and-bedroom-and-fire-and-spikes-9008eacaf3-9008eacaf3",
+    "query": "green fire dragon quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://jeminise.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Green/fire dragon bedding intent is supported by product comparables."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_145_2",
+    "product_key": "jeminise.com+fantasy-comforter-set-with-dragon-and-bedroom-and-fire-and-spikes-9008eacaf3-9008eacaf3",
+    "query": "dragon fire quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.bigw.com.au/",
+      "https://www.mattblatt.com.au/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports dragon fire bedding purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_146_1",
+    "product_key": "jeminise.com+fantasy-winged-dragon-comforter-set-with-starry-nebula-pattern-and-bedroom-setting-d228ce3712-d228ce3712",
+    "query": "purple nebula dragon quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/",
+      "https://www.kosovo.ubuy.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Purple/nebula dragon bedding intent is supported; exact wording remains niche."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_146_2",
+    "product_key": "jeminise.com+fantasy-winged-dragon-comforter-set-with-starry-nebula-pattern-and-bedroom-setting-d228ce3712-d228ce3712",
+    "query": "dragon galaxy nebula bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.ebay.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports galaxy/nebula dragon bedding product intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_147_1",
+    "product_key": "jeminise.com+fantasy-winged-dragon-comforter-set-with-volcanic-eruption-and-bedroom-258009c125-258009c125",
+    "query": "volcanic winged dragon quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://songhaiflange.com/",
+      "https://www.handfulofprints.com/",
+      "https://www.pinterest.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Volcanic winged exact phrase is niche and mixed; broad dragon bedding intent is clearer."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_147_2",
+    "product_key": "jeminise.com+fantasy-winged-dragon-comforter-set-with-volcanic-eruption-and-bedroom-258009c125-258009c125",
+    "query": "volcano dragon bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.ebay.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports volcano/dragon bedding product intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_148_1",
+    "product_key": "jeminise.com+floral-nature-cardinal-within-ornate-oval-frame-patchwork-winter-quilt-88ef309589-88ef309589",
+    "query": "cardinal oval floral quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/c/kp/cardinal-quilt",
+      "https://www.wayfair.com/keyword.php?keyword=cardinal+quilt",
+      "https://www.etsy.com/market/cardinal_throw_quilt"
+    ],
+    "intent": "Commercial/product",
+    "note": "Cardinal quilt intent is supported; oval floral exact phrase is a narrow visual modifier."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_148_2",
+    "product_key": "jeminise.com+floral-nature-cardinal-within-ornate-oval-frame-patchwork-winter-quilt-88ef309589-88ef309589",
+    "query": "floral cardinal quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/",
+      "https://www.wayfair.com/",
+      "https://www.ebay.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports floral/cardinal quilt and bedding purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_149_1",
+    "product_key": "jeminise.com+folklore-tree-of-life-in-celtic-knot-quilt-40ab1f6113-40ab1f6113",
+    "query": "Celtic knot tree of life quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://luvingift.com/product/viking-quilt-set-norse-celtic-yggdrasil-tree-of-life/",
+      "https://jeminise.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Celtic Tree of Life quilt intent is supported with relevant product comparables."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_149_2",
+    "product_key": "jeminise.com+folklore-tree-of-life-in-celtic-knot-quilt-40ab1f6113-40ab1f6113",
+    "query": "Celtic tree of life quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://alphaquilt.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Celtic Tree of Life bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_150_1",
+    "product_key": "jeminise.com+fox-patchwork-pattern-quilt-set-animal-quilt-set-patchwork-style",
+    "query": "fox patchwork quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://legitkits.com/",
+      "https://www.quiltylove.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Fox patchwork exact SERP includes patterns as well as quilt products, so product intent is mixed."
+  },
+  {
+    "serp_id": "serp_qa_batch_015_r4_150_2",
+    "product_key": "jeminise.com+fox-patchwork-pattern-quilt-set-animal-quilt-set-patchwork-style",
+    "query": "fox quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:48:00+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports fox quilt/bedding purchase intent."
+  }
+]

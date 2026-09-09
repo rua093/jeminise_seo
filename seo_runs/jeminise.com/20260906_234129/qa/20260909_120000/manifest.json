@@ -1,0 +1,98 @@
+{
+  "qa_run_id": "20260909_120000",
+  "batch_id": "qa_batch_003",
+  "revision": "r6",
+  "created_at": "2026-09-09T12:00:00+07:00",
+  "market": "US",
+  "language": "English",
+  "inventory_position_range": "21-30",
+  "inventory_position_scope": 2130,
+  "source_workbook": "resutls/jeminise.com/20260906_234129/revisions/qa_batch_003_r6/SEO_Product_Optimization_qa_batch_003_r6.xlsx",
+  "source_workbook_sha256": "95AF231168F94DD35DBCB3B374F40DB2CE7EE17A768C22FF0FB1D99BE48C5C5A",
+  "source_snapshot": "seo_runs/jeminise.com/20260906_234129/qa/20260909_120000/source_snapshot/SEO_Product_Optimization_qa_batch_003_r6.xlsx",
+  "source_snapshot_sha256": "95AF231168F94DD35DBCB3B374F40DB2CE7EE17A768C22FF0FB1D99BE48C5C5A",
+  "revision_summary": "seo_runs/jeminise.com/20260906_234129/revisions/qa_batch_003_r6/revision_summary.json",
+  "prompt_version": "prompt_qa.md v1.0 / prompt.md v2.4",
+  "expected_products": 10,
+  "expected_images": 50,
+  "expected_criteria": 110,
+  "expected_keywords": 40,
+  "expected_buyers": 10,
+  "expected_evidence": 10,
+  "awaiting_confirmation": true,
+  "status": "COMPLETE",
+  "admin_export_direct": false,
+  "products": [
+    {
+      "inventory_position": 21,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-05",
+      "product_id": "8867157835975",
+      "handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-05",
+      "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-05"
+    },
+    {
+      "inventory_position": 22,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-06",
+      "product_id": "8867157868743",
+      "handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-06",
+      "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-06"
+    },
+    {
+      "inventory_position": 23,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-08",
+      "product_id": "8867157999815",
+      "handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-08",
+      "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-08"
+    },
+    {
+      "inventory_position": 24,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-09",
+      "product_id": "8867158393031",
+      "handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-09",
+      "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-09"
+    },
+    {
+      "inventory_position": 25,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-10",
+      "product_id": "8867157737671",
+      "handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-10",
+      "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-10"
+    },
+    {
+      "inventory_position": 26,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-11",
+      "product_id": "8867158261959",
+      "handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-11",
+      "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-11"
+    },
+    {
+      "inventory_position": 27,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-12",
+      "product_id": "8867157803207",
+      "handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-12",
+      "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-12"
+    },
+    {
+      "inventory_position": 28,
+      "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedspread",
+      "product_id": "8867157704903",
+      "handle": "christmas-bedding-quilt-soft-microfiber-holiday-bedspread",
+      "url": "https://jeminise.com/products/christmas-bedding-quilt-soft-microfiber-holiday-bedspread"
+    },
+    {
+      "inventory_position": 29,
+      "product_key": "jeminise.com+christmas-cardinal-on-branch-within-patchwork-winter-quilt-892d70543a-892d70543a",
+      "product_id": "8834708111559",
+      "handle": "christmas-cardinal-on-branch-within-patchwork-winter-quilt-892d70543a-892d70543a",
+      "url": "https://jeminise.com/products/christmas-cardinal-on-branch-within-patchwork-winter-quilt-892d70543a-892d70543a"
+    },
+    {
+      "inventory_position": 30,
+      "product_key": "jeminise.com+christmas-cardinal-perched-on-branch-within-wreath-patchwork-winter-quilt-9e7c0b5896-9e7c0b5896",
+      "product_id": "8834727805127",
+      "handle": "christmas-cardinal-perched-on-branch-within-wreath-patchwork-winter-quilt-9e7c0b5896-9e7c0b5896",
+      "url": "https://jeminise.com/products/christmas-cardinal-perched-on-branch-within-wreath-patchwork-winter-quilt-9e7c0b5896-9e7c0b5896"
+    }
+  ],
+  "output_workbook_sha256": "A176BE0DF7ADCAF21F30EBB651175BC5906561B518CCE8A047BB5423B787B205"
+}

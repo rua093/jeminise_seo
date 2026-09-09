@@ -1,0 +1,322 @@
+[
+  {
+    "serp_id": "serp_qa_batch_026_r4_251_1",
+    "product_key": "jeminise.com+personalized-butterfly-wings-christian-scripture-throw-blanket",
+    "query": "personalized Christian butterfly blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/listing/4528235664/personalized-christian-butterfly-blanket",
+      "https://www.amazon.com/personalized-christian-blanket/s?k=personalized+christian+blanket",
+      "https://famvibe.com/products/personalized-gift-for-daughter-inspirational-butterfly-christian-bible-verse-blanket-31450-0701-36o78"
+    ],
+    "intent": "Commercial/product",
+    "note": "Personalized Christian butterfly blanket intent is directly supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_251_2",
+    "product_key": "jeminise.com+personalized-butterfly-wings-christian-scripture-throw-blanket",
+    "query": "Christian butterfly scripture blanket custom name",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/nz/listing/4419478072/personalized-floral-butterfly-christian",
+      "https://www.walmart.com/ip/Christian-Butterfly-Throw-Blanket-Religious-Gift-Woman-Christian-Gifts-Women-Inspirational-Bible-Verse-Blanket-Spiritual-Birthday-Christmas-Gift-60x5/20579174228",
+      "https://www.ebay.com/itm/236513190069"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Christian butterfly/scripture blanket purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_252_1",
+    "product_key": "jeminise.com+personalized-cartoon-girl-reading-in-front-of-book-tree-throw-blanket",
+    "query": "personalized reading tree blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://wanderprints.com/products/book-tree-just-a-girl-who-loves-books-personalized-fleece-blanket-sherpa-blanket-mn1078cin2744",
+      "https://www.etsy.com/market/book_stack_blanket",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Reading tree exact phrase is narrow; personalized reading/book-lover blanket intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_252_2",
+    "product_key": "jeminise.com+personalized-cartoon-girl-reading-in-front-of-book-tree-throw-blanket",
+    "query": "custom book lover reading blanket name",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/market/book_stack_blanket",
+      "https://www.ufurnish.com/en-gb/p/a/28756244/personalized-reading-hooded-blanket-kids-adults-fleece-wearable-gift-for-book-lover",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports personalized book-lover blanket intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_253_1",
+    "product_key": "jeminise.com+personalized-celtic-tree-of-life-quilt-quilt-sets-tree-of-life-in",
+    "query": "personalized Celtic Tree of Life quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.macao.ubuy.com/",
+      "https://myvikinggear.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Celtic Tree of Life quilt intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_253_2",
+    "product_key": "jeminise.com+personalized-celtic-tree-of-life-quilt-quilt-sets-tree-of-life-in",
+    "query": "Celtic Tree of Life quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://luvingift.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Celtic Tree of Life quilt purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_254_1",
+    "product_key": "jeminise.com+personalized-celtic-tree-of-life-yggdrasil-quilt-sets-celtic-design",
+    "query": "personalized Celtic Yggdrasil quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://myvikinggear.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Celtic Yggdrasil quilt intent is supported; exact personalization evidence is comparator-based."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_254_2",
+    "product_key": "jeminise.com+personalized-celtic-tree-of-life-yggdrasil-quilt-sets-celtic-design",
+    "query": "Yggdrasil Celtic quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://luvingift.com/",
+      "https://www.shein.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Yggdrasil/Celtic bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_255_1",
+    "product_key": "jeminise.com+personalized-celtic-tree-of-life-yggdrasil-quilt-sets-yggdrasil",
+    "query": "personalized green Yggdrasil quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://myvikinggear.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Green exact modifier is niche; Yggdrasil quilt intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_255_2",
+    "product_key": "jeminise.com+personalized-celtic-tree-of-life-yggdrasil-quilt-sets-yggdrasil",
+    "query": "green Yggdrasil quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://luvingift.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator partially supports green/Yggdrasil bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_256_1",
+    "product_key": "jeminise.com+personalized-celtic-tree-of-life-yggdrasil-quilt-sets-bedroom-decor",
+    "query": "personalized cosmic Tree of Life quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://www.pinterest.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Cosmic exact modifier is narrow; Tree of Life quilt intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_256_2",
+    "product_key": "jeminise.com+personalized-celtic-tree-of-life-yggdrasil-quilt-sets-bedroom-decor",
+    "query": "cosmic tree of life quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.pinterest.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Tree of Life/cosmic visual bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_257_1",
+    "product_key": "jeminise.com+personalized-celtic-yggdrasil-tree-of-life-quilt-sets-bedroom-decor",
+    "query": "personalized Celtic knot tree quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://myvikinggear.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Celtic knot tree quilt intent is supported by related Celtic Tree of Life comparables."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_257_2",
+    "product_key": "jeminise.com+personalized-celtic-yggdrasil-tree-of-life-quilt-sets-bedroom-decor",
+    "query": "Celtic knot tree of life quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://luvingift.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Celtic knot/tree quilt purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_258_1",
+    "product_key": "jeminise.com+personalized-christian-affirmation-butterflies-th-christian-blankets",
+    "query": "personalized Christian affirmations blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/nz/listing/4419478072/personalized-floral-butterfly-christian",
+      "https://www.amazon.com/personalized-christian-blanket/s?k=personalized+christian+blanket",
+      "https://jeminise.com/collections/christian-baptism-blankets"
+    ],
+    "intent": "Commercial/product",
+    "note": "Personalized Christian affirmation blanket intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_258_2",
+    "product_key": "jeminise.com+personalized-christian-affirmation-butterflies-th-christian-blankets",
+    "query": "custom Christian affirmation butterfly blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://famvibe.com/products/personalized-gift-for-daughter-inspirational-butterfly-christian-bible-verse-blanket-31450-0701-36o78",
+      "https://www.walmart.com/ip/Christian-Butterfly-Throw-Blanket-Religious-Gift-Woman-Christian-Gifts-Women-Inspirational-Bible-Verse-Blanket-Spiritual-Birthday-Christmas-Gift-60x5/20579174228",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Christian butterfly/affirmation blanket intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_259_1",
+    "product_key": "jeminise.com+personalized-christian-affirmation-woman-butterflies-throw-blanket",
+    "query": "personalized Christian woman affirmation blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/nz/listing/4419478072/personalized-floral-butterfly-christian",
+      "https://www.amazon.com/personalized-christian-blanket/s?k=personalized+christian+blanket",
+      "https://famvibe.com/products/personalized-gift-for-daughter-inspirational-butterfly-christian-bible-verse-blanket-31450-0701-36o78"
+    ],
+    "intent": "Commercial/product",
+    "note": "Woman exact modifier is niche; Christian affirmation blanket intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_259_2",
+    "product_key": "jeminise.com+personalized-christian-affirmation-woman-butterflies-throw-blanket",
+    "query": "Christian affirmation blanket for women personalized",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.walmart.com/ip/Christian-Butterfly-Throw-Blanket-Religious-Gift-Woman-Christian-Gifts-Women-Inspirational-Bible-Verse-Blanket-Spiritual-Birthday-Christmas-Gift-60x5/20579174228",
+      "https://us.shein.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports personalized Christian gift blanket for women intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_260_1",
+    "product_key": "jeminise.com+personalized-christian-lavender-butterfly-blanket-lightweight",
+    "query": "personalized lavender scripture blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/nz/listing/4419478072/personalized-floral-butterfly-christian",
+      "https://www.amazon.com/personalized-christian-blanket/s?k=personalized+christian+blanket",
+      "https://famvibe.com/products/personalized-gift-for-daughter-inspirational-butterfly-christian-bible-verse-blanket-31450-0701-36o78"
+    ],
+    "intent": "Commercial/product",
+    "note": "Lavender exact modifier is niche; personalized scripture/Christian blanket intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_026_r4_260_2",
+    "product_key": "jeminise.com+personalized-christian-lavender-butterfly-blanket-lightweight",
+    "query": "lavender Christian scripture blanket personalized",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:40:03+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports lavender/Christian scripture blanket intent at a broader level."
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "product_weight_total": 100,
+  "image_weight_total": 100,
+  "products_count": 10,
+  "images_count": 72,
+  "criteria_count": 110,
+  "keyword_rows_count": 40,
+  "buyer_rows_count": 10,
+  "evidence_rows_count": 10,
+  "unique_product_keys": 10,
+  "unique_qa_image_keys": 72,
+  "unique_issue_ids": 1,
+  "all_pages_read": true,
+  "all_image_coverage_100": true,
+  "source_snapshot_hash_match": true,
+  "historical_admin_commit": "f3e38d54ae3d1f45297089cb313ede4696eecfe5",
+  "historical_admin_hash_match": true,
+  "logic_100_with_critical": {
+    "expected": "QA_FAIL",
+    "actual": "QA_FAIL"
+  },
+  "logic_90_full_no_blocker": {
+    "expected": "QA_PASS",
+    "actual": "QA_PASS"
+  },
+  "logic_72_on_80": {
+    "expected_status": "QA_INCOMPLETE",
+    "expected_range": "72-92",
+    "actual_status": "QA_INCOMPLETE"
+  },
+  "formula_errors": 0
+}

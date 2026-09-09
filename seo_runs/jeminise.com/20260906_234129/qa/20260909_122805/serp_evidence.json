@@ -1,0 +1,322 @@
+[
+  {
+    "serp_id": "serp_qa_batch_011_r4_101_1",
+    "product_key": "jeminise.com+custom-semi-truck-with-american-flag-background-comforter-104ae45e5d-104ae45e5d",
+    "query": "Keep On Truckin flag comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://ohaprints.com/",
+      "https://jeminise.com/",
+      "https://www.ebay.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial trucker/custom blanket intent is supported, but the exact slogan phrase is niche."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_101_2",
+    "product_key": "jeminise.com+custom-semi-truck-with-american-flag-background-comforter-104ae45e5d-104ae45e5d",
+    "query": "custom semi truck American flag comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://jeminise.com/",
+      "https://www.zazzle.com/",
+      "https://www.ebay.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports semi-truck and American flag bedding/blanket purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_102_1",
+    "product_key": "jeminise.com+custom-soccer-ball-cleats-personalized-comforter-set-machine-washable",
+    "query": "black soccer cleats comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/",
+      "https://www.amazon.com/",
+      "https://www.ebay.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Soccer bedding intent is supported; cleats-specific black phrase is narrower."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_102_2",
+    "product_key": "jeminise.com+custom-soccer-ball-cleats-personalized-comforter-set-machine-washable",
+    "query": "soccer cleats bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.wayfair.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports soccer-themed bedding/comforter intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_103_1",
+    "product_key": "jeminise.com+custom-soccer-ball-goal-net-comforter-set-machine-washabl-design-13",
+    "query": "blue soccer goal net comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.target.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Blue soccer comforter/goal bedding intent is supported by product comparables."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_103_2",
+    "product_key": "jeminise.com+custom-soccer-ball-goal-net-comforter-set-machine-washabl-design-13",
+    "query": "soccer goal net bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.ebay.com/",
+      "https://www.wayfair.com/",
+      "https://www.target.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports soccer field/goal/net bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_104_1",
+    "product_key": "jeminise.com+custom-soccer-ball-goal-personalized-bedding-comforter-set-a4",
+    "query": "Kenzo soccer number comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://ohaprints.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "The sample name makes the exact query weak; personalized soccer comforter intent is visible."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_104_2",
+    "product_key": "jeminise.com+custom-soccer-ball-goal-personalized-bedding-comforter-set-a4",
+    "query": "personalized soccer comforter set name number",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://ohaprints.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator directly supports custom name/number soccer bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_105_1",
+    "product_key": "jeminise.com+custom-soccer-ball-net-comforter-set-machine-washable-a2",
+    "query": "Jayden soccer net comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://ohaprints.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "The sample name is product-specific; soccer net comforter intent is broader."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_105_2",
+    "product_key": "jeminise.com+custom-soccer-ball-net-comforter-set-machine-washable-a2",
+    "query": "personalized soccer net comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.youcustomizeit.com/",
+      "https://www.etsy.com/",
+      "https://ohaprints.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports personalized soccer bedding and custom text purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_106_1",
+    "product_key": "jeminise.com+custom-soccer-ball-water-splashes-comforter-set-machine-washable",
+    "query": "Matthew water splash soccer comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.temu.com/",
+      "https://www.amazon.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Water/splash soccer bedding intent exists, while Matthew is sample-name driven."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_106_2",
+    "product_key": "jeminise.com+custom-soccer-ball-water-splashes-comforter-set-machine-washable",
+    "query": "water splash soccer bedding comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.temu.com/",
+      "https://www.desertcart.com.au/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports water/splash soccer bedding imagery."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_107_1",
+    "product_key": "jeminise.com+custom-soccer-ball-with-lightning-splash-comforter-set-a11",
+    "query": "Lucas lightning soccer comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.ae/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Lightning soccer bedding intent is supported; Lucas is a sample-name modifier."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_107_2",
+    "product_key": "jeminise.com+custom-soccer-ball-with-lightning-splash-comforter-set-a11",
+    "query": "lightning soccer bedding comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.ae/",
+      "https://www.desertcart.com.au/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports lightning/flame soccer bedding products."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_108_1",
+    "product_key": "jeminise.com+custom-soccer-ball-with-number-07-comforter-set-machine-w-design-17",
+    "query": "Isaac soccer ball 07 comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://ohaprints.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Sample name/number makes exact demand weak; custom soccer name/number intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_108_2",
+    "product_key": "jeminise.com+custom-soccer-ball-with-number-07-comforter-set-machine-w-design-17",
+    "query": "soccer ball number comforter set personalized",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://ohaprints.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports personalized soccer ball name/number bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_109_1",
+    "product_key": "jeminise.com+custom-soccer-goal-splash-bedding-comforter-set-machine-washable",
+    "query": "James green soccer goal comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.target.com/",
+      "https://www.walmart.com/",
+      "https://www.wayfair.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Green soccer goal comforter intent is broadly supported; James is sample-name driven."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_109_2",
+    "product_key": "jeminise.com+custom-soccer-goal-splash-bedding-comforter-set-machine-washable",
+    "query": "green soccer goal bedding comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.target.com/",
+      "https://www.ebay.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports green soccer/goal bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_110_1",
+    "product_key": "jeminise.com+custom-soccer-net-with-number-07-comforter-set-machine-washable-a7",
+    "query": "Kenzo black soccer net comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Exact phrase is sample-name driven, but black soccer comforter/net intent has comparables."
+  },
+  {
+    "serp_id": "serp_qa_batch_011_r4_110_2",
+    "product_key": "jeminise.com+custom-soccer-net-with-number-07-comforter-set-machine-washable-a7",
+    "query": "black soccer net comforter set personalized",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:28:05+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://www.youcustomizeit.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports black soccer/custom comforter set purchase intent."
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "20260909_131100",
+  "batch_id": "qa_batch_020_r5",
+  "shop": "jeminise.com",
+  "run_id": "20260906_234129",
+  "market": "United States",
+  "language": "English",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_020_r5\\SEO_Product_Optimization_qa_batch_020_r5.xlsx",
+  "source_workbook_sha256": "FA070F63BBF3D2D9F6304C1D4FC20F4AB6723ED22AE581A98DC1531621178C31",
+  "source_post_sha256": "FA070F63BBF3D2D9F6304C1D4FC20F4AB6723ED22AE581A98DC1531621178C31",
+  "source_snapshot": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_131100\\source_snapshot\\SEO_Product_Optimization_qa_batch_020_r5.xlsx",
+  "product_keys": [
+    "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-16",
+    "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-17",
+    "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-18",
+    "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-19",
+    "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-20",
+    "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-21",
+    "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-22",
+    "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-23",
+    "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-24",
+    "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-25"
+  ],
+  "expected_products": 10,
+  "expected_images": 46,
+  "status": "COMPLETE",
+  "awaiting_confirmation": true,
+  "artifact_paths": {
+    "xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_131100\\SEO_QA_qa_batch_020_r5.xlsx",
+    "md": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_131100\\SEO_QA_qa_batch_020_r5.md",
+    "qa_dataset": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_131100\\qa_dataset.json"
+  },
+  "created_at": "2026-09-09T13:11:01+07:00"
+}

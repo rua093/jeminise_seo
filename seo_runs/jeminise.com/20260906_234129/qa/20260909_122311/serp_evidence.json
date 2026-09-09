@@ -1,0 +1,321 @@
+[
+  {
+    "serp_id": "serp_qa_batch_010_r6_091_1",
+    "product_key": "jeminise.com+custom-native-american-inspired-wolf-head-inside-circular-frame-comforter-d351b4bfe1-d351b4bfe1",
+    "query": "turquoise wolf quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial wolf quilt/bedding intent is supported; turquoise is a useful visual modifier."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_091_2",
+    "product_key": "jeminise.com+custom-native-american-inspired-wolf-head-inside-circular-frame-comforter-d351b4bfe1-d351b4bfe1",
+    "query": "wolf quilt bedding set turquoise",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.ebay.com/",
+      "https://www.miravoventures.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports wolf quilt/bedding product intent with color/motif variations."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_092_1",
+    "product_key": "jeminise.com+custom-neon-green-soccer-player-artwork-comforter-set-boys-room-decor",
+    "query": "neon green soccer comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.walmart.com/",
+      "https://jeminise.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Soccer bedding/comforter intent is supported; exact neon green phrase is narrower."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_092_2",
+    "product_key": "jeminise.com+custom-neon-green-soccer-player-artwork-comforter-set-boys-room-decor",
+    "query": "soccer player comforter set neon green",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.ubuy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports soccer player bedding intent with personalized sports-room use."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_093_1",
+    "product_key": "jeminise.com+custom-patriotic-semi-truck-on-american-flag-background-comforter-e664ba94f8-e664ba94f8",
+    "query": "blue semi truck flag comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://jeminise.com/",
+      "https://us.shein.com/",
+      "https://www.zazzle.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Semi truck and American flag bedding/blanket comparables support commercial intent; exact blue wording is niche."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_093_2",
+    "product_key": "jeminise.com+custom-patriotic-semi-truck-on-american-flag-background-comforter-e664ba94f8-e664ba94f8",
+    "query": "custom semi truck American flag comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://jeminise.com/",
+      "https://www.zazzle.com/",
+      "https://www.ebay.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports custom truck/US flag bedding or blanket intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_094_1",
+    "product_key": "jeminise.com+custom-patriotic-semi-truck-with-waving-american-flag-comforter-e01f2755b2-e01f2755b2",
+    "query": "silver semi truck flag comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://jeminise.com/",
+      "https://us.shein.com/",
+      "https://www.zazzle.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Semi truck flag bedding intent exists; silver exact modifier is mostly product-specific."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_094_2",
+    "product_key": "jeminise.com+custom-patriotic-semi-truck-with-waving-american-flag-comforter-e01f2755b2-e01f2755b2",
+    "query": "personalized truck blanket American flag",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://us.shein.com/",
+      "https://www.ebay.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports truck + American flag personalized blanket intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_095_1",
+    "product_key": "jeminise.com+custom-patriotic-trucking-semi-truck-below-waving-american-flag-comforter-05c0cd8623-05c0cd8623",
+    "query": "red semi truck sunset comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://jeminise.com/",
+      "https://www.walmart.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Exact red/sunset wording is weak, but truck bedding and comforter products appear in broader results."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_095_2",
+    "product_key": "jeminise.com+custom-patriotic-trucking-semi-truck-below-waving-american-flag-comforter-05c0cd8623-05c0cd8623",
+    "query": "custom semi truck flag comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://jeminise.com/",
+      "https://www.zazzle.com/",
+      "https://www.ebay.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports custom semi truck flag bedding/blanket intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_096_1",
+    "product_key": "jeminise.com+custom-photo-quilt-bicycle-flowers-07e2c6fca1-07e2c6fca1",
+    "query": "custom photo collage quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.bagsoflove.com/",
+      "https://portraitblankets.com/",
+      "https://www.printerpix.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Strong commercial intent for photo collage blankets/quilts supports the selected direction."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_096_2",
+    "product_key": "jeminise.com+custom-photo-quilt-bicycle-flowers-07e2c6fca1-07e2c6fca1",
+    "query": "personalized photo collage quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.shutterfly.com/",
+      "https://www.printerpix.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports personalized photo collage bedding/blanket intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_097_1",
+    "product_key": "jeminise.com+custom-purple-butterflies-text-blanket-machine-washable-d7b",
+    "query": "God Says I Am butterfly blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Marketplace results support God Says I Am butterfly blanket intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_097_2",
+    "product_key": "jeminise.com+custom-purple-butterflies-text-blanket-machine-washable-d7b",
+    "query": "personalized God Says I Am blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.callie.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports custom name Christian affirmation blanket intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_098_1",
+    "product_key": "jeminise.com+custom-purple-butterfly-christian-blanket-machine-washable-d15",
+    "query": "God Is Within Her butterfly blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.pinterest.com/",
+      "https://www.biblegateway.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Faith phrase is supported as scripture/Christian decor intent; exact butterfly blanket is narrower."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_098_2",
+    "product_key": "jeminise.com+custom-purple-butterfly-christian-blanket-machine-washable-d15",
+    "query": "Psalm 46:5 butterfly blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.zazzle.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports scripture phrase blanket/gift intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_099_1",
+    "product_key": "jeminise.com+custom-purple-floral-christian-cross-blanket-machine-washable-d2",
+    "query": "Blessed is she purple cross blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.zazzle.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Christian cross blanket intent is supported; exact purple phrase is narrower."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_099_2",
+    "product_key": "jeminise.com+custom-purple-floral-christian-cross-blanket-machine-washable-d2",
+    "query": "purple floral cross Christian blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.zazzle.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports floral/cross Christian blanket product intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_100_1",
+    "product_key": "jeminise.com+custom-purple-floral-cross-with-butterflies-blanket-machi-design-14",
+    "query": "Estella scripture collage blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.zazzle.com/",
+      "https://www.etsy.com/",
+      "https://www.pinterest.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Exact Estella wording appears sample-name driven, so support is weaker than broad scripture collage intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_010_r6_100_2",
+    "product_key": "jeminise.com+custom-purple-floral-cross-with-butterflies-blanket-machi-design-14",
+    "query": "personalized scripture collage blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:23:11+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/market/scripture_blanket",
+      "https://www.zazzle.com/scripture%2Bblankets",
+      "https://prettyperfect.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator strongly supports personalized scripture blanket/collage gift intent."
+  }
+]

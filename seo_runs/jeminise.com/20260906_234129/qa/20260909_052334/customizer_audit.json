@@ -1,0 +1,290 @@
+[
+  {
+    "inventory_position": 41,
+    "url": "https://jeminise.com/products/custom-american-sports-football-player-running-with-ball-comforter-891aa5a660-891aa5a660",
+    "customizer_root_present": true,
+    "config_bytes": 7550,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 1,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 25,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "531572a6-9fb1-43fd-bc25-d34a8c9fc99a"
+        ]
+      },
+      {
+        "id": "hsunJmjw",
+        "label": "Enter Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 5,
+        "maxLines": 1,
+        "placeholder": "23",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "ITgvthDQ"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 42,
+    "url": "https://jeminise.com/products/custom-basketball-players-blanket-name-number-76fdad09b6-76fdad09b6",
+    "customizer_root_present": true,
+    "config_bytes": 5530,
+    "surface_count": 1,
+    "name_mentions": 2,
+    "number_mentions": 2,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "2f30c058-321c-4f61-b71b-738f34744f72",
+        "label": "Custom Name",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 200,
+        "maxLines": 1,
+        "placeholder": "David",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize name.",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "5a72650d-fdf4-405c-8a98-c5775edc0ffa",
+          "05172ccd-f8df-4c68-b965-5fdb64b6d611",
+          "4bffcd00-32cf-4053-ae16-b130b81c1c7a",
+          "39625869-97dc-456e-b48f-10437186b9c5"
+        ]
+      },
+      {
+        "id": "5b402389-d6ed-4690-ac6c-240fa1c4d6fc",
+        "label": "Custom Number",
+        "required": false,
+        "minLength": 1,
+        "maxLength": 20,
+        "maxLines": 1,
+        "placeholder": "22",
+        "instructions": "Please check your spelling carefully. Please type \"No\" if you don't want to customize number",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "5a72650d-fdf4-405c-8a98-c5775edc0ffa",
+          "05172ccd-f8df-4c68-b965-5fdb64b6d611",
+          "4bffcd00-32cf-4053-ae16-b130b81c1c7a",
+          "ae790e5d-52e6-41f0-be97-0949ef636720"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 43,
+    "url": "https://jeminise.com/products/custom-bible-verse-photo-blanket-personalized-christian-gift-for-her",
+    "customizer_root_present": true,
+    "config_bytes": 3235,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 6,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "pmV5tBpk",
+        "label": "Customize Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 1000,
+        "maxLines": 1,
+        "placeholder": "Laura",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "DKarnlJF",
+          "SZJpbl3Z",
+          "Dz4pb7A-",
+          "b0eeec49-d99f-4cb0-a516-737ee9421d9c"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 44,
+    "url": "https://jeminise.com/products/custom-cardinals-on-flowering-branches-quilt-47d5316f3d-47d5316f3d",
+    "customizer_root_present": true,
+    "config_bytes": 2966,
+    "surface_count": 1,
+    "name_mentions": 0,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": []
+  },
+  {
+    "inventory_position": 45,
+    "url": "https://jeminise.com/products/custom-tree-of-life-quilt-set-yggdrasil-bedding-019f2b38a4-019f2b38a4",
+    "customizer_root_present": true,
+    "config_bytes": 2964,
+    "surface_count": 1,
+    "name_mentions": 0,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": []
+  },
+  {
+    "inventory_position": 46,
+    "url": "https://jeminise.com/products/custom-tree-of-life-quilt-set-yggdrasil-celtic-patterns-908827b1df-908827b1df",
+    "customizer_root_present": true,
+    "config_bytes": 2964,
+    "surface_count": 1,
+    "name_mentions": 0,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": []
+  },
+  {
+    "inventory_position": 47,
+    "url": "https://jeminise.com/products/custom-tree-of-life-quilt-set-yggdrasil-bedding-5048da8f29-5048da8f29",
+    "customizer_root_present": true,
+    "config_bytes": 3009,
+    "surface_count": 1,
+    "name_mentions": 0,
+    "number_mentions": 0,
+    "text_or_input_mentions": 7,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": []
+  },
+  {
+    "inventory_position": 48,
+    "url": "https://jeminise.com/products/custom-christian-faith-semi-truck-in-front-of-large-comforter-057143b1f8-057143b1f8",
+    "customizer_root_present": true,
+    "config_bytes": 7709,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 6,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "VxhrBinG",
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 35,
+        "maxLines": 1,
+        "placeholder": "Jackson",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "BPrSpgkn",
+          "KjgjM_vJ",
+          "fJpESzOr",
+          "50785961-0640-4da7-ab30-cd9399d64b69"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 49,
+    "url": "https://jeminise.com/products/custom-christian-girl-bible-emergency-numbers-blanket-d12",
+    "customizer_root_present": true,
+    "config_bytes": 128153,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 9,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "xUR1otKX",
+        "label": "Custom Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 1000,
+        "maxLines": 1,
+        "placeholder": "Sophia",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "lmCFl_SZ",
+          "2XdIiphb",
+          "aZ5-XAfh",
+          "22d5fee8-41f4-4d1f-a698-7c6da132f015"
+        ]
+      }
+    ]
+  },
+  {
+    "inventory_position": 50,
+    "url": "https://jeminise.com/products/custom-christian-inspirational-sophia-blanket-machine-washable-d11",
+    "customizer_root_present": true,
+    "config_bytes": 127984,
+    "surface_count": 1,
+    "name_mentions": 1,
+    "number_mentions": 0,
+    "text_or_input_mentions": 6,
+    "upload_endpoint_present": true,
+    "customize_button_present": true,
+    "personalization_nodes": [
+      {
+        "id": "lpSLkPmI",
+        "label": "Custom Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 30,
+        "maxLines": 1,
+        "placeholder": "Sarah",
+        "instructions": "",
+        "regexChoice": "1883d0d2-a293-44a7-971b-2fc40388bdb1",
+        "placementId": null,
+        "groupId": null,
+        "ancestors": [
+          "lmCFl_SZ",
+          "2XdIiphb",
+          "aZ5-XAfh",
+          "a3fa2b42-530c-450e-bbca-7123c3d457bb"
+        ]
+      }
+    ]
+  }
+]

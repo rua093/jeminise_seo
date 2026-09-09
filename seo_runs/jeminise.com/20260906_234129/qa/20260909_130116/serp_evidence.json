@@ -1,0 +1,322 @@
+[
+  {
+    "serp_id": "serp_qa_batch_018_r5_171_1",
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-08",
+    "query": "pink gothic skull comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/",
+      "https://www.ebay.com/",
+      "https://everythingskull.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Pink/gothic skull comforter intent is commercially supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_171_2",
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-08",
+    "query": "skull gothic comforter bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/",
+      "https://www.ebay.com/",
+      "https://www.temu.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports skull/gothic bedding purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_172_1",
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-09",
+    "query": "trick or treat haunted house comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.pinterest.com/top1bedding/halloween-bedding-set/",
+      "https://www.amazon.com.be/-/en/Bedlam-Haunted-House-Duvet-Double/dp/B0CC6J7LTG",
+      "https://www.etsy.com/market/halloween_bedding"
+    ],
+    "intent": "Commercial/product",
+    "note": "Trick-or-treat/haunted-house exact phrase is niche; Halloween bedding product intent is clear."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_172_2",
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-design-09",
+    "query": "haunted house Halloween comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.ebay.com/",
+      "https://www.etsy.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports haunted-house Halloween bedding purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_173_1",
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-evil",
+    "query": "cream pumpkin ghost comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.walmart.com/c/kp/pumpkin-bedding",
+      "https://www.tesco.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Cream exact modifier is niche, but pumpkin/ghost bedding intent is strong."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_173_2",
+    "product_key": "jeminise.com+pamnest-twin-halloween-comforter-set-with-sheets-5-pieces-evil",
+    "query": "pumpkin ghost Halloween bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/c/kp/halloween-bedding-sets",
+      "https://www.ebay.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports pumpkin/ghost Halloween bedding purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_174_1",
+    "product_key": "jeminise.com+personalized-and-romance-music-player-interface-quilt-with-photo-b8a3dc4155-b8a3dc4155",
+    "query": "custom photo music player quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://us.shein.com/",
+      "https://fridgebeats.com/",
+      "https://www.madeingift.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Custom photo/music player products exist, but quilt-specific SERP support is weaker."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_174_2",
+    "product_key": "jeminise.com+personalized-and-romance-music-player-interface-quilt-with-photo-b8a3dc4155-b8a3dc4155",
+    "query": "custom photo song blanket music player",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://fridgebeats.com/",
+      "https://www.madeingift.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports custom photo/song gift intent; bedding/quilt exact fit is mixed."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_175_1",
+    "product_key": "jeminise.com+personalized-autumn-tree-of-life-birds-flowers-quilt-sets-radiant",
+    "query": "autumn Tree of Life birds quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.wanderquilt.com/",
+      "https://www.etsy.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Autumn Tree of Life quilt/bedding intent is supported, with birds as a visual modifier."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_175_2",
+    "product_key": "jeminise.com+personalized-autumn-tree-of-life-birds-flowers-quilt-sets-radiant",
+    "query": "autumn tree birds quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.ebay.com/",
+      "https://www.bedbathandbeyond.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports autumn tree/bird quilt bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_176_1",
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-01",
+    "query": "custom name baseball flag bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/market/baseball_bedspread",
+      "https://ohaprints.com/",
+      "https://www.amazon.com/HOSIMA-Baseball-Comforter-Bedroom-Pattern/dp/B0BWTB8ZNH"
+    ],
+    "intent": "Commercial/product",
+    "note": "Custom baseball bedding with American flag/product comparables supports purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_176_2",
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-01",
+    "query": "personalized baseball American flag bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://ohaprints.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports personalized baseball flag bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_177_1",
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-02",
+    "query": "custom baseball glove bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://ohaprints.com/",
+      "https://www.etsy.com/market/baseball_bedspread",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Baseball glove bedding intent is supported; avoid confusing with actual sporting glove customization."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_177_2",
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-02",
+    "query": "personalized baseball glove bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://ohaprints.com/",
+      "https://www.etsy.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports custom baseball glove bedding purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_178_1",
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-03",
+    "query": "baseball flag glove bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://ohaprints.com/",
+      "https://www.etsy.com/market/baseball_bedspread",
+      "https://www.amazon.com/HOSIMA-Baseball-Comforter-Bedroom-Pattern/dp/B0BWTB8ZNH"
+    ],
+    "intent": "Commercial/product",
+    "note": "Baseball flag/glove bedding product intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_178_2",
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-03",
+    "query": "baseball glove American flag comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports baseball glove/flag comforter and bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_179_1",
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-04",
+    "query": "custom baseball home quote bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://ohaprints.com/",
+      "https://www.etsy.com/market/baseball_bedspread",
+      "https://www.pinterest.com/ideas/all-stars-baseball-themed-bed-sheets/905715423673/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Home quote exact modifier is narrow, while custom baseball bedding intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_179_2",
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-04",
+    "query": "baseball home quote comforter bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports baseball quote bedding purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_180_1",
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-05",
+    "query": "catcher American flag baseball bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/market/baseball_bedspread",
+      "https://www.amazon.com/HOSIMA-Baseball-Comforter-Bedroom-Pattern/dp/B0BWTB8ZNH",
+      "https://ohaprints.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Catcher/flag exact phrase is niche but baseball flag bedding intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_018_r5_180_2",
+    "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-05",
+    "query": "baseball catcher American flag comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T13:01:16+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports baseball catcher/flag bedding product intent."
+  }
+]

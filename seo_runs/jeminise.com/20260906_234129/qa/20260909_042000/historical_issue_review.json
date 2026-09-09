@@ -1,0 +1,72 @@
+[
+  {
+    "historical_issue_id": "R4-ISS-011-ENC",
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-02",
+    "historical_severity": "MINOR",
+    "r5_status": "PERSISTS",
+    "basis": "Source storefront title/H1 still contains replacement character U+FFFD and truncation in live theme."
+  },
+  {
+    "historical_issue_id": "R4-ISS-012-ENC",
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-03",
+    "historical_severity": "MINOR",
+    "r5_status": "PERSISTS",
+    "basis": "Source storefront title/H1 still contains replacement character U+FFFD and truncation in live theme."
+  },
+  {
+    "historical_issue_id": "R4-ISS-013-ENC",
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-04",
+    "historical_severity": "MINOR",
+    "r5_status": "PERSISTS",
+    "basis": "Source storefront title/H1 still contains replacement character U+FFFD and truncation in live theme."
+  },
+  {
+    "historical_issue_id": "R4-ISS-014-ENC",
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-05",
+    "historical_severity": "MINOR",
+    "r5_status": "PERSISTS",
+    "basis": "Source storefront title/H1 still contains replacement character U+FFFD and truncation in live theme."
+  },
+  {
+    "historical_issue_id": "R4-ISS-015-ENC",
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-06",
+    "historical_severity": "MINOR",
+    "r5_status": "PERSISTS",
+    "basis": "Source storefront title/H1 still contains replacement character U+FFFD and truncation in live theme."
+  },
+  {
+    "historical_issue_id": "R4-ISS-016-ENC",
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforter",
+    "historical_severity": "MINOR",
+    "r5_status": "PERSISTS",
+    "basis": "Source storefront title/H1 still contains replacement character U+FFFD and truncation in live theme."
+  },
+  {
+    "historical_issue_id": "R4-ISS-017-ENC",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-01",
+    "historical_severity": "MINOR",
+    "r5_status": "PERSISTS",
+    "basis": "Source storefront title/H1 still contains replacement character U+FFFD and truncation in live theme."
+  },
+  {
+    "historical_issue_id": "R4-ISS-018-ENC",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-02",
+    "historical_severity": "MINOR",
+    "r5_status": "PERSISTS",
+    "basis": "Source storefront title/H1 still contains replacement character U+FFFD and truncation in live theme."
+  },
+  {
+    "historical_issue_id": "R4-ISS-019-ENC",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-03",
+    "historical_severity": "MINOR",
+    "r5_status": "PERSISTS",
+    "basis": "Source storefront title/H1 still contains replacement character U+FFFD and truncation in live theme."
+  },
+  {
+    "historical_issue_id": "R4-ISS-020-ENC",
+    "product_key": "jeminise.com+christmas-bedding-quilt-soft-microfiber-holiday-bedsprea-design-04",
+    "historical_severity": "MINOR",
+    "r5_status": "PERSISTS",
+    "basis": "Source storefront title/H1 still contains replacement character U+FFFD and truncation in live theme."
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "historical_issue_id": "R4-ISS-001-BODY",
+    "product_key": "jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 replaces the generic r4 template with product-specific customer-facing copy; new size/editorial defects are tracked separately."
+  },
+  {
+    "historical_issue_id": "R4-ISS-002-BODY",
+    "product_key": "jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 replaces the generic r4 template with product-specific customer-facing copy; new size/editorial defects are tracked separately."
+  },
+  {
+    "historical_issue_id": "R4-ISS-003-BODY",
+    "product_key": "jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 replaces the generic r4 template with product-specific customer-facing copy; new size/editorial defects are tracked separately."
+  },
+  {
+    "historical_issue_id": "R4-ISS-004-BODY",
+    "product_key": "jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 replaces the generic r4 template with product-specific customer-facing copy; new size/editorial defects are tracked separately."
+  },
+  {
+    "historical_issue_id": "R4-ISS-005-BODY",
+    "product_key": "jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 replaces the generic r4 template with product-specific customer-facing copy; new size/editorial defects are tracked separately."
+  },
+  {
+    "historical_issue_id": "R4-ISS-006-BODY",
+    "product_key": "jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 replaces the generic r4 template with product-specific customer-facing copy; new size/editorial defects are tracked separately."
+  },
+  {
+    "historical_issue_id": "R4-ISS-007-BODY",
+    "product_key": "jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 replaces the generic r4 template with product-specific customer-facing copy; new size/editorial defects are tracked separately."
+  },
+  {
+    "historical_issue_id": "R4-ISS-008-BODY",
+    "product_key": "jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 replaces the generic r4 template with product-specific customer-facing copy; new size/editorial defects are tracked separately."
+  },
+  {
+    "historical_issue_id": "R4-ISS-009-BODY",
+    "product_key": "jeminise.com+chicken-pattern-quilt-set-animal-patchwork-farmhouse-quilt-set",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 replaces the generic r4 template with product-specific customer-facing copy; new size/editorial defects are tracked separately."
+  },
+  {
+    "historical_issue_id": "R4-ISS-010-BODY",
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 replaces the generic r4 template with product-specific customer-facing copy; new size/editorial defects are tracked separately."
+  },
+  {
+    "historical_issue_id": "R4-ISS-001-CANN",
+    "product_key": "jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 Keyword_Map documents unique motif, collection/internal-link role and explicit sibling exclusions."
+  },
+  {
+    "historical_issue_id": "R4-ISS-003-CANN",
+    "product_key": "jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 Keyword_Map documents unique motif, collection/internal-link role and explicit sibling exclusions."
+  },
+  {
+    "historical_issue_id": "R4-ISS-004-CANN",
+    "product_key": "jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 Keyword_Map documents unique motif, collection/internal-link role and explicit sibling exclusions."
+  },
+  {
+    "historical_issue_id": "R4-ISS-005-CANN",
+    "product_key": "jeminise.com+cat-patchwork-quilt-set-animal-pattern-bedding-cat-pattern-quilt-set",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 Keyword_Map documents unique motif, collection/internal-link role and explicit sibling exclusions."
+  },
+  {
+    "historical_issue_id": "R4-ISS-006-CANN",
+    "product_key": "jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 Keyword_Map documents unique motif, collection/internal-link role and explicit sibling exclusions."
+  },
+  {
+    "historical_issue_id": "R4-ISS-007-CANN",
+    "product_key": "jeminise.com+celtic-and-fantasy-quilt-set-with-twisting-tree-trunk-and-exposed-roots-c7b1460bad-c7b1460bad",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 Keyword_Map documents unique motif, collection/internal-link role and explicit sibling exclusions."
+  },
+  {
+    "historical_issue_id": "R4-ISS-008-CANN",
+    "product_key": "jeminise.com+celtic-mythology-tree-of-life-quilt-set-with-celtic-knotwork-border-12786aba7e-12786aba7e",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "R7 Keyword_Map documents unique motif, collection/internal-link role and explicit sibling exclusions."
+  },
+  {
+    "historical_issue_id": "R4-ISS-003-SERP",
+    "product_key": "jeminise.com+cardinals-perched-beside-decorated-christmas-tree-patchwork-winter-quilt-7cd7bc46a0-7cd7bc46a0",
+    "historical_severity": "MAJOR",
+    "r7_status": "RESOLVED",
+    "basis": "Fresh commercial memorial-cardinal and finished Christmas-cardinal product URLs were read."
+  },
+  {
+    "historical_issue_id": "R4-ISS-004-SERP",
+    "product_key": "jeminise.com+cardinals-perched-on-branch-with-roses-patchwork-winter-quilt-21ac904cd7-21ac904cd7",
+    "historical_severity": "MAJOR",
+    "r7_status": "PERSISTS",
+    "basis": "Commercial cardinal/memorial intent exists, but exact roses + memorial + quilt-set evidence remains weak."
+  },
+  {
+    "historical_issue_id": "R4-ISS-001-HYP",
+    "product_key": "jeminise.com+autumn-cardinals-perched-above-large-sunflowers-quilt-with-cardinal-birds-9a3b408b20-9a3b408b20",
+    "historical_severity": "LIMITATION",
+    "r7_status": "PERSISTS",
+    "basis": "R7 honestly remains HYPOTHESIS_ONLY without volume evidence."
+  },
+  {
+    "historical_issue_id": "R4-ISS-006-HYP",
+    "product_key": "jeminise.com+cat-quilt-set-cat-patchwork-style-printed-bedding-animal-patchwork",
+    "historical_severity": "LIMITATION",
+    "r7_status": "PERSISTS",
+    "basis": "R7 honestly remains HYPOTHESIS_ONLY without volume evidence."
+  },
+  {
+    "historical_issue_id": "R4-ISS-002-ENC",
+    "product_key": "jeminise.com+bright-teal-yellow-softball-comforter-set-premium-sports-theme",
+    "historical_severity": "MINOR",
+    "r7_status": "PERSISTS",
+    "basis": "Fresh live H1 still contains the replacement character/truncation."
+  },
+  {
+    "historical_issue_id": "R4-ISS-010-ENC",
+    "product_key": "jeminise.com+christian-bedding-set-inspirational-bible-verse-comforte-design-01",
+    "historical_severity": "MINOR",
+    "r7_status": "PERSISTS",
+    "basis": "Fresh live H1 still contains the replacement character/truncation."
+  }
+]

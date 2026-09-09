@@ -1,0 +1,322 @@
+[
+  {
+    "serp_id": "serp_qa_batch_013_r4_121_1",
+    "product_key": "jeminise.com+custom-trucking-semi-truck-breaking-through-stone-wall-vintage-comforter-28a367022b-28a367022b",
+    "query": "vintage blue semi truck comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.wayfair.com/",
+      "https://jeminise.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Truck bedding intent is supported; exact vintage blue/stone-wall wording is niche."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_121_2",
+    "product_key": "jeminise.com+custom-trucking-semi-truck-breaking-through-stone-wall-vintage-comforter-28a367022b-28a367022b",
+    "query": "semi truck breaking through wall comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://jeminise.com/collections/couples-family-blankets",
+      "https://www.walmart.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports broader semi-truck bedding/blanket intent more than exact wall phrase."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_122_1",
+    "product_key": "jeminise.com+custom-trucking-semi-truck-centered-on-chevron-background-comforter-cfef0beab9-cfef0beab9",
+    "query": "blue semi truck chevron comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.wayfair.com/",
+      "https://www.spoonflower.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Exact chevron/truck bedding support is weak; broader truck bedding exists."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_122_2",
+    "product_key": "jeminise.com+custom-trucking-semi-truck-centered-on-chevron-background-comforter-cfef0beab9-cfef0beab9",
+    "query": "semi truck bedding comforter set blue",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.wayfair.com/keyword.php?keyword=semi+truck+bedding",
+      "https://www.amazon.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports semi-truck/truck bedding product intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_123_1",
+    "product_key": "jeminise.com+custom-trucking-semi-truck-on-metallic-mesh-background-comforter-21d8f6bab6-21d8f6bab6",
+    "query": "metallic mesh semi truck comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/Printluxe-Trucker-Tapestry-Comforters-Bedspreads/dp/B0DFQ9TMLY",
+      "https://www.wayfair.com/keyword.php?keyword=semi+truck+bedding",
+      "https://jeminise.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Semi-truck comforter intent is supported, but metallic mesh exact phrase collides with non-bedding mesh products."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_123_2",
+    "product_key": "jeminise.com+custom-trucking-semi-truck-on-metallic-mesh-background-comforter-21d8f6bab6-21d8f6bab6",
+    "query": "custom trucker semi truck comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/Printluxe-Trucker-Tapestry-Comforters-Bedspreads/dp/B0DFQ9TMLY",
+      "https://www.etsy.com/market/trucks_fleece",
+      "https://www.zazzle.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports custom trucker bedding/blanket purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_124_1",
+    "product_key": "jeminise.com+custom-trucking-semi-truck-on-textured-metallic-background-comforter-5ee1903c53-5ee1903c53",
+    "query": "textured metallic semi truck comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/Printluxe-Trucker-Tapestry-Comforters-Bedspreads/dp/B0DFQ9TMLY",
+      "https://www.wayfair.com/keyword.php?keyword=semi+truck+bedding",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Exact textured metallic phrase is niche; truck comforter intent has broader support."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_124_2",
+    "product_key": "jeminise.com+custom-trucking-semi-truck-on-textured-metallic-background-comforter-5ee1903c53-5ee1903c53",
+    "query": "semi truck comforter set metallic",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/Printluxe-Trucker-Tapestry-Comforters-Bedspreads/dp/B0DFQ9TMLY",
+      "https://www.wayfair.com/keyword.php?keyword=semi+truck+bedding",
+      "https://www.fineartamerica.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports semi-truck comforter/duvet product intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_125_1",
+    "product_key": "jeminise.com+custom-trucking-semi-truck-under-starry-night-sky-comforter-6bbe1b0cd5-6bbe1b0cd5",
+    "query": "starry night semi truck comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.wayfair.com/",
+      "https://www.homedepot.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Starry-night exact phrase is niche and can drift to generic starry bedding; semi truck modifier requires product-specific evidence."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_125_2",
+    "product_key": "jeminise.com+custom-trucking-semi-truck-under-starry-night-sky-comforter-6bbe1b0cd5-6bbe1b0cd5",
+    "query": "semi truck night sky blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/market/trucks_fleece",
+      "https://www.ebay.com/",
+      "https://www.zazzle.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports truck blanket/gift intent with weaker exact night-sky demand."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_126_1",
+    "product_key": "jeminise.com+cardinal-christmas-quilt-set-7237701d00-7237701d00",
+    "query": "cardinal Christmas quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.lowes.com/pd/MarCielo-C79-3-Piece-Winter-Cardinals-Christmas-Queen-Size-Quilt-Bedspread-Set/6930609",
+      "https://us.shein.com/HappyHeartedGifts-Cardinal-Quilt-Set-U2013-Christmas-Winter-Bedding-With-Cardinals-And-Snowy-Trees-Cozy-Lightweight-Bedspread-For-All-Seasons-Cardinal-Quilt-10-p-352802969.html",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Cardinal Christmas quilt/bedding intent is strongly supported by product comparables."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_126_2",
+    "product_key": "jeminise.com+cardinal-christmas-quilt-set-7237701d00-7237701d00",
+    "query": "Christmas cardinal bedding quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/Christmas-Snowman-Bedspread-Coverlet-Microfiber/dp/B07WPHBNWS",
+      "https://www.lowes.com/pd/MarCielo-C79-3-Piece-Winter-Cardinals-Christmas-Queen-Size-Quilt-Bedspread-Set/6930609",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Christmas cardinal bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_127_1",
+    "product_key": "jeminise.com+custom-wildlife-wolf-head-close-up-portrait-comforter-3233b9edb7-3233b9edb7",
+    "query": "colorful wolf head quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/market/wolf_queen_bedding_set",
+      "https://www.pinterest.com/pin/wolf-head-quilt-wall-art--21814379437671248/",
+      "https://www.ebay.co.uk/b/bn_95788689"
+    ],
+    "intent": "Commercial/product",
+    "note": "Wolf bedding/quilt intent is supported; colorful wolf head exact phrase is narrower."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_127_2",
+    "product_key": "jeminise.com+custom-wildlife-wolf-head-close-up-portrait-comforter-3233b9edb7-3233b9edb7",
+    "query": "wolf head quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/market/wolf_queen_bedding_set",
+      "https://www.ebay.co.uk/b/bn_95788689",
+      "https://www.temu.com/bh/wolf-bedding-5020228697451-s.html"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports wolf bedding and quilt product intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_128_1",
+    "product_key": "jeminise.com+custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d",
+    "query": "geometric wolf head quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.spoonflower.com/en/home-decor/bedding/duvet-cover/6720129-geometric-wolf-arrows-greystone-geo-wolves-woodland-animals-baby-boy-by-gingerlous",
+      "https://www.etsy.com/market/wolf_queen_bedding_set",
+      "https://www.pinterest.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Geometric wolf bedding support exists, with some results as duvet/fabric rather than finished quilt."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_128_2",
+    "product_key": "jeminise.com+custom-wildlife-wolf-head-close-up-with-geometric-comforter-f005bbb79d-f005bbb79d",
+    "query": "geometric wolf bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.spoonflower.com/en/home-decor/bedding/duvet-cover/6720129-geometric-wolf-arrows-greystone-geo-wolves-woodland-animals-baby-boy-by-gingerlous",
+      "https://www.etsy.com/market/wolf_queen_bedding_set",
+      "https://www.temu.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports geometric wolf bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_129_1",
+    "product_key": "jeminise.com+custom-wildlife-wolf-head-with-feathers-in-profile-comforter-0b1ab59a17-0b1ab59a17",
+    "query": "profile wolf feathers quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/market/wolf_queen_bedding_set",
+      "https://www.pinterest.com/ideas/wolf-quilt-kit/928734450929/",
+      "https://www.ebay.co.uk/b/bn_95788689"
+    ],
+    "intent": "Commercial/product",
+    "note": "Exact profile/feathers phrasing is niche; wolf quilt/bedding intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_129_2",
+    "product_key": "jeminise.com+custom-wildlife-wolf-head-with-feathers-in-profile-comforter-0b1ab59a17-0b1ab59a17",
+    "query": "wolf feather quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/market/wolf_queen_bedding_set",
+      "https://www.pinterest.com/",
+      "https://www.temu.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports wolf bedding; feather modifier is weaker."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_130_1",
+    "product_key": "jeminise.com+custom-wolf-head-centered-in-dreamcatcher-comforter-be6b37a3e1-be6b37a3e1",
+    "query": "wolf dreamcatcher quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.pinterest.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Wolf dreamcatcher blanket/quilt product intent is supported by marketplace comparables."
+  },
+  {
+    "serp_id": "serp_qa_batch_013_r4_130_2",
+    "product_key": "jeminise.com+custom-wolf-head-centered-in-dreamcatcher-comforter-be6b37a3e1-be6b37a3e1",
+    "query": "dreamcatcher wolf bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:37:51+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/",
+      "https://www.temu.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports dreamcatcher wolf bedding intent."
+  }
+]

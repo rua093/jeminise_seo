@@ -1,0 +1,30 @@
+{
+  "qa_run_id": "20260909_120000",
+  "sheetnames": [
+    "QA_Summary",
+    "QA_Products",
+    "QA_Criteria",
+    "QA_Images",
+    "QA_Issues"
+  ],
+  "products": 10,
+  "images": 50,
+  "criteria": 110,
+  "keywords": 40,
+  "buyers": 10,
+  "evidence": 10,
+  "source_sha256_before": "95AF231168F94DD35DBCB3B374F40DB2CE7EE17A768C22FF0FB1D99BE48C5C5A",
+  "source_sha256_after": "95AF231168F94DD35DBCB3B374F40DB2CE7EE17A768C22FF0FB1D99BE48C5C5A",
+  "unique_qa_image_keys": 50,
+  "unique_issue_ids": 20,
+  "product_rubric_weight_per_product": 100,
+  "image_rubric_weight_per_image": 100,
+  "formula_errors_scan": "no #REF/#NAME?/#DIV/0! tokens; formulas set to auto/full recalc",
+  "logic_tests": {
+    "100_plus_critical": "QA_FAIL",
+    "90_full_no_blocker": "QA_PASS",
+    "72_80_assessed": "QA_INCOMPLETE / score range 72-92"
+  },
+  "awaiting_confirmation": true,
+  "output_workbook_sha256": "A176BE0DF7ADCAF21F30EBB651175BC5906561B518CCE8A047BB5423B787B205"
+}

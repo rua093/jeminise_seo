@@ -1,0 +1,302 @@
+[
+  {
+    "serp_id": "serp_qa_batch_006_r5_051_1",
+    "product_key": "jeminise.com+custom-christian-scripture-floral-blanket-machine-washable-d10",
+    "query": "personalized Christian scripture floral blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial product results support personalized Christian/scripture blanket intent; exact floral wording is narrower."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_051_2",
+    "product_key": "jeminise.com+custom-christian-scripture-floral-blanket-machine-washable-d10",
+    "query": "custom Christian name Bible verse blanket floral",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.zazzle.com/",
+      "https://www.callie.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial product comparators support name + Bible verse blanket language."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_052_1",
+    "product_key": "jeminise.com+custom-emily-god-says-i-am-blanket-machine-washable-d9",
+    "query": "personalized Emily God Says I Am blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial results support God Says I Am blanket broadly; Emily is mostly a sample-name modifier."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_052_2",
+    "product_key": "jeminise.com+custom-emily-god-says-i-am-blanket-machine-washable-d9",
+    "query": "blue floral God Says I Am personalized blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.zazzle.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator query supports color/floral Christian blanket intent with weaker exact demand proof."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_053_1",
+    "product_key": "jeminise.com+custom-exploding-soccer-ball-comforter-set-machine-washable-a10",
+    "query": "custom exploding soccer ball comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.ebay.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Soccer bedding exists, but exact exploding-ball comforter SERP is mixed/noisy."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_053_2",
+    "product_key": "jeminise.com+custom-exploding-soccer-ball-comforter-set-machine-washable-a10",
+    "query": "custom soccer ball comforter set name",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://ohaprints.com/",
+      "https://www.wayfair.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial comparators support custom soccer bedding with name/text."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_054_1",
+    "product_key": "jeminise.com+custom-fiery-soccer-ball-custom-name-comforter-set-machin-design-5",
+    "query": "custom fiery soccer ball comforter set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Fire/fiery soccer bedding evidence is narrower than broad soccer bedding."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_054_2",
+    "product_key": "jeminise.com+custom-fiery-soccer-ball-custom-name-comforter-set-machin-design-5",
+    "query": "personalized soccer bedding set name",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://ohaprints.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial custom soccer bedding intent is present."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_055_1",
+    "product_key": "jeminise.com+custom-flaming-soccer-ball-with-custom-name-comforter-set-a12",
+    "query": "custom red flaming soccer ball comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://ohaprints.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial comparators support flaming/fire soccer custom bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_055_2",
+    "product_key": "jeminise.com+custom-flaming-soccer-ball-with-custom-name-comforter-set-a12",
+    "query": "personalized soccer comforter set number name",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Custom name/number soccer bedding intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_056_1",
+    "product_key": "jeminise.com+custom-flaming-soccer-ball-with-name-comforter-set-machine-washable",
+    "query": "custom MICHAEL 07 soccer bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.ebay.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "The sample-name query is too narrow; results mainly support broader custom soccer bedding."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_056_2",
+    "product_key": "jeminise.com+custom-flaming-soccer-ball-with-name-comforter-set-machine-washable",
+    "query": "custom flaming soccer bedding set name number",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://ohaprints.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports custom soccer bedding; exact sample text should not be the primary demand signal."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_057_1",
+    "product_key": "jeminise.com+custom-floral-butterfly-inspirational-blanket-machine-wash-design-8",
+    "query": "personalized Proverbs 31 floral butterfly blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial Christian/proverbs/floral blanket intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_057_2",
+    "product_key": "jeminise.com+custom-floral-butterfly-inspirational-blanket-machine-wash-design-8",
+    "query": "custom floral butterfly inspirational blanket name",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.zazzle.com/",
+      "https://www.callie.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports custom inspirational blanket with name and floral/butterfly language."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_058_1",
+    "product_key": "jeminise.com+custom-floral-butterfly-inspirational-blanket-machine-washable-d3",
+    "query": "personalized floral Bible verse blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Broad personalized Bible verse blanket intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_058_2",
+    "product_key": "jeminise.com+custom-floral-butterfly-inspirational-blanket-machine-washable-d3",
+    "query": "custom floral butterfly Bible verse blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.zazzle.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports floral/butterfly Bible verse blanket intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_059_1",
+    "product_key": "jeminise.com+custom-floral-cross-bible-verse-blanket-machine-washable-d13",
+    "query": "custom purple floral cross Bible verse blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial floral cross/Bible verse blanket intent is supported."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_059_2",
+    "product_key": "jeminise.com+custom-floral-cross-bible-verse-blanket-machine-washable-d13",
+    "query": "personalized floral cross Bible verse blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.callie.com/",
+      "https://www.walmart.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports personalized Christian floral cross blanket language."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_060_1",
+    "product_key": "jeminise.com+custom-floral-cross-with-butterflies-blanket-machine-washable-d6",
+    "query": "custom floral cross butterfly Bible verse blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Commercial intent is visible, though exact cross+butterfly phrasing is niche."
+  },
+  {
+    "serp_id": "serp_qa_batch_006_r5_060_2",
+    "product_key": "jeminise.com+custom-floral-cross-with-butterflies-blanket-machine-washable-d6",
+    "query": "Christian floral cross butterfly blanket custom name",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T11:58:20+07:00",
+    "result_urls_read": [
+      "https://www.zazzle.com/",
+      "https://printtoucan.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Christian custom-name blanket with floral/cross motifs."
+  }
+]

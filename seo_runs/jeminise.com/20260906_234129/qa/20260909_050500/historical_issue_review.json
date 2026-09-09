@@ -1,0 +1,9 @@
+[
+  {
+    "historical_issue_id": "R4-LIM-SNAPSHOT",
+    "product_key": "",
+    "historical_severity": "LIMITATION",
+    "r5_status": "PERSISTS",
+    "basis": "Rendered HTML snapshot comparison remains an informational limitation; does not indicate an SEO defect."
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "product_weight_total": 100,
+  "image_weight_total": 100,
+  "products_count": 10,
+  "criteria_count": 110,
+  "images_count": 68,
+  "keyword_rows_count": 40,
+  "buyer_rows_count": 10,
+  "evidence_rows_count": 10,
+  "unique_qa_image_keys": 68,
+  "logic_100_with_critical": "QA_FAIL",
+  "logic_90_full_no_blocker": "QA_PASS",
+  "logic_72_on_80": {
+    "status": "QA_INCOMPLETE",
+    "range": "72-92"
+  },
+  "all_pages_read": true,
+  "source_snapshot_hash_match": true,
+  "source_post_hash_match": true,
+  "formula_errors": 0
+}

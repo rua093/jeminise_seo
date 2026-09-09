@@ -1,0 +1,35 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "20260909_134616",
+  "batch_id": "qa_batch_027_r4",
+  "shop": "jeminise.com",
+  "run_id": "20260906_234129",
+  "market": "United States",
+  "language": "English",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_027_r4\\SEO_Product_Optimization_qa_batch_027_r4.xlsx",
+  "source_workbook_sha256": "5413FA231BB7DD63F0FE199F037919B7C6FF6735B05C2BD70785F2C432AB6B34",
+  "source_post_sha256": "5413FA231BB7DD63F0FE199F037919B7C6FF6735B05C2BD70785F2C432AB6B34",
+  "source_snapshot": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_134616\\source_snapshot\\SEO_Product_Optimization_qa_batch_027_r4.xlsx",
+  "product_keys": [
+    "jeminise.com+personalized-christian-woman-affirmation-bible-verse-throw-blanket",
+    "jeminise.com+personalized-christian-woman-scripture-photo-throw-blanket-vintage",
+    "jeminise.com+personalized-colorful-celtic-tree-of-life-quilt-sets-machine-washable",
+    "jeminise.com+personalized-colorful-celtic-yggdrasil-tree-quilt-sets-vintage",
+    "jeminise.com+personalized-colorful-desert-rv-sunset-scene-quilt-sets-style-9",
+    "jeminise.com+personalized-colorful-tree-of-life-quilts-yggdrasil-quilt-king",
+    "jeminise.com+personalized-colorful-yggdrasil-tree-of-life-quilt-sets-yggdrasil",
+    "jeminise.com+personalized-couple-hugging-close-up-portrait-quilt-with-photo-7a4978e57a-7a4978e57a",
+    "jeminise.com+personalized-cozy-room-sophia-bookworm-reading-girl-blanket-book",
+    "jeminise.com+personalized-dark-haired-girl-reading-book-throw-blanket-book-lover"
+  ],
+  "expected_products": 10,
+  "expected_images": 70,
+  "status": "COMPLETE",
+  "awaiting_confirmation": true,
+  "artifact_paths": {
+    "xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_134616\\SEO_QA_qa_batch_027_r4.xlsx",
+    "md": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_134616\\SEO_QA_qa_batch_027_r4.md",
+    "qa_dataset": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_134616\\qa_dataset.json"
+  },
+  "created_at": "2026-09-09T13:46:17+07:00"
+}

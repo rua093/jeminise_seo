@@ -1,0 +1,43 @@
+{
+  "errors": [],
+  "logic_tests": {
+    "100_plus_critical": "QA_FAIL",
+    "90_full_no_blocker": "QA_PASS",
+    "72_of_80": {
+      "range": "72-92",
+      "status": "QA_INCOMPLETE"
+    }
+  },
+  "workbook_sha256": "89D5E76F032D4DCFB2D83391E2BDAFA83CD5EB59EA7580742EBD19D36129AEEA",
+  "markdown_sha256": "705A03117EEE85BF066B7BEF451BCFB4D8087AB658154D864680C890D920BD1F",
+  "source_sha256_after": "F8E626867914229BF74FCFB13F4746B3103E08697DD69005E891661C8418B71D",
+  "old_qa_dir_exists": true,
+  "rendered_sheets_exists": false,
+  "workbook_sha256_after_cache": "F90A68268C121379BC7A6225CADA16E7459AA03A2940FF14D41CC12C85071EBF",
+  "markdown_sha256_final": "705A03117EEE85BF066B7BEF451BCFB4D8087AB658154D864680C890D920BD1F",
+  "preview_dir": "C:\\Users\\nguye\\AppData\\Local\\Temp\\qa_batch004_preview_jso2jcev",
+  "formula_error_tokens": [],
+  "data_only_summary": {
+    "batch_average": 87.25,
+    "batch_result": "NEEDS_REVISION",
+    "status_counts": "PASS=3; REVISE=7; FAIL=0; INCOMPLETE=0"
+  },
+  "data_only_image_sample": {
+    "W2": 100,
+    "X2": 100,
+    "Y2": 1
+  },
+  "data_only_i1_sample": {
+    "H11": 1,
+    "I11": 2,
+    "J11": 2
+  },
+  "data_only_criteria_sample": {
+    "I11": 20,
+    "J11": 20
+  },
+  "old_active_output_exists": false,
+  "old_output_moved_to": "resutls/jeminise.com/20260906_234129/qa/_superseded/20260909_043000",
+  "source_sha256_final": "F8E626867914229BF74FCFB13F4746B3103E08697DD69005E891661C8418B71D",
+  "no_rendered_sheets_final": true
+}

@@ -1,0 +1,3500 @@
+{
+  "QA_Summary": [
+    {
+      "metric": "rubric_version",
+      "value": "prompt_qa.md v1.0; meta description 145-165 is editorial guidance only",
+      "definition": "Rubric used."
+    },
+    {
+      "metric": "source_workbook",
+      "value": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx",
+      "definition": "Frozen source; not edited."
+    },
+    {
+      "metric": "source_sha256_at_freeze_and_handoff",
+      "value": "8FA661F5519F5A4F9BC2695B67213E4F1BA59902DF0EE6E7E96A47799FDF7905",
+      "definition": "Hash before/after QA; snapshot matched."
+    },
+    {
+      "metric": "qa_run_id",
+      "value": "20260909_130642",
+      "definition": "New independent QA run."
+    },
+    {
+      "metric": "batch_id",
+      "value": "qa_batch_019_r5",
+      "definition": "Inventory positions 181-190 only."
+    },
+    {
+      "metric": "products_checked",
+      "value": 10,
+      "definition": "Locked by product_key."
+    },
+    {
+      "metric": "images_checked",
+      "value": "40/40",
+      "definition": "Full image coverage."
+    },
+    {
+      "metric": "keyword_rows_checked",
+      "value": 40,
+      "definition": "Scoped Keyword_Map rows."
+    },
+    {
+      "metric": "buyer_rows_checked",
+      "value": 10,
+      "definition": "Scoped buyer rows."
+    },
+    {
+      "metric": "batch_final_score",
+      "value": 89.75,
+      "definition": "Average final score."
+    },
+    {
+      "metric": "batch_result",
+      "value": "PASSED",
+      "definition": "All products must pass."
+    },
+    {
+      "metric": "status_counts",
+      "value": {
+        "QA_PASS": 10
+      },
+      "definition": "Status counts."
+    },
+    {
+      "metric": "issue_counts",
+      "value": {
+        "MINOR": 10,
+        "LIMITATION": 1
+      },
+      "definition": "Severity counts."
+    },
+    {
+      "metric": "historical_admin_export",
+      "value": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+      "definition": "Restored from git f3e38d54."
+    },
+    {
+      "metric": "current_admin_export",
+      "value": "97AA8DC283CFC927BF3B6F41A3EA8926C96C0723B6942CF7C1D147CD854FBA83",
+      "definition": "Current export kept separate."
+    },
+    {
+      "metric": "xlsx_status",
+      "value": "COMPLETE",
+      "definition": "Five-sheet workbook."
+    }
+  ],
+  "QA_Products": [
+    {
+      "inventory_position": 181,
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "revision": "r5",
+      "verified_points": 92.5,
+      "assessed_weight": 100,
+      "score_lower_bound": 92.5,
+      "score_upper_bound": 92.5,
+      "final_score": 92.5,
+      "qa_status": "QA_PASS",
+      "keyword_evidence_level": "SERP_ONLY",
+      "images_expected": 4,
+      "images_checked": 4,
+      "image_inventory_complete": true,
+      "image_coverage": 1.0,
+      "critical_count": 0,
+      "major_count": 0,
+      "minor_count": 1,
+      "limitation_count": 0,
+      "issue_refs": [
+        "B19R5-MIN-001"
+      ],
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+        "serp_qa_batch_019_r5_181_1",
+        "live_pages",
+        "customizer_fields_audit.json"
+      ]
+    },
+    {
+      "inventory_position": 182,
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "revision": "r5",
+      "verified_points": 92.5,
+      "assessed_weight": 100,
+      "score_lower_bound": 92.5,
+      "score_upper_bound": 92.5,
+      "final_score": 92.5,
+      "qa_status": "QA_PASS",
+      "keyword_evidence_level": "SERP_ONLY",
+      "images_expected": 4,
+      "images_checked": 4,
+      "image_inventory_complete": true,
+      "image_coverage": 1.0,
+      "critical_count": 0,
+      "major_count": 0,
+      "minor_count": 1,
+      "limitation_count": 0,
+      "issue_refs": [
+        "B19R5-MIN-002"
+      ],
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+        "serp_qa_batch_019_r5_182_1",
+        "live_pages",
+        "customizer_fields_audit.json"
+      ]
+    },
+    {
+      "inventory_position": 183,
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "revision": "r5",
+      "verified_points": 92.5,
+      "assessed_weight": 100,
+      "score_lower_bound": 92.5,
+      "score_upper_bound": 92.5,
+      "final_score": 92.5,
+      "qa_status": "QA_PASS",
+      "keyword_evidence_level": "SERP_ONLY",
+      "images_expected": 4,
+      "images_checked": 4,
+      "image_inventory_complete": true,
+      "image_coverage": 1.0,
+      "critical_count": 0,
+      "major_count": 0,
+      "minor_count": 1,
+      "limitation_count": 0,
+      "issue_refs": [
+        "B19R5-MIN-003"
+      ],
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+        "serp_qa_batch_019_r5_183_1",
+        "live_pages",
+        "customizer_fields_audit.json"
+      ]
+    },
+    {
+      "inventory_position": 184,
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "revision": "r5",
+      "verified_points": 87.5,
+      "assessed_weight": 100,
+      "score_lower_bound": 87.5,
+      "score_upper_bound": 87.5,
+      "final_score": 87.5,
+      "qa_status": "QA_PASS",
+      "keyword_evidence_level": "SERP_ONLY",
+      "images_expected": 4,
+      "images_checked": 4,
+      "image_inventory_complete": true,
+      "image_coverage": 1.0,
+      "critical_count": 0,
+      "major_count": 0,
+      "minor_count": 1,
+      "limitation_count": 0,
+      "issue_refs": [
+        "B19R5-MIN-004"
+      ],
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+        "serp_qa_batch_019_r5_184_1",
+        "live_pages",
+        "customizer_fields_audit.json"
+      ]
+    },
+    {
+      "inventory_position": 185,
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "revision": "r5",
+      "verified_points": 87.5,
+      "assessed_weight": 100,
+      "score_lower_bound": 87.5,
+      "score_upper_bound": 87.5,
+      "final_score": 87.5,
+      "qa_status": "QA_PASS",
+      "keyword_evidence_level": "SERP_ONLY",
+      "images_expected": 4,
+      "images_checked": 4,
+      "image_inventory_complete": true,
+      "image_coverage": 1.0,
+      "critical_count": 0,
+      "major_count": 0,
+      "minor_count": 1,
+      "limitation_count": 0,
+      "issue_refs": [
+        "B19R5-MIN-005"
+      ],
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+        "serp_qa_batch_019_r5_185_1",
+        "live_pages",
+        "customizer_fields_audit.json"
+      ]
+    },
+    {
+      "inventory_position": 186,
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "revision": "r5",
+      "verified_points": 92.5,
+      "assessed_weight": 100,
+      "score_lower_bound": 92.5,
+      "score_upper_bound": 92.5,
+      "final_score": 92.5,
+      "qa_status": "QA_PASS",
+      "keyword_evidence_level": "SERP_ONLY",
+      "images_expected": 4,
+      "images_checked": 4,
+      "image_inventory_complete": true,
+      "image_coverage": 1.0,
+      "critical_count": 0,
+      "major_count": 0,
+      "minor_count": 1,
+      "limitation_count": 0,
+      "issue_refs": [
+        "B19R5-MIN-006"
+      ],
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+        "serp_qa_batch_019_r5_186_1",
+        "live_pages",
+        "customizer_fields_audit.json"
+      ]
+    },
+    {
+      "inventory_position": 187,
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "revision": "r5",
+      "verified_points": 92.5,
+      "assessed_weight": 100,
+      "score_lower_bound": 92.5,
+      "score_upper_bound": 92.5,
+      "final_score": 92.5,
+      "qa_status": "QA_PASS",
+      "keyword_evidence_level": "SERP_ONLY",
+      "images_expected": 4,
+      "images_checked": 4,
+      "image_inventory_complete": true,
+      "image_coverage": 1.0,
+      "critical_count": 0,
+      "major_count": 0,
+      "minor_count": 1,
+      "limitation_count": 0,
+      "issue_refs": [
+        "B19R5-MIN-007"
+      ],
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+        "serp_qa_batch_019_r5_187_1",
+        "live_pages",
+        "customizer_fields_audit.json"
+      ]
+    },
+    {
+      "inventory_position": 188,
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "revision": "r5",
+      "verified_points": 87.5,
+      "assessed_weight": 100,
+      "score_lower_bound": 87.5,
+      "score_upper_bound": 87.5,
+      "final_score": 87.5,
+      "qa_status": "QA_PASS",
+      "keyword_evidence_level": "SERP_ONLY",
+      "images_expected": 4,
+      "images_checked": 4,
+      "image_inventory_complete": true,
+      "image_coverage": 1.0,
+      "critical_count": 0,
+      "major_count": 0,
+      "minor_count": 1,
+      "limitation_count": 0,
+      "issue_refs": [
+        "B19R5-MIN-008"
+      ],
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+        "serp_qa_batch_019_r5_188_1",
+        "live_pages",
+        "customizer_fields_audit.json"
+      ]
+    },
+    {
+      "inventory_position": 189,
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "revision": "r5",
+      "verified_points": 87.5,
+      "assessed_weight": 100,
+      "score_lower_bound": 87.5,
+      "score_upper_bound": 87.5,
+      "final_score": 87.5,
+      "qa_status": "QA_PASS",
+      "keyword_evidence_level": "SERP_ONLY",
+      "images_expected": 4,
+      "images_checked": 4,
+      "image_inventory_complete": true,
+      "image_coverage": 1.0,
+      "critical_count": 0,
+      "major_count": 0,
+      "minor_count": 1,
+      "limitation_count": 0,
+      "issue_refs": [
+        "B19R5-MIN-009"
+      ],
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+        "serp_qa_batch_019_r5_189_1",
+        "live_pages",
+        "customizer_fields_audit.json"
+      ]
+    },
+    {
+      "inventory_position": 190,
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "url": "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "revision": "r5",
+      "verified_points": 85.0,
+      "assessed_weight": 100,
+      "score_lower_bound": 85.0,
+      "score_upper_bound": 85.0,
+      "final_score": 85.0,
+      "qa_status": "QA_PASS",
+      "keyword_evidence_level": "SERP_ONLY",
+      "images_expected": 4,
+      "images_checked": 4,
+      "image_inventory_complete": true,
+      "image_coverage": 1.0,
+      "critical_count": 0,
+      "major_count": 0,
+      "minor_count": 1,
+      "limitation_count": 0,
+      "issue_refs": [
+        "B19R5-MIN-010"
+      ],
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+        "serp_qa_batch_019_r5_190_1",
+        "live_pages",
+        "customizer_fields_audit.json"
+      ]
+    }
+  ],
+  "QA_Criteria": [
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "P1",
+      "weight": 15,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 15.0,
+      "assessed_weight": 15,
+      "reason": "FULL: source workbook, product JSON and direct image checks support the product identity; verified motif: custom baseball glove name bedding with baseball glove and name artwork.",
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "P2",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: product type/options/personalization were checked against live JSON, admin export and customizer audit: customizer root present without extracted controls.",
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+        "customizer_fields_audit.json",
+        "live_pages"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "K1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: primary keyword 'custom baseball glove name bedding' was checked against this product's own US/English SERP; partial means the exact phrase is niche or sample-name driven.",
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+        "serp_qa_batch_019_r5_181_1",
+        "serp_qa_batch_019_r5_181_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-001"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "K2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: comparator query confirms commercial product intent; partial means results broaden beyond this exact motif/product type.",
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+        "serp_qa_batch_019_r5_181_1",
+        "serp_qa_batch_019_r5_181_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-001"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "K3",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: evidence is SERP/product-comparable only; no paid volume or Search Console proof is claimed.",
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+        "serp_qa_batch_019_r5_181_1",
+        "serp_qa_batch_019_r5_181_2"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "T1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: meta_title_seo is complete English and maps to the verified product type/motif.",
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "T2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: title_proposed can function as product title/H1 and distinguishes this design from adjacent batch-06 motifs.",
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "D1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: meta description is complete, not cut mid-word, and the 145-165 character target was treated as editorial guidance.",
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "D2",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: description HTML is mostly customer-facing and evidence-led, but fallback wording such as 'when available' should be replaced with exact verified panels.",
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-001"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "I1",
+      "weight": 20,
+      "assessment": "DERIVED",
+      "rating": "",
+      "earned_points": 20,
+      "assessed_weight": 20,
+      "reason": "Derived from 4 QA_Images rows for this product; average image score 100/100.",
+      "evidence_refs": [
+        "QA_Images",
+        "evidence_batch_019_181"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "criterion_id": "E1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: product key, handle, links and scoped evidence are consistent; row-level r4 labels are recorded separately as a traceability limitation.",
+      "evidence_refs": [
+        "evidence_batch_019_181",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-06"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "P1",
+      "weight": 15,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 15.0,
+      "assessed_weight": 15,
+      "reason": "FULL: source workbook, product JSON and direct image checks support the product identity; verified motif: custom baseball flag name bedding with baseball, American flag and name artwork.",
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "P2",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: product type/options/personalization were checked against live JSON, admin export and customizer audit: customizer root present without extracted controls.",
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+        "customizer_fields_audit.json",
+        "live_pages"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "K1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: primary keyword 'custom baseball flag name bedding' was checked against this product's own US/English SERP; partial means the exact phrase is niche or sample-name driven.",
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+        "serp_qa_batch_019_r5_182_1",
+        "serp_qa_batch_019_r5_182_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-002"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "K2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: comparator query confirms commercial product intent; partial means results broaden beyond this exact motif/product type.",
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+        "serp_qa_batch_019_r5_182_1",
+        "serp_qa_batch_019_r5_182_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-002"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "K3",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: evidence is SERP/product-comparable only; no paid volume or Search Console proof is claimed.",
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+        "serp_qa_batch_019_r5_182_1",
+        "serp_qa_batch_019_r5_182_2"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "T1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: meta_title_seo is complete English and maps to the verified product type/motif.",
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "T2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: title_proposed can function as product title/H1 and distinguishes this design from adjacent batch-06 motifs.",
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "D1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: meta description is complete, not cut mid-word, and the 145-165 character target was treated as editorial guidance.",
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "D2",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: description HTML is mostly customer-facing and evidence-led, but fallback wording such as 'when available' should be replaced with exact verified panels.",
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-002"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "I1",
+      "weight": 20,
+      "assessment": "DERIVED",
+      "rating": "",
+      "earned_points": 20,
+      "assessed_weight": 20,
+      "reason": "Derived from 4 QA_Images rows for this product; average image score 100/100.",
+      "evidence_refs": [
+        "QA_Images",
+        "evidence_batch_019_182"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "criterion_id": "E1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: product key, handle, links and scoped evidence are consistent; row-level r4 labels are recorded separately as a traceability limitation.",
+      "evidence_refs": [
+        "evidence_batch_019_182",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-07"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "P1",
+      "weight": 15,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 15.0,
+      "assessed_weight": 15,
+      "reason": "FULL: source workbook, product JSON and direct image checks support the product identity; verified motif: custom baseball flag glove bedding with baseball glove and American flag artwork.",
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "P2",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: product type/options/personalization were checked against live JSON, admin export and customizer audit: customizer root present without extracted controls.",
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+        "customizer_fields_audit.json",
+        "live_pages"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "K1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: primary keyword 'custom baseball flag glove bedding' was checked against this product's own US/English SERP; partial means the exact phrase is niche or sample-name driven.",
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+        "serp_qa_batch_019_r5_183_1",
+        "serp_qa_batch_019_r5_183_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-003"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "K2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: comparator query confirms commercial product intent; partial means results broaden beyond this exact motif/product type.",
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+        "serp_qa_batch_019_r5_183_1",
+        "serp_qa_batch_019_r5_183_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-003"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "K3",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: evidence is SERP/product-comparable only; no paid volume or Search Console proof is claimed.",
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+        "serp_qa_batch_019_r5_183_1",
+        "serp_qa_batch_019_r5_183_2"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "T1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: meta_title_seo is complete English and maps to the verified product type/motif.",
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "T2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: title_proposed can function as product title/H1 and distinguishes this design from adjacent batch-06 motifs.",
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "D1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: meta description is complete, not cut mid-word, and the 145-165 character target was treated as editorial guidance.",
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "D2",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: description HTML is mostly customer-facing and evidence-led, but fallback wording such as 'when available' should be replaced with exact verified panels.",
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-003"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "I1",
+      "weight": 20,
+      "assessment": "DERIVED",
+      "rating": "",
+      "earned_points": 20,
+      "assessed_weight": 20,
+      "reason": "Derived from 4 QA_Images rows for this product; average image score 100/100.",
+      "evidence_refs": [
+        "QA_Images",
+        "evidence_batch_019_183"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "criterion_id": "E1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: product key, handle, links and scoped evidence are consistent; row-level r4 labels are recorded separately as a traceability limitation.",
+      "evidence_refs": [
+        "evidence_batch_019_183",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-08"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "P1",
+      "weight": 15,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 15.0,
+      "assessed_weight": 15,
+      "reason": "FULL: source workbook, product JSON and direct image checks support the product identity; verified motif: custom close-up baseball glove bedding with close-up glove and ball artwork.",
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "P2",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: product type/options/personalization were checked against live JSON, admin export and customizer audit: customizer root present without extracted controls.",
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+        "customizer_fields_audit.json",
+        "live_pages"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "K1",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: primary keyword 'custom close-up baseball glove bedding' was checked against this product's own US/English SERP; partial means the exact phrase is niche or sample-name driven.",
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+        "serp_qa_batch_019_r5_184_1",
+        "serp_qa_batch_019_r5_184_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-004"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "K2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: comparator query confirms commercial product intent; partial means results broaden beyond this exact motif/product type.",
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+        "serp_qa_batch_019_r5_184_1",
+        "serp_qa_batch_019_r5_184_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-004"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "K3",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: evidence is SERP/product-comparable only; no paid volume or Search Console proof is claimed.",
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+        "serp_qa_batch_019_r5_184_1",
+        "serp_qa_batch_019_r5_184_2"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "T1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: meta_title_seo is complete English and maps to the verified product type/motif.",
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "T2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: title_proposed can function as product title/H1 and distinguishes this design from adjacent batch-06 motifs.",
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "D1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: meta description is complete, not cut mid-word, and the 145-165 character target was treated as editorial guidance.",
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "D2",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: description HTML is mostly customer-facing and evidence-led, but fallback wording such as 'when available' should be replaced with exact verified panels.",
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-004"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "I1",
+      "weight": 20,
+      "assessment": "DERIVED",
+      "rating": "",
+      "earned_points": 20,
+      "assessed_weight": 20,
+      "reason": "Derived from 4 QA_Images rows for this product; average image score 100/100.",
+      "evidence_refs": [
+        "QA_Images",
+        "evidence_batch_019_184"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "criterion_id": "E1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: product key, handle, links and scoped evidence are consistent; row-level r4 labels are recorded separately as a traceability limitation.",
+      "evidence_refs": [
+        "evidence_batch_019_184",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-09"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "P1",
+      "weight": 15,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 15.0,
+      "assessed_weight": 15,
+      "reason": "FULL: source workbook, product JSON and direct image checks support the product identity; verified motif: custom gray baseball flag bedding with gray flag baseball artwork.",
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "P2",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: product type/options/personalization were checked against live JSON, admin export and customizer audit: customizer root present without extracted controls.",
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+        "customizer_fields_audit.json",
+        "live_pages"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "K1",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: primary keyword 'custom gray baseball flag bedding' was checked against this product's own US/English SERP; partial means the exact phrase is niche or sample-name driven.",
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+        "serp_qa_batch_019_r5_185_1",
+        "serp_qa_batch_019_r5_185_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-005"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "K2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: comparator query confirms commercial product intent; partial means results broaden beyond this exact motif/product type.",
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+        "serp_qa_batch_019_r5_185_1",
+        "serp_qa_batch_019_r5_185_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-005"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "K3",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: evidence is SERP/product-comparable only; no paid volume or Search Console proof is claimed.",
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+        "serp_qa_batch_019_r5_185_1",
+        "serp_qa_batch_019_r5_185_2"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "T1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: meta_title_seo is complete English and maps to the verified product type/motif.",
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "T2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: title_proposed can function as product title/H1 and distinguishes this design from adjacent batch-06 motifs.",
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "D1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: meta description is complete, not cut mid-word, and the 145-165 character target was treated as editorial guidance.",
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "D2",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: description HTML is mostly customer-facing and evidence-led, but fallback wording such as 'when available' should be replaced with exact verified panels.",
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-005"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "I1",
+      "weight": 20,
+      "assessment": "DERIVED",
+      "rating": "",
+      "earned_points": 20,
+      "assessed_weight": 20,
+      "reason": "Derived from 4 QA_Images rows for this product; average image score 100/100.",
+      "evidence_refs": [
+        "QA_Images",
+        "evidence_batch_019_185"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "criterion_id": "E1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: product key, handle, links and scoped evidence are consistent; row-level r4 labels are recorded separately as a traceability limitation.",
+      "evidence_refs": [
+        "evidence_batch_019_185",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-10"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "P1",
+      "weight": 15,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 15.0,
+      "assessed_weight": 15,
+      "reason": "FULL: source workbook, product JSON and direct image checks support the product identity; verified motif: custom baseball pattern name bedding with repeated baseball pattern and name artwork.",
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "P2",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: product type/options/personalization were checked against live JSON, admin export and customizer audit: customizer root present without extracted controls.",
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+        "customizer_fields_audit.json",
+        "live_pages"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "K1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: primary keyword 'custom baseball pattern name bedding' was checked against this product's own US/English SERP; partial means the exact phrase is niche or sample-name driven.",
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+        "serp_qa_batch_019_r5_186_1",
+        "serp_qa_batch_019_r5_186_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-006"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "K2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: comparator query confirms commercial product intent; partial means results broaden beyond this exact motif/product type.",
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+        "serp_qa_batch_019_r5_186_1",
+        "serp_qa_batch_019_r5_186_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-006"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "K3",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: evidence is SERP/product-comparable only; no paid volume or Search Console proof is claimed.",
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+        "serp_qa_batch_019_r5_186_1",
+        "serp_qa_batch_019_r5_186_2"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "T1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: meta_title_seo is complete English and maps to the verified product type/motif.",
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "T2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: title_proposed can function as product title/H1 and distinguishes this design from adjacent batch-06 motifs.",
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "D1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: meta description is complete, not cut mid-word, and the 145-165 character target was treated as editorial guidance.",
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "D2",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: description HTML is mostly customer-facing and evidence-led, but fallback wording such as 'when available' should be replaced with exact verified panels.",
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-006"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "I1",
+      "weight": 20,
+      "assessment": "DERIVED",
+      "rating": "",
+      "earned_points": 20,
+      "assessed_weight": 20,
+      "reason": "Derived from 4 QA_Images rows for this product; average image score 100/100.",
+      "evidence_refs": [
+        "QA_Images",
+        "evidence_batch_019_186"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "criterion_id": "E1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: product key, handle, links and scoped evidence are consistent; row-level r4 labels are recorded separately as a traceability limitation.",
+      "evidence_refs": [
+        "evidence_batch_019_186",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-11"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "P1",
+      "weight": 15,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 15.0,
+      "assessed_weight": 15,
+      "reason": "FULL: source workbook, product JSON and direct image checks support the product identity; verified motif: custom pitcher baseball bedding with pitcher/player baseball artwork.",
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "P2",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: product type/options/personalization were checked against live JSON, admin export and customizer audit: customizer root present without extracted controls.",
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+        "customizer_fields_audit.json",
+        "live_pages"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "K1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: primary keyword 'custom pitcher baseball bedding' was checked against this product's own US/English SERP; partial means the exact phrase is niche or sample-name driven.",
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+        "serp_qa_batch_019_r5_187_1",
+        "serp_qa_batch_019_r5_187_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-007"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "K2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: comparator query confirms commercial product intent; partial means results broaden beyond this exact motif/product type.",
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+        "serp_qa_batch_019_r5_187_1",
+        "serp_qa_batch_019_r5_187_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-007"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "K3",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: evidence is SERP/product-comparable only; no paid volume or Search Console proof is claimed.",
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+        "serp_qa_batch_019_r5_187_1",
+        "serp_qa_batch_019_r5_187_2"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "T1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: meta_title_seo is complete English and maps to the verified product type/motif.",
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "T2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: title_proposed can function as product title/H1 and distinguishes this design from adjacent batch-06 motifs.",
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "D1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: meta description is complete, not cut mid-word, and the 145-165 character target was treated as editorial guidance.",
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "D2",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: description HTML is mostly customer-facing and evidence-led, but fallback wording such as 'when available' should be replaced with exact verified panels.",
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-007"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "I1",
+      "weight": 20,
+      "assessment": "DERIVED",
+      "rating": "",
+      "earned_points": 20,
+      "assessed_weight": 20,
+      "reason": "Derived from 4 QA_Images rows for this product; average image score 100/100.",
+      "evidence_refs": [
+        "QA_Images",
+        "evidence_batch_019_187"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "criterion_id": "E1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: product key, handle, links and scoped evidence are consistent; row-level r4 labels are recorded separately as a traceability limitation.",
+      "evidence_refs": [
+        "evidence_batch_019_187",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-12"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "P1",
+      "weight": 15,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 15.0,
+      "assessed_weight": 15,
+      "reason": "FULL: source workbook, product JSON and direct image checks support the product identity; verified motif: custom black baseball glove bedding with black-background glove artwork.",
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "P2",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: product type/options/personalization were checked against live JSON, admin export and customizer audit: customizer root present without extracted controls.",
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+        "customizer_fields_audit.json",
+        "live_pages"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "K1",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: primary keyword 'custom black baseball glove bedding' was checked against this product's own US/English SERP; partial means the exact phrase is niche or sample-name driven.",
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+        "serp_qa_batch_019_r5_188_1",
+        "serp_qa_batch_019_r5_188_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-008"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "K2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: comparator query confirms commercial product intent; partial means results broaden beyond this exact motif/product type.",
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+        "serp_qa_batch_019_r5_188_1",
+        "serp_qa_batch_019_r5_188_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-008"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "K3",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: evidence is SERP/product-comparable only; no paid volume or Search Console proof is claimed.",
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+        "serp_qa_batch_019_r5_188_1",
+        "serp_qa_batch_019_r5_188_2"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "T1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: meta_title_seo is complete English and maps to the verified product type/motif.",
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "T2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: title_proposed can function as product title/H1 and distinguishes this design from adjacent batch-06 motifs.",
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "D1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: meta description is complete, not cut mid-word, and the 145-165 character target was treated as editorial guidance.",
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "D2",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: description HTML is mostly customer-facing and evidence-led, but fallback wording such as 'when available' should be replaced with exact verified panels.",
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-008"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "I1",
+      "weight": 20,
+      "assessment": "DERIVED",
+      "rating": "",
+      "earned_points": 20,
+      "assessed_weight": 20,
+      "reason": "Derived from 4 QA_Images rows for this product; average image score 100/100.",
+      "evidence_refs": [
+        "QA_Images",
+        "evidence_batch_019_188"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "criterion_id": "E1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: product key, handle, links and scoped evidence are consistent; row-level r4 labels are recorded separately as a traceability limitation.",
+      "evidence_refs": [
+        "evidence_batch_019_188",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-13"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "P1",
+      "weight": 15,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 15.0,
+      "assessed_weight": 15,
+      "reason": "FULL: source workbook, product JSON and direct image checks support the product identity; verified motif: custom blue stripe baseball bedding with blue stripe baseball artwork.",
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "P2",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: product type/options/personalization were checked against live JSON, admin export and customizer audit: customizer root present without extracted controls.",
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+        "customizer_fields_audit.json",
+        "live_pages"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "K1",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: primary keyword 'custom blue stripe baseball bedding' was checked against this product's own US/English SERP; partial means the exact phrase is niche or sample-name driven.",
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+        "serp_qa_batch_019_r5_189_1",
+        "serp_qa_batch_019_r5_189_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-009"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "K2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: comparator query confirms commercial product intent; partial means results broaden beyond this exact motif/product type.",
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+        "serp_qa_batch_019_r5_189_1",
+        "serp_qa_batch_019_r5_189_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-009"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "K3",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: evidence is SERP/product-comparable only; no paid volume or Search Console proof is claimed.",
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+        "serp_qa_batch_019_r5_189_1",
+        "serp_qa_batch_019_r5_189_2"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "T1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: meta_title_seo is complete English and maps to the verified product type/motif.",
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "T2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: title_proposed can function as product title/H1 and distinguishes this design from adjacent batch-06 motifs.",
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "D1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: meta description is complete, not cut mid-word, and the 145-165 character target was treated as editorial guidance.",
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "D2",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: description HTML is mostly customer-facing and evidence-led, but fallback wording such as 'when available' should be replaced with exact verified panels.",
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-009"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "I1",
+      "weight": 20,
+      "assessment": "DERIVED",
+      "rating": "",
+      "earned_points": 20,
+      "assessed_weight": 20,
+      "reason": "Derived from 4 QA_Images rows for this product; average image score 100/100.",
+      "evidence_refs": [
+        "QA_Images",
+        "evidence_batch_019_189"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "criterion_id": "E1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: product key, handle, links and scoped evidence are consistent; row-level r4 labels are recorded separately as a traceability limitation.",
+      "evidence_refs": [
+        "evidence_batch_019_189",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-14"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "P1",
+      "weight": 15,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 15.0,
+      "assessed_weight": 15,
+      "reason": "FULL: source workbook, product JSON and direct image checks support the product identity; verified motif: custom galaxy baseball name bedding with galaxy baseball and name artwork.",
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "P2",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: product type/options/personalization were checked against live JSON, admin export and customizer audit: customizer root present without extracted controls.",
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+        "customizer_fields_audit.json",
+        "live_pages"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "K1",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: primary keyword 'custom galaxy baseball name bedding' was checked against this product's own US/English SERP; partial means the exact phrase is niche or sample-name driven.",
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+        "serp_qa_batch_019_r5_190_1",
+        "serp_qa_batch_019_r5_190_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-010"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "K2",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: comparator query confirms commercial product intent; partial means results broaden beyond this exact motif/product type.",
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+        "serp_qa_batch_019_r5_190_1",
+        "serp_qa_batch_019_r5_190_2"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-010"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "K3",
+      "weight": 5,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 2.5,
+      "assessed_weight": 5,
+      "reason": "PARTIAL: evidence is SERP/product-comparable only; no paid volume or Search Console proof is claimed.",
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+        "serp_qa_batch_019_r5_190_1",
+        "serp_qa_batch_019_r5_190_2"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "T1",
+      "weight": 10,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 10.0,
+      "assessed_weight": 10,
+      "reason": "FULL: meta_title_seo is complete English and maps to the verified product type/motif.",
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "T2",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: title_proposed can function as product title/H1 and distinguishes this design from adjacent batch-06 motifs.",
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "D1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: meta description is complete, not cut mid-word, and the 145-165 character target was treated as editorial guidance.",
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "D2",
+      "weight": 10,
+      "assessment": "PARTIAL",
+      "rating": 0.5,
+      "earned_points": 5.0,
+      "assessed_weight": 10,
+      "reason": "PARTIAL: description HTML is mostly customer-facing and evidence-led, but fallback wording such as 'when available' should be replaced with exact verified panels.",
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15"
+      ],
+      "issue_refs": [
+        "B19R5-MIN-010"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "I1",
+      "weight": 20,
+      "assessment": "DERIVED",
+      "rating": "",
+      "earned_points": 20,
+      "assessed_weight": 20,
+      "reason": "Derived from 4 QA_Images rows for this product; average image score 100/100.",
+      "evidence_refs": [
+        "QA_Images",
+        "evidence_batch_019_190"
+      ],
+      "issue_refs": []
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "criterion_id": "E1",
+      "weight": 5,
+      "assessment": "FULL",
+      "rating": 1.0,
+      "earned_points": 5.0,
+      "assessed_weight": 5,
+      "reason": "FULL: product key, handle, links and scoped evidence are consistent; row-level r4 labels are recorded separately as a traceability limitation.",
+      "evidence_refs": [
+        "evidence_batch_019_190",
+        "https://jeminise.com/products/personalized-baseball-bedding-full-size-flag-custom-name-d-design-15"
+      ],
+      "issue_refs": []
+    }
+  ],
+  "QA_Images": [
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "qa_image_key": "qaimg_37752991e6fa8237",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/995cf5f61efd18d2d5931363d9afe9885235b19ee1f1194d644a48b4c113798a.jpg?v=1787242243",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/995cf5f61efd18d2d5931363d9afe9885235b19ee1f1194d644a48b4c113798a.jpg?v=1787242243",
+      "media_id": "47934355374279",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 181_01.jpg (1199x1200) and checked against workbook observation: Bedroom mockup of custom brown baseball glove bedding with sample name and number.",
+      "submitted_observation": "Bedroom mockup of custom brown baseball glove bedding with sample name and number.",
+      "alt_action": "SET",
+      "alt_effective": "Custom baseball glove name bedding",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\181_01.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/995cf5f61efd18d2d5931363d9afe9885235b19ee1f1194d644a48b4c113798a.jpg?v=1787242243"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "qa_image_key": "qaimg_6c364fae0f645465",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_d6cb245f-20c8-4cf5-8e6c-492305b20a8f.jpg?v=1787242243",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_d6cb245f-20c8-4cf5-8e6c-492305b20a8f.jpg?v=1787242243",
+      "media_id": "47934355407047",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 181_02.jpg (1056x763) and checked against workbook observation: High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "submitted_observation": "High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "alt_action": "SET",
+      "alt_effective": "High-density weaving feature panel",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\181_02.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_d6cb245f-20c8-4cf5-8e6c-492305b20a8f.jpg?v=1787242243"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "qa_image_key": "qaimg_677492fdd36265df",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_ad1ab0c9-2779-4f36-9049-4dee6667abea.jpg?v=1787242243",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_ad1ab0c9-2779-4f36-9049-4dee6667abea.jpg?v=1787242243",
+      "media_id": "47934355439815",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 181_03.jpg (1050x1050) and checked against workbook observation: Machine washable care panel with washing machine, laundry basket and care text.",
+      "submitted_observation": "Machine washable care panel with washing machine, laundry basket and care text.",
+      "alt_action": "SET",
+      "alt_effective": "Machine washable bedding care panel",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\181_03.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_ad1ab0c9-2779-4f36-9049-4dee6667abea.jpg?v=1787242243"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "qa_image_key": "qaimg_c11d5f5ae8077fcd",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_79836266-04d5-4535-8b8d-cc36660e7fb5.jpg?v=1787242243",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_79836266-04d5-4535-8b8d-cc36660e7fb5.jpg?v=1787242243",
+      "media_id": "47934355472583",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 181_04.jpg (1080x1080) and checked against workbook observation: Bottom zippered closure panel showing white zipper close-up.",
+      "submitted_observation": "Bottom zippered closure panel showing white zipper close-up.",
+      "alt_action": "SET",
+      "alt_effective": "Bottom zippered closure panel",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\181_04.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_79836266-04d5-4535-8b8d-cc36660e7fb5.jpg?v=1787242243"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "qa_image_key": "qaimg_1871d77438a85054",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/378a8e96305e6779a03c8ecabd45a597b3f4915044ba0256db08f5291ae0aebe.jpg?v=1787242250",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/378a8e96305e6779a03c8ecabd45a597b3f4915044ba0256db08f5291ae0aebe.jpg?v=1787242250",
+      "media_id": "47934356390087",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 182_01.jpg (1199x1200) and checked against workbook observation: Bedroom mockup of custom baseball flag bedding with large baseball and sample cursive name.",
+      "submitted_observation": "Bedroom mockup of custom baseball flag bedding with large baseball and sample cursive name.",
+      "alt_action": "SET",
+      "alt_effective": "Custom baseball flag name bedding",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\182_01.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/378a8e96305e6779a03c8ecabd45a597b3f4915044ba0256db08f5291ae0aebe.jpg?v=1787242250"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "qa_image_key": "qaimg_c2a0b160ff7b0659",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_42217646-9998-4fbd-9ca4-b3ed21cdf5dd.jpg?v=1787242250",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_42217646-9998-4fbd-9ca4-b3ed21cdf5dd.jpg?v=1787242250",
+      "media_id": "47934356422855",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 182_02.jpg (1056x763) and checked against workbook observation: High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "submitted_observation": "High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "alt_action": "SET",
+      "alt_effective": "High-density weaving feature panel for custom name baseball American flag bedding design 07",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\182_02.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_42217646-9998-4fbd-9ca4-b3ed21cdf5dd.jpg?v=1787242250"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "qa_image_key": "qaimg_b03f78703e2d6c2b",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_fbe6001d-6588-4bce-aecf-e0e3701d32ce.jpg?v=1787242250",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_fbe6001d-6588-4bce-aecf-e0e3701d32ce.jpg?v=1787242250",
+      "media_id": "47934356455623",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 182_03.jpg (1050x1050) and checked against workbook observation: Machine washable care panel with washing machine, laundry basket and care text.",
+      "submitted_observation": "Machine washable care panel with washing machine, laundry basket and care text.",
+      "alt_action": "SET",
+      "alt_effective": "Machine washable bedding care panel for custom name baseball American flag bedding design 07",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\182_03.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_fbe6001d-6588-4bce-aecf-e0e3701d32ce.jpg?v=1787242250"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "qa_image_key": "qaimg_7f5a699ea9e410f5",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_54a4893c-2527-4db4-962c-f6837c2c1fdf.jpg?v=1787242250",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_54a4893c-2527-4db4-962c-f6837c2c1fdf.jpg?v=1787242250",
+      "media_id": "47934356488391",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 182_04.jpg (1080x1080) and checked against workbook observation: Bottom zippered closure panel showing white zipper close-up.",
+      "submitted_observation": "Bottom zippered closure panel showing white zipper close-up.",
+      "alt_action": "SET",
+      "alt_effective": "Bottom zippered closure panel for custom name baseball American flag bedding design 07",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\182_04.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_54a4893c-2527-4db4-962c-f6837c2c1fdf.jpg?v=1787242250"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "qa_image_key": "qaimg_0e4e2a7a03405abf",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d7ef02b64a3368ae8a6946c495c9fe3973509085263bc4e81d2b85c88e1e713b.jpg?v=1787242268",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d7ef02b64a3368ae8a6946c495c9fe3973509085263bc4e81d2b85c88e1e713b.jpg?v=1787242268",
+      "media_id": "47934357733575",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 183_01.jpg (1199x1200) and checked against workbook observation: Bedroom mockup of custom baseball flag bedding with glove corners, sample name and large number.",
+      "submitted_observation": "Bedroom mockup of custom baseball flag bedding with glove corners, sample name and large number.",
+      "alt_action": "SET",
+      "alt_effective": "Custom baseball name number bedding",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\183_01.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d7ef02b64a3368ae8a6946c495c9fe3973509085263bc4e81d2b85c88e1e713b.jpg?v=1787242268"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "qa_image_key": "qaimg_29bae8d52a180da8",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_908e933d-3668-4227-ab63-ea1cb072130c.jpg?v=1787242268",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_908e933d-3668-4227-ab63-ea1cb072130c.jpg?v=1787242268",
+      "media_id": "47934357766343",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 183_02.jpg (1056x763) and checked against workbook observation: High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "submitted_observation": "High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "alt_action": "SET",
+      "alt_effective": "High-density weaving feature panel for custom name baseball flag glove bedding design 08",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\183_02.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_908e933d-3668-4227-ab63-ea1cb072130c.jpg?v=1787242268"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "qa_image_key": "qaimg_7d9168464afe4263",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_3877c96d-b8a8-48d7-b692-7581e5a24201.jpg?v=1787242268",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_3877c96d-b8a8-48d7-b692-7581e5a24201.jpg?v=1787242268",
+      "media_id": "47934357799111",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 183_03.jpg (1050x1050) and checked against workbook observation: Machine washable care panel with washing machine, laundry basket and care text.",
+      "submitted_observation": "Machine washable care panel with washing machine, laundry basket and care text.",
+      "alt_action": "SET",
+      "alt_effective": "Machine washable bedding care panel for custom name baseball flag glove bedding design 08",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\183_03.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_3877c96d-b8a8-48d7-b692-7581e5a24201.jpg?v=1787242268"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "qa_image_key": "qaimg_0c0d272f70f7c4ec",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_c65b84ca-8f37-4622-8981-67541f312bd9.jpg?v=1787242268",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_c65b84ca-8f37-4622-8981-67541f312bd9.jpg?v=1787242268",
+      "media_id": "47934357831879",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 183_04.jpg (1080x1080) and checked against workbook observation: Bottom zippered closure panel showing white zipper close-up.",
+      "submitted_observation": "Bottom zippered closure panel showing white zipper close-up.",
+      "alt_action": "SET",
+      "alt_effective": "Bottom zippered closure panel for custom name baseball flag glove bedding design 08",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\183_04.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_c65b84ca-8f37-4622-8981-67541f312bd9.jpg?v=1787242268"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "qa_image_key": "qaimg_8a4d7361ad6321dd",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ad1a0a46240535a46c26f855ffd00e82b017da0d977031a8d571f984de139fa4.jpg?v=1787242271",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ad1a0a46240535a46c26f855ffd00e82b017da0d977031a8d571f984de139fa4.jpg?v=1787242271",
+      "media_id": "47934357897415",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 184_01.jpg (720x720) and checked against workbook observation: Bedroom mockup of custom close-up baseball glove bedding with sample name on the ball.",
+      "submitted_observation": "Bedroom mockup of custom close-up baseball glove bedding with sample name on the ball.",
+      "alt_action": "SET",
+      "alt_effective": "Custom close-up baseball glove bedding",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\184_01.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ad1a0a46240535a46c26f855ffd00e82b017da0d977031a8d571f984de139fa4.jpg?v=1787242271"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "qa_image_key": "qaimg_8ad148c827a1a1c8",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_5257e9b3-6ae0-44c2-92a4-9ae5e258c276.jpg?v=1787242271",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_5257e9b3-6ae0-44c2-92a4-9ae5e258c276.jpg?v=1787242271",
+      "media_id": "47934357930183",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 184_02.jpg (1056x763) and checked against workbook observation: High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "submitted_observation": "High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "alt_action": "SET",
+      "alt_effective": "High-density weaving feature panel for custom name close-up baseball glove bedding design 09",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\184_02.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_5257e9b3-6ae0-44c2-92a4-9ae5e258c276.jpg?v=1787242271"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "qa_image_key": "qaimg_9bab3c69ac8cc4c9",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_a9af7380-bde6-4035-ac19-c62306508770.jpg?v=1787242271",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_a9af7380-bde6-4035-ac19-c62306508770.jpg?v=1787242271",
+      "media_id": "47934357962951",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 184_03.jpg (1050x1050) and checked against workbook observation: Machine washable care panel with washing machine, laundry basket and care text.",
+      "submitted_observation": "Machine washable care panel with washing machine, laundry basket and care text.",
+      "alt_action": "SET",
+      "alt_effective": "Machine washable bedding care panel for custom name close-up baseball glove bedding design 09",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\184_03.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_a9af7380-bde6-4035-ac19-c62306508770.jpg?v=1787242271"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "qa_image_key": "qaimg_600a24b0095a500d",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_523261ef-06a8-4366-b19d-491b7d9fff42.jpg?v=1787242271",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_523261ef-06a8-4366-b19d-491b7d9fff42.jpg?v=1787242271",
+      "media_id": "47934357995719",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 184_04.jpg (1080x1080) and checked against workbook observation: Bottom zippered closure panel showing white zipper close-up.",
+      "submitted_observation": "Bottom zippered closure panel showing white zipper close-up.",
+      "alt_action": "SET",
+      "alt_effective": "Bottom zippered closure panel for custom name close-up baseball glove bedding design 09",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\184_04.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_523261ef-06a8-4366-b19d-491b7d9fff42.jpg?v=1787242271"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "qa_image_key": "qaimg_9511150c9939e94c",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/a27913d40501b499872e0b61d72972490feb3fd1abfed5542443b010f312b255.jpg?v=1787242278",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/a27913d40501b499872e0b61d72972490feb3fd1abfed5542443b010f312b255.jpg?v=1787242278",
+      "media_id": "47934358421703",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 185_01.jpg (1199x1200) and checked against workbook observation: Bedroom mockup of custom gray baseball flag bedding with glove, ball and sample name.",
+      "submitted_observation": "Bedroom mockup of custom gray baseball flag bedding with glove, ball and sample name.",
+      "alt_action": "SET",
+      "alt_effective": "Custom gray baseball flag bedding",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\185_01.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/a27913d40501b499872e0b61d72972490feb3fd1abfed5542443b010f312b255.jpg?v=1787242278"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "qa_image_key": "qaimg_086893d60123cf6d",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_a6b7e163-25bc-4bdd-93ae-419ec5ff318f.jpg?v=1787242278",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_a6b7e163-25bc-4bdd-93ae-419ec5ff318f.jpg?v=1787242278",
+      "media_id": "47934358454471",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 185_02.jpg (1056x763) and checked against workbook observation: High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "submitted_observation": "High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "alt_action": "SET",
+      "alt_effective": "High-density weaving feature panel for custom name gray baseball American flag bedding design 10",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\185_02.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_a6b7e163-25bc-4bdd-93ae-419ec5ff318f.jpg?v=1787242278"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "qa_image_key": "qaimg_215be0a86cc3cc27",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_fc64c3a9-5a16-49e8-87b6-c62c8bc5e8c1.jpg?v=1787242278",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_fc64c3a9-5a16-49e8-87b6-c62c8bc5e8c1.jpg?v=1787242278",
+      "media_id": "47934358487239",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 185_03.jpg (1050x1050) and checked against workbook observation: Machine washable care panel with washing machine, laundry basket and care text.",
+      "submitted_observation": "Machine washable care panel with washing machine, laundry basket and care text.",
+      "alt_action": "SET",
+      "alt_effective": "Machine washable bedding care panel for custom name gray baseball American flag bedding design 10",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\185_03.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_fc64c3a9-5a16-49e8-87b6-c62c8bc5e8c1.jpg?v=1787242278"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "qa_image_key": "qaimg_c88f755e6ebd2bbe",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_9ce1ba98-3a33-4391-8d41-14c8fc28382d.jpg?v=1787242278",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_9ce1ba98-3a33-4391-8d41-14c8fc28382d.jpg?v=1787242278",
+      "media_id": "47934358520007",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 185_04.jpg (1080x1080) and checked against workbook observation: Bottom zippered closure panel showing white zipper close-up.",
+      "submitted_observation": "Bottom zippered closure panel showing white zipper close-up.",
+      "alt_action": "SET",
+      "alt_effective": "Bottom zippered closure panel for custom name gray baseball American flag bedding design 10",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\185_04.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_9ce1ba98-3a33-4391-8d41-14c8fc28382d.jpg?v=1787242278"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "qa_image_key": "qaimg_8a7bdaaa0b2f10ff",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/22091bb4460b1736aafe487d9cb3bf7932306548fd638c8bce4e656da29f9e32.jpg?v=1787242281",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/22091bb4460b1736aafe487d9cb3bf7932306548fd638c8bce4e656da29f9e32.jpg?v=1787242281",
+      "media_id": "47934358782151",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 186_01.jpg (1199x1200) and checked against workbook observation: Bedroom mockup of custom baseball pattern bedding with red blue stripes, many baseballs and sample name.",
+      "submitted_observation": "Bedroom mockup of custom baseball pattern bedding with red blue stripes, many baseballs and sample name.",
+      "alt_action": "SET",
+      "alt_effective": "Custom baseball pattern name bedding",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\186_01.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/22091bb4460b1736aafe487d9cb3bf7932306548fd638c8bce4e656da29f9e32.jpg?v=1787242281"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "qa_image_key": "qaimg_27ee3ff9520a8acd",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_b40438a5-fa90-4e4b-89b5-a9f07974c78d.jpg?v=1787242281",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_b40438a5-fa90-4e4b-89b5-a9f07974c78d.jpg?v=1787242281",
+      "media_id": "47934358814919",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 186_02.jpg (1050x1050) and checked against workbook observation: Machine washable care panel with washing machine, laundry basket and care text.",
+      "submitted_observation": "Machine washable care panel with washing machine, laundry basket and care text.",
+      "alt_action": "SET",
+      "alt_effective": "Machine washable bedding care panel for custom name baseball pattern red blue bedding design 11",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\186_02.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_b40438a5-fa90-4e4b-89b5-a9f07974c78d.jpg?v=1787242281"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "qa_image_key": "qaimg_f78823ad7ec3210e",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_cf393115-0105-4a38-adfb-49228eb39c22.jpg?v=1787242281",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_cf393115-0105-4a38-adfb-49228eb39c22.jpg?v=1787242281",
+      "media_id": "47934358847687",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 186_03.jpg (1080x1080) and checked against workbook observation: Bottom zippered closure panel showing white zipper close-up.",
+      "submitted_observation": "Bottom zippered closure panel showing white zipper close-up.",
+      "alt_action": "SET",
+      "alt_effective": "Bottom zippered closure panel for custom name baseball pattern red blue bedding design 11",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\186_03.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_cf393115-0105-4a38-adfb-49228eb39c22.jpg?v=1787242281"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "qa_image_key": "qaimg_02fe80b77702a72f",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_3e5ce2b0-74e9-4528-a9b3-58484c711e32.jpg?v=1787242281",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_3e5ce2b0-74e9-4528-a9b3-58484c711e32.jpg?v=1787242281",
+      "media_id": "47934358880455",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 186_04.jpg (1056x763) and checked against workbook observation: High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "submitted_observation": "High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "alt_action": "SET",
+      "alt_effective": "High-density weaving feature panel for custom name baseball pattern red blue bedding design 11",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\186_04.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_3e5ce2b0-74e9-4528-a9b3-58484c711e32.jpg?v=1787242281"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "qa_image_key": "qaimg_8b6ab8c4d4b473a5",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/a3a7588224cb02e1a3e3cdfb3d985059123d82c8235978721aed604186892c96.jpg?v=1787242289",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/a3a7588224cb02e1a3e3cdfb3d985059123d82c8235978721aed604186892c96.jpg?v=1787242289",
+      "media_id": "47934359404743",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 187_01.jpg (1199x1200) and checked against workbook observation: Bedroom mockup of custom pitcher baseball bedding with silhouette, stitch border and sample name.",
+      "submitted_observation": "Bedroom mockup of custom pitcher baseball bedding with silhouette, stitch border and sample name.",
+      "alt_action": "SET",
+      "alt_effective": "Custom pitcher baseball bedding",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\187_01.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/a3a7588224cb02e1a3e3cdfb3d985059123d82c8235978721aed604186892c96.jpg?v=1787242289"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "qa_image_key": "qaimg_3bc1d5957ac61a40",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_335356bf-1642-4331-a801-0745727799cd.jpg?v=1787242289",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_335356bf-1642-4331-a801-0745727799cd.jpg?v=1787242289",
+      "media_id": "47934359437511",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 187_02.jpg (1056x763) and checked against workbook observation: High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "submitted_observation": "High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "alt_action": "SET",
+      "alt_effective": "High-density weaving feature panel for custom name pitcher silhouette baseball bedding design 12",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\187_02.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_335356bf-1642-4331-a801-0745727799cd.jpg?v=1787242289"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "qa_image_key": "qaimg_803ee5351b757d06",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_c5730b89-f700-4d4d-91a6-81c7a9b068df.jpg?v=1787242289",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_c5730b89-f700-4d4d-91a6-81c7a9b068df.jpg?v=1787242289",
+      "media_id": "47934359470279",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 187_03.jpg (1050x1050) and checked against workbook observation: Machine washable care panel with washing machine, laundry basket and care text.",
+      "submitted_observation": "Machine washable care panel with washing machine, laundry basket and care text.",
+      "alt_action": "SET",
+      "alt_effective": "Machine washable bedding care panel for custom name pitcher silhouette baseball bedding design 12",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\187_03.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_c5730b89-f700-4d4d-91a6-81c7a9b068df.jpg?v=1787242289"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "qa_image_key": "qaimg_e6eba444edb58215",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_ee048bf7-2c61-43af-b6a9-476fa326ea53.jpg?v=1787242289",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_ee048bf7-2c61-43af-b6a9-476fa326ea53.jpg?v=1787242289",
+      "media_id": "47934359503047",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 187_04.jpg (1080x1080) and checked against workbook observation: Bottom zippered closure panel showing white zipper close-up.",
+      "submitted_observation": "Bottom zippered closure panel showing white zipper close-up.",
+      "alt_action": "SET",
+      "alt_effective": "Bottom zippered closure panel for custom name pitcher silhouette baseball bedding design 12",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\187_04.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_ee048bf7-2c61-43af-b6a9-476fa326ea53.jpg?v=1787242289"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "qa_image_key": "qaimg_2327a2fa079ab094",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b1a55687ac710fef17a03349d7df05659c4a75b04c898c8a647cf0f9b2bdfac4.jpg?v=1787242287",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b1a55687ac710fef17a03349d7df05659c4a75b04c898c8a647cf0f9b2bdfac4.jpg?v=1787242287",
+      "media_id": "47934359109831",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 188_01.jpg (1199x1200) and checked against workbook observation: Bedroom mockup of custom black baseball glove bedding with grayscale ball, sample name and number.",
+      "submitted_observation": "Bedroom mockup of custom black baseball glove bedding with grayscale ball, sample name and number.",
+      "alt_action": "SET",
+      "alt_effective": "Custom black baseball glove bedding",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\188_01.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b1a55687ac710fef17a03349d7df05659c4a75b04c898c8a647cf0f9b2bdfac4.jpg?v=1787242287"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "qa_image_key": "qaimg_7118f08e1f5c4376",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_4ea5343c-eff5-4c23-a04a-942fc711a784.jpg?v=1787242287",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_4ea5343c-eff5-4c23-a04a-942fc711a784.jpg?v=1787242287",
+      "media_id": "47934359142599",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 188_02.jpg (1080x1080) and checked against workbook observation: Bottom zippered closure panel showing white zipper close-up.",
+      "submitted_observation": "Bottom zippered closure panel showing white zipper close-up.",
+      "alt_action": "SET",
+      "alt_effective": "Bottom zippered closure panel for custom name black baseball glove bedding design 13",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\188_02.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_4ea5343c-eff5-4c23-a04a-942fc711a784.jpg?v=1787242287"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "qa_image_key": "qaimg_b84a6848c283e620",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_ba8cd586-2f34-470e-b46c-8742f4cb3596.jpg?v=1787242287",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_ba8cd586-2f34-470e-b46c-8742f4cb3596.jpg?v=1787242287",
+      "media_id": "47934359175367",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 188_03.jpg (1056x763) and checked against workbook observation: High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "submitted_observation": "High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "alt_action": "SET",
+      "alt_effective": "High-density weaving feature panel for custom name black baseball glove bedding design 13",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\188_03.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_ba8cd586-2f34-470e-b46c-8742f4cb3596.jpg?v=1787242287"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "qa_image_key": "qaimg_f5be00d4b09b4f36",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_4a8dc283-a4f0-4723-82e1-5909c9adbcec.jpg?v=1787242287",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_4a8dc283-a4f0-4723-82e1-5909c9adbcec.jpg?v=1787242287",
+      "media_id": "47934359208135",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 188_04.jpg (1050x1050) and checked against workbook observation: Machine washable care panel with washing machine, laundry basket and care text.",
+      "submitted_observation": "Machine washable care panel with washing machine, laundry basket and care text.",
+      "alt_action": "SET",
+      "alt_effective": "Machine washable bedding care panel for custom name black baseball glove bedding design 13",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\188_04.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_4a8dc283-a4f0-4723-82e1-5909c9adbcec.jpg?v=1787242287"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "qa_image_key": "qaimg_043b8d8897513ecc",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ee03510fe9336bb706be4887685f8efc23f52558e7f8c421b81f75897fd38d63.jpg?v=1787242298",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ee03510fe9336bb706be4887685f8efc23f52558e7f8c421b81f75897fd38d63.jpg?v=1787242298",
+      "media_id": "47934359929031",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 189_01.jpg (1199x1200) and checked against workbook observation: Bedroom mockup of custom blue stripe baseball bedding with oversized baseball and sample name.",
+      "submitted_observation": "Bedroom mockup of custom blue stripe baseball bedding with oversized baseball and sample name.",
+      "alt_action": "SET",
+      "alt_effective": "Custom blue stripe baseball bedding",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\189_01.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ee03510fe9336bb706be4887685f8efc23f52558e7f8c421b81f75897fd38d63.jpg?v=1787242298"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "qa_image_key": "qaimg_4a1e783e41f381bc",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_578eb1ab-2971-4795-8ffe-02e170b2d3fd.jpg?v=1787242298",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_578eb1ab-2971-4795-8ffe-02e170b2d3fd.jpg?v=1787242298",
+      "media_id": "47934359961799",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 189_02.jpg (1050x1050) and checked against workbook observation: Machine washable care panel with washing machine, laundry basket and care text.",
+      "submitted_observation": "Machine washable care panel with washing machine, laundry basket and care text.",
+      "alt_action": "SET",
+      "alt_effective": "Machine washable bedding care panel for custom name blue striped baseball bedding design 14",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\189_02.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_578eb1ab-2971-4795-8ffe-02e170b2d3fd.jpg?v=1787242298"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "qa_image_key": "qaimg_01bd1423c78e73cf",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_7ada0386-ab38-4643-9b5f-2f7b2137dfb7.jpg?v=1787242298",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_7ada0386-ab38-4643-9b5f-2f7b2137dfb7.jpg?v=1787242298",
+      "media_id": "47934359994567",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 189_03.jpg (1080x1080) and checked against workbook observation: Bottom zippered closure panel showing white zipper close-up.",
+      "submitted_observation": "Bottom zippered closure panel showing white zipper close-up.",
+      "alt_action": "SET",
+      "alt_effective": "Bottom zippered closure panel for custom name blue striped baseball bedding design 14",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\189_03.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_7ada0386-ab38-4643-9b5f-2f7b2137dfb7.jpg?v=1787242298"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "qa_image_key": "qaimg_d671ce6f3a403ecd",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_de7307cd-6f52-4591-a335-3b64c709339f.jpg?v=1787242298",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_de7307cd-6f52-4591-a335-3b64c709339f.jpg?v=1787242298",
+      "media_id": "47934360027335",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 189_04.jpg (1056x763) and checked against workbook observation: High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "submitted_observation": "High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "alt_action": "SET",
+      "alt_effective": "High-density weaving feature panel for custom name blue striped baseball bedding design 14",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\189_04.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_de7307cd-6f52-4591-a335-3b64c709339f.jpg?v=1787242298"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "qa_image_key": "qaimg_0eb92696a484788e",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/c348d936be646a1acfb4ca9b0e001f0668ce4f86c27fb4d7641115a01f9bb8ef.jpg?v=1787242300",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/c348d936be646a1acfb4ca9b0e001f0668ce4f86c27fb4d7641115a01f9bb8ef.jpg?v=1787242300",
+      "media_id": "47934360191175",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 190_01.jpg (1199x1200) and checked against workbook observation: Bedroom mockup of custom galaxy baseball bedding with large baseball, sample name and number.",
+      "submitted_observation": "Bedroom mockup of custom galaxy baseball bedding with large baseball, sample name and number.",
+      "alt_action": "SET",
+      "alt_effective": "Custom galaxy baseball name bedding",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\190_01.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/c348d936be646a1acfb4ca9b0e001f0668ce4f86c27fb4d7641115a01f9bb8ef.jpg?v=1787242300"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "qa_image_key": "qaimg_598dfbec9559f9eb",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_6d0a4f67-282f-4c98-8661-cc3bc21003a9.jpg?v=1787242300",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_6d0a4f67-282f-4c98-8661-cc3bc21003a9.jpg?v=1787242300",
+      "media_id": "47934360223943",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 190_02.jpg (1056x763) and checked against workbook observation: High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "submitted_observation": "High-density weaving panel comparing BeddingOutlet fabric with other weave samples.",
+      "alt_action": "SET",
+      "alt_effective": "High-density weaving feature panel for custom name galaxy baseball bedding design 15",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\190_02.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/ef81c56fe7d5f4f60045bfbd0778e14ad11ce2a6824c23132d2b864ef763fe85_6d0a4f67-282f-4c98-8661-cc3bc21003a9.jpg?v=1787242300"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "qa_image_key": "qaimg_5f4a505dbea93589",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_9a9a0e38-5509-44d6-9f5a-daa2a82ea3cf.jpg?v=1787242300",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_9a9a0e38-5509-44d6-9f5a-daa2a82ea3cf.jpg?v=1787242300",
+      "media_id": "47934360256711",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 190_03.jpg (1050x1050) and checked against workbook observation: Machine washable care panel with washing machine, laundry basket and care text.",
+      "submitted_observation": "Machine washable care panel with washing machine, laundry basket and care text.",
+      "alt_action": "SET",
+      "alt_effective": "Machine washable bedding care panel for custom name galaxy baseball bedding design 15",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\190_03.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/b495d9b37eafdceff5caf3643256f7b3a83de826d49a14bdc531b13424296018_9a9a0e38-5509-44d6-9f5a-daa2a82ea3cf.jpg?v=1787242300"
+      ]
+    },
+    {
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "qa_image_key": "qaimg_1d096a5bc68dafcd",
+      "image_url_source": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_abb774eb-d928-458c-83b5-1fb2af3ce77e.jpg?v=1787242300",
+      "image_url_workbook": "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_abb774eb-d928-458c-83b5-1fb2af3ce77e.jpg?v=1787242300",
+      "media_id": "47934360289479",
+      "variant": "",
+      "image_location": "GALLERY",
+      "check_method": "DIRECT_IMAGE_FILE_OPENED_AND_VISUALLY_REVIEWED",
+      "checked_at": "2026-09-09T13:06:43+07:00",
+      "qa_observation": "QA opened 190_04.jpg (1080x1080) and checked against workbook observation: Bottom zippered closure panel showing white zipper close-up.",
+      "submitted_observation": "Bottom zippered closure panel showing white zipper close-up.",
+      "alt_action": "SET",
+      "alt_effective": "Bottom zippered closure panel for custom name galaxy baseball bedding design 15",
+      "IM1": "FULL",
+      "IM2": "FULL",
+      "IM3": "FULL",
+      "IM4": "FULL",
+      "image_verified_points": 100,
+      "image_assessed_weight": 100,
+      "image_final_score": 100,
+      "image_score_lower_bound": 100,
+      "image_score_upper_bound": 100,
+      "issue_refs": [],
+      "evidence_refs": [
+        "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_130642\\images\\190_04.jpg",
+        "https://cdn.shopify.com/s/files/1/0792/5098/1063/files/d51e3360a3e4b984af63b01c4b53d517484ca3d6cb1beeea158bcf59acab9ed4_abb774eb-d928-458c-83b5-1fb2af3ce77e.jpg?v=1787242300"
+      ]
+    }
+  ],
+  "QA_Issues": [
+    {
+      "issue_id": "B19R5-MIN-001",
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-06",
+      "qa_image_key": "",
+      "severity": "MINOR",
+      "field": "SEO_Products.description_proposed_html",
+      "submitted_value": "Gallery panels show ... when available",
+      "source_observation": "Pos 181: description is customer-facing overall, but contains fallback wording instead of exact verified panel names.",
+      "reason": "The phrase is not a blocker, yet it makes the publish copy less precise than the available image evidence.",
+      "recommended_fix": "Rewrite the gallery-panel sentence in English for Custom Baseball Glove Name Bedding using only panels verified in Image_Audit/live gallery.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx | pos 181 | description_proposed_html",
+      "recheck_condition": "No fallback phrase remains; panel claims match visible gallery."
+    },
+    {
+      "issue_id": "B19R5-MIN-002",
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-07",
+      "qa_image_key": "",
+      "severity": "MINOR",
+      "field": "SEO_Products.description_proposed_html",
+      "submitted_value": "Gallery panels show ... when available",
+      "source_observation": "Pos 182: description is customer-facing overall, but contains fallback wording instead of exact verified panel names.",
+      "reason": "The phrase is not a blocker, yet it makes the publish copy less precise than the available image evidence.",
+      "recommended_fix": "Rewrite the gallery-panel sentence in English for Custom Baseball Flag Name Bedding using only panels verified in Image_Audit/live gallery.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx | pos 182 | description_proposed_html",
+      "recheck_condition": "No fallback phrase remains; panel claims match visible gallery."
+    },
+    {
+      "issue_id": "B19R5-MIN-003",
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-08",
+      "qa_image_key": "",
+      "severity": "MINOR",
+      "field": "SEO_Products.description_proposed_html",
+      "submitted_value": "Gallery panels show ... when available",
+      "source_observation": "Pos 183: description is customer-facing overall, but contains fallback wording instead of exact verified panel names.",
+      "reason": "The phrase is not a blocker, yet it makes the publish copy less precise than the available image evidence.",
+      "recommended_fix": "Rewrite the gallery-panel sentence in English for Custom Baseball Flag Glove Bedding using only panels verified in Image_Audit/live gallery.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx | pos 183 | description_proposed_html",
+      "recheck_condition": "No fallback phrase remains; panel claims match visible gallery."
+    },
+    {
+      "issue_id": "B19R5-MIN-004",
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-09",
+      "qa_image_key": "",
+      "severity": "MINOR",
+      "field": "SEO_Products.description_proposed_html",
+      "submitted_value": "Gallery panels show ... when available",
+      "source_observation": "Pos 184: description is customer-facing overall, but contains fallback wording instead of exact verified panel names.",
+      "reason": "The phrase is not a blocker, yet it makes the publish copy less precise than the available image evidence.",
+      "recommended_fix": "Rewrite the gallery-panel sentence in English for Custom Close-Up Baseball Glove Bedding using only panels verified in Image_Audit/live gallery.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx | pos 184 | description_proposed_html",
+      "recheck_condition": "No fallback phrase remains; panel claims match visible gallery."
+    },
+    {
+      "issue_id": "B19R5-MIN-005",
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-10",
+      "qa_image_key": "",
+      "severity": "MINOR",
+      "field": "SEO_Products.description_proposed_html",
+      "submitted_value": "Gallery panels show ... when available",
+      "source_observation": "Pos 185: description is customer-facing overall, but contains fallback wording instead of exact verified panel names.",
+      "reason": "The phrase is not a blocker, yet it makes the publish copy less precise than the available image evidence.",
+      "recommended_fix": "Rewrite the gallery-panel sentence in English for Custom Gray Baseball Flag Bedding using only panels verified in Image_Audit/live gallery.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx | pos 185 | description_proposed_html",
+      "recheck_condition": "No fallback phrase remains; panel claims match visible gallery."
+    },
+    {
+      "issue_id": "B19R5-MIN-006",
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-11",
+      "qa_image_key": "",
+      "severity": "MINOR",
+      "field": "SEO_Products.description_proposed_html",
+      "submitted_value": "Gallery panels show ... when available",
+      "source_observation": "Pos 186: description is customer-facing overall, but contains fallback wording instead of exact verified panel names.",
+      "reason": "The phrase is not a blocker, yet it makes the publish copy less precise than the available image evidence.",
+      "recommended_fix": "Rewrite the gallery-panel sentence in English for Custom Baseball Pattern Name Bedding using only panels verified in Image_Audit/live gallery.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx | pos 186 | description_proposed_html",
+      "recheck_condition": "No fallback phrase remains; panel claims match visible gallery."
+    },
+    {
+      "issue_id": "B19R5-MIN-007",
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-12",
+      "qa_image_key": "",
+      "severity": "MINOR",
+      "field": "SEO_Products.description_proposed_html",
+      "submitted_value": "Gallery panels show ... when available",
+      "source_observation": "Pos 187: description is customer-facing overall, but contains fallback wording instead of exact verified panel names.",
+      "reason": "The phrase is not a blocker, yet it makes the publish copy less precise than the available image evidence.",
+      "recommended_fix": "Rewrite the gallery-panel sentence in English for Custom Pitcher Baseball Bedding using only panels verified in Image_Audit/live gallery.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx | pos 187 | description_proposed_html",
+      "recheck_condition": "No fallback phrase remains; panel claims match visible gallery."
+    },
+    {
+      "issue_id": "B19R5-MIN-008",
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-13",
+      "qa_image_key": "",
+      "severity": "MINOR",
+      "field": "SEO_Products.description_proposed_html",
+      "submitted_value": "Gallery panels show ... when available",
+      "source_observation": "Pos 188: description is customer-facing overall, but contains fallback wording instead of exact verified panel names.",
+      "reason": "The phrase is not a blocker, yet it makes the publish copy less precise than the available image evidence.",
+      "recommended_fix": "Rewrite the gallery-panel sentence in English for Custom Black Baseball Glove Bedding using only panels verified in Image_Audit/live gallery.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx | pos 188 | description_proposed_html",
+      "recheck_condition": "No fallback phrase remains; panel claims match visible gallery."
+    },
+    {
+      "issue_id": "B19R5-MIN-009",
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-14",
+      "qa_image_key": "",
+      "severity": "MINOR",
+      "field": "SEO_Products.description_proposed_html",
+      "submitted_value": "Gallery panels show ... when available",
+      "source_observation": "Pos 189: description is customer-facing overall, but contains fallback wording instead of exact verified panel names.",
+      "reason": "The phrase is not a blocker, yet it makes the publish copy less precise than the available image evidence.",
+      "recommended_fix": "Rewrite the gallery-panel sentence in English for Custom Blue Stripe Baseball Bedding using only panels verified in Image_Audit/live gallery.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx | pos 189 | description_proposed_html",
+      "recheck_condition": "No fallback phrase remains; panel claims match visible gallery."
+    },
+    {
+      "issue_id": "B19R5-MIN-010",
+      "product_key": "jeminise.com+personalized-baseball-bedding-full-size-flag-custom-name-d-design-15",
+      "qa_image_key": "",
+      "severity": "MINOR",
+      "field": "SEO_Products.description_proposed_html",
+      "submitted_value": "Gallery panels show ... when available",
+      "source_observation": "Pos 190: description is customer-facing overall, but contains fallback wording instead of exact verified panel names.",
+      "reason": "The phrase is not a blocker, yet it makes the publish copy less precise than the available image evidence.",
+      "recommended_fix": "Rewrite the gallery-panel sentence in English for Custom Galaxy Baseball Name Bedding using only panels verified in Image_Audit/live gallery.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx | pos 190 | description_proposed_html",
+      "recheck_condition": "No fallback phrase remains; panel claims match visible gallery."
+    },
+    {
+      "issue_id": "B19R5-LIM-TRACE-001",
+      "product_key": "",
+      "qa_image_key": "",
+      "severity": "LIMITATION",
+      "field": "revision traceability",
+      "submitted_value": "SEO_Products/Image_Audit row-level revision values still show r4 in the r5 workbook.",
+      "source_observation": "Workbook filename/path/hash identify qa_batch_019_r5, while row metadata was not fully relabeled after r5.",
+      "reason": "Traceability limitation only; it does not prove the submitted r5 content is wrong.",
+      "recommended_fix": "Update row-level revision values and revision_summary paths in the next package.",
+      "supporting_evidence": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_019_r5\\SEO_Product_Optimization_qa_batch_019_r5.xlsx",
+      "recheck_condition": "All row-level revision fields and summary paths consistently identify r5."
+    }
+  ]
+}

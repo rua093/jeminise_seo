@@ -1,0 +1,322 @@
+[
+  {
+    "serp_id": "serp_qa_batch_016_r5_151_1",
+    "product_key": "jeminise.com+giraffe-patchwork-style-printed-quilt-animal-patchwork-bedding",
+    "query": "blue mosaic giraffe quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.walmart.com/",
+      "https://www.bedbathandbeyond.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Giraffe quilt intent is supported; blue mosaic exact modifier is niche and mainly visual."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_151_2",
+    "product_key": "jeminise.com+giraffe-patchwork-style-printed-quilt-animal-patchwork-bedding",
+    "query": "giraffe quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.walmart.com/",
+      "https://www.etsy.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports giraffe quilt/bedding purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_152_1",
+    "product_key": "jeminise.com+horse-patchwork-pattern-quilt-set-vintage-animal-quilt-printed",
+    "query": "vintage circle horse quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.ebay.com/",
+      "https://www.etsy.com/market/vintage_horse_quilt"
+    ],
+    "intent": "Commercial/product",
+    "note": "Horse/vintage quilt intent is supported; circle exact modifier is a product-specific visual differentiator."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_152_2",
+    "product_key": "jeminise.com+horse-patchwork-pattern-quilt-set-vintage-animal-quilt-printed",
+    "query": "vintage horse quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.wayfair.com/keyword.php?keyword=horse+bedding",
+      "https://www.walmart.com/c/kp/horse-quilts",
+      "https://thepaintingpony.com/freisian-horse-bedding-set/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports horse bedding and quilt set purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_153_1",
+    "product_key": "jeminise.com+horse-patchwork-pattern-quilt-animal-farmhouse-quilt-set-patchwork",
+    "query": "yellow horse patchwork quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.ebay.com/",
+      "https://www.wayfair.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Horse patchwork quilt intent exists but exact yellow modifier is weak."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_153_2",
+    "product_key": "jeminise.com+horse-patchwork-pattern-quilt-animal-farmhouse-quilt-set-patchwork",
+    "query": "horse patchwork quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.ebay.com/",
+      "https://www.walmart.com/c/kp/horse-quilts",
+      "https://alphaquilt.com/collections/horse"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports horse patchwork/quilt product intent, mixed with pattern results."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_154_1",
+    "product_key": "jeminise.com+i-am-who-he-says-i-am-christian-scripture-blanket-inspirational",
+    "query": "I Am Who He Says blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/au/listing/4410818176/christian-name-blanket-god-says-i-am",
+      "https://www.walmart.com/ip/Customizaholic-God-Says-I-Am-Blanket-Custom-Name-Blanket-Gift-Blanket-Blankets-For-Beds-Christian-Blanket-Jesus-Blanket-Bible-Blanket/13494970869",
+      "https://www.instagram.com/p/DBAbo8gtODA/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Christian affirmation blanket intent is supported; wording overlaps song/devotional content and must stay product-specific."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_154_2",
+    "product_key": "jeminise.com+i-am-who-he-says-i-am-christian-scripture-blanket-inspirational",
+    "query": "God Says I Am Christian blanket",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.walmart.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports commercial God Says I Am blanket purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_155_1",
+    "product_key": "jeminise.com+nature-and-mythology-tree-of-life-quilt-set-with-twisted-tree-trunk-ceb2e637d5-ceb2e637d5",
+    "query": "cream twisted tree quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.bedbathandbeyond.com/",
+      "https://www.homedepot.com/p/Gwyn-3-Piece-Cream-Cotton-King-Quilt-Set-A032821CMNFS/319345110",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Exact cream/twisted phrase is weak; broad cream quilt and Tree of Life bedding evidence must be combined carefully."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_155_2",
+    "product_key": "jeminise.com+nature-and-mythology-tree-of-life-quilt-set-with-twisted-tree-trunk-ceb2e637d5-ceb2e637d5",
+    "query": "twisted tree of life quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://alphaquilt.com/",
+      "https://jeminise.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Tree of Life quilt intent with twisted-tree visible modifier."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_156_1",
+    "product_key": "jeminise.com+nature-tree-of-life-quilt-set-with-blooming-tree-and-bedroom-and-exposed-roots-d5450715a6-d5450715a6",
+    "query": "blooming tree of life quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://miravohome.com/",
+      "https://www.etsy.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Blooming Tree of Life quilt/blanket intent is supported, with some broader Tree of Life products."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_156_2",
+    "product_key": "jeminise.com+nature-tree-of-life-quilt-set-with-blooming-tree-and-bedroom-and-exposed-roots-d5450715a6-d5450715a6",
+    "query": "tree of life quilt bedding set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://www.ebay.com/",
+      "https://shop.crackerbarrel.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports broad Tree of Life quilt/bedding intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_157_1",
+    "product_key": "jeminise.com+nature-tree-of-life-quilt-set-with-stained-glass-pattern-and-bedroom-2eedde5b65-2eedde5b65",
+    "query": "stained glass tree landscape quilt set",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.pinterest.com/",
+      "https://pinetreecountryquilts.com/",
+      "https://quiltingbookspatternsandnotions.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Stained-glass landscape exact results skew toward patterns/kits, not finished bedding."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_157_2",
+    "product_key": "jeminise.com+nature-tree-of-life-quilt-set-with-stained-glass-pattern-and-bedroom-2eedde5b65-2eedde5b65",
+    "query": "stained glass tree quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.walmart.com/",
+      "https://www.amazon.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator partially supports stained-glass/tree quilt intent but remains mixed."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_158_1",
+    "product_key": "jeminise.com+norse-mythology-mjolnir-with-skull-within-circular-celtic-quilt-621115581a-621115581a",
+    "query": "Mjolnir skull Celtic quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://gearfrost.com/",
+      "https://vikingsonsofodin.com/",
+      "https://luvingift.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Mjolnir/Norse quilt product intent is supported; skull/Celtic exact phrase is narrower."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_158_2",
+    "product_key": "jeminise.com+norse-mythology-mjolnir-with-skull-within-circular-celtic-quilt-621115581a-621115581a",
+    "query": "Mjolnir skull Norse quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://vikingsonsofodin.com/",
+      "https://www.ubuy.co.in/",
+      "https://www.redbubble.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Norse/Mjolnir bedding and blanket purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_159_1",
+    "product_key": "jeminise.com+norse-mythology-quilt-with-ravens-b8220cc38c-b8220cc38c",
+    "query": "Norse ravens runic quilt",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.amazon.com/",
+      "https://myvikinggear.com/",
+      "https://dingmun.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Norse/raven/runic quilt bedding intent is supported by Viking bedding product comparables."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_159_2",
+    "product_key": "jeminise.com+norse-mythology-quilt-with-ravens-b8220cc38c-b8220cc38c",
+    "query": "Norse raven quilt bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://vikingsonsofodin.com/",
+      "https://www.amazon.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports Norse raven bedding/quilt purchase intent."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_160_1",
+    "product_key": "jeminise.com+norse-mythology-raven-centered-within-runic-circle-comforter-ab76500bc1-ab76500bc1",
+    "query": "pink runic raven comforter",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.etsy.com/",
+      "https://www.walmart.com/",
+      "https://vikingstyle.co/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Pink raven comforter/bedding has product comparables, but runic exact phrase is narrow."
+  },
+  {
+    "serp_id": "serp_qa_batch_016_r5_160_2",
+    "product_key": "jeminise.com+norse-mythology-raven-centered-within-runic-circle-comforter-ab76500bc1-ab76500bc1",
+    "query": "raven runic comforter bedding",
+    "market": "United States",
+    "language": "English",
+    "locale_limit": "US/English public web search reviewed on 2026-09-09 Asia/Saigon.",
+    "checked_at": "2026-09-09T12:52:35+07:00",
+    "result_urls_read": [
+      "https://www.tiendamia.cr/",
+      "https://worldnorse.com/",
+      "https://www.etsy.com/"
+    ],
+    "intent": "Commercial/product",
+    "note": "Comparator supports raven/runic comforter and Viking bedding intent."
+  }
+]

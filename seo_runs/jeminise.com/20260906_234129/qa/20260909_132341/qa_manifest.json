@@ -1,0 +1,35 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "20260909_132341",
+  "batch_id": "qa_batch_023_r4",
+  "shop": "jeminise.com",
+  "run_id": "20260906_234129",
+  "market": "United States",
+  "language": "English",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_023_r4\\SEO_Product_Optimization_qa_batch_023_r4.xlsx",
+  "source_workbook_sha256": "61DA10F127E364A7AA7654E910E5BCDC7527CD3C8763C353EC9768CA284528E1",
+  "source_post_sha256": "61DA10F127E364A7AA7654E910E5BCDC7527CD3C8763C353EC9768CA284528E1",
+  "source_snapshot": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_132341\\source_snapshot\\SEO_Product_Optimization_qa_batch_023_r4.xlsx",
+  "product_keys": [
+    "jeminise.com+personalized-basketball-hoop-with-net-close-up-blanket-with-name-and-number-cc637164fc-cc637164fc",
+    "jeminise.com+personalized-basketball-next-to-athletic-shoes-blanket-with-name-and-number-dfbf4fde2f-dfbf4fde2f",
+    "jeminise.com+personalized-basketball-on-court-lines-comforter-name-number-303fbd50f6-303fbd50f6",
+    "jeminise.com+personalized-basketball-on-court-perspective-comforter-with-name-and-number-1acfbe4260-1acfbe4260",
+    "jeminise.com+personalized-basketball-on-hardwood-court-comforter-with-name-and-number-8aee799947-8aee799947",
+    "jeminise.com+personalized-neon-basketball-player-blanket-788fb6ae63-788fb6ae63",
+    "jeminise.com+personalized-basketball-player-front-blanket-with-name-and-number-258e7f9e2e-258e7f9e2e",
+    "jeminise.com+personalized-basketball-player-silhouette-blanket-with-name-and-number-35f8822fba-35f8822fba",
+    "jeminise.com+personalized-basketball-players-and-hoops-comforter-with-name-and-number-ff13bad888-ff13bad888",
+    "jeminise.com+personalized-basketball-shattered-glass-comforter-with-name-and-number-353fc0c17e-353fc0c17e"
+  ],
+  "expected_products": 10,
+  "expected_images": 70,
+  "status": "COMPLETE",
+  "awaiting_confirmation": true,
+  "artifact_paths": {
+    "xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_132341\\SEO_QA_qa_batch_023_r4.xlsx",
+    "md": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_132341\\SEO_QA_qa_batch_023_r4.md",
+    "qa_dataset": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_132341\\qa_dataset.json"
+  },
+  "created_at": "2026-09-09T13:23:41+07:00"
+}

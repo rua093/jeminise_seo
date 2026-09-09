@@ -1,0 +1,40 @@
+{
+  "qa_run_id": "20260909_154500",
+  "created_at": "2026-09-08T21:49:33.335639+00:00",
+  "source_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_004_r5\\SEO_Product_Optimization_qa_batch_004_r5.xlsx",
+  "source_sha256_before": "F8E626867914229BF74FCFB13F4746B3103E08697DD69005E891661C8418B71D",
+  "source_sha256_after": "F8E626867914229BF74FCFB13F4746B3103E08697DD69005E891661C8418B71D",
+  "market": "US",
+  "language": "English",
+  "product_keys": [
+    "jeminise.com+christmas-cardinals-near-snowy-birdhouse-patchwork-floral-quilt-b90d55a935-b90d55a935",
+    "jeminise.com+christmas-cardinals-on-snowy-branches-patchwork-winter-quilt-8fa1a9e2ed-8fa1a9e2ed",
+    "jeminise.com+cow-with-landscape-patchwork-quilt-animal-farmhouse-printed-quilt-set",
+    "jeminise.com+crocodile-patchwork-printed-quilts-animal-patchwork-bedding",
+    "jeminise.com+custom-retro-football-art-bedding-set-c66211cf75-c66211cf75",
+    "jeminise.com+custom-american-football-close-up-on-grunge-vintage-comforter-26540e3264-26540e3264",
+    "jeminise.com+custom-american-football-on-cosmic-background-vintage-comforter-62a3849621-62a3849621",
+    "jeminise.com+custom-american-football-on-usa-flag-background-comforter-703a7c0d82-703a7c0d82",
+    "jeminise.com+custom-american-football-with-paint-splash-background-vintage-comforter-da0e1d5bf1-da0e1d5bf1",
+    "jeminise.com+custom-american-football-with-patriotic-flag-comforter-4a3a1ed3c9-4a3a1ed3c9"
+  ],
+  "inventory_positions": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "prompt_rubric_version": "prompt_qa.md + user rubric 2026-09-09",
+  "admin_export_expected_hash": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "admin_export_current_hash": "97AA8DC283CFC927BF3B6F41A3EA8926C96C0723B6942CF7C1D147CD854FBA83",
+  "output_xlsx": "resutls\\jeminise.com\\20260906_234129\\qa\\20260909_154500\\SEO_QA_qa_batch_004_r5.xlsx",
+  "awaiting_confirmation": true,
+  "output_xlsx_sha256": "F90A68268C121379BC7A6225CADA16E7459AA03A2940FF14D41CC12C85071EBF",
+  "output_md_sha256": "705A03117EEE85BF066B7BEF451BCFB4D8087AB658154D864680C890D920BD1F"
+}

@@ -1,0 +1,31 @@
+{
+  "2": {
+    "fields": [
+      {
+        "label": "Custom Your Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 1000
+      },
+      {
+        "label": "Custom Your Number",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 1000
+      }
+    ]
+  },
+  "10": {
+    "fields": [
+      {
+        "label": "Enter Name",
+        "required": true,
+        "minLength": 1,
+        "maxLength": 13
+      }
+    ]
+  },
+  "others": {
+    "note": "No personalization claim was used as a primary selling proposition in r7; generic customizer roots were not treated as proof of an exact claim."
+  }
+}

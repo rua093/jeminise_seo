@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-09-08T22:34:30",
+  "batch_id": "qa_batch_004",
+  "source_revision": "qa_batch_004_r4",
+  "source_qa_r2": "seo_runs\\jeminise.com\\20260906_234129\\qa\\20260907_144539\\qa_dataset.json",
+  "admin_export": "products_export_1.csv",
+  "admin_export_sha256": "729CBD9B3E0248F5D9196D999A49222DBDACA85C2F3CF8524BEEC549B57D738C",
+  "revision_workbook": "resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_004_r4\\SEO_Product_Optimization_qa_batch_004_r4.xlsx",
+  "scope": "qa_batch_004 only; inventory positions 31-40",
+  "revision": "qa_batch_004_r5",
+  "revised_products": 10,
+  "revised_images": 62,
+  "admin_alt_matches": 62,
+  "keyword_rows_revised": 40,
+  "review_status": "NEEDS_REVIEW",
+  "approved_created": false,
+  "shopify_import_created": false,
+  "r4_changes": [
+    "Deepened image-level observed_visual_details and alt_proposed for all 62 batch images.",
+    "Restored football personalization claims only where verified: required Enter Name 1-25 characters and optional Enter Number 1-5 characters.",
+    "Kept products 31-34 free of unsupported personalization claims.",
+    "Separated product 38 USA flag football intent from product 40 patriotic football intent.",
+    "Removed customer-facing Shopify export/admin wording from description_proposed_html."
+  ],
+  "next_step": "Sang QA lại qa_batch_004_r4 before any approval or import.",
+  "changed_evidence_ids": [
+    "evidence_batch_004_031",
+    "evidence_batch_004_032",
+    "evidence_batch_004_033",
+    "evidence_batch_004_034",
+    "evidence_batch_004_035",
+    "evidence_batch_004_036",
+    "evidence_batch_004_037",
+    "evidence_batch_004_038",
+    "evidence_batch_004_039",
+    "evidence_batch_004_040"
+  ],
+  "change_scope": "description_proposed_html only; removed Artwork focus/template wording and tightened personalization detail",
+  "status": "READY_FOR_QA"
+}

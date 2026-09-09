@@ -1,0 +1,35 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "20260909_125234",
+  "batch_id": "qa_batch_016_r5",
+  "shop": "jeminise.com",
+  "run_id": "20260906_234129",
+  "market": "United States",
+  "language": "English",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_016_r5\\SEO_Product_Optimization_qa_batch_016_r5.xlsx",
+  "source_workbook_sha256": "C9DAA419A20383AE23CD576C7BE60869E9088205D6B2797E420D74D61F9A74FF",
+  "source_post_sha256": "C9DAA419A20383AE23CD576C7BE60869E9088205D6B2797E420D74D61F9A74FF",
+  "source_snapshot": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_125234\\source_snapshot\\SEO_Product_Optimization_qa_batch_016_r5.xlsx",
+  "product_keys": [
+    "jeminise.com+giraffe-patchwork-style-printed-quilt-animal-patchwork-bedding",
+    "jeminise.com+horse-patchwork-pattern-quilt-set-vintage-animal-quilt-printed",
+    "jeminise.com+horse-patchwork-pattern-quilt-animal-farmhouse-quilt-set-patchwork",
+    "jeminise.com+i-am-who-he-says-i-am-christian-scripture-blanket-inspirational",
+    "jeminise.com+nature-and-mythology-tree-of-life-quilt-set-with-twisted-tree-trunk-ceb2e637d5-ceb2e637d5",
+    "jeminise.com+nature-tree-of-life-quilt-set-with-blooming-tree-and-bedroom-and-exposed-roots-d5450715a6-d5450715a6",
+    "jeminise.com+nature-tree-of-life-quilt-set-with-stained-glass-pattern-and-bedroom-2eedde5b65-2eedde5b65",
+    "jeminise.com+norse-mythology-mjolnir-with-skull-within-circular-celtic-quilt-621115581a-621115581a",
+    "jeminise.com+norse-mythology-quilt-with-ravens-b8220cc38c-b8220cc38c",
+    "jeminise.com+norse-mythology-raven-centered-within-runic-circle-comforter-ab76500bc1-ab76500bc1"
+  ],
+  "expected_products": 10,
+  "expected_images": 71,
+  "status": "COMPLETE",
+  "awaiting_confirmation": true,
+  "artifact_paths": {
+    "xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_125234\\SEO_QA_qa_batch_016_r5.xlsx",
+    "md": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_125234\\SEO_QA_qa_batch_016_r5.md",
+    "qa_dataset": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_125234\\qa_dataset.json"
+  },
+  "created_at": "2026-09-09T12:52:35+07:00"
+}

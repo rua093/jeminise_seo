@@ -1,0 +1,35 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "20260909_132845",
+  "batch_id": "qa_batch_024_r4",
+  "shop": "jeminise.com",
+  "run_id": "20260906_234129",
+  "market": "United States",
+  "language": "English",
+  "source_workbook": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\revisions\\qa_batch_024_r4\\SEO_Product_Optimization_qa_batch_024_r4.xlsx",
+  "source_workbook_sha256": "456E0F975D8D9852D41E9C1472F54522028AD41426561086F476E7B63412E756",
+  "source_post_sha256": "456E0F975D8D9852D41E9C1472F54522028AD41426561086F476E7B63412E756",
+  "source_snapshot": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_132845\\source_snapshot\\SEO_Product_Optimization_qa_batch_024_r4.xlsx",
+  "product_keys": [
+    "jeminise.com+personalized-basketball-splattered-background-blanket-with-name-and-number-688a034f2b-688a034f2b",
+    "jeminise.com+personalized-basketball-comforter-name-number-8b33ffb283-8b33ffb283",
+    "jeminise.com+personalized-basketball-with-reflection-blanket-with-name-and-number-266702782c-266702782c",
+    "jeminise.com+personalized-basketball-with-water-splash-comforter-b19c11c80c-b19c11c80c",
+    "jeminise.com+personalized-bigfoot-by-campfire-bedding-quilt-sets-bigfoot-13",
+    "jeminise.com+personalized-bigfoot-by-campfire-bedding-quilt-sets-bigfoot-16",
+    "jeminise.com+personalized-bigfoot-campfire-night-forest-quilt-sets-bigfoot-14",
+    "jeminise.com+personalized-bigfoot-forest-silhouette-quilt-sets-machine-washable",
+    "jeminise.com+personalized-bigfoot-full-moon-forest-quilt-set-machine-w-design-12",
+    "jeminise.com+personalized-bigfoot-moon-mountain-night-quilt-set-machine-washable"
+  ],
+  "expected_products": 10,
+  "expected_images": 69,
+  "status": "COMPLETE",
+  "awaiting_confirmation": true,
+  "artifact_paths": {
+    "xlsx": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_132845\\SEO_QA_qa_batch_024_r4.xlsx",
+    "md": "D:\\Shopify_Workspace\\jeminise_seo\\resutls\\jeminise.com\\20260906_234129\\qa\\20260909_132845\\SEO_QA_qa_batch_024_r4.md",
+    "qa_dataset": "D:\\Shopify_Workspace\\jeminise_seo\\seo_runs\\jeminise.com\\20260906_234129\\qa\\20260909_132845\\qa_dataset.json"
+  },
+  "created_at": "2026-09-09T13:28:46+07:00"
+}
